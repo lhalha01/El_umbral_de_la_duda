@@ -1,0 +1,117 @@
+﻿Capítulo 5
+
+Tomás Alba llegó al hospital a las seis de la mañana. Aparcó en la zona de personal en el sótano, cogió su mochila del maletero y subió por el montacargas de servicio hasta la cuarta planta. Desde allí, por el pasillo de conexión con el ala nueva, se llegaba a la Planta 42 sin cruzar ninguna zona de paso público. Lo había cronometrado la primera vez: cuatro minutos y medio desde el sótano hasta la puerta blindada. Ahora lo hacía en tres.
+El control de acceso reconoció su huella dactilar a las 06:08. Dentro, las luces de emergencia seguían encendidas. Los sistemas de monitorización llevaban media hora calentando.
+Sergio Cruz estaba en la consola central con un café de máquina y los ojos fijos en las pantallas de inicialización.
+—¿Algún problema en el arranque? —preguntó Tomás, dejando la mochila sobre la silla contigua.
+—El servidor de indexación tardó dos minutos más de lo previsto en sincronizar. Ya está estabilizado.
+Tomás se inclinó sobre la pantalla y repasó los indicadores uno por uno. Todo correcto. Se enderezó, abrió la mochila y sacó su cuaderno de trabajo, que llevaba con él desde los primeros meses del proyecto.
+—¿Ha llegado Valeria? —preguntó.
+—Acaba de entrar por quirófano.
+Tomás cogió el café de Sergio, lo olió y lo dejó donde estaba.
+—Esto es de la máquina del pasillo.
+—Sí.
+—La de arriba da mejor café.
+—La de arriba está en la planta de oncología —dijo Sergio—. A las seis de la mañana no me apetece cruzarme con nadie allí.
+Tomás no respondió. Cogió su cuaderno y fue hacia quirófano.
+Clara Mendieta llevaba en el hospital desde las cinco y media. Había pasado la primera hora revisando el instrumental y verificando que todo el material estaba en el orden correcto según el protocolo que Tomás había enviado la semana anterior.
+Valeria entró en el quirófano a las seis y veinte con la bata todavía sin atar.
+—¿Todo listo?
+—Listo —dijo Clara.
+—¿A qué hora traen al primero?
+—A las siete y cuarto —dijo Clara—. El Sujeto 1.
+A las siete menos diez, Antonio apareció con un café en cada mano. Le dio uno a Sergio sin preguntar.
+—¿Cómo estamos?
+—Los sistemas están listos. Tomás está en quirófano con Valeria.
+—¿Alguna sorpresa en los historiales de esta mañana?
+—Ninguna. Los tres están estables según los últimos informes de enfermería.
+Antonio fue hacia quirófano. En la puerta se cruzó con Tomás, que salía.
+—¿Dónde vas?
+—A buscar café. El de arriba.
+—Acabo de traerte uno.
+—El tuyo es de la máquina del pasillo —dijo Tomás, sin detenerse.
+Antonio entró en quirófano. Valeria estaba frente a la pantalla principal.
+—¿Cuánto tiempo tenemos antes de que traigan al primero?
+—Veinte minutos.
+—¿Hay algo que no estaba en el protocolo?
+—El daño en la zona afectada por la enfermedad es algo más avanzado de lo que indicaba el último escáner. Voy a pedir a Tomás que ajuste un parámetro cuando vuelva.
+Antonio asintió y volvió a la consola.
+Los celadores llegaron a las siete y dieciséis con el paciente sedado. Clara verificó la pulsera de identificación: Sujeto 1, Juan Ferreira. Coincidía. Comprobó las constantes: todo dentro de los parámetros previstos. Colocó los sensores externos con la precisión de quien ha hecho ese gesto miles de veces.
+Tomás entró con el café todavía en la mano y se sentó frente a la consola.
+—¿Constantes? —preguntó, sin levantar la vista.
+—Dentro de rango —dijo Clara.
+Valeria examinó al paciente en silencio y miró la pantalla donde se proyectaba el mapa del cerebro del Sujeto 1.
+—El deterioro en la zona dañada por la enfermedad ha avanzado un poco más de lo que indicaba el escáner de la semana pasada —dijo—. Tomás, ajusta el parámetro que hablamos.
+—Anotado. ¿Algún otro ajuste?
+—De momento no.
+Se apartó y se quedó mirando al paciente un momento.
+—¿Qué pasa? —preguntó Tomás.
+—Nada. Estaba pensando que es la primera vez que hacemos esto en un ser humano. En los modelos computacionales todo funcionó. En los estudios preclínicos también. Pero un modelo no respira.
+—Si no lo hacemos nosotros —dijo Tomás—, el deterioro termina el trabajo solo. En semanas.
+—Ya lo sé. Por eso estoy aquí.
+La intervención se hizo en tres fases, sin necesidad de abrir el cráneo.
+Primero, Valeria colocó bajo la piel de la sien derecha el módulo de control —un pequeño dispositivo que haría de intérprete entre el implante y los servidores externos—. El primer punto de anclaje no quedó firme porque el hueso, en ese lugar concreto, era algo más poroso de lo esperado; probó un segundo punto unos milímetros más atrás y ese sí quedó fijo.
+—Anótalo, Tomás —dijo Valeria—. En los sujetos siguientes comprobamos esa zona antes de planificar el anclaje.
+Segundo, practicaron un pequeño orificio de trépano en el hueso temporal, justo bajo la piel de la sien, en el mismo punto donde momentos después alojarían el módulo de control. A través de ese orificio deslizaron, entre la duramadre y la superficie del cerebro, una malla flexible con más de doscientos puntos de contacto. Se desplegó sobre la corteza como quien extiende un mantel bajo una mesa sin levantarla del todo, hasta quedar apoyada directamente sobre la zona dañada por la enfermedad. El cable que la conectaba con el módulo recorría apenas unos milímetros bajo la piel, sin tener que tunelizarlo hacia ningún otro punto del cuerpo.
+—Leyendo los contactos uno por uno —dijo Sergio—. Espera. Dos fuera de rango, en un sector concreto de la malla.
+—¿Reposicionamos? —preguntó Valeria.
+—Si reposicionamos arriesgamos desanclar los que ya están bien —dijo Tomás—. Son dos de doscientos cuarenta y ocho. La malla tiene redundancia suficiente para compensarlo con los contactos de al lado.
+—¿Cuánto afecta a la cobertura? —preguntó Valeria.
+—Menos del uno por ciento. Dentro del margen del protocolo.
+—Seguimos —dijo Valeria—. Anótalo, Tomás.
+El resto avanzó dentro de lo esperado: la frecuencia cardíaca de Juan subió un momento con el primer contacto de la malla y volvió a estabilizarse; el sistema empezó a leer señal. Retiraron el instrumento de inserción, dejando la malla y el cable de conexión en su sitio, y cerraron la pequeña incisión de la sien.
+Tercero, Valeria colocó el generador —el dispositivo que alimentaría todo el sistema aprovechando el movimiento de la mandíbula al masticar y hablar— a través de una pequeña incisión dentro de la boca, sin ninguna marca visible por fuera. Pasar el cable desde ahí hasta el módulo de la sien costó un poco más de lo previsto por una zona de tejido más resistente de lo normal —Juan tenía una cirugía facial antigua en el historial—, así que Valeria buscó un camino algo más superficial y terminó sin problema.
+—Anótalo, Tomás —dijo Valeria—. Verificar historial de cirugía facial previa en los sujetos siguientes. Primera intervención completada. Avisad a los celadores.
+Cerró la tablet y fue a buscar el café que había dejado sobre la repisa. Estaba frío. Lo tomó igual.
+Los celadores llegaron a las diez menos cuarto con el segundo paciente. Clara verificó la pulsera: Sujeto 2, Ana Moreira. Coincidía.
+Antes de empezar, Valeria se detuvo con los guantes puestos.
+—Espera —dijo—. Acabamos de dejar a Juan con la cicatriz de la sien en el lado derecho y el mismo recorrido bajo la piel. Si alguna vez alguien examina a los dos, va a encontrar la misma marca en el mismo sitio en dos pacientes distintos. Eso no es nada que el protocolo prevea, pero es exactamente el tipo de detalle que después hay que explicar dos veces con la misma respuesta.
+—¿Cambiamos de lado? —preguntó Sergio.
+—Cambiamos de lado. Sien izquierda en el Sujeto 2. El módulo funciona igual desde cualquiera de las dos sienes, no hay razón clínica para no hacerlo.
+—¿Y el generador? —preguntó Tomás.
+—Lo dejamos donde está —dijo Valeria—. Da igual qué lado, pero cambiar los dos a la vez sería tan simétrico como no cambiar ninguno. Quiero algo que no parezca decidido a propósito. —Se quedó pensando un momento más—. Voy a dejar una pequeña incisión más, detrás de la oreja izquierda. No conecta con nada, no tiene ninguna función. Si alguna vez alguien compara los dos cuerpos, hay una diferencia real que no necesita ninguna explicación complicada: una exploración que no llevó a ningún sitio, como pasa con cualquier paciente.
+—¿Procedemos? —preguntó Tomás.
+—Procedemos.
+La segunda intervención fue más rápida y sin ningún contratiempo: el módulo entró sin resistencia, la malla quedó anclada sin ningún contacto fuera de rango, y el tejido de Ana respondió mejor de lo esperado.
+—Segunda intervención completada —dijo Valeria.
+Mientras los celadores recogían la camilla, Valeria se quitó los guantes y fue a buscar su café. Seguía en la repisa. Lo miró un momento y lo tiró al contenedor. Fue a buscar uno nuevo.
+Entre la segunda y la tercera intervención, Tomás repasó por tercera vez el expediente del Sujeto 3.
+—Valeria. El último escáner del Sujeto 3 es de hace cuatro meses. El último informe neurológico, de seis semanas. El protocolo exige pruebas dentro de las cuatro semanas previas.
+—¿Quién autorizó el expediente con estas fechas?
+—Eso hay que averiguarlo después —dijo Tomás—. Ahora tenemos que decidir si procedemos con lo que hay o esperamos pruebas actualizadas.
+—Procedemos —dijo Valeria—. Pero con verificación en tiempo real antes de tocar nada. Si la señal confirma lo que sugiere el informe, suspendemos en el acto.
+Tomás abrió una incidencia y la dejó pendiente.
+Los celadores llegaron con la tercera camilla a las doce y media. Clara verificó la pulsera: Sujeto 3, Raquel Sanz. Coincidía.
+Apenas empezaron a comprobar su estado, quedó claro que algo no encajaba con lo que decía el expediente: el cerebro del Sujeto 3 estaba mucho más deteriorado por la enfermedad de lo que las pruebas de hace cuatro meses reflejaban. No era un problema de la sedación. Era que apenas quedaba tejido sano y riego sanguíneo suficiente donde la malla pudiera anclarse.
+—Si desplegamos la malla en estas condiciones —dijo Valeria—, el tejido no la va a integrar. No hay suficiente base biológica para el anclaje. No procedemos.
+—¿Qué hacemos con él? —preguntó Clara.
+—Mantenemos la sedación y lo trasladamos al box de soporte —dijo Valeria—. No vuelve a neurología.
+Salió del quirófano con la bata puesta para llamar a Antonio. Tomás actualizó la incidencia: el deterioro documentado en tiempo real era muy superior al de las pruebas del expediente; la antigüedad de esas pruebas había impedido una evaluación adecuada; incumplimiento de protocolo confirmado; se traslada a revisión de responsabilidades.
+—Esta queda aquí —le dijo Clara a los celadores del turno de tarde—. No vuelve a su planta.
+Sergio entró en el box de soporte con un kit de electrodos externos bajo el brazo.
+—No hace falta —dijo Clara—. No hay protocolo de monitorización para un sujeto descartado.
+—No hay protocolo —confirmó Sergio—. Lo voy a poner igual. —Colocó los sensores, ajustó el registro al mínimo sensible y dejó el canal abierto, indexando en el mismo servidor donde el sistema de los Sujetos 1 y 2 procesaba sus propios datos—. Porque la última vez que no configuré algo, nadie se enteró hasta que fue tarde.
+Antonio llegó a la Planta 42 a la una y cuarto, avisado por Valeria. Escuchó el resumen sin interrumpir.
+—El expediente —dijo—. ¿Quién firmó la autorización?
+Tomás accedió al registro. El nombre tardó unos segundos en cargar.
+—Hugo Carvajal.
+El silencio que siguió fue breve pero denso.
+—Hugo autorizó los tres expedientes como parte del paquete legal del decreto —dijo Antonio—. La revisión clínica era responsabilidad de Valeria.
+—La revisión que yo hice se basó en los documentos que me llegaron —dijo Valeria—. Las fechas no saltaron como incumplimiento porque nadie configuró ese control en el expediente del Sujeto 3.
+—¿Quién era responsable de configurarlo?
+—Sergio —dijo Valeria.
+—El expediente llegó dos días después, por un canal distinto, y no pasó por la misma verificación automática —dijo Sergio—. Es un fallo de proceso, no de código.
+—Es un fallo —dijo Antonio. Nadie lo discutió.
+—Hemos perdido un tercio del proyecto —dijo Antonio—. El perfil con mayor densidad de conocimiento estratégico, sin segunda oportunidad. Al ministerio le daré la verdad técnica: que el deterioro había avanzado más rápido de lo documentado. Lo que no voy a decirles es que podríamos haberlo detectado antes con pruebas recientes. Eso se queda aquí.
+—¿Y la incidencia? —preguntó Tomás.
+—Se cierra internamente. Queda registrada pero no sale de esta sala.
+La puerta se abrió. Inés entró sin que nadie la hubiera llamado.
+—El sistema me ha avisado en cuanto Tomás abrió la incidencia —dijo—. Acabo de oír «esto no sale de esta sala». Eso no es gestión. Es un gasto ejecutado sin resultado y sin incidencia formal fuera de un servidor que solo abrís vosotros cuatro. Quiero el informe de Valeria dentro del expediente general, con clasificación Nivel V, pero dentro del circuito.
+Antonio asintió. Antes de irse, Inés añadió que separaría el fondo de contingencia del gasto de proyecto: soporte paliativo, no infraestructura.
+—No lo hago por necesidad contable —dijo—. Lo hago porque si algún día se audita esta partida, prefiero que conste que la atención de una persona se pagó con una línea distinta a la que pagó lo que no le sirvió de nada.
+Antonio repartió el resto de la tarde: informe de los dos implantes antes de las cinco, monitorización intensiva de setenta y dos horas, el control de fechas diagnósticas implementado esa misma tarde sin excepciones.
+—¿Cómo está el Sujeto 3? —preguntó a Clara.
+—Estable por ahora. Es soporte paliativo, no tratamiento.
+—¿Hay algo que podamos hacer por él?
+—Lo que ya hacemos. Que no tenga dolor. Que no esté solo.
+Clara fue la última en salir. Antes de apagar la luz pasó por el box del fondo, comprobó las constantes de Raquel y ajustó la manta térmica. En el pasillo, los dos indicadores verdes seguían parpadeando. El amarillo no parpadeaba.

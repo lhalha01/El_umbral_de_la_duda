@@ -1,0 +1,64 @@
+﻿Capítulo 13
+
+Cuarenta y ocho horas después del intento fallido con el Sujeto 2, tal como había dicho que haría, Valeria ordenó un segundo descenso de sedación. En el informe lo llamó verificación de nivel basal, no segundo intento: no quería que nadie entrara esperando que esta vez funcionara, porque ella misma no sabía qué esperar.
+El equipo se reunió a las nueve. Sergio con la tablet en el regazo, Tomás con el cuaderno en una página nueva, Clara comprobando las vías por tercera vez. Antonio se quedó junto a la puerta.
+—¿Listos? —preguntó Valeria.
+Bajó la perfusión el mismo quince por ciento que la primera vez. Los primeros cuatro minutos, igual que antes. Pero a los seis, cuando la frecuencia empezó a subir, la coherencia no cayó.
+—No está cayendo —dijo Sergio, en el mismo tono con que habría anunciado un fallo, porque nadie sabía ya si aquello era una buena noticia.
+La frecuencia se estabilizó sola en ochenta y siete y bajó después sin necesidad de restablecer nada. Una curva limpia, subida y bajada, sin la marca que había dejado el sustrato la vez anterior.
+—Repetimos el escalón —dijo Valeria—. Quiero verlo dos veces antes de creérmelo.
+Se comportó igual la segunda vez.
+—¿Qué ha cambiado? —preguntó Valeria, mirando a Tomás.
+—Nada que yo haya tocado.
+Era cierto en sentido estricto. No toda la verdad: Valeria llevaba días sabiendo que el canal cruzado que el ministro había ordenado cortar seguía ahí, camuflado en las sincronizaciones de firmware que Tomás llamaba mantenimiento rutinario. No lo preguntó en voz alta. No delante de Clara, no con un resultado que por fin parecía favorable.
+—Anótalo todo —dijo—. El nivel basal se ha recuperado.
+—¿Esto cambia el plazo? —preguntó Antonio, desde la puerta.
+—Significa que ha respondido sin crisis, dos veces. Necesito otra semana de escalones antes de hablar de fechas.
+—Es una semana distinta a la que pedías hace dos días.
+—Es una semana distinta.
+En cuanto la puerta se cerró detrás de Antonio, Valeria pidió el segundo escalón. Ese mismo día. La frecuencia subió antes esta vez —a los tres minutos, no a los seis—, pasó de cien, llegó a ciento once y empezó a bajar sola. La coherencia no se movió en ningún momento de su nivel basal.
+—Esto no es un sustrato que tolera la carga —dijo Valeria, más para sí misma que para el resto—. Esto es un sustrato que la está resolviendo en otro sitio.
+Nadie respondió. Clara, que no sabía nada del canal cruzado, oyó la frase como una buena noticia más y la anotó casi con esas mismas palabras en el parte de turno.
+Cuando salió a buscar unas gasas que no iba a necesitar, Sergio aprovechó para hablar con Tomás.
+—Valeria no va a callarse esto para siempre —dijo, sin mirarlo—. Hoy no le convenía preguntar. Un día no le va a convenir seguir sin hacerlo.
+—Mientras no lo pregunte en voz alta, seguimos como estamos —dijo Tomás—. Es decisión suya, no nuestra.
+—¿Y si es Antonio el que empieza a preguntar?
+Tomás no tenía respuesta para eso, y los dos lo sabían.
+***
+Hugo llegó a la siguiente reunión con dos carpetas. La gris, sellada por la comisión. La otra, sin distintivo —lo que él llamaba internamente el material blando: las versiones humanas de lo que la primera convertía en artículos y disposiciones. Clara no había sido convocada.
+—Está cerrado —dijo, abriendo primero la carpeta sin distintivo—. Los dos casos, completos.
+Juan Ferreira lleva más de un año disimulando el deterioro en el despacho, cogió la baja hace poco más de un mes, y sus socios saben lo que la ley les permite saber: motivos de salud protegidos, nada más. Lo nuevo es lo que pasó a la semana: ingresado para valoración, se levantó desorientado una noche sin que nadie lo viera y cayó contra la cama al intentar bajar solo. Traumatismo craneoencefálico grave, coma inducido. Sigue en coma desde entonces —y eso, cuando despierte, va a ser exactamente verdad.
+—¿Verdad en qué sentido? —preguntó Valeria.
+—En que no hay dos historias que sostener. El coma del papel es el mismo coma inducido en el que lo tenéis ahora. Solo cambia la causa. Lo único que hemos fabricado es una caída.
+Ana Moreira, misma baja protegida, escenario distinto: salía a caminar sola los fines de semana sin avisar de la ruta, así que el sábado de la baja sufrió una caída en zona escarpada, traumatismo craneoencefálico, fractura mandibular por el impacto. Nadie del entorno de Ana tiene que confirmar ni desmentir nada, porque ella hacía esa ruta sola por costumbre.
+—¿Y el resto del cuerpo sostiene la historia? —preguntó Valeria—. La vía central, el sensor de la sien, la fijación mandibular.
+—Es lo primero que comprobé —dijo Hugo—. Los tres hallazgos ya tienen una explicación clínica que no necesita ninguna capa más encima. No hemos añadido nada que no fuera a estar ahí de todos modos.
+—¿Algo que no sostenga?
+—Todo sostiene —dijo Hugo—. Eso no es lo mismo que decir que todo esté bien.
+—Necesito una cosa más —dijo Valeria—. No la versión que le contamos a los despachos. La que Juan va a creer que vivió él. Tiene que estar en el entorno adaptativo desde el primer minuto en que abra los ojos, no algo que le contemos después.
+—Ya está en el guion de despertar que te mandé la semana pasada —dijo Hugo—. Lo he leído tres veces. Es la primera vez que esto no me obliga a falsificar algo que no fuera a estar ya en su cuerpo. El coma es real. Lo único inventado es por qué empezó.
+Hugo recogió sus dos carpetas y se fue.
+Valeria se quedó, la carpeta de Ana bajo el brazo.
+—¿Puedo preguntarte algo que no tiene que ver con esto? —dijo—. Cuando hablas del proyecto con el ministro, hablas de continuidad funcional, de patrimonio cognitivo. Pero aquí, con nosotros, a veces dices «ellos», como si Juan y Ana fueran a seguir siendo exactamente lo que eran antes. Y otras veces dices que el conocimiento no debería morir con quien lo lleva. Eso no es lo mismo.
+—No —dijo Antonio, tras un momento—. No es lo mismo.
+—¿Y cuál de las dos es la que realmente quieres que pase cuando tengamos fecha?
+—Quiero que Juan vuelva a su despacho y que sus socios no noten la diferencia. Eso es lo que quiero que pase ese día. Lo demás es una pregunta para otro momento.
+—Pero existe la pregunta.
+—Existe —dijo Antonio—. Desde el primer día existe.
+Valeria se fue sin insistir más. Antonio se quedó solo con la carpeta del material blando abierta sobre la mesa, sin necesidad de releerla: ya la conocía línea por línea. La cerró y la alineó junto a las otras, como semanas antes con los tres historiales clínicos.
+***
+Clara no había estado en la reunión de las carpetas, y nadie le había dicho que existiera. Pero esa tarde hizo lo que hacía cada tarde desde hacía semanas: cruzó el pasillo y entró a comprobar al Sujeto 3. Los mismos números de siempre. Ajustó una almohada que no necesitaba ajuste y se quedó mirando el indicador amarillo del panel exterior —llevaba meses en amarillo, y a Clara le incomodaba de un modo que no sabía nombrar, igual que le incomodaba ser de las pocas personas del equipo que seguían cruzando esa puerta.
+De Raquel solo conocía el parte de admisión: una vida difusa de trabajos oscuros y una identidad parcialmente fabricada por los rumores del complejo. Aun así, cada tarde entraba en su habitación y le hablaba con la misma cercanía natural que dedicaba a cualquier otro paciente.
+—Hoy le ha ido bien a su compañera —dijo, en voz baja, sin esperar respuesta—. No sé si eso significa algo para usted, pero he pensado que debía decírselo a alguien.
+No hubo cambio en la línea plana. No lo esperaba. Apagó la luz de la mesilla y, antes de cerrar, volvió a mirar el indicador amarillo una vez más, como cada tarde, como si esperara que algún día cambiara de color sin que nadie tuviera que explicarle por qué.
+***
+Pasó una semana. El Sujeto 2 completó la escalada de sedación sin ningún incidente comparable al primero. El ministro llamó una sola vez, el jueves, sin las fórmulas de antes.
+—¿Cómo va el Sujeto 2?
+—Mejor de lo que esperábamos.
+—¿Y el otro?
+—Sigue su curso. Valeria no quiere fechas todavía.
+—Cuando tengáis algo que anunciar —dijo el ministro, con un silencio distinto al de las otras llamadas—, avisadme con margen. Quiero ser yo quien lo cuente, no quien lo confirme después de que se filtre.
+Del Sujeto 3 no hubo novedades oficiales. La carpeta sin nombre de Sergio tenía ya nueve marcas temporales, y una nota nueva: sigo sin confirmar nada. Sigo sin descartar nada.
+La noche antes de la fecha fijada para el Sujeto 1, Clara entró en su habitación cuando todos se habían ido, y se demoró junto a la cama más de lo habitual. Juan Ferreira respiraba con la misma cadencia lenta de siempre, ajeno a que en menos de veinticuatro horas alguien iba a reducir la perfusión y esperar a ver quién, o qué, abría los ojos. Clara no sabía nada de carpetas grises ni de canales que deberían estar cortados y no lo estaban. Solo sabía que llevaba semanas cuidando a tres personas a las que el resto del edificio llamaba activos, y pensó, sin decirlo en voz alta, que alguien debería decirle a Juan, cuando despertara, que durante todo ese tiempo hubo al menos una persona que siguió hablándole aunque quizás pudiera oír.
+Apagó la lámpara y salió. En la consola central, el indicador del Sujeto 1 seguía verde, estable, igual que cada noche desde hacía semanas.
+Por última vez.

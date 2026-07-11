@@ -1,0 +1,113 @@
+﻿Capítulo 24
+
+Después de la jubilación de Marín, Juan pidió la cita al mediodía, desde su teléfono personal, no desde el de la firma. La pidió en una clínica privada en el norte de la ciudad, lejos de los tres hospitales con los que Ferreira & Vidal tenía acuerdos de salud laboral. Dijo en la agenda de trabajo que tenía una reunión externa en zona norte y no dejó la dirección, lo cual era suficientemente inusual para que la coordinadora del equipo lo anotara y suficientemente frecuente en los últimos meses para que no preguntara.
+Fue una tarde. La neuróloga se llamaba doctora Ferrer y ejercía en una clínica pequeña con cuatro consultas y una sala de espera con revistas atrasadas. Le hizo las pruebas en dos sesiones, con algunos días de diferencia. Test neuropsicológico, resonancia magnética con contraste, análisis de líquido cefalorraquídeo.
+En la segunda sesión, Juan llegó a las cuatro y cuarto con el mismo maletín con que iba a cualquier reunión.
+La doctora Ferrer no usó preámbulos.
+—Los resultados muestran un patrón de deterioro cognitivo de inicio rápido —dijo—. La resonancia confirma atrofia bilateral en hipocampo y corteza entorrinal. Los marcadores en el líquido son positivos para beta-amiloide y tau fosforilada. El perfil es compatible con enfermedad de Alzheimer de evolución acelerada.
+Juan escuchó sin moverse.
+—¿Qué significa evolución acelerada en términos de ventana funcional? —preguntó.
+La doctora lo miró un momento antes de responder.
+—En su caso, y con el patrón de progresión que veo en las imágenes, estamos hablando de pérdida funcional significativa en meses. No en años. Hay opciones de tratamiento que pueden ralentizar el proceso, pero el diagnóstico en cuanto a la trayectoria es claro.
+—¿Cuántos meses?
+—Depende de la velocidad de progresión individual. Con tratamiento y reducción de carga cognitiva, algunos pacientes con este perfil mantienen un nivel funcional aceptable durante seis a nueve meses. Sin reducción de carga, menos.
+Juan abrió el maletín, sacó un cuaderno y un bolígrafo.
+—¿Qué tratamiento recomienda?
+La doctora le explicó las opciones. Inhibidores de colinesterasa, memantina para el estadio moderado cuando llegara, terapia de estimulación cognitiva. Juan tomó notas. Preguntó sobre las interacciones con el trabajo, sobre los efectos secundarios, sobre los protocolos de seguimiento. La doctora respondió a cada pregunta con la misma precisión con que él la hacía, y en algún momento de esa conversación Ferrer tuvo la sensación de estar siendo entrevistada por alguien que ya había decidido lo que iba a hacer y solo necesitaba los datos técnicos para implementarlo.
+—Necesito comunicarlo a mi entorno en el momento adecuado —dijo Juan, cuando terminó de anotar—. Hay proyectos en curso cuya continuidad depende de mi disponibilidad durante los próximos meses.
+—Entiendo la necesidad de planificar —dijo la doctora—, pero le recomiendo que no posponga demasiado. El diagnóstico cambia algunas decisiones que—
+—Ya lo sé —dijo Juan.
+Salió a las seis menos cuarto. Cogió un taxi. En el trayecto de vuelta no miró el teléfono. Tenía el cuaderno abierto sobre las rodillas con las notas de la reunión: nombre del fármaco, dosis inicial, nombre de la molécula alternativa, velocidad de progresión estimada, ventana funcional con y sin reducción de carga.
+Sin reducción de carga: entre cuatro y seis meses.
+El proyecto de la ABE tenía cuatro meses hasta la entrega de la segunda fase. El ciclo de pruebas de resistencia del Banco de España cerraba en tres. Los dos podían terminarse dentro de la ventana. Era cuestión de no reducir la carga, de no decir nada que cambiara las condiciones de trabajo antes de que los dos proyectos estuvieran entregados.
+Después ya no habría nada que proteger.
+Llegó a la oficina a las siete. Diego estaba todavía en el laboratorio con el modelo de dos curvas abierto en la pantalla.
+—¿Qué has encontrado? —preguntó Juan desde la puerta.
+—Los outliers del tramo de menos cero treinta siguen distorsionando la segunda curva —dijo Diego—. He probado tres métodos de winsorización distintos y ninguno estabiliza el extremo inferior.
+Juan colgó el abrigo, se acercó a la pantalla y estuvo mirando los datos durante dos minutos.
+Diego dudó si decir algo. La explicación que estaba a punto de pedir era casi idéntica a una que ya había recibido —el mismo ejemplo de los depositantes que reaccionan antes del umbral, la misma frase sobre la señal perdida. Corregir a Juan no entraba dentro de lo que Diego había aprendido a hacer en ese despacho, así que se calló y esperó.
+—El problema no es el método de winsorización —dijo—. El problema es que los outliers no son ruido. Son los primeros depositantes que reaccionan antes del umbral. Si los estás eliminando, estás perdiendo la señal más valiosa de la curva.
+—¿Los dejamos dentro?
+—Los marcamos como observaciones de alerta temprana y construimos una tercera curva para ese segmento. La segunda curva se estabiliza sola cuando les quitas la presión de ser outliers de algo que en realidad son.
+Diego anotó.
+—Lo tengo mañana —dijo.
+—Bien —dijo Juan, y se fue a su despacho.
+Estuvo trabajando hasta las once. Cuando apagó la pantalla, la oficina estaba vacía. Cogió el maletín, el abrigo, y cerró la puerta del laboratorio con llave, como hacía siempre.
+En el ascensor bajando, se quedó mirando el panel de botones. Pulsar el de planta baja le llevó un segundo más de lo habitual. Solo un segundo. No era nada que nadie pudiera ver desde fuera.
+Pero él lo había notado.
+***
+Al día siguiente, hacia las diez de la noche, Juan estaba solo en el laboratorio con el documento de la segunda fase de la ABE abierto en la pantalla. Diego se había ido a las siete. La planta estaba vacía.
+No era la primera vez, desde hacía tiempo, que llegaba a un punto del documento y se detenía sin entender del todo lo que tenía delante. Antes había sido en la sección de criterios de comparabilidad, cuando había pedido a Carmen que revisara la nota al pie y Carmen ya lo había hecho porque él mismo se lo había pedido el día anterior. Y, más recientemente, durante una llamada de seguimiento con Frankfurt, cuando el representante había mencionado un ajuste metodológico que Juan había propuesto tiempo antes y Juan había tardado cuatro segundos en reconocer la propuesta como suya. El representante de Frankfurt no había dicho nada. Los cuatro segundos habían sido suficientes para que Juan entendiera que el representante de Frankfurt los había contado.
+Esta vez era diferente. Había llegado a la página treinta y uno, que era la página donde empezaba el bloque de validación cruzada entre entidades, y había leído el primer párrafo tres veces.
+No entendía el primer párrafo.
+No era que el texto fuera ambiguo o incorrecto. Era texto suyo, escrito tiempo atrás, en una sesión de trabajo en la que había resuelto en dos horas un problema de especificación que el equipo de Carmen había tenido abierto durante semanas. Lo reconocía como suyo porque el estilo era inconfundible y porque el argumento era exactamente el que habría construido él. Lo que no encontraba era la cadena de razonamiento que llevaba de la premisa a la conclusión. La premisa estaba en el párrafo. La conclusión también. El camino entre las dos había desaparecido.
+Cerró el documento. Lo abrió otra vez. Leyó el párrafo una cuarta vez.
+El camino seguía sin estar.
+Apagó la pantalla. Estuvo tres minutos sentado en el despacho a oscuras, con la única luz de la pantalla del teléfono sobre la mesa. Luego encendió la pantalla, abrió el documento y siguió desde la página treinta y dos, dejando la treinta y uno por resolver. Era lo que habría hecho con cualquier otro problema que no cedía de inmediato: avanzar, dejar que el contexto posterior aclarara lo que el punto de entrada oscurecía.
+A las once y media cerró el ordenador. La página treinta y uno seguía sin tener sentido. Era la primera vez desde que recordaba que un párrafo escrito por él no lo tenía.
+Cogió el abrigo. En el ascensor bajando no miró el teléfono. Se quedó mirando las puertas cerradas y calculó, con la misma precisión con que calculaba cualquier otra cosa, cuánto tiempo podía seguir disimulando ante el equipo y cuánto tiempo podía seguir disimulando ante sí mismo, y comprobó que los dos plazos ya no eran iguales.
+***
+El bloque de variables ochenta a cien llevaba semanas detenido en la variable ochenta y siete.
+No era que la variable ochenta y siete fuera especialmente compleja. Era el coeficiente de prioridad legal de las concesiones históricas del siglo XX sobre las asignaciones de planificación del XXI. Un problema que Ana había resuelto siete años atrás cuando había diseñado el sistema de arbitraje original, y que ahora tenía que trasladar al nuevo modelo con los ajustes que la jurisprudencia del Tribunal Supremo había introducido desde entonces. Era un trabajo de cuatro horas, probablemente menos.
+Llevaba semanas sin poder hacerlo.
+No era un problema de tiempo. Era que cada vez que abría ese bloque y llegaba a la variable ochenta y siete, algo en el proceso de razonamiento fallaba antes de completarse. No faltaban los datos: los tenía. No faltaba el criterio jurídico: lo conocía. Lo que fallaba era la conexión entre los dos, el paso que convertía la jurisprudencia y los datos en un coeficiente con un valor concreto, que era exactamente el paso que definía el trabajo de Ana y que ningún otro técnico de la unidad podía dar.
+Esa mañana había llegado a las siete, antes que Rodrigo, y había abierto el modelo con la intención de resolver la variable ochenta y siete antes de que empezaran las reuniones del día. Había estado mirando la pantalla durante cuarenta minutos. Luego había cerrado el bloque.
+A las once y cuarto entró Rodrigo con la actualización del caudal del Ebro.
+—La confederación del Ebro pregunta si tenemos fecha para la respuesta de Mequinenza —dijo.
+—Ya les dijiste el lunes la semana pasada —añadió Rodrigo, antes de que Ana respondiera.
+Ana miró la carpeta del Ebro. Era la tercera vez que aplazaba Mequinenza. Las dos anteriores había tenido razones técnicas sólidas. Esta vez no tenía ninguna razón que no fuera que Mequinenza requería trabajar con el bloque de arbitraje de concesiones y el bloque de arbitraje de concesiones era exactamente donde el modelo llevaba semanas bloqueado en la variable ochenta y siete.
+—El miércoles —dijo Ana.
+Rodrigo anotó y salió. Ana abrió el bloque de arbitraje por decimocuarta vez.
+Esta vez intentó otra aproximación. En lugar de resolver el coeficiente directamente, construyó primero el marco de referencia jurídico, anotando las sentencias del Tribunal Supremo por orden cronológico en un documento en blanco. Las recordaba todas: las fechas, los casos, el fallo, la implicación para las concesiones históricas. Las anotó sin problema.
+Luego intentó traducir la última sentencia, la de 2021, al parámetro que necesitaba para la variable ochenta y siete.
+El proceso se cortó a mitad.
+No encontraba el siguiente paso. El paso estaba ahí, lo había dado cien veces en catorce años, pero en ese momento no lo encontraba. Era como buscar una palabra que se conoce perfectamente y que ha desaparecido del lugar donde siempre ha estado.
+Cerró el documento. Abrió el protocolo de continuidad de la unidad. Lo leyó entero, las dieciséis páginas. Cuando terminó lo cerró y estuvo un momento quieta con las manos sobre el teclado.
+El protocolo de continuidad no incluía el modelo del Segura. Lo había escrito antes de que el modelo existiera y nunca lo había actualizado para incluirlo porque el modelo estaba en construcción y no tenía sentido documentar un proceso que todavía no era estable.
+Era, en este momento, el único documento de la unidad que no existía en ningún sitio salvo en su cabeza. Y había una variable, la ochenta y siete de ciento cuarenta y siete, que ya no estaba completa ni en su cabeza.
+Cogió el teléfono y buscó el número de la doctora Castillo. Tardó un momento en encontrarlo porque lo había guardado bajo el nombre de la clínica, no de la médica. Cuando lo encontró marcó y pidió cita lo antes posible.
+***
+La doctora Castillo la citó a las cinco de la tarde. Ana llegó con la carpeta azul y sin la mochila.
+—Hay una variable en el modelo en que estoy trabajando que no puedo resolver —dijo Ana, antes de que la doctora abriera el historial—. Llevo semanas. Siempre había podido resolver ese tipo de problema en menos de una tarde.
+La doctora anotó algo.
+—¿Solo en ese contexto?
+—No. Hubo una reunión en la que no recordé el nombre de un técnico de enlace con quien llevo dos años trabajando. Tardé cuatro o cinco segundos. Y otro día fui a la parada de metro equivocada. No me di cuenta hasta que bajé las escaleras.
+La doctora cerró el historial.
+—Ana, lo que me está describiendo es una progresión más rápida de lo que esperaba. Necesito hacerle una resonancia de seguimiento pronto. Y necesito que hablemos del ingreso.
+—Teníamos diez semanas —dijo Ana.
+—Han pasado más de cinco y el cuadro es peor de lo que esperábamos en este punto. En casa sola con este nivel de deterioro progresivo es un riesgo que no puedo avalar.
+Ana miró la carpeta azul.
+—El modelo tiene todavía cincuenta y ocho variables sin cerrar —dijo—. El bloque más crítico son las variables ochenta a cien. Si no cierro ese bloque, no hay nadie en la unidad que pueda hacerlo.
+—Si sigue a este ritmo, en dos semanas es probable que no pueda cerrarlo aunque quisiera —dijo la doctora—. El deterioro no espera.
+Hubo un silencio.
+—Necesito coger la baja —dijo Ana.
+—Sí. E ingresar para seguimiento neurológico. Le doy unos días para dejar lo que necesite en orden.
+Ana no respondió de inmediato. Hizo el cálculo. Unos días. El modelo del Segura con cincuenta y ocho variables sin cerrar y la ochenta y siete sin documentar.
+—De acuerdo —dijo.
+***
+A la mañana siguiente, Ana llegó a la Agencia a las siete. Rodrigo no llegaba hasta las nueve. Tenía dos horas.
+Abrió el modelo del Segura. Fue directamente al bloque de variables ochenta a cien y estuvo mirando la variable ochenta y siete durante diez minutos. Luego empezó a escribir. No el coeficiente, sino la documentación del problema. Qué era la variable, qué sentencias del Tribunal Supremo la condicionaban, qué tipo de razonamiento necesitaba aplicarse para traducir esa jurisprudencia a un parámetro cuantificable, y por qué ese razonamiento era técnicamente más complejo de lo que cualquier descripción exterior del modelo podía sugerir. Escribió doce páginas en noventa minutos. Eran doce páginas que no resolvían la variable ochenta y siete pero que dejaban el problema documentado con suficiente precisión para que alguien con formación adecuada pudiera intentarlo.
+No sabía si ese alguien existía. Pero si no dejaba las doce páginas, definitivamente no habría nada.
+Abrió el protocolo de continuidad y añadió una sección al final: Modelo del Segura — Estado actual — Nota para quien continúe. Copió las doce páginas y añadió tres párrafos más sobre el estado de cada bloque principal y el nombre de Paloma Reyes como interlocutora externa que mejor conocía el modelo desde fuera de la unidad.
+Guardó el protocolo a las ocho y cuarenta.
+Cogió el teléfono y llamó a la ministra de Transición Ecológica. Le dijo que tenía Alzheimer. Que el diagnóstico llevaba meses confirmado y que la progresión había sido más rápida de lo que esperaba. Que cogía la baja por agotamiento porque era lo único que podía decirse. Que el protocolo de la unidad para estos casos estaba actualizado en el servidor y que el modelo del Segura quedaba en pausa, con doce páginas de documentación sobre el bloque pendiente para quien lo continuara.
+La ministra le preguntó si había alguien que pudiera acompañarla.
+—No —dijo Ana.
+Hubo un silencio breve.
+—Gracias por llamarme —dijo la ministra.
+Ana colgó.
+Rodrigo llegó a las nueve y dos minutos.
+—Rodrigo —dijo Ana desde la puerta de su despacho—. Voy a coger la baja hoy. El protocolo de continuidad está actualizado en el servidor, incluida una sección nueva sobre el modelo del Segura. Léelo pronto. Las reuniones pendientes con las confederaciones las gestiona Recursos Hídricos. El modelo del Segura queda en pausa hasta nueva instrucción de la dirección.
+Rodrigo la miró.
+—¿Hay algo que pueda hacer? —preguntó.
+—Lee el protocolo —dijo Ana.
+Bajó a hablar con el responsable de Recursos Humanos. Cuatro minutos. El parte indicaba baja por agotamiento, duración indeterminada. El responsable de Recursos Humanos procesó el parte sin preguntar nada más, que era lo que la normativa le permitía y lo que Ana sabía que era lo único que iba a hacer.
+Esa tarde la doctora Castillo le confirmó la cama en neurología.
+***
+Fue al mercado por la mañana, como hacía todos los domingos, y volvió con lo que necesitaba para los próximos días, aunque sabía que no iba a estar. Dejó la compra en la nevera. Fue al ordenador.
+Abrió el modelo del Segura por última vez. No para trabajar en él, sino para leerlo entero desde el principio: los meses de trabajo, los tres bloques completados y el cuarto con las doce páginas de documentación que no resolvían la variable ochenta y siete. Lo leyó sin tomar notas. Tardó dos horas.
+Cuando terminó cerró el modelo y abrió el protocolo de continuidad. Leyó la sección nueva que había añadido. Era correcta. Era lo mejor que podía dejar.
+Apagó el ordenador. Fue al dormitorio, sacó la mochila de trabajo y la dejó en la entrada. La carpeta azul la puso encima. Estuvo un momento mirando las dos cosas en el suelo del pasillo.
+Luego fue a la cocina, puso agua a hervir y estuvo de pie junto a la ventana mientras esperaba. La calle de abajo estaba vacía a esa hora. En algún edificio de enfrente había una ventana encendida con una sombra moviéndose dentro.
+Apagó el fuego sin haber hecho nada con el agua. Fue al dormitorio y se acostó.
+Ana ingresó en la unidad de neurología. En la recepción de la unidad le preguntaron si había alguien a quien avisar. Ana dijo que no.

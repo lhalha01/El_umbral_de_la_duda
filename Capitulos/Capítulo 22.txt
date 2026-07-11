@@ -1,0 +1,85 @@
+﻿Capítulo 22
+
+El piso de Juan ocupaba la planta once de un edificio sin nombre en Chamberí, dos calles por detrás del mercado de Vallehermoso. Lo había comprado hacía nueve años y había tardado dos en amueblarlo del todo, hasta que un día decidió que el salón necesitaba estanterías y encargó las que ahora cubrían la pared entera, del suelo al techo.
+Los libros estaban ordenados por materia y, dentro de cada materia, por fecha de publicación. Econometría aplicada. Modelos de riesgo de crédito. Teoría de la probabilidad. Un estante entero de informes técnicos del Banco de España, encuadernados en azul porque los originales en grapa se estropeaban con los años y a él no le gustaba que las cosas se estropearan si podía evitarlo. Nadie más que él había tocado esa estantería en nueve años. Tampoco nadie más había estado en ese salón en los últimos tres.
+Llegó a las nueve y media. Calentó lo que quedaba de un guiso que se había hecho el domingo —lo hacía siempre los domingos, cantidad suficiente para toda la semana, porque cocinar a diario le parecía una pérdida de tiempo que no compensaba el resultado— y comió de pie, junto a la encimera, mirando el patio interior del edificio, donde había una ventana encendida tres pisos más abajo y nada más.
+Después se sentó con un libro nuevo, una monografía sobre modelos de riesgo de cola que había pedido hacía tiempo y que acababa de llegar. Lo leyó durante una hora con la misma atención de siempre, subrayando con el mismo rotulador negro que usaba en la oficina. Y en algún momento pensó que el autor se equivocaba en la página cuarenta y dos al asumir independencia entre los tramos de la distribución, y anotó por qué en el margen, con la misma letra pequeña y recta de siempre.
+No era ese tipo de noche. Esa noche todavía no.
+Cogió el teléfono al terminar el capítulo. Fue, sin pensarlo del todo, a un contacto guardado como Marisa que no había llamado en mucho tiempo. Su hermana en Bilbao tenía dos hijos que Juan apenas vio cuatro veces en diez años. Su última conversación terminó como siempre: Marisa reprochándole que trabajaba demasiado, y Juan respondiéndole que ya lo sabía, como si fuera un dato meteorológico y no una elección.
+Tuvo el dedo sobre la pantalla un segundo. Dos. No llamó.
+Dejó el teléfono boca abajo sobre la mesa y se quedó mirando la estantería. Su padre había sido ingeniero de caminos, riguroso como Juan lo era, y había muerto solo en un piso de Zaragoza ordenado con la misma precisión que este, doce años atrás, con un cajón lleno de cartas a medio escribir que nunca había mandado a nadie. Juan no recordaba haber decidido en ningún momento concreto que iba a vivir igual. Simplemente había ido sucediendo, año sobre año, proyecto sobre proyecto, hasta que un día las estanterías estuvieron llenas y no había nadie más a quien preguntarle si eso era lo que quería.
+Apagó la lámpara del salón. Luego la del pasillo. Se acostó con la luz del dormitorio todavía encendida un minuto, mirando el techo, antes de apagarla también.
+***
+Antes de que el bloque de arbitraje de concesiones absorbiera por completo su agenda, Ana decidió bajar al terreno.
+No era estrictamente necesario. Tenía los datos de caudal, los informes históricos de la confederación, los expedientes de cada concesión escaneados y disponibles en el servidor. Pero llevaba años con la costumbre de visitar al menos una vez, por cada modelo importante, el tramo del río que ese modelo iba a gobernar durante los siguientes años. No era que el terreno le dijera algo que los datos no le dijeran. Era que necesitaba comprobar, con su propio cuerpo, que los números seguían refiriéndose a algo real.
+Avisó a Rodrigo de que estaría fuera de la oficina un día y condujo ella misma, sin coche oficial, hasta la vega media del Segura, donde se concentraban la mayoría de las concesiones históricas que estaba intentando traducir a coeficientes en el bloque ochenta a cien.
+Anselmo Cano tenía sesenta y ocho años y una concesión de riego que su familia explotaba desde 1947, antes incluso de que existiera el organismo que ahora la administraba. La acequia pasaba justo detrás de su casa, y fue allí donde Ana lo encontró, ajustando una compuerta con una llave que parecía tan vieja como la concesión misma.
+—¿Usted es la del ministerio? —preguntó, sin dejar de trabajar en la compuerta.
+—De la Agencia del Agua —dijo Ana—. Estoy revisando cómo se aplican las prioridades históricas en el nuevo modelo de la cuenca.
+Anselmo se incorporó y la miró con la desconfianza específica de quien ha visto pasar a media docena de técnicos por esa acequia a lo largo de los años, todos con preguntas parecidas y ninguno con respuestas.
+—Mi padre tenía esta concesión antes de que hubiera ningún modelo —dijo—. ¿Eso lo sabe el ordenador?
+—El ordenador sabe la fecha de inscripción, el caudal asignado y las sentencias del Tribunal Supremo que han interpretado esa fecha desde entonces —dijo Ana—. Lo que no sabe es esto. —Señaló la compuerta, la acequia, el campo más allá—. Por eso he venido.
+Anselmo no respondió enseguida. Le explicó, en cambio, cómo había cambiado el caudal en los últimos veinte años. Qué meses se había quedado con menos agua de la que tenía derecho según el papel, y qué meses —los menos— le había llegado de más por algún error administrativo que nadie había corregido nunca en su contra. Ana tomó notas, no en la tablet sino en un cuaderno de papel que llevaba para estas visitas, porque había aprendido que la gente hablaba distinto delante de una pantalla que delante de un cuaderno.
+—La variable que estoy calibrando ahora mismo es exactamente esto —dijo Ana, al final, señalando la acequia—. El coeficiente que dice cuánta prioridad tiene su concesión frente a una asignación nueva cuando no hay agua para las dos. Si me equivoco en ese número, no se equivoca el ordenador. Me equivoco yo, y la consecuencia se la lleva usted, no yo.
+Anselmo la miró de otra manera, no menos desconfiada pero distinta.
+—Eso no me lo había dicho ningún técnico hasta ahora —dijo.
+—Porque no es lo que enseñan a decir —dijo Ana—. Es lo que pasa.
+Condujo de vuelta a Murcia con las ventanas bajadas, algo que no hacía nunca, mirando los canales de riego paralelos a la carretera, cada uno con su propia historia de prioridades que alguien, en algún despacho, había decidido convertir en un número. Llegó a la oficina al día siguiente con una idea más clara de cómo iba a resolver, por fin, la variable ochenta y siete.
+***
+Una tarde de poco trabajo urgente, Juan le dijo a Diego que dejara lo que estaba haciendo.
+—Siéntate. Te voy a enseñar algo que no está en ningún manual.
+Diego se sentó. Había aprendido a reconocer cuándo Juan estaba a punto de explicar algo en lugar de exigirlo, que era con diferencia menos frecuente.
+Juan abrió un archivo antiguo, de hacía once años, con un modelo de impago de carteras hipotecarias construido para un banco que ya no existía como entidad independiente.
+—Esto lo hice en mi tercer año en la firma —dijo—. Tardé seis semanas en lo que ahora harías en cuatro días con las herramientas que tienes. Pero el método que usé entonces es el que sigues usando hoy sin saber que es el mismo, así que vamos a hacerlo despacio, una vez, para que lo veas con los ojos abiertos.
+Le explicó cómo construir, a mano, una curva de pérdida esperada sin recurrir a ningún paquete estadístico. Cómo elegir el bloque de datos que más información daba con menos ruido, cómo detectar cuándo un ajuste era razonable y cuándo era el analista forzando los números para que dijeran lo que ya había decidido que iban a decir.
+—La mayoría de los errores que vas a ver en tu carrera no son errores de cálculo —dijo—. Son personas que decidieron la conclusión antes de mirar los datos y luego construyeron el camino hacia atrás. Tú no vas a hacer eso. No porque seas mejor persona que ellos. Porque vas a tener la disciplina de mirar primero.
+Diego anotó eso en su cuaderno, palabra por palabra, sin que Juan se lo pidiera.
+Estuvieron tres horas con el modelo antiguo. Juan no miró el reloj ni una vez, algo que Diego nunca le había visto hacer en ningún otro contexto. Cuando terminaron, Diego se atrevió a preguntar algo que llevaba meses queriendo preguntar.
+—¿Por qué solo un analista a la vez? Podrías formar al doble en la mitad de tiempo si tuvieras a alguien que te ayudara a explicar.
+Juan cerró el archivo antiguo.
+—Porque lo que importa no es que entiendas el método —dijo—. Eso lo puede explicar cualquiera con paciencia. Lo que importa es que veas cómo decido qué mirar cuando no sé todavía qué estoy buscando. Eso no se explica en grupo. Se ve, una persona, mirando por encima del hombro de otra, durante el tiempo que haga falta.
+—¿Y cuándo se sabe que ya se ha visto bastante?
+—No se sabe —dijo Juan—. Por eso son doce meses y no menos. Y por eso no son más, aunque alguno se lo merezca. Si te quedas más tiempo del que hace falta, empiezas a pensar como yo en lugar de pensar por ti mismo, y entonces ya no sirves para nada nuevo.
+Diego no dijo nada. Era la explicación más larga que Juan le había dado de algo que no fuera un modelo.
+—Vete a casa —dijo Juan—. Es tarde y esto no era de hoy.
+***
+Una tarde sin ninguna urgencia inmediata sobre la mesa, Ana le dijo a Rodrigo que dejara lo que estaba haciendo.
+—Siéntate. Te voy a explicar el sistema de arbitraje de concesiones desde el principio, no desde el manual.
+Rodrigo se sentó, sorprendido. Ana nunca le había ofrecido una explicación que no fuera la mínima necesaria para resolver el problema que tenía delante.
+Ana abrió un archivo de hacía siete años, el diseño original del sistema que ahora estaba traduciendo al modelo del Segura.
+—Esto lo construí cuando llevaba cuatro años en el puesto —dijo—. La pregunta que resuelve no es técnica, aunque parezca técnica. Es esta: cuando dos concesiones tienen el mismo respaldo legal pero no hay agua para las dos, ¿quién decide y con qué criterio? El criterio que elegí entonces, y que sigo usando, es la antigüedad ponderada por uso continuado. No basta con ser el más antiguo. Hay que haber usado la concesión de forma ininterrumpida. Eso evita que alguien acumule derechos históricos sobre papel sin haber regado nunca un campo.
+—La antigüedad ponderada por uso continuado —repitió Rodrigo, más para sí que para ella—. Es un criterio elegante.
+—No es elegante —dijo Ana—. Es el único que no se puede manipular con papeleo. Vuelve a tu mesa.
+***
+Ana fue al mercado por la mañana, como hacía todos los domingos desde que vivía sola en ese piso. Compró lo de siempre: verdura para la semana, pescado para dos días, el pan que solo vendían los fines de semana en el puesto de la esquina. El tendero, que la conocía de vista desde hacía años sin saber su nombre, le preguntó si seguía con mucho trabajo. Ana dijo que sí, como siempre, y él no insistió, como siempre.
+De vuelta en casa, mientras guardaba la compra, sonó el teléfono. Sonia, una compañera de la facultad con la que mantenía el contacto justo necesario para no decir que lo habían perdido del todo: una llamada cada dos o tres meses, una felicitación de cumpleaños, algún mensaje cuando salía una noticia sobre el sector que a Sonia le recordaba a ella.
+—Te llamo por lo de mi cuarenta cumpleaños —dijo Sonia, sin preámbulos—. Va a ser dentro de poco, en La Manga. Llevo meses queriendo que vengas.
+Ana se quedó con la mano en la nevera, todavía con un paquete de pescado sin guardar.
+—No creo que pueda —dijo—. Tengo un proyecto que no me deja moverme estos meses.
+—Siempre tienes un proyecto —dijo Sonia, sin reproche, con la familiaridad de quien lleva veinte años escuchando la misma frase—. ¿Estás bien? Te noto rara últimamente. Más callada de lo normal, y tú ya eras bastante callada.
+—Estoy bien —dijo Ana—. Es solo el modelo. Es complicado este año.
+No era mentira del todo. Tampoco era la verdad. Era la frase que había decidido, sin necesidad de planificarla de antemano, que iba a usar cada vez que alguien le preguntara algo parecido, porque era lo suficientemente cierta para no sonar falsa y lo suficientemente vaga para no abrir ninguna puerta.
+Sonia no insistió más. Hablaron diez minutos de cosas sin importancia, una antigua compañera que había cambiado de trabajo, un restaurante nuevo en el barrio de Sonia. Antes de colgar, Sonia dijo que la echaba de menos, y Ana dijo que ella también, y las dos sabían que era verdad sin que eso cambiara nada en lo que cualquiera de las dos iba a hacer al respecto.
+Ana guardó el resto de la compra y se detuvo junto a la ventana de la cocina, mirando la calle vacía a esa hora del domingo. No se arrepentía de no haberle dicho la verdad a Sonia. No era una cuestión de orgullo ni de vergüenza. Era, simplemente, que contarlo no cambiaba nada del trabajo que le quedaba por hacer, y sí cambiaría, de manera irreversible, la forma en que la gente que quedaba en su vida iba a mirarla durante el tiempo que le quedara. Prefería que la siguieran mirando como siempre un poco más.
+Puso agua a hervir para el café de la tarde y, mientras esperaba, pensó que ese domingo era, probablemente, el último cumpleaños de Sonia al que no iba a poder ir por una razón que algún día tendría nombre, y que nunca le iba a decir cuál era.
+***
+Carmen le recordó que se acercaba la jubilación de Ezequiel Marín.
+Marín había sido el primer socio que Ferreira & Vidal contrató fuera del círculo de los dos fundadores, hacía diecisiete años, poco después de dejar las aulas donde había sido, hasta entonces, profesor de Juan en la facultad. Era el único profesor de los cinco años de carrera cuyo nombre Juan seguía usando como referencia cuando alguien le preguntaba dónde había aprendido a pensar así. Marín se retiraba a los setenta, con un acto que su familia había organizado en un restaurante del centro, no la firma, porque Marín siempre había insistido en que las despedidas de trabajo eran para la gente que confundía el trabajo con la vida.
+Juan dijo que tenía una reunión esa tarde y que probablemente llegaría tarde. Carmen anotó que probablemente eso significaba que no iría.
+Llegó a las nueve, cuando ya quedaba menos de la mitad de los invitados. Se quedó cerca de la puerta, con una copa que no llegó a beberse del todo, hasta que Marín lo vio desde el otro lado de la sala y le hizo un gesto para que se acercara.
+—Pensé que no vendrías —dijo Marín.
+—Tenía una reunión.
+—Siempre tienes una reunión. —Marín lo miró un momento, con la misma atención clínica con la que en su día corregía exámenes—. Estás más delgado.
+—He estado con mucho trabajo.
+—Eso explicaría delgado de hace cinco años. Esto es distinto. —Marín no insistió. Bebió un trago de su copa y cambió de tono—. ¿Te acuerdas de la última clase que te di?
+Juan se acordaba. Era una de las pocas cosas de las que estaba completamente seguro que recordaba bien, sin necesidad de comprobarlo en ningún registro.
+—Probabilidad condicionada avanzada. Último día de mayo.
+—Te dije algo al final de esa clase. ¿Te acuerdas de qué?
+Juan tardó un momento, no porque lo hubiera olvidado sino porque no estaba seguro de querer repetirlo en voz alta en ese sitio.
+—Que la gente como yo construye cosas que duran más que ella, y que eso está bien siempre que alguien, en algún momento, decida que también merece construir algo que dure dentro de ella.
+Marín asintió, satisfecho de que la memoria de Juan en esto, al menos, siguiera intacta.
+—¿Lo decidiste? —preguntó.
+—No —dijo Juan—. Todavía no.
+—Diecisiete años no es todavía. Es ya.
+Juan no respondió. Marín no esperaba que lo hiciera; lo conocía desde hacía treinta años y sabía que las respuestas de Juan llegaban siempre tarde y siempre por escrito, en forma de una decisión tomada en privado, nunca en una conversación.
+Se quedó otra media hora, habló con dos antiguos compañeros a los que no veía desde la facultad, y se fue antes de que empezaran los discursos. En el taxi de vuelta no encendió el teléfono. Se quedó mirando las luces de la ciudad pasar por la ventanilla. Pensaba no en la enfermedad, que todavía era solo una sospecha sin nombre, sino en la frase de Marín, y en cuántas cosas de las que había construido en diecisiete años existían en algún sitio que no fuera él mismo.

@@ -1,0 +1,116 @@
+﻿Capítulo 37
+
+Sergio no se sentó cuando empezó a hablar. Permaneció junto a la pantalla apagada, como si necesitara el espacio entero de la sala.
+—Ahora mismo Juan y Ana son dos sistemas aislados —dijo—. Cada implante resuelve sus huecos con su propio sustrato. Cuando algo falla, como falló con la variable ochenta y siete, el motor RAG de Ana solo tiene un sitio donde buscar: lo que queda de su cerebro. Si no está ahí, no está en ningún sitio. Treinta y dos segundos es lo que tarda en darse cuenta de que tiene que reconstruir el camino entero desde cero, sin ayuda de nadie.
+—¿Y la alternativa? —preguntó Antonio.
+—Conectar los dos sustratos de forma permanente —dijo Sergio—. No la sincronización puntual que ya tenemos con la planta: hablo del canal entre los dos implantes, el que dejamos reducido a un hilo por orden del ministro.
+Hubo un silencio.
+—Eso es justo lo que Carlos pidió que no volviera a pasar —dijo Valeria—. Un patrón asociativo genera una identidad colectiva, dijo. Con esas palabras.
+—Lo dijo sobre un canal abierto sin propósito clínico —dijo Tomás—. Esto es distinto. Si Ana se bloquea en algo que su sustrato ya no tiene y el sistema puede mirar también en el de Juan, el bloqueo se resuelve en milisegundos, no en segundos. No accede a su identidad ni a sus recuerdos. Solo a la estructura de razonamiento que comparten por formación y años de cálculo bajo presión.
+—¿Funcionaría así de verdad, o es lo que querríais que funcionara? —preguntó Antonio.
+Tomás y Sergio se miraron antes de responder.
+—Funciona —dijo Sergio—. Lo hemos modelado con los datos de los dos bloqueos de esta semana. El de Juan se habría resuelto en menos de un segundo. El de Ana, en dos o tres.
+—¿Con qué datos, exactamente? —preguntó Valeria.
+—Tomamos el acoplamiento theta-gamma de los dos durante sus bloqueos —dijo Tomás—. Simulamos qué habría pasado si el sistema hubiera podido consultar el patrón del otro en el mismo instante, en vez de buscar a tientas en solitario. No es magia: es indexación cruzada, con menos pasos entre pregunta y respuesta.
+—¿Probablemente?
+—Es un modelo. No lo hemos visto pasar de verdad.
+Antonio se quedó mirando la pantalla apagada.
+—¿Riesgos? —preguntó, al fin.
+—Los mismos que ya tenía el canal antes de que el ministro pidiera reducirlo —dijo Tomás—. Solo que con más ancho de banda: lo que era un riesgo teórico mínimo podría dejar de serlo.
+—¿Qué riesgo? —preguntó Valeria.
+—El que dijo el ministro —dijo Sergio—. No sabemos qué pasa cuando dos sistemas diseñados para ser independientes empiezan a depender constantemente el uno del otro. Solo sabemos lo visto hasta ahora: ecos, picos sincronizados, sin problema clínico observable. Pero eso era con un hilo. Esto sería con una autopista.
+—¿Y si decimos que no?
+—Entonces la próxima vez que uno se bloquee más de treinta y dos segundos, lo gestionamos como hasta ahora. Esperando, sin saber si va a resolverse solo.
+—Eso no responde a mi pregunta —dijo Valeria—. Describe lo que ya tenemos.
+—Es la única respuesta honesta que tengo —dijo Sergio—. La otra es prometer algo que ni yo mismo me creo todavía.
+***
+Sergio y Tomás bajaron a la cafetería, la misma mesa de siempre.
+—¿Le has dicho a Antonio lo de las carpetas? —preguntó Tomás.
+—No. Le he dicho lo del modelo de latencia. Eso es verdad. Las carpetas son aparte.
+Tomás removió el café sin bebérselo.
+—Llevamos meses guardando ecos que no encajan en ningún sitio. Tres en un día, alguna vez. Nunca los dos a la vez, nunca iguales. Si esto sale adelante, por fin tendremos un canal abierto de verdad para mirar qué pasa, en vez de adivinarlo desde fuera con un hilo que casi no transmite nada.
+—¿Te acuerdas del primer eco que viste? —preguntó Sergio.
+—Hace meses. Antes de los primeros despertares. Pensé que era un artefacto de calibración.
+—Yo también, la primera vez. Y la segunda.
+—¿Cuándo dejaste de pensarlo?
+—Cuando empecé a guardarlos en una carpeta en vez de borrarlos —dijo Sergio—. Para cuando me di cuenta de que tenía una carpeta, ya llevaba semanas llenándola.
+—¿Cuántos tienes ahora?
+—Veintitrés. En cuatro meses.
+—¿Y después de esto, cuántos crees que vas a tener?
+Sergio tardó en responder.
+—No lo sé. Es la primera vez que no sé si quiero la respuesta a mi propia pregunta.
+—Es la mitad de la razón por la que lo has propuesto —dijo Tomás.
+—¿Y la otra mitad? —preguntó él mismo, aunque ya sospechaba la respuesta.
+—También es verdad —dijo Sergio—. Treinta y dos segundos es demasiado. La próxima vez podría no resolverse sola, y entonces ya no hablaríamos de un modelo.
+—Las dos cosas pueden ser ciertas a la vez —dijo Tomás, al fin—. Eso es lo que más me inquieta: que no hace falta mentir en ningún punto para llegar justo a donde queríamos llegar.
+***
+Hugo recibió la llamada de Antonio.
+—¿Reabrir el canal entero? Carlos lo cerró por escrito. Hay una nota en el expediente que dice justo eso.
+—No lo reabrimos —dijo Antonio—. Lo ampliamos con un propósito clínico nuevo. La nota de Carlos hablaba de un canal sin función real. Este la tiene.
+—Eso es una distinción legal, no real —dijo Hugo—. Si alguien lee las dos notas juntas, la mía y la de Carlos, verá lo mismo que veo yo: que decidimos que la palabra correcta importaba más que el hecho que describía.
+—¿Vas a escribir la nota o no?
+Hugo se quedó callado un momento largo.
+—La voy a escribir. Pero quiero que conste, en algún sitio que no sea el papel oficial, que lo señalé antes de que nadie me lo pidiera.
+Redactó la nota antes de irse, breve como todas las suyas: ampliación del canal de sincronización entre sustratos por indicación clínica documentada, riesgo residual bajo, sujeto a revisión mensual. No mencionó la nota anterior de Carlos. No hacía falta: si alguien las leía juntas, las fechas dirían lo que las palabras callaban.
+Valeria firmó la autorización clínica sola, antes de que nadie se la pidiera. Repasó el modelo de Sergio dos veces: la primera buscando un error de cálculo, la segunda ya no buscaba ninguno, solo quería estar segura de que la decisión ya tomada tenía, además, un fundamento clínico defendible.
+Lo tenía. Eso hacía la decisión fácil de tomar y difícil de mirar de frente a la vez: el argumento clínico era verdadero, y no era el motivo por el que firmaba.
+No era la primera vez que firmaba algo sabiendo que la justificación escrita y la razón real no coincidían del todo. Llevaba catorce meses haciéndolo. Lo distinto era que esta firma no se sentía como un paso más en la misma dirección, sino como el primero en una dirección nueva.
+Escribió lo que el formulario pedía: reducción del tiempo de respuesta ante bloqueos, ampliación del canal, riesgo bajo, beneficio alto. No escribió nada sobre lo que Sergio había llamado, sin que ella lo corrigiera, «el modo en que el sistema empieza a comportarse cuando deja de estar solo». No era justificación clínica. Era, sospechaba, la verdadera pregunta —pero no la que el formulario pedía responder.
+***
+Antonio llamó a Carlos al día siguiente, con dos versiones de la misma frase preparadas según cómo reaccionara. No necesitó las dos: Carlos siempre reaccionaba igual a las malas noticias envueltas en buenas cifras —las aceptaba, y después hacía la única pregunta que le importaba.
+—Hemos identificado un riesgo en los dos sujetos —dijo Antonio—. Bloqueos que, en algunos contextos, podrían no resolverse a tiempo. Hemos diseñado una mejora técnica para reducir el tiempo de respuesta.
+—¿Qué tipo de mejora?
+—Vamos a ampliar el canal entre los dos implantes. En vez de una verificación puntual, una conexión constante. Reduce el margen de segundos a milisegundos.
+—¿Esto es lo mismo que pedí que se redujera hace meses?
+—Es una ampliación del mismo canal, con un propósito clínico que entonces no existía. Entonces era una verificación sin función real. Ahora resuelve un problema que ya vimos materializarse dos veces esta semana.
+—¿Y la identidad colectiva de la que hablábamos entonces?
+—No hemos visto ningún indicio de eso. Lo que hemos visto es que el sistema funciona mejor con más de un sustrato donde buscar. Eso no es conciencia compartida. Es una base de datos más grande.
+—¿Y si se equivoca? —preguntó Carlos—. ¿Si esa base de datos empieza a comportarse como algo más, algo que ninguno reconocería hasta que fuera demasiado tarde para deshacerlo?
+—Lo sabremos. Para eso existe el informe mensual que me pide, en vez del trimestral que yo habría propuesto.
+Carlos se quedó mirando la mesa.
+—¿Valeria lo ha firmado?
+—Esta tarde.
+—Adelante, entonces. Pero informe mensual, no trimestral. Sin excepciones.
+—Lo tendrá —dijo Antonio, ya de pie.
+Carlos no preguntó cómo se llamaba técnicamente el cambio, ni el ancho de banda del nuevo canal, ni qué pasaba con los datos que empezarían a compartirse entre los dos sustratos. Antonio no se ofreció a decírselo.
+Bajando en el ascensor del ministerio, se preguntó si la insistencia de Carlos en el informe mensual era cautela política calculada o, simplemente, su manera de no dejar pasar mucho tiempo sin comprobar que las cosas seguían siendo lo que él creía. No tenía forma de saberlo. Después de catorce meses, seguía sin entender del todo a la única persona de la que dependía todo el proyecto.
+***
+Esa semana Marta no anotó nada nuevo en su tablet. Juan llegó a la hora, se fue a la hora, cerró el informe de Dinamarca antes de lo previsto. Si algo había cambiado dentro de él, no se notaba desde fuera de su despacho, y Marta, entrenada durante meses para notar justo ese tipo de cosas, no notó nada.
+***
+Inés recibió la solicitud de presupuesto: ampliación de infraestructura del canal, bajo la etiqueta que ella misma había abierto sin saber para qué. Asignó el importe sin pedir explicaciones. Llevaba tiempo suficiente en el proyecto para saber que, cuando una partida abierta por instinto terminaba teniendo nombre y cifra, ese instinto solía tener razón. Ya había pasado con el módulo compartido original, con los entornos adaptativos, con el propio fondo de contingencia: todo empezaba como una línea sin nombre claro, y para cuando alguien le ponía nombre, el dinero ya estaba comprometido y la decisión, tomada.
+***
+Antes de que acabara la tarde, el canal estaba listo. Solo había que revertir las restricciones que ellos mismos habían impuesto meses atrás. Sergio reconoció su propia firma en media docena de líneas de configuración, fechadas la misma noche en que el ministro dio la orden.
+—Es raro deshacer algo que hiciste tú mismo —dijo, sin levantar la vista del código.
+—Más raro es que la razón para deshacerlo sea mejor que la razón por la que lo hiciste —dijo Tomás.
+Comprobaron la integridad del canal seis veces, con el mismo rigor del primer P-3. Esta vez no hacía falta inventar ningún bloque nuevo: todos los puntos ya existían. Solo había que permitir que se ejecutaran sin la restricción del ministro.
+***
+Valeria le contó a Clara lo del canal esa noche, no porque tuviera que hacerlo, sino porque Clara notaría la diferencia en las próximas lecturas y prefería que lo supiera antes.
+—¿Es seguro? —preguntó Clara.
+—Es lo que dice el modelo.
+—Esa no es la pregunta que te he hecho.
+Valeria tardó en responder.
+—No lo sé —dijo, al fin—. Pero sé que treinta y dos segundos tampoco lo era.
+Clara se quedó callada, mirando la pantalla apagada de la consola.
+—¿Te lo preguntó alguien a ti, antes de pedirte que lo firmaras?
+—No. Lo firmé yo sola, porque era mi firma la que hacía falta.
+—Eso no es lo mismo que decir que sí.
+—No lo es —dijo Valeria—. Pero es lo más cerca que voy a llegar esta noche.
+***
+Activaron el canal a las nueve, con Juan y Ana ya en sus puestos.
+—Activando —dijo Sergio.
+La pantalla, que durante semanas solo se había encendido en sincronizaciones y alarmas, quedó encendida. Por primera vez, los dos canales aparecían juntos, sin ninguna ventana que los separara.
+—Coherencia de Juan en cero setenta y nueve —dijo Tomás—. De Ana, cero ochenta y uno. Sin variación en ninguno.
+—¿Algo en el acoplamiento cruzado? —preguntó Sergio.
+—Nada todavía. Es pronto.
+Tomás no apartó los ojos de la pantalla.
+—¿Y si tarda en aparecer? ¿Si no se ve el primer día, ni la primera semana?
+—Entonces lo seguiremos mirando la segunda. Y la siguiente.
+Pasaron quince minutos sin que ninguno de los dos números se moviera de un modo inexplicable por su actividad individual.
+—Tal vez no pase nada nunca —dijo Tomás—. Tal vez el canal esté ahí y solo se use para un bloqueo real, exactamente como dice el papel que hemos firmado.
+—Tal vez.
+Ninguno sonó convencido de su propia frase, y ninguno lo señaló en voz alta.
+***
+Sergio hizo su revisión nocturna, como cada noche. El canal del Sujeto 3 seguía igual: la misma línea plana, los mismos números bajando despacio, sin ningún eco que registrar.
+No pudo evitar pensar en la ironía de lo activado esa mañana. Un canal nuevo y ancho entre dos personas que todavía podían usarlo, mientras el canal de la tercera se acercaba, número a número, al día en que ya no habría nada que transmitir por ningún canal, ancho o estrecho.
+No escribió eso en ningún informe. Apagó la pantalla y se fue.
+En el pasillo, pasó por delante de la puerta cerrada del Sujeto 3, como cada noche. No se detuvo. No hacía falta: sabía qué había detrás sin comprobarlo —la misma línea plana, esperando, mientras al otro lado de la planta una línea nueva empezaba, esa misma noche, a no estar nunca completamente sola.

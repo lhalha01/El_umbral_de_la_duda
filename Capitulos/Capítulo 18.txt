@@ -1,0 +1,101 @@
+﻿Capítulo 18
+
+El mensaje de Fernández llegó antes de las siete de la mañana. El acceso a los microdatos había sido autorizado por el gobernador. Los datos estarían disponibles a partir de las nueve.
+A las nueve y cuarto Juan ya estaba dentro.
+Diego, el analista del laboratorio, llevaba en la oficina desde las ocho y media. Juan entró en el despacho sin decir nada, abrió la plataforma en la pantalla grande y señaló la primera tabla.
+—Necesito la serie de posiciones de depósito minorista agregadas por decil de saldo, mensual, desde enero de 2015 hasta diciembre de 2022 —dijo—. Separadas por entidad pero anonimizadas. Y la serie de tipos de interés pasivos medios por tramo, del mismo periodo.
+Diego abrió el cuaderno.
+—¿Las quieres en formato tabla o ya procesadas?
+—En tabla. Las proceso yo.
+Diego tardó cuarenta minutos en extraer las series. Las dejó sobre la mesa de Juan en una carpeta con tres pestañas: depósitos, tipos, y una tercera que Diego había añadido por su cuenta con el cruce entre las dos variables por fecha.
+Juan abrió la tercera pestaña, la miró un momento y la cerró.
+—La próxima vez no cruces sin que te lo pida —dijo.
+Diego anotó algo en su cuaderno y no respondió. Había aprendido al principio que ese tipo de observación no era una reprimenda sino una instrucción, y que la diferencia entre los dos era que la instrucción se cumplía y ya no volvía a hacer falta.
+Juan pasó el resto de la mañana con la tabla de depósitos. No usó ningún programa de análisis. Trabajaba directamente sobre los números, con un rotulador negro subrayando columnas y un cuaderno donde anotaba los cálculos intermedios a mano. Diego había dejado de encontrarlo extraño muy pronto: los resultados siempre eran correctos, y siempre llegaban antes que cualquier cosa que él hubiera podido generar con las herramientas habituales.
+A la una, Juan llamó a Diego desde el despacho.
+—El umbral no está en menos cero veinticinco —dijo, sin preámbulo—. Está en menos cero dieciséis. Y no es el mismo para depósitos por encima de cien mil que para los de menos. Los depositantes con más de cien mil reaccionan antes y más rápido. Hay dos curvas, no una.
+Diego miró sus propias notas.
+—En la metodología actual hay una sola curva de sensibilidad para todos los tramos de saldo.
+—Por eso la metodología es incorrecta —dijo Juan—. Necesito que construyas un modelo de dos curvas con los datos de esta mañana. Los supuestos están en el cuaderno. Esta tarde te los paso en limpio.
+Diego asintió y volvió a su mesa. Esa tarde tenía los supuestos. Al día siguiente tenía el modelo. Juan revisó el informe durante cuarenta minutos, señaló un error en la segunda curva que Diego corrigió al instante, y envió a Fernández un documento de doce páginas con el análisis, la propuesta metodológica y los datos comparativos del BCE de tres países europeos.
+La respuesta de Fernández llegó en un mensaje de tres líneas. La última decía: Hemos llevado el análisis al gobernador. Quiere una reunión próximamente con usted y con el representante de Frankfurt.
+Marta leyó el mensaje por encima del hombro de Juan.
+—La semana que viene tienes el comité de la Autoridad Bancaria el martes —dijo.
+—Que lo pasen al miércoles —dijo Juan.
+***
+La reunión con el gobernador y el representante de Frankfurt duró hora y media. Juan llegó con el análisis impreso en dos copias, una para cada uno, y con tres gráficas que había pedido a Diego el día anterior porque sabía que el gobernador prefería los datos en gráficas y el representante de Frankfurt prefería las tablas, y había preparado las dos versiones.
+Fue bien. El gobernador hizo tres preguntas, las tres pertinentes. El representante de Frankfurt propuso ampliar el análisis a los datos del BCE con metodología armonizada. Juan dijo que sí. Fernández no dijo nada que no fuera confirmar fechas.
+Cuando terminó, Juan se quedó en la sala recogiendo mientras los demás salían. Marta esperó en la puerta.
+Juan tenía los dos informes impresos sobre la mesa. Los cogió, los alineó, los metió en la carpeta. Luego se quedó con la carpeta en la mano mirando la mesa.
+—¿Qué has dejado? —preguntó Marta desde la puerta.
+—Nada —dijo Juan. Pero siguió mirando la mesa.
+Marta entró, miró la mesa. No había nada. La sala estaba vacía salvo por los dos vasos de agua sin terminar y las carpetas que Fernández había dejado olvidadas en su silla.
+—Las carpetas de Fernández —dijo Marta.
+—No son mías —dijo Juan, y salió.
+En el ascensor, Marta lo observó de reojo. No había sido nada. Una pausa de cinco segundos sobre una mesa vacía, nada que no pudiera explicarse con cuatro horas de reuniones seguidas y un problema técnico complejo que llevaba un tiempo consumiéndole más horas de las habituales.
+Aun así, cuando llegaron a la oficina, Marta abrió la segunda tablet, la que no era de trabajo, y anotó la fecha y una línea: Pausa. Sala de reuniones BdE. Cinco segundos, mesa vacía. Sin contexto claro.
+Lo cerró y no volvió a pensar en ello hasta que tuvo algo con qué compararlo.
+***
+En la Agencia del Agua, esa misma semana, Ana tenía convocada la reunión que llevaba aplazando desde hacía tiempo.
+El despacho de Ana en la cuarta planta no tenía silla de visitas. Lo había decidido así el primer año, cuando había diseñado el espacio, y nadie se lo había preguntado porque en once años nadie había necesitado sentarse en el despacho de Ana para una reunión que durara más de diez minutos. Las reuniones largas se hacían en la sala de trabajo de la unidad, con la pantalla grande y las carpetas sobre la mesa.
+Esa mañana había cuatro personas sentadas alrededor de la mesa de la sala: Rodrigo, la técnica de modelización Lara Souto, el representante de la confederación del Ebro que llevaba tiempo pidiendo respuesta sobre el contrato de Mequinenza, y un asesor jurídico de la confederación que el representante había traído sin avisar y que Ana miró un momento cuando entró antes de sentarse.
+—¿El asesor jurídico participa en la reunión técnica? —preguntó Ana, dirigiéndose al representante.
+—Hemos revisado el contrato de Mequinenza con el equipo jurídico —dijo el representante— y creemos que hay aspectos de la asignación de caudales que tienen implicaciones legales que—
+—Si hay implicaciones legales sobre el contrato vigente, la vía es la Asesoría Jurídica del Estado, no una reunión técnica en esta sala —dijo Ana—. Hoy revisamos el modelo de asignación de caudales de la central de Mequinenza para el periodo enero-abril. Si su asesor quiere estar presente en una reunión sobre el modelo técnico, puede estarlo. Si ha venido para discutir el contrato, necesitamos convocar a Asesoría Jurídica antes de seguir.
+El representante miró al asesor. El asesor cerró la carpeta que había abierto sobre la mesa.
+—Estoy aquí solo como observador técnico —dijo el asesor, con un tono que indicaba que eso no era exactamente lo que había planeado.
+—Bien —dijo Ana, y abrió el modelo en la pantalla grande.
+El contrato de la central hidroeléctrica de Mequinenza llevaba dieciocho meses generando conflicto entre la confederación del Ebro y la Agencia. El problema era técnico pero con consecuencias económicas directas: el contrato establecía una asignación de caudales mínimos para la turbinación que la confederación interpretaba de una forma y la Agencia de otra, y la diferencia entre las dos interpretaciones representaba aproximadamente treinta gigavatios hora anuales de producción eléctrica, que al precio actual del mercado equivalían a unos cuatro millones de euros por año.
+Ana había revisado el contrato original, los anexos técnicos, los informes de la confederación y los de la Agencia. Había construido un modelo que traducía el texto del contrato a parámetros operativos concretos y había corrido el modelo con los datos reales de caudal del último ciclo hidrológico.
+—El modelo con el texto del contrato —dijo Ana, abriendo la primera pantalla— da una asignación de caudal mínimo para turbinación de cuarenta y dos metros cúbicos por segundo en el tramo bajo. La confederación interpreta que ese mínimo se aplica como media mensual. La Agencia interpreta que se aplica como mínimo instantáneo, es decir, que el caudal no puede bajar de cuarenta y dos metros cúbicos por segundo en ningún momento del mes. La diferencia entre las dos interpretaciones, en términos de volumen anual disponible para turbinación, es de aproximadamente doscientos millones de metros cúbicos.
+—Eso es exactamente lo que hemos argumentado —dijo el representante—. Media mensual.
+—He revisado los trabajos preparatorios del contrato —dijo Ana—. Los informes técnicos de la comisión de negociación de 2019 utilizan en tres ocasiones la expresión caudal mínimo instantáneo al referirse a este tramo. La expresión media mensual no aparece en ningún documento preparatorio. El texto del contrato es ambiguo, pero los trabajos preparatorios no lo son.
+—Los trabajos preparatorios no forman parte del contrato —dijo el asesor jurídico, que había decidido que observar tenía sus límites.
+—No —dijo Ana—. Por eso he dicho que si hay implicaciones legales, la vía correcta es la Asesoría Jurídica del Estado. Lo que yo puedo decirles desde el modelo técnico es esto: la interpretación de la Agencia es consistente con los documentos preparatorios. La interpretación de la confederación, en cambio, genera en los meses de caudal bajo una extracción para turbinación que compromete el caudal ecológico del tramo bajo del Ebro en el delta. Eso no es una opinión jurídica. Es lo que dice el modelo con los datos reales de los últimos tres ciclos hidrológicos.
+El representante miró la pantalla. Los datos de caudal en el delta aparecían en tres columnas: caudal real, caudal ecológico mínimo exigido por la normativa europea, y diferencia. En los meses de febrero y marzo de los tres ciclos anteriores, la diferencia era negativa con la interpretación de media mensual.
+—¿Cuántos meses en los últimos tres años? —preguntó Rodrigo, desde su silla, mirando la pantalla.
+—Siete —dijo Ana—. Siete meses en los últimos tres años en que la interpretación de media mensual habría generado un déficit de caudal ecológico en el delta. Cuatro de ellos coinciden con el periodo de freza del esturión europeo, que está en la lista de especies protegidas del Convenio de Berna.
+El asesor jurídico ya no tenía la carpeta cerrada.
+—¿Ese dato está en algún informe de la Agencia? —preguntó.
+—Está en el modelo —dijo Ana—. Si quieren el modelo completo con los datos de los tres ciclos y la tabla de coincidencia con el calendario de freza, lo tienen antes del viernes.
+El representante de la confederación miró al asesor. El asesor lo miró a él.
+—Vamos a necesitar revisar nuestra posición —dijo el representante.
+—El viernes —dijo Ana.
+***
+El modelo del Segura llevaba ya un tiempo en construcción y era el más complejo que la unidad había desarrollado en los últimos años. Ciento cuarenta y siete variables de entrada, cinco criterios de prioridad que tenían que resolverse de forma secuencial, y un sistema de actualización automática que incorporaba los datos de precipitación de Aemet cada cuarenta y ocho horas. Era el modelo que determinaría los criterios de asignación hídrica en la cuenca durante los próximos cinco años de planificación hidrológica.
+Ana llevaba ya un tiempo revisando el bloque de variables cuarenta a sesenta, que era el que gestionaba la competencia entre riego y abastecimiento urbano en los municipios del área metropolitana de Murcia. Era el bloque más sensible del modelo porque afectaba a seiscientas mil personas directamente y a tres comunidades de regantes con concesiones antiguas que tenían prioridad legal sobre las necesidades urbanas en caso de escasez grave. Calibrar ese bloque era, a la vez, un problema técnico, legal y político que la Agencia llevaba dos legislaturas sin resolver.
+Esa mañana Ana había llegado a la variable cincuenta y tres, que era el coeficiente de elasticidad de la demanda urbana ante restricciones temporales, y se había detenido.
+El valor que tenía en la pantalla era cero punto cuarenta y uno. Ella lo había puesto. Estaba en el historial de cambios, con su nombre y una fecha reciente.
+No recordaba haberlo puesto.
+No era que el número fuera incorrecto. Lo miró, revisó la justificación técnica en la columna lateral, comparó con los datos de referencia de estudios de elasticidad de demanda urbana de la literatura especializada. Cero punto cuarenta y uno era el valor correcto para un área metropolitana de esas características en un escenario de restricción moderada. Era exactamente lo que ella habría calculado si se lo hubieran preguntado en ese momento.
+Lo que no encontraba era el camino que había seguido para llegar a ese número.
+Rodrigo entró con la actualización de los datos de precipitación de la semana.
+—Los acumulados de diciembre en la cuenca alta del Segura están un veintidós por ciento por debajo de la media histórica —dijo, dejando la carpeta sobre la mesa—. ¿Afecta al escenario base del modelo?
+Ana miró la variable cincuenta y tres una vez más. Luego cerró esa pantalla y abrió la de parámetros hidrológicos.
+—Dame los datos de diciembre de los últimos diez años para la cuenca alta —dijo—. Necesito ver si la desviación de este año está dentro de la variabilidad histórica o es un dato atípico.
+—¿Los quieres para hoy?
+—Para esta tarde.
+Rodrigo salió. Ana volvió a abrir la pantalla de la variable cincuenta y tres. El valor seguía siendo cero punto cuarenta y uno. El historial seguía diciendo lo mismo: su nombre, la fecha.
+Lo cerró y pasó a la variable cincuenta y cuatro.
+***
+El proyecto con la Autoridad Bancaria Europea tenía tres fases y un plazo de seis meses. Juan había diseñado la estructura completa en una reunión de dos horas con el representante de Frankfurt en la que el representante había hecho las preguntas y Juan había respondido con las fases, los recursos necesarios, los riesgos de cada tramo y los criterios de éxito. Al final de la reunión el representante había preguntado cuándo podían empezar. Juan había dicho: el lunes.
+Llevaban meses. La segunda fase estaba en construcción, con el equipo de Carmen trabajando en el marco regulatorio.
+Una tarde, Carmen entró en el despacho de Juan con la versión cuatro del documento.
+—Hay un problema en el criterio de comparabilidad —dijo, abriéndolo por la página dieciocho—. La ABE exige que los modelos internos sean comparables entre entidades para el mismo tipo de riesgo, pero los cuatro bancos tienen definiciones distintas de exposición en cartera hipotecaria. Si aplicamos el criterio tal como está redactado, tres de los cuatro tendrán que rehacer su definición de exposición desde cero. Eso no lo van a aceptar.
+Juan leyó la página dieciocho. Pasó a la diecinueve. Volvió a la dieciocho.
+—El problema no es el criterio de comparabilidad —dijo—. El problema es que estáis aplicando el criterio a la definición de exposición en lugar de aplicarlo a la metodología de cálculo de pérdida esperada. La definición de exposición puede ser distinta entre entidades siempre que la metodología de traducción de esa exposición a pérdida esperada sea comparable. La ABE no exige que los inputs sean idénticos. Exige que el proceso de cálculo sea transparente y reproducible con cualquier definición de exposición razonable.
+—Aquí dice comparabilidad de los modelos —dijo Carmen, señalando el párrafo.
+—Lee la nota al pie —dijo Juan.
+Carmen leyó la nota al pie. Era una aclaración técnica de tres líneas que especificaba exactamente lo que Juan acababa de decir. No había estado en ninguna de las tres versiones anteriores del análisis porque nadie la había leído, o la habían leído y no habían conectado su contenido con el problema.
+—Si el criterio aplica a la metodología y no a la definición de exposición —dijo Carmen, despacio—, entonces no tenemos que pedirles que rehagan nada. Solo que documenten cómo traducen su definición específica al cálculo.
+—Eso es —dijo Juan.
+—¿Por qué no está esto en la versión cuatro?
+—Porque hasta ahora nadie había leído la nota al pie.
+Carmen recogió el documento.
+—Lo corrijo esta tarde. ¿Lo revisas mañana?
+—Sí.
+Carmen salió. A las ocho de la noche Diego llegó con la actualización del modelo de dos curvas. Juan lo revisó durante veinte minutos, señaló una inconsistencia en el tratamiento de los outliers.
+—El problema no es el método de winsorización —dijo—. Los outliers no son ruido. Son los primeros depositantes que reaccionan antes del umbral. Si los estás eliminando, estás perdiendo la señal más valiosa de la curva.
+—¿Los dejamos dentro?
+—Los marcamos como observaciones de alerta temprana y construimos una tercera curva para ese segmento.
+Diego anotó y se fue. Juan cerró el modelo y abrió el documento de la ABE. En algún momento llegó a una tabla de la página veintidós y estuvo mirándola durante más tiempo del habitual. No era que no entendiera los parámetros. Los entendía perfectamente. Era otra cosa, algo más difícil de nombrar, como si la tabla fuera familiar pero desde una distancia que antes no existía. Pasó a la página veintitrés y siguió leyendo.

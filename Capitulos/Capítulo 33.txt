@@ -1,0 +1,154 @@
+﻿Capítulo 33
+
+Ana abrió los ojos cuatro días después de Juan, siguiendo el margen que Valeria había defendido desde el principio: ni un día antes. Era, casi al día, el mismo margen que ella misma había calculado semanas atrás, cuando todavía no sabían si Juan llegaría a despertar.
+El procedimiento fue el mismo, paso a paso, con el mismo equipo en las mismas posiciones. Sergio repasó los doscientos cuarenta y ocho electrodos antes de empezar: todos operativos, dentro de rango.
+Nadie lo dijo en voz alta, pero la sala tenía una temperatura distinta a la del despertar de Juan. No más fría ni más tensa: distinta. La primera vez no habían sabido qué esperar. Esta vez sí, y descubrieron que no era necesariamente más fácil.
+Los primeros pasos fueron idénticos a los de Juan: ningún cambio más allá del ruido habitual. Tomás no anotó nada nuevo. La coherencia bajó despacio en ambos casos, sin sobresaltos, mientras esperaban la primera señal de que el sustrato de Ana respondía distinto al de Juan. No la hubo.
+—Reactividad vascular dentro de margen —dijo Clara, comprobando la presión—. Noventa y cuatro sobre sesenta. Primera vez que se mantiene estable a este nivel de reducción.
+—El drenaje glinfático dejó el sustrato limpio —dijo Tomás—. Mejor de lo esperado.
+Lo único distinto llegó en el cuarto paso: la frecuencia cardíaca subió a noventa y uno de golpe, no de forma gradual.
+—Ahí está —dijo Tomás—. Igual que en el primer intento.
+—Coherencia espectral —pidió Valeria.
+—Cero setenta y siete —dijo Sergio—. Bajando un poco, pero sin la caída de entonces.
+—Esperamos.
+La frecuencia se mantuvo, sin seguir subiendo. Un minuto después empezó a bajar sola: ochenta y siete, ochenta y dos, setenta y nueve.
+—Se está resolviendo —dijo Sergio—. El motor RAG absorbió el pico sin que la coherencia se separase.
+—No es lo mismo que la primera vez —dijo Tomás.
+—No —confirmó Valeria—. Seguimos.
+Llegaron al sexto paso sin más sobresaltos. Cuando el párpado izquierdo de Ana se mantuvo abierto más de un segundo, nadie dijo nada: ya sabían lo que venía.
+Los ojos se abrieron, enfocaron el techo y se movieron hacia el sonido de la consola.
+—¿Me oye? —preguntó Clara.
+Ana tardó en responder. Cuando lo hizo, su voz salió más clara que la de Juan cuatro días atrás, como si hubiera decidido de antemano cuánto esfuerzo permitirse mostrar.
+—¿Dónde estoy?
+—En el hospital —dijo Clara—. Ha tenido una caída. Lleva un tiempo recuperándose.
+Ana cerró los ojos, los volvió a abrir, miró su mano sobre la sábana, después la vía, después a Clara.
+—¿Cuánto tiempo?
+—Un tiempo —dijo Valeria, acercándose—. Soy la doctora Ortiz. ¿Recuerda algo de la caída?
+—No. Recuerdo que salí a caminar. Nada después de eso.
+—Es normal. ¿Sabe su nombre?
+—Ana Moreira.
+—¿Y a qué se dedica?
+Tardó un segundo, el mismo que había tardado Juan por una razón distinta.
+—Dirijo una unidad en la Agencia del Agua. El modelo del Segura. —Una pausa breve, calculando—. ¿Cuánto tiempo lleva sin cerrarse el bloque de variables ochenta a cien?
+Clara y Sergio cruzaron una mirada. Valeria no.
+—Eso no tiene que preocuparle ahora —dijo Valeria—. Su unidad está gestionada.
+—¿Por quién?
+—Por las personas que usted dejó preparadas. Ahora, a descansar.
+Ana no insistió, aunque tampoco pareció convencida. Cerró los ojos, no por agotamiento sino, pensó Clara, porque había decidido que seguir preguntando no le daría mejor información que la que ya tenía.
+—¿Coherencia? —preguntó Valeria.
+—Cero setenta y nueve —dijo Sergio—. Estable durante toda la conversación.
+—¿Algo que no encaje? —preguntó Tomás.
+Sergio repasó la traza completa, igual que había hecho con Juan.
+—Nada. El nombre, el trabajo, la pregunta sobre el Segura. Todo dentro de lo que el perfil predecía.
+Antonio, que había entrado sin que nadie lo notara, asintió una vez desde la puerta.
+—Dos de dos —dijo Valeria, sin dirigirse a nadie en particular.
+Nadie le preguntó qué habría dicho si alguno hubiera fallado, y ella no lo dijo tampoco.
+***
+Antonio llamó a Carlos esa tarde.
+—El Sujeto 2 ha despertado —dijo—. Una respuesta autonómica leve en el cuarto paso, resuelta sola.
+—¿Y la pregunta que te preocupaba? —preguntó Carlos—. Si preguntaba por los meses anteriores al accidente.
+—Ha preguntado por su trabajo, no por su salud. Es lo que el sistema está diseñado para que pregunte.
+—¿Los dos están limpios? —dijo Carlos—. Lo que importa.
+—Los dos. Ninguno ha mencionado nada fuera del guion. Ninguno ha preguntado por un diagnóstico que no recuerdan tener.
+—Avísame con la reinserción.
+Colgó sin despedirse, que en Carlos era señal de satisfacción.
+Antonio se quedó con el teléfono en la mano, sin moverse. Carlos no había preguntado por Raquel ni una vez desde que el proyecto empezó a funcionar con los otros dos. Podía significar que ya no le importaba, o que le importaba demasiado para arriesgarse a preguntar. No había forma de saberlo, y preguntárselo directamente habría revelado más de lo que Antonio quería descubrir de él.
+***
+Hugo se reunió con Valeria al día siguiente.
+—Necesito que me confirmes algo —dijo—. El historial entregado a cada hospital no contempla el diagnóstico real. Si alguno preguntara por qué estaba siendo evaluado antes del accidente, no tengo respuesta preparada: cualquiera abriría más preguntas de las que cierra.
+—No va a preguntarlo —dijo Valeria—. Porque no lo tiene. El motor reconstruyó la carrera, las relaciones, el modo de pensar. Lo único que sustituyó del todo fue el tramo final, el que llevaba al ingreso. Ahí no hay hueco que rellenar: hay un recuerdo entero de una caída. No echan en falta nada porque no saben que falta algo.
+Hugo asintió, sin quedar del todo tranquilo.
+—¿Y si alguno intenta reconstruir esas semanas por su cuenta? —preguntó, ya en la puerta—. Como Juan con el modelo de las dos curvas, la noche antes de ingresar.
+Valeria no había pensado en eso.
+—Encontraría el mismo tipo de hueco —dijo—. Solo que esta vez no sabría que es un hueco. Encontraría un recuerdo completo, sin motivo para no creerlo.
+Hugo cerró la carpeta y salió sin hacer ruido.
+***
+En administración, Inés actualizó el parte de turnos para incluir al Sujeto 2 en la misma estructura ya activa para el Sujeto 1: Clara cubriendo ambas habitaciones, Sergio y Tomás rotando en bloques de doce horas, Valeria disponible de forma permanente. Comprobó que los huecos de cobertura seguían en cero y lo archivó.
+El fondo de contingencia seguía sin asignar, semanas después de abrirlo, mucho antes de que existiera ningún sujeto al que aplicárselo. Empezaba a pensar que tal vez no haría falta tocarlo nunca —y esa idea la inquietaba más que la contraria.
+***
+Pasada la medianoche, Clara entró a comprobar a Ana —del Sujeto 2, se corrigió, aunque cada vez le costaba menos el cambio inverso—. Dormía sin sedación de fondo, con la misma respiración superficial que había visto en Juan.
+Comprobó las constantes. Nada que ajustar.
+Sabía, por el expediente, que Ana vivía sola: no comía con nadie por costumbre, desaparecía los fines de semana a caminar sin avisar de la ruta. Se preguntó si alguien fuera de esa habitación se habría dado cuenta antes que ella misma, si no hubiera sido por un modelo de un río que dejó de cerrarse a tiempo.
+Apagó la luz y cerró la puerta.
+Cruzó el pasillo hasta el fondo, como siempre. El panel del Sujeto 3: frecuencia cardíaca en cuarenta y dos, presión setenta sobre treinta y seis, saturación al ochenta y cinco.
+Entró. Comprobó la vía, verificó la perfusión, ajustó la manta térmica, en el mismo orden de siempre. Nada había cambiado desde la noche anterior salvo los números, que seguían bajando. Antes de salir se quedó un momento junto a la cama, igual que había hecho con Ana al otro lado del pasillo. Raquel respiraba con esa cadencia lenta que Clara ya conocía de memoria. No dijo nada. Apagó la luz y cerró la puerta.
+***
+Marta vio a Juan por primera vez dos días después de la llamada. Fue en una sala sin ventanas, con dos sillas y una mesa que no era la suya. Juan llevaba una manta sobre las piernas que no parecía necesitar y no se quitó en toda la visita.
+—Estás más delgado —dijo Marta, sin sentarse todavía.
+—Eso me han dicho. Siéntate.
+Se sentó. Ninguno dijo nada durante un momento, lo cual, después de catorce años, no era extraño entre ellos.
+—¿Cómo va la Autoridad Bancaria? —preguntó Juan.
+—Carmen lo ha cerrado. Aceptaron la revisión del umbral sin discutirlo. El gobernador firmó la semana pasada.
+Juan asintió.
+—¿Y el Banco de España?
+—Fernández sigue esperando que el comité valide el ajuste con los datos de Dinamarca. No hay fecha.
+—Va a autorizarlo. Solo que tarde.
+Marta sonrió: lo que acababa de oír se parecía tanto a lo que él habría dicho cualquier otro día que casi le costó reconocerlo como alivio.
+—¿Te acuerdas de algo más? ¿De la caída?
+—No. Me dijeron que es normal, que la memoria del incidente casi nunca vuelve.
+—¿Te molesta no saberlo?
+Juan consideró la pregunta con la misma atención que le habría dado a un dato incompleto.
+—No. Lo que me molesta es el tiempo perdido. Lo otro es solo un hueco. Los huecos se gestionan.
+En la consola, a varios kilómetros, Sergio observaba la traza de coherencia sin que nadie le hubiera pedido especial atención a esa visita. Se mantenía estable, dentro de lo esperado para una conversación de baja carga emocional con un interlocutor familiar.
+—Sin bloqueos —le dijo a Tomás—. Ni uno.
+—Era la visita más fácil que iban a tener —dijo Tomás—. Guárdate la confianza para la próxima.
+Esa noche Marta abrió la tablet donde llevaba un registro aparte desde hacía meses y escribió: Primera visita después del coma. Sin pausas. Habló de la ABE y del Banco de España como si nunca hubiera dejado de seguirlos.
+La guardó en el cajón donde llevaba guardándola desde la primera pausa que había anotado, hacía más tiempo del que le gustaba admitir.
+***
+Un día después, Valeria reunió al equipo para dar el visto bueno a la reinserción completa.
+—Jornada completa —dijo—. Sin reuniones externas todavía. Si algo falla, mejor que falle delante de gente que ya conoce la versión a sostener, no delante de un cliente.
+—¿Tan pronto? —preguntó Hugo—. Después de un coma de esa duración, lo normal es progresivo.
+—Lo normal, sí. Pero cuanto más tiempo esté medio dentro y medio fuera, más oportunidades tiene alguien de notar la diferencia. Prefiero un día entero bien vigilado que dos semanas de medias jornadas sin saber del todo qué vigilamos.
+—Marta cree lo mismo que Carmen —dijo Hugo—. Que tuvo un coma y está volviendo. La diferencia es que Marta lleva catorce años leyendo a Juan y tiene sus propias notas. Lo que crea no será exactamente lo que creía antes, no porque sepa algo, sino porque ha visto cosas que no sabe interpretar.
+—Eso no cambia nada —dijo Antonio—. Cuanto menos sepa, menos tiene que actuar. Y Marta no sabe nada.
+Sergio y Tomás montaron esa mañana el puesto de supervisión remota, en una sala sin nombre a quince minutos de las oficinas de Ferreira & Vidal. Una sola pantalla, en espera.
+—¿Listo? —preguntó Tomás.
+—Listo. Próxima sincronización a las diez. Antes de eso, nada salvo que la unidad de control dispare una alarma.
+—¿Y si no dispara nada?
+—Entonces no sabemos nada hasta las diez. Así está diseñado.
+Juan entró en Ferreira & Vidal a las nueve en punto. La recepcionista, que sabía exactamente lo que la normativa le permitía saber, lo saludó con una frase corta y nada más. Nadie en la sala de supervisión lo supo en ese momento.
+Marta lo esperaba en su despacho.
+—Carmen tiene la versión cinco del documento de la ABE —dijo, igual que cualquier otro día—. Incorporó el ajuste de la nota al pie. Quiere que lo revises antes de mediodía.
+—Tráela.
+Carmen entró diez minutos después, con la misma cautela que mantenía desde el mensaje que se había cruzado con Marta meses atrás.
+—Bienvenido —dijo—. Me alegro de que esté mejor.
+—Gracias. Enséñame la página dieciocho.
+Juan leyó en silencio, a la misma velocidad de siempre. Nadie en el edificio anexo sabía que estaba leyendo nada. Llegó a la tabla de la página veintidós y se detuvo. Carmen esperó, como había aprendido a esperar cuando él se detenía así.
+En la sala de supervisión, la pantalla se encendió sola.
+—Alarma —dijo Sergio—. Sincronización de emergencia.
+Tomás se acercó.
+—¿Qué tenemos?
+—Coherencia en cero setenta y nueve al empezar a transmitir, hace dos segundos. Bajando.
+—¿Bloqueo?
+—Es lo que ha disparado la alarma. Está buscando algo.
+Cuatro segundos. Cinco enteros.
+—Aquí dice que el ajuste cubre tipos negativos sostenidos por encima de doce meses —dijo Juan, al fin, señalando la tabla—. ¿Habéis revisado si el umbral se mantiene con los datos de Dinamarca del último trimestre?
+Carmen, que no había notado más que una pausa habitual de lectura, consultó sus notas.
+—No. Lo reviso esta tarde.
+—Hazlo. Si el umbral se mueve, el documento entero necesita ese ajuste antes de Frankfurt.
+—Cero ochenta y tres —dijo Sergio—. Recuperada. El registro marca un fragmento sobre Dinamarca en el sustrato. Lo trató como laguna de recuperación normal, no como bloqueo.
+Tomás soltó el aire que llevaba conteniendo.
+—Cinco segundos —dijo—. El margen más largo desde que despertó.
+—Es lo que tarda un analista bueno en acordarse de un dato que no tiene delante —dijo Sergio—. Nadie en ese despacho lo ha notado como algo raro.
+La pantalla volvió a quedarse en espera. En el despacho, Carmen recogió la carpeta y salió. Juan se quedó mirando la mesa vacía un momento antes de pasar página. De eso, nadie en el edificio anexo supo nada.
+Antonio entró en la sala de supervisión sin avisar.
+—¿Cómo va?
+—La rutina de las diez no trajo nada —dijo Tomás—. A las diez y veinte saltó una alarma: una laguna de cinco segundos, resuelta sola, sin que nadie en el despacho la notara.
+—¿Qué tipo de laguna?
+—Un dato concreto, no un bloqueo de identidad —dijo Sergio—. El sistema sabía qué buscaba. Solo tardó en encontrarlo.
+—¿Y desde entonces?
+—Silencio. La próxima rutina es a las once.
+—¿Cuánto tiempo más hoy?
+—Hasta las seis. Jornada completa, como dijo Valeria.
+—Avisadme cuando lo sepáis —dijo Antonio, y se fue.
+Juan salió a las seis y media, según lo previsto. Marta lo acompañó hasta el ascensor.
+—¿Mañana?
+—Mañana. Y dile a Carmen que quiero los datos de Dinamarca antes de las nueve, no después de comer.
+Marta no sonrió, pero algo en ella se relajó como no lo había hecho en días anteriores.
+—Se lo digo.
+La sincronización de las doce llegó sin nada que anotar. Sergio dejó la pantalla en espera, último dato: cero ochenta y dos.
+—Jornada completa —dijo Tomás—. Nueve sincronizaciones rutinarias y una alarma. Ningún bloqueo real, al final.
+—Es mejor de lo que esperaba —dijo Sergio.
+—Es mejor de lo que cualquiera esperaba —dijo Tomás—. Eso es justo lo que me preocupa.
+Sergio no respondió. Apagó la pantalla, y la sala quedó vacía hasta el día siguiente.
+Antes de irse, Tomás anotó algo más en el cuaderno, una línea que no leyó en voz alta y que Sergio no le preguntó qué decía.

@@ -1,0 +1,92 @@
+﻿Capítulo 41
+
+Sergio encontró los dos fragmentos esa misma noche, revisando el registro de indexación, como había empezado a hacer desde que abrió el documento de la discrepancia.
+El sistema llevaba, desde el diseño original, una taxonomía de dominios para cada sujeto: para Juan, regulación bancaria, análisis de riesgo, sistemas financieros; para Ana, gestión de cuencas, modelización hidrológica, derecho administrativo del agua. Cualquier fragmento indexado tenía que encajar en alguna de esas categorías. El sistema estaba diseñado para señalar, no para impedir, cuando algo no encajaba del todo.
+El primero llevaba la categoría que el motor asignaba a cualquier contenido inclasificable: sin clasificar, alta confianza. Lo había indexado con la misma seguridad de siempre. Solo que sin saber dónde archivarlo.
+El segundo tenía la misma estructura, en el sustrato del Sujeto 2.
+Desde esa noche revisaría el registro cada noche, no solo en el resumen rutinario. Nadie se lo había pedido: simplemente, dejar de mirar le parecía más peligroso que seguir mirando.
+Antes de llamar a nadie, retrocedió hasta el origen de cada fragmento.
+***
+Carmen le había llevado a Juan esa mañana el memorando de la ABE sobre validación trimestral de modelos internos: un documento administrativo que normalmente delegaban en un junior. Juan lo había firmado siempre sin comentario, en menos de un minuto.
+—Quieren que lo revisemos antes de que Fernández lo lleve al comité —dijo Carmen—. Es un trámite.
+Juan lo leyó más despacio de lo que el documento merecía.
+—Esto no se puede haber aprobado así —dijo, al fin.
+—¿El qué?
+—La validación del modelo de riesgo de crédito está fechada el doce. El informe del comité de revisión interna, que tiene que precederla según su propio reglamento, está fechado el catorce. Dos días después de lo que aprueba.
+Carmen miró la tabla. No vio nada raro a primera vista.
+—Puede ser un error de imprenta.
+—Puede ser. Pero si no lo es, validaron el modelo antes de que el comité lo revisara, y después generaron el papel que dice lo contrario. Eso no es un error de fecha. Es un fallo de gobernanza que alguien tendría que señalar antes de que llegue a ningún comité.
+Carmen lo miró un momento. No era que Juan se equivocara —rara vez lo hacía—. Era que ese tipo de observación, sobre el orden procedimental de un comité, no era lo que Juan solía mirar. Juan miraba números, modelos, coeficientes. No quién firmaba qué, ni cuándo.
+—¿Quieres que lo confirme con Fernández?
+—Confírmalo. Y dile que si las fechas son correctas, la ABE necesita revisar su propio procedimiento antes de pedirle a nadie más que revise el suyo.
+Carmen llamó a Fernández esa tarde, con la pregunta exacta de Juan.
+—¿Quién se ha dado cuenta de eso? —preguntó Fernández, tras un silencio.
+—Juan. Antes de llegar a la parte que de verdad nos interesa.
+—Dile que tiene razón. Y que llevamos dos años con ese fallo sin que nadie en la ABE lo viera. Voy a tener que escalarlo, y va a ser incómodo para alguien.
+Carmen no le contó a Juan esa última parte. Solo que tenía razón, que era exactamente lo que necesitaba saber para seguir con la página siguiente.
+Esa tarde le mandó a Marta el mensaje de siempre: algo raro, nada grave, te lo cuento si quieres. Marta respondió al día siguiente, solo para decir que lo apuntaba.
+No le dio mucha importancia al principio. Lo archivó en la misma carpeta mental donde guardaba las pausas de Juan, los segundos de más, las veces que tardaba en encontrar algo que debería tener a mano. No se dio cuenta de la diferencia hasta más tarde, ya acostada: las otras veces, Juan perdía algo. Esta vez había encontrado algo que no debería haber sabido buscar.
+Se vieron al día siguiente, en el pasillo, antes de la reunión de las nueve.
+—¿Qué fue lo de ayer? —preguntó Marta.
+—Una fecha mal puesta en un memorando de la ABE —dijo Carmen—. Juan se dio cuenta en dos minutos. Yo lo habría firmado sin mirarlo.
+—¿Y eso es raro?
+—Lo raro no es que se diera cuenta. Es de qué se dio cuenta. Juan no mira procedimientos internos de quién firmó qué. Mira números.
+Marta no dijo nada durante un momento.
+—Desde el coma se fija en cosas distintas —dijo, al fin—. Lo había notado antes, pero pensé que era solo que iba más despacio, recuperándose. Esto es lo contrario de despacio.
+Carmen no supo qué responder. Se quedaron un momento en el pasillo, calladas, hasta que la reunión empezó.
+***
+Rodrigo le había pasado a Ana esa misma tarde la documentación de una concesión menor en el bajo Segura, del tipo que ella normalmente firmaba sin leer entero.
+Ana lo leyó completo, como todo desde que había vuelto.
+—Esto no cumple el trámite —dijo, al fin.
+—¿El caudal? —preguntó Rodrigo—. Está dentro de los márgenes...
+—No el caudal. La exposición pública. El expediente dice treinta días, del cuatro al tres del mes siguiente. Pero el cuatro fue domingo: el plazo legal no puede empezar a contar en día no hábil. Si alguien lo impugna, la concesión cae por defecto de forma.
+Rodrigo revisó las fechas. Tenía razón, y no en el caudal, sino en algo que no tenía nada que ver con el caudal.
+—Eso no es algo que sueles mirar —dijo, casi sin pensarlo.
+—Alguien tiene que mirarlo —dijo Ana, ya en la siguiente carpeta.
+Rodrigo se quedó con el expediente en la mano. Esa frase, que en sí misma no tenía nada de extraño, le sonó como si la hubiera dicho otra persona.
+Sin decirle nada a Ana, mandó una consulta informal al servicio jurídico: ¿un día festivo podía contar como inicio del plazo? La respuesta fue la misma que Ana ya había dado: no. El servicio jurídico no preguntó por qué quería saberlo, y Rodrigo, que normalmente habría explicado el motivo, esta vez no se lo dijo a nadie.
+No era la primera vez que tenía esa sensación desde que Ana había vuelto. La había tenido con la variable ochenta y siete, resuelta en una mañana tras meses bloqueada. La había tenido con la pregunta sobre su propia rotación, dicha de pasada pero con un peso que no le sonó casual. Cada una por separado tenía explicación razonable. Juntas empezaban a formar algo que Rodrigo no sabía cómo llamar, ni se atrevía a nombrar ni para sí mismo.
+***
+Clara hizo su ronda antes de que Sergio llamara a Tomás, sin saber nada de lo que ocurría al otro lado de la planta. Las constantes del Sujeto 3 seguían el mismo patrón: un punto menos aquí, otro allá, nada distinto de las cien anotaciones anteriores. Antes de salir se detuvo un momento con los ojos en la pantalla, sin saber que esa misma noche alguien estaba a punto de descubrir hasta qué punto esa línea plana no lo era tanto.
+***
+Sergio llamó a Tomás esa noche, la primera llamada desde que abrió el documento de la discrepancia.
+—Necesito que veas algo —dijo, sin preámbulos—. Y necesito enseñarte algo más antes, o no vas a entender por qué me importa esto.
+Tomás llegó cuarenta minutos después. Sergio le abrió primero el documento viejo —la cifra que no cerraba, la correlación con los picos del Sujeto 3, los tres ejemplos con marca de milisegundos— y dejó que lo leyera entero.
+—¿Cuándo lo descubriste?
+—Anoche.
+—¿Y no llamaste?
+—Lo estoy diciendo ahora. Mira esto primero.
+Le enseñó los dos fragmentos nuevos. Tomás los leyó dos veces: la primera en silencio, la segunda en voz alta, como si decirlo ayudara a creerlo.
+—Esto no es como el perfume de la gala —dijo—. Ni como el alivio que el sistema le puso a Ana en el recuerdo, cuando discutíamos si era anomalía o inferencia razonable. Aquello era el motor rellenando un hueco con algo plausible desde el propio perfil. Esto no es plausible desde ningún perfil que tengamos cargado. Juan no audita procedimientos de validación de la ABE. Ana no revisa plazos de exposición pública. No es lo que hace ninguno de los dos.
+—No —dijo Sergio—. Es lo que hace otra persona completamente distinta.
+Para encontrar los dos fragmentos había buscado contenido sin clasificar. Antes de llamar a Tomás repasó todo lo registrado desde la activación con ese criterio, sin encontrar nada más. Pero pensó en algo que el criterio dejaba fuera: un fragmento que el motor hubiera clasificado con tanta confianza que ni apareciera como anómalo. Cambió la búsqueda: en vez de lo sin clasificar, buscó fragmentos de alta confianza sin origen registrado en el historial de aprendizaje del sujeto —una combinación que, en condiciones normales, no debería darse nunca.
+Encontró un tercero.
+Había ocurrido en el comité de planificación, el día anterior. Según el acta, Ana había señalado que un expediente de concesión de pozos llevaba el sello de un funcionario de baja médica esa semana. Nadie le dio importancia entonces —era el tipo de detalle que se resuelve con una llamada— y quien tomaba el acta solo anotó al margen: Ana tiene razón, raro que se fijara en esto. Comprobado después, el funcionario confirmó la baja, y el sello llevaba semanas usándolo otra persona sin que nadie actualizara el registro de firmas. Era exactamente el tipo de fallo que un sistema de control bien diseñado debería detectar solo, y que ese departamento nunca había detectado.
+Tres fragmentos. Dos detectados por quien los recibía, sin saber que detectaba algo fuera de lo normal. Uno ni siquiera registrado como digno de mención, archivado y olvidado la misma tarde.
+—Si hay tres que hemos encontrado buscando a propósito —dijo Tomás—, ¿cuántos más no hemos encontrado?
+—No lo sé. El primero no generó alarma porque no fue un bloqueo, sino lo contrario: una respuesta perfecta, sin coste de tiempo. El sistema no está diseñado para sospechar de las respuestas que llegan demasiado bien.
+—Eso es peor que lo que pensaba hace cinco minutos —dijo Tomás, casi para sí mismo—. Si el sistema puede clasificar esto como suyo sin que nadie lo note nunca, ¿cómo sabemos que estos tres son los únicos?
+—No lo sabemos. Sabemos que son los únicos que hemos encontrado buscando con cuidado. No es lo mismo.
+Los dos lo sabían.
+—¿Y si lo decimos y resulta que nos equivocamos? —preguntó Tomás, antes de irse—. ¿Si es solo una coincidencia muy elaborada?
+—Entonces habremos quedado como dos paranoicos —dijo Sergio—. Prefiero eso a la otra posibilidad.
+Decidieron no llamar a Valeria esa noche. No por falta de urgencia, sino porque los dos coincidieron en que esto merecía decírselo con la cabeza despierta, no a la una de la madrugada tras un descubrimiento encima de otro.
+Tomás no se fue enseguida. Se quedó en el coche, en el aparcamiento, casi media hora sin arrancar, pensando en lo que él mismo había dicho semanas atrás en la cafetería: que no sabía si lo que iba a despertar sería Juan, o algo que funcionaba como Juan. Entonces la pregunta le había parecido sobre la identidad. Esta noche, por primera vez, le pareció sobre la aritmética: cuánto de lo que hay dentro de alguien sigue siendo esa persona, y en qué punto exacto deja de serlo, sin que haya un momento concreto donde señalar el cambio.
+***
+Llamaron a Valeria a la mañana siguiente, antes de la reunión.
+Escuchó los dos casos completos sin interrumpir. Pidió ver los expedientes enteros —el memorando de la ABE con la anotación de Juan, el acta con la de Ana. Los leyó y los dejó uno encima del otro, alineados por el borde, con el mismo gesto que Antonio tenía desde hacía catorce meses con cualquier papel que le importara de verdad.
+—Léeme otra vez la frase de Juan. La exacta.
+Sergio la leyó: —«Eso no es un error de fecha. Es un fallo de gobernanza que alguien tendría que señalar antes de que esto llegue a ningún comité.»
+Valeria no dijo nada durante varios segundos.
+—¿Y la de Ana?
+—«Si alguien lo impugna, la concesión entera cae por un defecto de forma, no por el contenido.»
+Valeria se levantó y fue al archivador del fondo, el que nadie tocaba desde hacía meses. Sacó el informe médico original de los tres sujetos —el que había llegado clasificado al principio de todo, antes de que ninguno tuviera nombre fuera de esa sala— y lo abrió por la página que ya conocía de memoria.
+—«Ante estructuras legislativas o de gobernanza, detecta fallos procedimentales de forma refleja» —leyó, despacio—. «Aunque carece de memoria episódica y no registra la autoría de sus juicios.»
+Cerró el informe despacio, como si cerrarlo de golpe pudiera deshacer lo que acababa de leer.
+—¿Eso es...? —empezó Tomás.
+—No lo sé —dijo Valeria—. Pero quiero estar segura antes de decirlo en voz alta.
+Guardó el informe en el cajón de su propia mesa, no en el archivador de donde lo había sacado, con la necesidad repentina de tenerlo más cerca a partir de ahora. Era la primera vez en catorce meses que sacaba ese documento para algo que no fuera el diseño original del protocolo.
+***
+Hugo no sabía nada todavía. Llevaba semanas centrado en cerrar otros expedientes, confiando en que si algo serio aparecía, alguien lo llamaría. Esta vez nadie lo había llamado.
+Si alguien le hubiera preguntado, habría dicho que las cosas iban bien: ninguna pregunta incómoda desde la oficina de Juan ni de Ana, ningún periodista, ningún auditor. Habría tenido razón en todo lo que decía. Solo se habría equivocado en la conclusión.
+Esa misma noche, sin saber nada de lo que Sergio y Tomás habían encontrado a pocos metros de su despacho, Antonio cerró la planta más tarde de lo habitual, repasando el informe mensual para Carlos. Escribió, en el apartado de incidencias: Ninguna incidencia que reportar. Lo escribió con la misma seguridad de siempre.

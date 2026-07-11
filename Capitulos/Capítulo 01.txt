@@ -1,0 +1,49 @@
+﻿========================================
+Parte I — El protocolo
+========================================
+
+Capítulo 1
+
+Sobre la mesa de hormigón había cuatro documentos: los tres historiales clínicos, alineados por las esquinas uno sobre otro, y el protocolo del Proyecto Continuidad encuadernado en negro. Antonio llevaba tres días leyéndolos a solas, de noche, con el despacho cerrado y el teléfono boca abajo, y sabía de memoria cada cifra que había anotado en los márgenes.
+Había una carpeta más. La suya. La dejó fuera de la alineación, girada hacia él, y no volvió a abrirla.
+La luz de la tarde entraba rasante por el ventanal, recortando las aristas grises de la superficie. Antonio apoyó los dedos sobre el protocolo un momento antes de apartar la mano, y esperó a que llegara el equipo.
+Hugo Carvajal fue el primero en llegar, con su carpeta de cuero bajo el brazo y esa expresión de hombre que ya ha leído todo el expediente y ha llegado a conclusiones que preferiría no compartir. Detrás de él entró la doctora Valeria Ortiz, que dejó su tableta sobre la mesa con un golpe más seco de lo necesario. Inés Belmonte llegó la última, se sentó en el extremo opuesto de la mesa sin quitarse la chaqueta y cruzó las manos sobre la superficie, con el límite ya decidido de antemano.
+Hugo no se molestó en abrir el protocolo. En cambio, golpeó con el nudillo la carátula negra.
+—La técnica es impecable —dijo, deslizando el documento hacia el centro—. Pero legalmente, esto es un callejón sin salida.
+Antonio miró los historiales junto al protocolo. No miró la suya.
+Hugo sacó un post-it amarillo y lo pegó sobre la página donde se detallaba el deterioro del Sujeto 1.
+—Están bajo curatela —continuó—. El Estado es su tutor. Y la ley vigente prohíbe de forma taxativa que un tutor autorice la participación de un incapacitado en procedimientos experimentales de alto riesgo sin beneficio curativo tradicional. Si iniciamos el Proyecto Continuidad con ellos, es un delito penal de experimentación humana no consentida. Nos cierran el complejo el primer día.
+—¿Hay algún margen de interpretación? —preguntó Inés desde su extremo de la mesa. Su voz era plana, informativa, sin inflexión que delatara en qué dirección esperaba la respuesta.
+—Ninguno —dijo Hugo, sin mirarla—. La Ley 8/2021 no deja margen. No hay zona gris.
+Inés inclinó la cabeza despacio, como si eso fuera exactamente lo que necesitaba saber antes de decidir algo.
+—No voy a liberar los fondos para construir la Planta 42 ni la infraestructura virtual si el proyecto es ilegal —dijo—. Necesitamos esos tres cerebros porque son activos estratégicos para el país, pero el Estado no va a saltarse sus propias leyes de protección. Al menos no de forma visible.
+Valeria, futura directora clínica, intervino con impaciencia.
+—Esa burocracia los está condenando. El protocolo que hemos diseñado con Tomás está listo para detener el avance de su deterioro cognitivo de manera inmediata a través de entornos adaptativos sintéticos. Cada semana que perdemos discutiendo el código civil con el ministerio es tejido cerebral e identidad irrecuperable para el Sujeto 1 y los demás.
+—Cuando dice identidad irrecuperable —dijo Inés, con la misma voz plana—, ¿a qué velocidad está hablando?
+—En el caso del Sujeto 1, el inspector médico estima menos de ocho semanas antes de la degradación del tejido crítico —respondió Valeria—. En el del Sujeto 2, máximo seis semanas antes de que el tejido deje de ser operable. El Sujeto 3 es el más urgente: riesgo inminente de desconexión sináptica terminal. Días, no semanas.
+Nadie se movió. Fuera, el tráfico de la tarde llenaba el silencio que había dejado la cifra de Valeria.
+Hugo giró el post-it entre los dedos sin decir nada.
+—¿Y una vez intervenidos? —preguntó Inés—. Esas ventanas no desaparecen el día de la operación. ¿Cuánto tiempo necesitáis para gestionar el riesgo después?
+—Hasta que estén de vuelta en sus puestos, funcionando —dijo Valeria—. La intervención es solo el principio. Después viene la estabilización del implante, la integración del RAG, la reinserción en su vida y su trabajo sin que nadie note la diferencia. Mientras dure esa fase, cualquier anomalía puede delatarlos o puede matarlos, y no sabemos cuánto va a durar hasta que la veamos funcionar de verdad.
+—¿Semanas? —preguntó Inés—. ¿Meses?
+—No lo sé todavía —dijo Valeria—. Lo que sé es que no hay un punto en el calendario donde podamos decir «ya está, dejamos de vigilar». Hasta que el Sujeto 1 vuelva al Banco de España y nadie note nada, hasta que el Sujeto 2 vuelva a presentar en su comité y nadie note nada, ese sistema necesita a alguien mirando la pantalla. Día y noche. Todos los días.
+—Eso no es un protocolo clínico —dijo Inés—. Eso es un modelo de turnos indefinido, sin fecha de cierre. —Calculaba—. Tomás, Sergio, Clara, tú. Cuatro personas no sostienen eso durante meses sin que alguien se rompa antes que el proyecto.
+—No hay otra opción —dijo Valeria—. Mientras estén ahí fuera, viviendo su vida con algo que nosotros les hemos puesto dentro de la cabeza, alguien tiene que estar viéndolo en tiempo real. El día que dejemos de mirar, dejamos de controlar lo que les pasa.
+Inés hizo un gesto seco con la cabeza, ya no como quien pide permiso, sino como quien añade una línea más a una columna que ya conocía.
+—Entonces lo presupuesto como lo que es —dijo—. Dedicación 24/7 del equipo técnico y clínico mientras dure el proyecto, sin fecha de fin todavía. Turnos, rotaciones, lo que haga falta para que esto no se sostenga sobre el agotamiento de cuatro personas. Si esto es la primera vez que se hace con humanos, que sea la primera vez bien dimensionada. No la primera vez improvisada.
+El silencio que siguió fue breve. Inés lo procesó con la misma velocidad seca con que cerraba un balance financiero.
+—Entonces el problema no es si hacemos esto —dijo Inés—. El problema es cómo lo hacemos sin que nos destruya en el proceso.
+Antonio había escuchado sin moverse. Tenía la respuesta desde antes de que llegara el equipo; la reunión era para que los demás llegaran a ella por su propio camino.
+—No vamos a ir a la clandestinidad —dijo Antonio, cortando el debate—. Eso destruiría la validez del proyecto a futuro. Si la ley utiliza la curatela como un muro para retener a esos sujetos, la única salida pragmática es reventar el muro desde dentro. Vamos a forzar una modificación legislativa a nuestra medida.
+Carvajal arqueó una ceja, escéptico.
+—Eso lleva años de trámites parlamentarios, Antonio. El Alzheimer de esos tres no va a esperar.
+—No si tú mismo redactas la grieta, Hugo —respondió Antonio—. Necesito que diseñes un borrador de Real Decreto-Ley de urgencia. Algo que el Gobierno pueda aprobar el próximo viernes bajo el paraguas del interés general y la preservación de capacidades estratégicas irrecuperables para el Estado. Introduce una enmienda técnica: la disponibilidad cognitiva estratégica. Un redactado corto que permita al Estado transferir de forma temporal la tutela médica de estos ciudadanos dependientes a nuestra comisión especial si su conocimiento es crítico para el país.
+Carvajal guardó silencio un instante, asimilando la propuesta, y empezó a tomar notas rápidas.
+—Es un encaje complejo, pero si vinculamos la curatela al concepto de seguridad nacional o infraestructuras críticas, puedo redactar la letra pequeña para que cuele en el Consejo de Ministros —admitió el abogado.
+Inés no había dejado de mirar a Antonio durante toda la explicación.
+—¿Y si el decreto no sale el viernes? —preguntó.
+—Sale el viernes —dijo Antonio.
+—¿Cómo lo sabes?
+—Porque el ministro no tiene otra opción razonable. Fue él quien los propuso; y con el Sujeto 3 no le queda ni una semana para cambiar de opinión.
+Antonio recogió los historiales, los alineó de nuevo y los dejó sobre el protocolo. La reunión había terminado.
+Inés asintió una vez, con la precisión de quien acaba de recibir la información que necesitaba.

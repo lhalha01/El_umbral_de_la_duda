@@ -1,0 +1,61 @@
+﻿Capítulo 26
+
+Antes de reunirse con Marta, Juan llamó al ministro de Economía. No era una llamada que hubiera preparado en voz alta, pero sí en silencio, durante los días anteriores, calculando qué decir y en qué orden. Le dijo que tenía Alzheimer de evolución rápida. Que el diagnóstico era definitivo y que no había tratamiento que lo detuviera. Que cogería la baja por agotamiento severo porque era el único motivo que podía darse sin levantar preguntas que nadie debía hacerse. Y que los proyectos en curso con el Banco de España y con la Autoridad Bancaria Europea estaban documentados y continuarían con normalidad.
+El ministro no dijo nada durante unos segundos.
+—¿Cuánto tiempo? —preguntó.
+—No lo sé con precisión —dijo Juan—. Meses.
+—¿Hay algo que necesites?
+—No —dijo Juan—. Solo que lo sepa usted.
+Colgó. Fue a reunirse con Marta.
+***
+Marta recibió la llamada antes de llegar a la oficina. El teléfono personal, no el de la firma.
+—Necesito verte antes de las nueve —dijo Juan.
+Marta llegó a las ocho menos diez. Juan ya estaba. Tenía la puerta del laboratorio cerrada. La mesa estaba vacía.
+—Siéntate —dijo Juan. Siguió de pie frente a la ventana.
+—Voy a coger la baja —dijo.
+Marta no respondió de inmediato.
+—¿Cuándo? —preguntó.
+—Pronto. El médico me ha dicho que necesito descanso. Agotamiento severo. No sé cuánto tiempo.
+Marta miró la mesa vacía. Luego miró a Juan.
+—Los dos proyectos —dijo.
+—El de la ABE está en fase dos. Carmen puede cerrarlo con el equipo. Los criterios metodológicos están todos documentados en el servidor. El de pruebas de resistencia del Banco de España está en la última revisión. Fernández tiene todo lo que necesita. Si hay alguna duda técnica, la remiten al equipo de riesgo de modelo. No a mí.
+Marta cogió la tablet de trabajo y empezó a anotar lo que había que gestionar: el parte médico con Recursos Humanos, la comunicación a Fernández, el mensaje al representante de Frankfurt, la redistribución de las revisiones pendientes entre Carmen y el equipo de riesgo de modelo.
+—El Banco de España va a preguntar —dijo Marta, sin levantar la vista de la tablet.
+—Fernández tiene el informe. El representante de Frankfurt tiene el borrador de segunda fase. Ninguno de los dos necesita saber cuándo vuelvo. Solo necesitan saber que los documentos están.
+Marta terminó de anotar. Se levantó.
+—¿Hay algo más que necesites de mí? —preguntó.
+—No —dijo Juan—. Tú ya sabes lo que hay que hacer.
+Era la primera vez en catorce años que Juan se lo decía explícitamente.
+Marta gestionó el parte médico con Recursos Humanos ese mismo día. Llamó a Fernández al Banco de España por la tarde.
+—Juan Ferreira está de baja por agotamiento —dijo—. Los proyectos en curso continúan con normalidad. Carmen Ruiz cierra la fase dos de la ABE en el plazo previsto. Si hay alguna duda técnica sobre el ciclo de pruebas de resistencia, me la hacen llegar a mí.
+Fernández tardó un momento en responder.
+—¿Cuánto tiempo va a estar de baja?
+—No lo sabemos todavía. Lo que necesitan saber es que los entregables tienen fecha y fecha van a tener.
+Fernández no preguntó más. Marta mandó el mismo mensaje al representante de Frankfurt por correo esa tarde.
+***
+El piso estaba más silencioso de lo habitual porque ya no había ninguna razón para que sonara el teléfono de la firma, y Juan había dejado el personal en silencio sobre la mesa del salón durante casi todo el día.
+Había pasado la mañana ordenando una caja de documentos antiguos que llevaba años sin abrir: informes de sus primeros años en la firma, notas manuscritas de proyectos que ya nadie recordaba, una felicitación de cumpleaños de Marta de hacía once años que había guardado sin decírselo a nadie. No tenía un propósito concreto al hacerlo. Era, simplemente, lo que un hombre como él hacía con el tiempo cuando ya no tenía un problema técnico delante que resolver: imponerle un orden, aunque fuera a algo que no necesitaba ninguno.
+A media tarde se sentó frente al ordenador del salón, abrió un cuaderno de notas en blanco y decidió hacer algo que no le había dicho a la doctora Ferrer que iba a hacer, ni a Marta, ni a nadie.
+Quiso reconstruir, de memoria y sin consultar ningún archivo, el modelo de dos curvas que él mismo había diseñado para el Banco de España. No el resultado —eso lo recordaba con precisión, el umbral en menos cero dieciséis, las dos curvas separadas en cien mil—, sino el camino completo: las ecuaciones, los supuestos intermedios, la lógica exacta que llevaba de los datos brutos al hallazgo. El mismo tipo de reconstrucción que había hecho cientos de veces a lo largo de su carrera, casi como un ejercicio de calentamiento antes de empezar cualquier jornada complicada.
+Llegó hasta la mitad sin esfuerzo. La especificación de la primera curva, los parámetros, la justificación de cada uno. Lo escribió todo en el cuaderno con la misma letra pequeña y recta de siempre.
+Después de la mitad, algo dejó de fluir.
+No era que no recordara el resultado de la segunda curva. Lo recordaba. Lo que no podía reconstruir era la secuencia de pasos intermedios que había usado para llegar hasta él, el razonamiento que unía un punto con el siguiente. Probó tres veces, desde tres puntos de partida distintos. Las tres veces llegó al mismo lugar: un hueco, limpio y bien delimitado, en medio de algo que, no hacía tanto, había sido, sin ninguna duda, el trabajo más sólido de toda su carrera.
+No sintió pánico. Eso lo sorprendió más que el hueco en sí. Se quedó mirando el cuaderno un rato largo, con la misma atención clínica con la que habría mirado un error en el trabajo de cualquier otra persona. Y pensó que si un analista júnior le hubiera traído ese cuaderno con ese hueco, él habría dicho que el trabajo no estaba terminado, que faltaba una parte esencial, y que no había ninguna versión de «casi» que sirviera en ese tipo de problema.
+Cerró el cuaderno. Lo dejó sobre la mesa, abierto por esa página, y no lo guardó con los demás.
+Se sirvió un vaso de agua y se detuvo junto a la ventana del salón, mirando el patio interior a oscuras, durante mucho más tiempo del que solía permitirse estar quieto sin hacer nada.
+No había sido un descuido. No era algo que alguien más hubiera notado por él, como las pausas que Marta llevaba meses anotando sin decírselo. Esta vez había sido él quien había ido a buscarlo, deliberadamente, con la misma metodología con que habría buscado cualquier otro dato, y lo había encontrado exactamente donde sospechaba que estaría.
+Eso, pensó, era lo único que todavía podía controlar: no el hueco, sino el momento de ir a mirarlo de frente.
+***
+Cuando el hueco de la página treinta y uno se repitió con otro documento, Juan llamó a la doctora Ferrer.
+—Los síntomas han empeorado —dijo—. Necesito valorar el ingreso.
+La doctora Ferrer le hizo preguntas durante veinte minutos. Al final dijo que esa tarde necesitaba verle. Lo vio. Luego habló del ingreso.
+—Vivir solo con este nivel de deterioro y sin nadie que pueda gestionar una urgencia es un riesgo que no puedo avalar —dijo la doctora—. Si tiene un episodio de desorientación severa en casa, no hay nadie que sepa que está usted ahí.
+—¿Voluntario? —preguntó Juan.
+—Por ahora, sí.
+Juan asintió.
+—¿Cuándo puede tener la cama?
+—Mañana. Si me dice que sí ahora, lo gestiono esta noche.
+—Sí —dijo Juan.
+Fue a casa. Recorrió las habitaciones sin encender más luz que la del pasillo. Las estanterías con los libros técnicos ordenados por materia y fecha de publicación. La mesa de trabajo en el salón con los dos monitores apagados. En el escritorio, debajo del secante, el cuaderno donde había tomado las notas de la visita a la doctora Ferrer. Lo abrió por la última página. El último apunte era la lista de los dos proyectos y sus plazos, escrita con la misma caligrafía de siempre pero con el renglón ligeramente torcido.
+Lo cerró. Fue al dormitorio, sacó una bolsa de viaje y metió lo que necesitaba: ropa, el cargador del teléfono, un cuaderno nuevo, dos bolígrafos. Se detuvo frente a la estantería un momento. Luego no cogió ningún libro y cerró la bolsa.
+Ingresó al día siguiente. En la recepción de la unidad le preguntaron si había alguien a quien avisar. Juan dijo que no.

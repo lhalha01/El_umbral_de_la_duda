@@ -1,0 +1,131 @@
+﻿Capítulo 35
+
+Ana volvió a la Agencia del Agua tres días después de despertar, con la misma jornada completa y las mismas condiciones que Valeria había impuesto para Juan. Llegó en transporte público, como siempre; esa mañana Clara la acompañó hasta la puerta sin que Ana lo pidiera ni lo rechazara. Se despidieron sin decir nada que no fuera estrictamente necesario.
+Rodrigo la esperaba en la puerta de la unidad, con una carpeta que no llegó a abrir.
+—Bienvenida —dijo—. ¿Cómo te encuentras?
+—Mejor. ¿Dónde está el modelo?
+No le sorprendió que fuera la primera pregunta: llevaba gestionando la unidad con el protocolo que Ana había dejado escrito, y sabía que no había ninguna otra en su cabeza.
+—Donde lo dejaste. El bloque de cuarenta a sesenta está cerrado, validado mientras no estabas. El de ochenta a cien sigue parado en la variable ochenta y siete, donde tus doce páginas dicen que está. Nadie lo ha tocado. Nadie sabía cómo.
+—¿Y el resto?
+—Lara ha llevado las reuniones del Júcar. El comité se reunió dos veces sin ti; las actas las firmó ella, no yo, porque no quise firmar algo que no había decidido.
+—Bien hecho.
+—Paloma Reyes ha preguntado por ti dos veces. No le dije nada fuera del parte oficial.
+Ana asintió.
+—¿Cuánto llevas ya? —preguntó, antes de entrar.
+—Diecisiete meses.
+—Te queda uno.
+—Lo sé. Los cuento desde el primer día, igual que todos los anteriores.
+Era la primera vez que Ana mencionaba la rotación desde que Rodrigo había llegado, y él no supo si eso significaba que ya tenía pensado a quién poner en su lugar, o que simplemente había vuelto a fijarse en los plazos como en todo lo demás.
+—Avísame si llama una tercera vez —dijo Ana, ya con la mano en la puerta del despacho, y entró.
+***
+En la sala de supervisión remota, Sergio y Tomás tenían delante una sola pantalla: el registro de sincronización, sin nada que mostrar todavía.
+—Próxima rutina a las nueve —dijo Tomás—. Si no salta nada antes.
+Valeria, que escuchaba por el canal abierto desde la planta, llevaba toda la mañana en silencio, desde que Antonio le había preguntado si la reinserción de Ana debía esperar al bloque de variables ochenta a cien. Ella había respondido que ese bloque no iba a esperar a Ana, así que la pregunta no tenía sentido.
+Antes de eso revisó el correo: el contrato de Mequinenza seguía sin resolverse, la confederación del Ebro había vuelto a preguntar dos veces. Leyó el expediente completo en quince minutos, encontró el mismo desajuste de interpretaciones detectado antes de ingresar, y escribió la respuesta sin revisar ninguna nota antigua: el modelo se mantenía, sin margen de negociación. La envió y pasó a la siguiente carpeta.
+Ana abrió el modelo del Segura. Pasó el bloque de cuarenta a sesenta sin detenerse —ya estaba cerrado— y llegó al de ochenta a cien. Fue directamente a la variable ochenta y siete. Nadie en el edificio anexo lo supo todavía.
+Tenía delante lo mismo que había dejado meses atrás: doce páginas escritas por ella misma, describiendo un problema que no había podido resolver, con la misma letra clara de siempre. Empezó a leer sus propias notas.
+En la sala de supervisión, la pantalla se encendió sola.
+—Alarma —dijo Sergio—. Sincronización de emergencia. Coherencia en cero setenta y seis, bajando.
+—¿Bloqueo? —preguntó Tomás.
+—Está reconstruyendo un razonamiento entero, no recordando un dato suelto como la otra vez.
+En el despacho, Ana llegó al final de sus doce páginas y se quedó con el cursor parpadeando sobre la celda vacía del coeficiente.
+Diez segundos.
+—Cero setenta y dos —dijo Sergio—. Sigue bajando.
+—¿Frecuencia cardíaca? —preguntó Valeria, por primera vez en toda la mañana.
+—Ochenta y ocho. Subiendo despacio.
+Quince segundos.
+—Esto es distinto de lo de Juan con Dinamarca —dijo Tomás—. Aquello era un dato. Esto es un razonamiento que tiene que construir desde cero, con los mismos pasos que usó hace siete años.
+—¿Puede el motor reconstruirlo sin el camino original? —preguntó Valeria.
+—No lo sé. Es la primera vez que le pedimos algo así.
+Veinte segundos. La frecuencia llegó a noventa y cuatro, su punto más alto.
+—¿Seguimos esperando?
+—Seguimos —dijo Valeria—. Mientras no pase de ciento diez.
+Veinticinco segundos.
+—Cero sesenta y ocho —dijo Sergio—. Sigue cayendo. No se ha estabilizado.
+Cinco segundos de silencio. Luego, en el registro de indexación, algo cambió.
+—Está recuperando fragmentos —dijo Sergio—. Varios a la vez. Sentencias del Tribunal Supremo, por orden cronológico: el método que ella describe en sus páginas para construir el marco jurídico antes del coeficiente.
+—¿Cuántas?
+—Varias. La más reciente, de 2021. Coinciden con las que ya documentó.
+—¿Está funcionando?
+—Coherencia subiendo. Cero setenta y uno. Cero setenta y cuatro.
+En el despacho, Ana movió los dedos sobre el teclado por primera vez en casi treinta segundos y escribió un número en la celda vacía.
+—Cero setenta y nueve —dijo Sergio—. Estable.
+—Frecuencia cardíaca ochenta y seis —dijo Tomás—. Bajando ya.
+Ana se quedó mirando el número un momento. Después abrió la columna de justificación técnica y empezó a escribir, con la misma letra clara, sin vacilación visible.
+—Lo ha hecho —dijo Sergio, casi para sí mismo—. Ha cerrado la variable ochenta y siete.
+La pantalla volvió a quedarse en espera. La transmisión de emergencia se había cerrado sola.
+—Treinta y dos segundos —dijo Tomás—. El bloqueo más largo que le hemos visto a ninguno de los dos. Y el sistema lo resolvió solo, sin canal cruzado, reconstruyendo un razonamiento que no tenía indexado, en mitad de una alarma que ni siquiera estaba prevista hasta la rutina de las nueve.
+—¿Eso es bueno o es el problema? —preguntó Valeria.
+—Las dos cosas —dijo Tomás—. Es la prueba de que el sistema puede hacer algo que no sabíamos que podía hacer. Eso es justo lo que nos preocupaba de él desde el principio.
+***
+Antes de cerrar la sala, Tomás volvió a mirar la traza de los treinta y dos segundos.
+—Lo que más me inquieta no es la duración —dijo—. Es que reconstruyó el camino completo. No encontró un atajo: hizo lo mismo que ella habría hecho con la cabeza sana, paso por paso, con la seguridad de quien sabe que es así como se hace.
+—Es así como se hace —dijo Sergio—. Está en sus propios fragmentos. El sistema no inventó el método. Lo encontró donde ya estaba.
+—¿Y si la próxima vez no lo encuentra? —preguntó Tomás—. ¿Si el fragmento que necesita ya no está, porque el sustrato lo perdió antes del implante?
+Sergio no tenía respuesta.
+—Entonces el bloqueo no se resuelve solo —dijo Tomás, al fin—. Y alguien tiene que decidir qué hacer con eso, delante de quien esté mirando en ese momento.
+—Lo sé.
+—Eso es justo lo que me inquieta.
+Inés se enteró del bloqueo por el parte de la tarde, no porque nadie se lo contara. Abrió una línea nueva en el fondo de contingencia, sin asignarle importe: posible ampliación de infraestructura, Sujetos 1 y 2. No sabía para qué, pero llevaba tiempo suficiente en el proyecto para saber que, cuando Sergio y Tomás empezaban a mirarse de cierta manera, algo iba a costar dinero antes de que nadie lo pidiera oficialmente.
+***
+Rodrigo entró en el despacho de Ana a media mañana con la actualización de precipitación, como siempre.
+—¿Has cerrado la ochenta y siete? —preguntó, al ver la pantalla.
+—Esta mañana —dijo Ana, sin levantar la vista.
+—Llevaba meses ahí. Antes de que te fueras, ya semanas. Lo intentaron tres técnicos. Ninguno llegó cerca.
+—No tenían por qué. No era su variable. A veces hace falta volver con la cabeza descansada.
+Rodrigo no insistió. Dejó la carpeta y salió, pensando que el descanso de Ana debía de haber sido más largo y completo de lo que imaginaba, sin poder explicarse por qué esa idea, en vez de tranquilizarlo, le dejaba una inquietud pequeña y difícil de nombrar.
+Paloma Reyes llamó esa tarde, la tercera vez en poco tiempo.
+—Solo quería saber cómo está.
+—Mejor —dijo Ana—. Gracias por preguntar.
+Silencio breve.
+—Me dijiste una vez que te llamara si necesitaba algo. Nunca lo hice.
+—Lo sé —dijo Paloma—. No hacía falta. Solo quería que supieras que la oferta seguía en pie.
+Ana tardó en responder.
+—El modelo del Segura ya tiene cerrada la variable ochenta y siete. Por si te lo preguntabas.
+—No me lo preguntaba. Pero me alegra saberlo.
+Colgaron. Ana se quedó mirando el teléfono, sin saber bien por qué había mencionado la variable, ni por qué la respuesta de Paloma le pareció, durante un segundo, más importante de lo que una llamada de cortesía debería parecer.
+***
+Esa noche Valeria pidió llevar a Ana a revisión, aunque el protocolo no lo exigiera.
+—No fue solo un dato suelto —dijo, cuando Clara preguntó por qué—. Fueron treinta y dos segundos de carga sostenida. Quiero ver cómo ha quedado.
+Ana llegó a las siete, todavía con la ropa de oficina.
+—Frecuencia cardíaca en sesenta y ocho —dijo Clara—. Normal del todo.
+—¿Cómo se encuentra? —preguntó Valeria.
+—Cansada. Más de lo que esperaba para una jornada de oficina y un rato delante de una pantalla.
+—Es razonable. Hoy hizo un esfuerzo que no estaba en el plan.
+—¿Cuál? —preguntó Ana, con la misma curiosidad técnica de siempre.
+—Cerrar algo que llevaba meses sin cerrarse. Eso cuenta como esfuerzo, aunque le parezca que solo fue un rato delante de una pantalla.
+Ana no insistió. Se dejó hacer el resto de la revisión sin más preguntas. Antes de irse, preguntó, sin venir a cuento, si el resto del equipo solía quedarse tan tarde. Clara dijo que sí, casi siempre, y Ana no preguntó nada más.
+Antonio llamó a Carlos esa misma noche.
+—Hubo un bloqueo serio con el Sujeto 2 —dijo—. Treinta y dos segundos. Se resolvió solo.
+—¿Es mucho o poco?
+—Seis veces más que cualquier cosa vista con el Sujeto 1. Pero se resolvió sola. Nadie en la sala lo notó como algo distinto de una pausa larga.
+—¿Cambia el calendario? —preguntó Carlos, tras un silencio más largo de lo habitual en él.
+—No. Cambia lo que el equipo esté dispuesto a proponer para que no vuelva a pasar.
+—¿Y qué van a proponer?
+—Todavía no lo sé. Lo sabré esta semana.
+—¿Cómo está ella? —preguntó Carlos, al fin—. No el sistema. Ella.
+La pregunta sorprendió a Antonio lo suficiente para tardar en responder.
+—Cansada. Pero cerró algo que llevaba meses sin cerrar. Eso, para ella, probablemente pesa más.
+—Avísame antes de aprobar nada. No después.
+—Como siempre.
+***
+Hugo cerró el expediente de la reincorporación de Ana esa semana, con el mismo procedimiento que con Juan: mismo médico, mismo certificado, misma fórmula. Coma por traumatismo. Alta sin restricciones. Revisión en cuatro semanas.
+Valeria no dijo nada al recibir el papel firmado. Ya lo había preguntado todo la primera vez.
+Lara Souto se enteró del regreso de Ana por un correo automático, no por Ana misma. Llevaba seis meses dirigiendo las reuniones del Júcar en su nombre, acostumbrada a firmar actas sin que nadie las revisara antes. Esa semana archivó el acta más reciente y, por primera vez desde que Ana se fue, esperó a que alguien se la devolviera con comentarios. Nadie lo hizo.
+Valeria se quedó sola en el despacho tras irse Hugo, pensando en la pregunta que le había hecho a Antonio meses atrás, la que él nunca respondió. Ese mismo día había visto las dos cosas pasar a la vez, en dos personas distintas. Seguía sin saber si eso significaba que la pregunta había dejado de tener sentido, o que por fin tenía una respuesta que no se atrevía a decir en voz alta.
+***
+Unos días después, el equipo se reunió sin convocatoria formal. Antonio llegó el último.
+—Treinta y dos segundos en Ana —dijo Valeria, sin preámbulos—. Cinco en Juan, hace unos días, con un dato suelto. Dos bloqueos reales, de naturaleza distinta, en menos de una semana.
+—¿Y los dos se resolvieron solos? —preguntó Antonio.
+—Solos —dijo Tomás—. Sin canal cruzado, sin intervención nuestra.
+—Entonces funciona.
+—Funciona hoy —dijo Valeria—. Lo que no sé es si funciona cuando el bloqueo sea más largo, o más profundo, o en un sitio donde treinta y dos segundos de silencio no se puedan justificar sin un Rodrigo esperando pacientemente.
+—¿Y si la próxima vez es una reunión del comité interministerial, con seis personas mirando, y el silencio se nota?
+—Hemos tenido suerte dos veces —dijo Tomás—. Con Juan, porque era un dato suelto, no una identidad. Con Ana, porque Rodrigo es exactamente el tipo que no hace preguntas.
+—La suerte no es un protocolo —dijo Valeria.
+—No lo es —dijo Antonio—. Por eso estamos aquí.
+Sergio y Tomás cruzaron la misma mirada de siempre.
+—Hay una alternativa técnica —dijo Sergio—. Pero antes de proponerla necesito que alguien me diga si tiene sentido siquiera.
+Antonio se sentó, la primera vez en toda la reunión.
+—Dila. Decidimos después.
+Sergio miró a Tomás, comprobando que seguían pensando lo mismo. Tomás asintió, apenas, y Sergio empezó a hablar.

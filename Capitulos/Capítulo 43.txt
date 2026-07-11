@@ -1,0 +1,122 @@
+﻿Capítulo 43
+
+Sergio configuró la alarma esa misma noche, antes de irse: cualquier pico en el canal del Sujeto 3, sin excepción, dispararía una sincronización de emergencia en los otros dos sustratos, con o sin bloqueo asociado. Nunca habían tenido motivo para mirar los tres canales a la vez. Ahora lo tenían.
+La alarma no sustituía a las anteriores —la rutina horaria seguía intacta, igual que las de bloqueo—. Se sumaba a ellas, usando el mismo servidor que llevaba meses haciendo posible todo esto sin que nadie lo hubiera diseñado para eso. Sergio se preguntó, mientras la configuraba, si estaba arreglando algo o solo construyendo una ventana mejor para ver algo que no podía arreglar de ninguna forma.
+—¿Cuánto tardaremos en verlo si pasa? —preguntó Tomás.
+—Si pasa esta noche, lo veremos esta noche. Si pasa dentro de un mes, dentro de un mes. No tiene fecha de caducidad.
+Al día siguiente, la alarma disparó por primera vez.
+Juan estaba en una reunión de seguimiento con el Banco de España, a las once y veinte, una revisión trimestral de las de siempre.
+En la sala de supervisión, las tres pantallas se encendieron a la vez.
+—Pico en el Sujeto 3 —dijo Sergio, de pie, sin haberse sentado en toda la mañana—. Cuatrocientos veinte milisegundos. Empezando ahora.
+—¿Y los otros dos? —preguntó Tomás, con la vista clavada en la pantalla de Juan.
+—Coherencia bajando. Cero setenta y ocho. Cero setenta y cinco.
+—El pico ya terminó —dijo Sergio—. Cuatrocientos veinte milisegundos exactos. La indexación en el sustrato de Juan sigue en curso.
+—¿Cuánto retraso entre los dos?
+—Ninguno medible con esta resolución. Once milisegundos. Indistinguible de simultáneo.
+—¿Seguro?
+—Seguro de lo que ha medido el instrumento. No de que pueda medir mejor que eso. Son dos cosas distintas, y las dos importan.
+En la oficina, Fernández terminaba de explicar un ajuste menor en el calendario de inspecciones cuando Juan levantó una mano, apenas un gesto, del tipo que cualquiera interpretaría como estar pensando en lo que se acaba de decir.
+—Antes de seguir —dijo—. La delegación de firma que aprobó este calendario. ¿Quién la otorgó?
+—El subgobernador —dijo Fernández, tras consultar sus notas—. Como siempre.
+—¿Por escrito, con fecha anterior a la reunión en que se aplicó, o se ratificó después?
+Tardó un momento en encontrar el dato.
+—Después. Se ratificó en el acta de la semana siguiente.
+—Entonces la delegación no estaba en vigor cuando se aplicó —dijo Juan—. Es un defecto de origen, no de forma. Cualquier decisión bajo ese calendario, hasta la ratificación, queda sin respaldo formal. Probablemente incluye alguna que ya dimos por buena este trimestre.
+Fernández se quedó mirando la tabla, después a Juan.
+—Eso es... —empezó, sin terminar la frase.
+En la sala de supervisión, Sergio ya había congelado la pantalla.
+—Cero setenta y cinco. Estable.
+—Dímelo otra vez, despacio, desde el principio —dijo Tomás.
+—Pico en el Sujeto 3, cuatrocientos veinte milisegundos, a las once veinte y cero tres. Inicio de indexación en Juan, mismo segundo, desfase de once milisegundos. La frase de Juan sobre la delegación, según la marca de audio de su propia grabación, a las once veinte y once.
+—Ocho segundos —dijo Tomás—. Desde el pico hasta que lo dice en voz alta.
+—Ocho segundos es lo que tarda alguien en formular una frase a partir de algo que ya tiene. O en darse cuenta de algo que ya estaba ahí. Desde esta pantalla no puedo distinguir las dos cosas.
+Ninguno dijo nada más durante un momento.
+—Sigue siendo una correlación —dijo Tomás, al fin—. Pero es la más limpia que hemos visto.
+—El sistema no la ha marcado como nada —dijo Sergio—. Para el control, ha sido ruido. Once milisegundos de ruido seguidos de una frase.
+—¿Y para ti?
+—Para mí cada vez se parece menos a ruido. Eso no es lo mismo que poder demostrarlo.
+***
+Fernández revisó el calendario esa tarde, con el mismo cuidado que habría puesto en algo capaz de costarle el puesto, y confirmó que Juan tenía razón: la delegación no se había ratificado a tiempo. Pasó el resto de la semana rehaciendo seis meses de decisiones, sin que nadie le explicara por qué un consultor externo había encontrado en segundos algo que su propio departamento jurídico llevaba medio año pasando por alto.
+Marta se enteró por una felicitación institucional que llegó desde el Banco de España sin mencionar a Juan por nombre, aunque alguien se la hizo llegar sabiendo que ella seguía de cerca cualquier cosa relacionada con él. La archivó en la misma carpeta mental, cada vez más llena, donde ya no le cabían más explicaciones razonables.
+Antes de llamar a Valeria, Sergio repasó la grabación tres veces, cronometrando el intervalo entre el pico y la frase de Juan. Las tres veces, ocho segundos, con menos de un segundo de variación. La medida era consistente. Lo que significaba era otra cosa.
+Llamaron a Valeria esa tarde. Escuchó la secuencia completa, con las marcas de tiempo, dos veces.
+—Once milisegundos —dijo—. ¿Es físicamente posible para una transferencia por el servidor, o es indistinguible de simultáneo porque el instrumento no mide mejor?
+—Las dos cosas pueden ser ciertas —dijo Sergio—. El servidor es capaz de eso. Y nuestra resolución no llega más allá. No podemos decir si fueron once milisegundos o cero.
+Valeria se quedó callada un momento.
+—Es la medida más limpia que vamos a conseguir —dijo, al fin—. Y sigue sin ser prueba. Una correlación perfecta, una sola vez, sigue siendo una correlación.
+—¿Qué hacemos con eso? —preguntó Tomás.
+—Vigilarlo. Y no escribirlo en ningún sitio como un hecho, porque no lo es.
+Nadie discutió la palabra.
+***
+Esa noche, antes de cerrar el archivo, Sergio hizo algo nuevo: reunió en un documento cada anomalía registrada desde el principio del proyecto, no solo las últimas. Los ecos de la Parte I, archivados sin nombre antes de que nadie supiera qué eran. Los fragmentos recientes. El incidente de esa mañana.
+Los ordenó por fecha y contó, para cada uno, no la amplitud de la señal —ya sabía que eso no servía, subía y bajaba sin patrón útil— sino algo distinto: si el contenido era de un tipo ya visto, o nuevo. Una clasificación que llevaba haciendo mentalmente desde los primeros ecos, sin formalizarla nunca, porque formalizar algo implica creer que va a servir para algo.
+Las primeras ocho, repartidas a lo largo de meses, eran todas de tipos distintos entre sí. Después de la octava, empezaron a repetirse.
+Al ordenarla notó algo más: los intervalos entre una anomalía nueva y la siguiente se habían ido alargando, despacio pero de forma constante, como si encontrar algo distinto costara cada vez un poco más de tiempo. El incidente de esa mañana —un defecto de delegación no ratificada— era, en su estructura lógica, el mismo tipo de fallo que la validación de la ABE, aplicado a un caso distinto.
+Tomás se quedó mientras Sergio terminaba la lista. Repasaron juntos algunos de los once tipos: el primero, meses atrás, antes de llamarlos ecos —un patrón que coincidía con un fallo de coordinación entre dos organismos que ninguno de los sujetos tenía motivos para conocer—. El cuarto, un sesgo sistemático visible solo en los datos, sin que nadie lo comentara en voz alta. El séptimo, ya con voz: el primero registrado como comentario verbalizado, mucho antes del de Juan sobre la ABE. Nadie que lo oyó lo procesó como anomalía. Solo estaba en los logs.
+—¿Cuántos tipos distintos hay en total? —preguntó Tomás.
+—Once. Contando el de esta mañana, que es el último.
+—¿Y desde cuándo no aparece ninguno nuevo?
+—Desde hace bastante. Todo lo posterior es variación de uno de los once, no algo nuevo de verdad.
+—Eso es la curva de quien saca bolas de una bolsa sin reponerlas —dijo Tomás—. Al principio sale una distinta cada vez. Después empiezan a repetirse, porque quedan menos colores.
+—Es exactamente esa curva —dijo Sergio—. Hay métodos para estimar, a partir de la velocidad con que algo deja de ser nuevo, cuántos elementos había en total antes de empezar a sacar nada. Los usé.
+—¿De dónde sacaste el método?
+—De ecología. Sirve para estimar cuántas especies hay en un ecosistema sin haberlas visto todas: cuantas más muestras sin encontrar nada nuevo, más cerca del total real. Nunca pensé que lo aplicaría a esto.
+—¿Y bien?
+—Entre once y catorce tipos en total, con margen razonable. Ya hemos visto once. Quedan, como mucho, tres.
+Tomás se sentó despacio, como si necesitara el peso de la silla para sostener lo que acababa de oír.
+—Eso no es un techo —dijo—. Es casi el final.
+—¿Y cuando lleguen al límite?
+—No lo sé. Supongo que el sistema deja de encontrar algo nuevo que indexar desde ese canal. Lo ya indexado se queda donde está. Lo que no, puede que no llegue a estarlo.
+—¿Puede bajar? Pensaba que lo que ya estaba dentro se quedaba para siempre.
+—Eso es verdad para lo indexado. No sé si lo es para lo que aún no. Nunca nos habíamos hecho esa pregunta, porque no sabíamos que hubiera un final. Tampoco sabemos qué le pasa a la fuente cuando se agota, ni si eso depende de algo que podamos controlar.
+—Es la primera vez que tenemos un número —dijo Sergio—. Antes no sabíamos si quedaba mucho o poco. Ahora sabemos que queda poco.
+—¿Cuándo se lo decimos a Hugo?
+Valeria entró antes de que Sergio pudiera responder.
+—Todavía no —dijo—. Hugo piensa en términos de lo que hay que poder defender si alguien pregunta. Esto no tiene ninguna pregunta que defender todavía. Cuando la tenga, se lo decimos.
+***
+Inés recibió una notificación automática cuando Sergio configuró la alarma nueva: regla adicional configurada, sin coste de infraestructura, usando recursos ya asignados. No preguntó nada. Llevaba meses sin necesitar explicaciones para entender que algo, en alguna parte de la planta, se acercaba a un punto que todavía no tenía nombre en ningún documento suyo.
+***
+Valeria llevó el documento completo a Antonio al día siguiente, sin avisar de qué se trataba.
+Antonio lo leyó de principio a fin, sin preguntar hasta el final, con la misma concentración con la que había leído los tres historiales originales.
+—¿Quién más lo sabe?
+—Sergio, Tomás, yo. Hugo no.
+—¿Por qué no Hugo?
+—Porque todavía no hace falta. Y porque cuanta más gente lo sepa, más posibilidades de que alguien, sin querer, lo diga donde no debe.
+—¿Y Carlos?
+—Nadie fuera de esta planta.
+Antonio se quedó mirando la última página: entre once y catorce tipos en total, once ya identificados, si la estimación era correcta y si el origen era el que todos sospechaban sin haberlo dicho aún con esas palabras.
+—¿Esto significa que se está agotando?
+—Significa que el ruido tiene un patrón, y el patrón tiene forma de límite —dijo Valeria—. No sabemos qué pasa al llegar a ese límite. No sabemos, con la certeza que me gustaría, ni siquiera qué es exactamente lo que medimos.
+Antonio cerró el documento.
+—¿Es Raquel?
+Valeria había hecho lo mismo que Sergio días atrás: comprobar primero la explicación más aburrida. Repasó si algún otro candidato evaluado antes de cerrar el proyecto con tres sujetos podía generar ese tipo de contenido. No había otro. Eso no era una prueba. Era, como mucho, la ausencia de cualquier otra explicación.
+—No lo sé —dijo—. Es la única persona para la que esto tendría sentido. No es lo mismo que saberlo.
+Antonio no dijo nada durante un momento largo. Después asintió, con el mismo gesto con que había alineado tres carpetas sobre su mesa.
+—¿Sabes lo que esto significaría, además de lo que ya hemos dicho? —preguntó, sin mirarla.
+—Dímelo tú. Lleva siendo tu pregunta más tiempo que la mía.
+—Significaría que el conocimiento de Raquel no se ha perdido. Que solo ha cambiado de sitio. Que está repartido entre dos personas que ni siquiera saben que lo tienen.
+—¿Es eso lo que querías? —preguntó Valeria—. Te lo pregunté en este mismo edificio y no me respondiste. Te lo vuelvo a preguntar ahora que ya casi parece haber pasado de verdad.
+Antonio tardó en responder.
+—Quería que el conocimiento no muriera con la persona que lo llevaba. Eso ya lo dije entonces. Lo que no dije, porque no lo había pensado del todo, es que no me importaba demasiado si la persona seguía siendo identificable después, mientras el conocimiento siguiera disponible para algo.
+—Eso es una respuesta —dijo Valeria—. No la que esperaba, pero es una respuesta.
+—Es la única que tengo.
+Valeria se quedó un momento más, sin decir nada, antes de irse.
+—¿Te arrepientes? —preguntó, ya en la puerta.
+—No sé si esa es la palabra —dijo Antonio, tras un silencio—. Me arrepentiría de algo que pudiera deshacer. Esto, si es lo que creemos, no se puede deshacer. Así que no. Solo sospecho más que esta mañana, y no toda esa sospecha me hace sentir mejor.
+—¿Esto entra en el informe mensual?
+—No. El informe dice que el canal funciona, que los bloqueos han bajado, que no hay incidencias de seguridad. Sigue siendo verdad. Lo que hemos hablado aquí no cabe en ninguna casilla, y no voy a inventar una para que quepa.
+—¿Carlos lo entendería, si se lo explicaras?
+—Probablemente. Pero entenderlo no es lo mismo que necesitar saberlo, y esto no es algo que Carlos necesite saber ahora.
+***
+Valeria le contó a Clara lo que sospechaban, en el mismo despacho donde Hugo le había hablado del recuerdo sustituido de Juan.
+Clara escuchó sin interrumpir. Al terminar Valeria, no preguntó nada técnico.
+—¿Ella lo sabe? —preguntó—. ¿Sabe que está pasando esto?
+—No tiene memoria episódica. No registra que está ocurriendo. Lo dice el propio informe, desde el principio. No hay ningún momento en que Raquel sepa que esto le pasa, ni antes, ni durante, ni después. Si es que le está pasando.
+—Esa no es la pregunta que te he hecho. Te he preguntado si lo sabe.
+Valeria no tuvo mejor respuesta que la ya dada. Se quedaron un momento en silencio, sabiendo que la pregunta de Clara no tenía respuesta técnica posible, solo una que ninguna quería decir en voz alta.
+Clara se levantó. Antes de irse, se detuvo en la puerta.
+—¿Vais a decírselo a alguien más? ¿A alguien que no sea de la planta?
+—No.
+—Bien —dijo Clara, sin que quedara claro, ni para ella misma, si lo decía porque le parecía correcto o porque ya no confiaba en que decírselo a nadie más sirviera para nada—. Voy a seguir haciendo lo mismo que cada noche. Pero ahora sospecho una cosa más, y no estoy segura de que eso sea mejor para nadie, incluida yo.
+***
+Esa noche, en el cajón donde Valeria guardaba ahora el informe del inspector médico —su propio cajón, no el archivador de donde lo había sacado—, había, por primera vez desde que el proyecto existía, un documento que decía con precisión cuánto quedaba de algo. Nadie sabía todavía, ni siquiera Valeria, qué hacer con esa precisión.

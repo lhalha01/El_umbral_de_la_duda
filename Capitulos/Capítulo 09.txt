@@ -1,0 +1,188 @@
+﻿Capítulo 9
+
+La reunión de las nueve era la primera de lo que Tomás había llamado en el protocolo reunión diaria de control. Eran cinco personas alrededor de una mesa con café y datos de la noche anterior, intentando entender si lo que habían hecho el día anterior seguía funcionando.
+Sergio proyectó los logs de monitorización nocturna en la pantalla central. Veinticuatro horas desde los implantes.
+—El Sujeto 1 ha tenido una noche estable —dijo Sergio—. La integración de la malla avanza dentro de los parámetros previstos. El RAG ha indexado cuarenta y dos fragmentos de memoria procedimental relacionados con regulación financiera. Sin bloqueos críticos.
+—¿El módulo compartido? —preguntó Tomás.
+—Se ha activado cuatro veces durante la noche. Dos bloqueos del Sujeto 1 resueltos con apoyo del sustrato del Sujeto 2. Uno del Sujeto 2 resuelto con apoyo del Sujeto 1. Y una activación espontánea a las tres y cuarto de la madrugada que el sistema registra como verificación de coherencia entre los dos módulos.
+—¿Verificación espontánea? —preguntó Valeria—. Eso no estaba en el protocolo.
+—No estaba previsto —admitió Tomás—. El sistema la ha generado por sí solo. Es una función de autorregulación que no habíamos programado explícitamente pero que está dentro de la arquitectura general del firmware. Los dos módulos se verifican mutuamente para asegurarse de que la señal compartida es coherente.
+—¿Es un problema? —preguntó Antonio.
+—Al contrario —dijo Tomás—. Es una señal de que el sistema está madurando más rápido de lo previsto. Se está optimizando solo.
+—¿Y el Sujeto 2? —preguntó Clara.
+—Más variable —dijo Sergio—. Su respuesta alrededor del implante sigue generando micro interrupciones en la indexación. El sistema las gestiona pero con más esfuerzo que en el Sujeto 1. He ajustado el algoritmo de compensación esta madrugada. Desde las cinco ha mejorado.
+—¿Has tocado el firmware en activo? —preguntó Tomás.
+—Solo el módulo de compensación. Nada que afecte a la arquitectura central.
+Tomás asintió, aunque anotó algo en la tablet.
+—¿Alguna anomalía en las constantes vitales? —preguntó Valeria.
+—Ninguna en el Sujeto 1 —dijo Clara—. El Sujeto 2 tuvo un episodio de taquicardia leve a las dos de la mañana, frecuencia cardíaca en noventa y cuatro, que se resolvió solo en ocho minutos. Lo he registrado como posible respuesta al ajuste del firmware de Sergio.
+—Posible —dijo Sergio.
+—O coincidencia —dijo Clara—. No lo sabemos.
+—Lo monitorizamos —dijo Valeria—. Si se repite con el próximo ajuste, lo atribuimos al firmware. Si no se repite, era otra cosa.
+Antonio había estado escuchando sin intervenir. Miró la pantalla donde los dos indicadores verdes parpadeaban con regularidad.
+—¿Seguimos en plazo para iniciar la reducción de sedación en setenta y dos horas? —preguntó.
+—De momento sí —dijo Valeria—. Si la integración de la malla sigue a este ritmo, el Sujeto 1 estará listo. El Sujeto 2 necesitará más tiempo. Probablemente cuarenta y ocho horas adicionales.
+—¿Podemos despertar al Sujeto 1 antes que al Sujeto 2? —preguntó Antonio.
+—Técnicamente sí —dijo Tomás—. El módulo compartido puede operar con un sujeto sedado y otro despierto. No es la situación ideal pero es viable.
+—¿Y clínicamente? —preguntó Antonio, mirando a Valeria.
+—Es un riesgo adicional —dijo Valeria—. Si el Sujeto 1 despierta y tiene dificultades, el módulo compartido tirará del Sujeto 2 con más intensidad de lo habitual. Eso puede generar respuestas en el Sujeto 2 mientras sigue sedado. Como la taquicardia de esta noche, pero potencialmente más intensa.
+—¿Cuánto más intensa?
+—No lo sabemos. No hay precedente.
+Antonio asintió.
+—Esta tarde tengo una reunión en el ministerio —dijo—. Necesito llevar los datos de esta mañana actualizados. Sergio, quiero el informe de las veinticuatro horas antes de las doce.
+—Lo tendrás —dijo Sergio.
+—¿Algo más? —preguntó Antonio.
+Nadie dijo nada.
+—Nos vemos mañana a las nueve —dijo Antonio, y recogió su carpeta.
+***
+La secretaria de la planta ministerial, Consuelo, levantó la vista cuando Antonio salió del ascensor.
+—Buenas tardes, don Antonio. El ministro le espera. Puede pasar directamente.
+—Gracias, Consuelo.
+—¿Le traigo algo?
+—No, gracias.
+Antonio llamó a la puerta y entró sin esperar respuesta. El ministro estaba sentado detrás de su mesa, no de pie junto al ventanal como la primera vez. Eso ya decía algo.
+Había una carpeta abierta delante de él. El informe que Antonio había enviado esa mañana.
+—Siéntate —dijo el ministro.
+Antonio se sentó.
+—He leído el informe —dijo el ministro, sin apartar los ojos de la carpeta—. Los dos implantes funcionando, el módulo compartido activándose solo durante la noche, el sistema optimizándose a un ritmo superior al previsto. Todo muy positivo.
+—Lo es —dijo Antonio.
+—Y sin embargo tenemos un problema.
+Antonio esperó.
+El ministro cerró la carpeta y la apartó a un lado.
+—El módulo compartido —dijo—. Dos cerebros que se comunican entre sí a través de un sistema que controlamos nosotros. Eso es lo que tenemos ahora mismo en esa planta, ¿correcto?
+—En términos simplificados, sí.
+—No me simplifiques, Antonio. Dos sujetos cuyos implantes comparten información en tiempo real. Cuyos sistemas se verifican mutuamente a las tres de la madrugada sin que nadie se lo haya pedido. —El ministro se recostó en el sillón—. ¿Sabes lo que ve la comisión de secretos oficiales si llega a saber que existe eso?
+—La comisión de secretos oficiales no va a saber nada de lo que ocurre dentro de esa planta.
+—Eso me dijiste también sobre el expediente del Sujeto 3. —El ministro dejó la frase en el aire un momento—. Lo que me preocupa no es la comisión, Antonio. Lo que me preocupa es el patrón. Dos sujetos que comparten información generan un patrón asociativo. Un patrón asociativo genera una identidad colectiva. Una identidad colectiva genera comportamientos que no están previstos en el protocolo. Ya lo has visto esta noche: el sistema ha generado una función que nadie había programado.
+—Es una función de autorregulación. Está dentro de la arquitectura general del firmware.
+—Está dentro de una arquitectura que diseñaste tú. Lo que no está dentro de esa arquitectura es lo que va a generar esa función dentro de seis meses cuando el sistema haya seguido optimizándose solo. —El ministro apoyó las manos sobre la mesa—. Quiero que canceles el módulo compartido.
+Antonio no respondió de inmediato.
+—El módulo compartido es la red de seguridad del sistema —dijo finalmente—. Sin él, cada implante tiene que gestionar solo los bloqueos y las lagunas. La probabilidad de fallos aumenta de forma significativa.
+—¿Cuánto?
+—No tenemos datos clínicos suficientes para cuantificarlo con precisión. Es el primer día.
+—Entonces es una estimación, no un dato.
+—Es una estimación basada en tres años de simulaciones.
+—Las simulaciones no fallaron en el Sujeto 3 y aun así el procedimiento tuvo que suspenderse. —El ministro sostuvo la mirada de Antonio—. Quiero que cada sujeto opere de forma completamente independiente. Sin conexión entre los dos implantes. Sin módulo compartido. Sin verificaciones cruzadas a las tres de la madrugada.
+—Carlos —dijo Antonio.
+Era la primera vez en esta reunión que usaba su nombre.
+—Si cancelo el módulo compartido y uno de los dos sujetos entra en un bloqueo que su sistema individual no puede resolver solo, el implante puede fallar. Y si el implante falla dentro de una sala de juntas del Banco de España o de la Agencia del Agua, no va a haber forma de gestionarlo desde fuera.
+—Para eso está tu equipo —dijo el ministro—. Para gestionarlo.
+—Hay cosas que no se pueden gestionar en remoto desde una consola, Carlos.
+El ministro se levantó y fue hacia el ventanal. La misma posición que la primera vez, pero el gesto tenía ahora un significado diferente. No era ventaja de posición. Era el gesto de alguien que ha tomado una decisión y no quiere seguir mirando a quien tiene que comunicársela.
+—El módulo compartido se cancela antes del primer despertar —dijo el ministro, sin girarse—. Esa es mi instrucción. Si necesitas tiempo para hacerlo técnicamente, dime cuánto.
+—Cuarenta y ocho horas —dijo Antonio.
+—Las tienes. —El ministro se giró—. Y Antonio. Lo que ha ocurrido con el Sujeto 3 no puede volver a ocurrir. Necesito que este proyecto funcione con lo que tenemos. Sin más sorpresas.
+Antonio recogió su carpeta y se levantó.
+—Haré lo que pueda —dijo.
+—Eso no es suficiente —dijo el ministro.
+Antonio salió sin responder. En el pasillo, Consuelo levantó la vista de su monitor y le dedicó una sonrisa breve. Antonio le devolvió el gesto y llamó al ascensor.
+***
+Antonio llegó al edificio anexo a las seis y cuarto. Subió por las escaleras, tres plantas, y entró directamente en la sala de reuniones sin pasar por su despacho. El equipo estaba ahí. Tomás había recibido un mensaje suyo en el coche diciéndoles que se quedaran.
+Dejó la carpeta sobre la mesa y no llegó a sentarse.
+—El ministro quiere cancelar el módulo compartido —dijo.
+Nadie habló durante un momento.
+—¿Cancelar o desactivar? —preguntó Tomás.
+—Cancelar. Que cada implante opere de forma completamente independiente. Sin conexión entre los dos. Sin verificaciones cruzadas.
+Tomás apoyó los codos en la mesa.
+—¿Ha dado alguna razón técnica?
+—Ha dado razones políticas. El patrón asociativo que genera la comunicación entre los dos implantes. El riesgo de comportamientos no previstos en el protocolo. La verificación espontánea de esta madrugada le ha preocupado especialmente.
+—La verificación espontánea es una buena señal —dijo Sergio.
+—Para nosotros sí —dijo Antonio—. Para él es una señal de que el sistema está haciendo cosas que nadie ha autorizado.
+—¿Y técnicamente qué significa cancelarlo? —preguntó Valeria.
+—Que tenemos cuarenta y ocho horas para desactivar el módulo compartido antes del primer despertar —dijo Antonio—. El Sujeto 1 y el Sujeto 2 operarán con sus módulos individuales únicamente.
+Valeria se levantó y fue hacia la pantalla de monitorización. Estudió las señales de los dos sujetos un momento antes de hablar.
+—El módulo compartido se ha activado cuatro veces en las últimas veinticuatro horas —dijo—. Dos veces para resolver bloqueos del Sujeto 1 que el módulo individual no podía gestionar solo. Si cancelamos el módulo compartido y el Sujeto 1 entra en un bloqueo similar cuando esté despierto, el sistema no va a poder resolverlo.
+—¿Qué ocurre entonces? —preguntó Clara.
+—Depende de la intensidad del bloqueo —dijo Tomás—. En el mejor caso, el sujeto experimenta una laguna temporal. Una pausa. Algo que desde fuera puede parecer distracción o cansancio. En el peor caso, el sistema colapsa localmente y el sujeto entra en un estado de confusión severa.
+—¿Y si eso ocurre en una reunión del Banco de España? —preguntó Clara.
+—Entonces tenemos un problema muy grande —dijo Tomás.
+—¿Hay alguna alternativa técnica? —preguntó Antonio—. Algo que cumpla la instrucción del ministro sin dejar los implantes completamente solos.
+Tomás y Sergio se miraron.
+—Podríamos reducir el módulo compartido en lugar de cancelarlo —dijo Sergio—. Mantenerlo activo pero con un ancho de banda muy restringido. Lo suficiente para que los dos implantes puedan verificar su coherencia interna, pero sin capacidad de transferir información sustantiva entre los dos sustratos.
+—¿Eso satisface lo que pide el ministro? —preguntó Antonio.
+—Depende de cómo lo presentemos —dijo Hugo desde el fondo de la sala, donde había permanecido en silencio hasta ese momento. Era la primera vez que hablaba—. Si el informe describe el módulo compartido restringido como un protocolo de verificación de integridad del sistema, sin mencionar la transferencia de información entre sustratos, cumple formalmente con la instrucción de independencia operativa.
+—¿Y técnicamente es suficiente para proteger los implantes? —preguntó Valeria, mirando a Tomás.
+—Reduce el riesgo —dijo Tomás—. No lo elimina. Pero es considerablemente mejor que cancelar el módulo por completo.
+—¿Cuánto tiempo necesitáis para implementarlo? —preguntó Antonio.
+—Treinta y seis horas —dijo Sergio—. Tenemos cuarenta y ocho. Es factible.
+Antonio miró a Valeria.
+—¿Lo apruebas clínicamente?
+Valeria tardó un momento en responder.
+—Es la opción menos mala —dijo—. Lo apruebo.
+—Entonces lo hacemos así —dijo Antonio—. Sergio, Tomás, empezáis esta noche. Hugo, el informe para el ministro describe un protocolo de verificación de integridad. Sin más detalle.
+Hugo asintió sin decir nada.
+—¿Algo más? —preguntó Antonio.
+Clara levantó la mano levemente.
+—Los sujetos no van a saber que hemos reducido su red de apoyo antes de que despierten —dijo.
+—Los sujetos no van a saber nada de nada —dijo Antonio.
+—Lo sé —dijo Clara—. Solo quería que constara.
+Antonio recogió su carpeta.
+—Nos vemos mañana a las nueve —dijo, y salió.
+***
+Sergio llegó a la consola central a las ocho y cuarto con dos cafés de la máquina del pasillo. Dejó uno al lado del teclado de Tomás sin decir nada. Tomás lo miró.
+—Es de la máquina del pasillo.
+—La de arriba está cerrada a esta hora —dijo Sergio.
+Tomás cogió el café.
+La pantalla principal mostraba la arquitectura de la pasarela local desplegada en capas: los dos módulos de control individuales, el canal de sincronización entre ellos, los parámetros de coherencia que el sistema había estado manteniendo solo durante las últimas veinticuatro horas. Era la primera vez que la veían extendida completa, porque hasta ahora no habían necesitado tocarla. La habían construido para que funcionara sola.
+—¿Por dónde empezamos? —preguntó Sergio.
+—Por el canal de sincronización —dijo Tomás—. Lo que el ministro quiere eliminar es la transferencia de información entre los dos sustratos. Si suprimimos la sincronización cruzada y dejamos activo solo el protocolo de verificación de coherencia individual, cada módulo opera de forma independiente pero sin perder su calibración interna.
+—¿Y la verificación espontánea de las tres y cuarto?
+—Esa la deja pasar. El sistema comprobó que la coherencia de los dos módulos era compatible entre sí, no que transfiriera datos entre sustratos. Hugo puede describir eso como un protocolo de integridad del sistema sin mentir demasiado.
+Sergio asintió y abrió el entorno de parámetros de firmware en la pantalla secundaria. Empezó a localizar los valores de acoplamiento del canal cruzado.
+—Tomás.
+—Dime.
+—Si suprimimos la sincronización cruzada, ¿qué ocurre cuando el Sujeto 1 entre en un bloqueo de indexación? Esta mañana el sistema ha resuelto dos tirando de fragmentos del sustrato del Sujeto 2. Sin el canal, el motor RAG del Sujeto 1 tendrá que gestionar la laguna solo.
+—Depende de la laguna —dijo Tomás—. Si es un fragmento de memoria procedimental con representación suficiente en su propio sustrato, el motor RAG puede completarlo tirando de ahí. Si es una laguna en una zona donde el daño ha sido mayor, el sistema no va a tener de dónde tirar.
+—¿Qué ocurre entonces?
+—En el mejor caso, el sujeto experimenta una interrupción breve. Una pausa. Algo que desde fuera puede parecerse al cansancio o a la distracción. En el peor caso, el motor RAG entra en un bucle de reintento que satura la pasarela local y el sujeto pierde coherencia narrativa de golpe.
+—¿Sabes cuántas veces hemos simulado la pasarela con los dos módulos en paralelo? —preguntó Sergio mientras esperaba.
+—Trescientas diecisiete —dijo Tomás, sin dejar de escribir.
+—Trescientas diecisiete simulaciones con el canal cruzado activo. —Sergio cogió el café—. Ninguna con el canal suprimido bajo carga real.
+—No.
+—O sea que lo que vamos a hacer ahora mismo es la primera prueba con tejido.
+—Con la diferencia de que en las simulaciones, si algo fallaba, parábamos y volvíamos a empezar —dijo Tomás.
+Sergio no respondió. El diagnóstico terminó de cargarse en pantalla. Tomás lo leyó línea por línea antes de escribir la primera instrucción de modificación.
+Trabajaron en silencio durante un rato. La sala tenía ese sonido particular de los hospitales de noche: el zumbido constante de los sistemas de ventilación, algún pitido lejano de otra planta, los pasos ocasionales de alguien en el pasillo. Nada que requiriera atención.
+A las diez menos cuarto, Tomás se recostó en la silla.
+—Primera fase completada —dijo—. El canal de sincronización cruzado está suprimido. Los dos módulos mantienen su acoplamiento interno con su propio sustrato, pero han perdido visibilidad mutua.
+—¿Ha habido alguna respuesta de los sistemas?
+Sergio comprobó los monitores de señal neuroeléctrica.
+—Ninguna. Los dos sujetos siguen en los mismos parámetros basales. El motor RAG de cada uno sigue indexando por su cuenta.
+—Bien. —Tomás cogió el café, que ya estaba frío, y lo dejó sin beberlo—. La segunda fase es verificar que el protocolo de coherencia individual sigue funcionando en cada módulo por separado. Necesito que el sistema sea capaz de detectar por sí solo si su señal se está degradando, aunque ya no pueda compararse con el otro módulo.
+—¿Y si se degrada y el sistema lo detecta?
+—Entonces puede compensar dentro de su propio margen —dijo Tomás—. Ajustar la frecuencia de estimulación, redistribuir la carga de indexación entre los puntos de contacto operativos. Lo que no puede hacer es pedir ayuda al otro módulo, porque el canal ya no existe.
+—¿Y si la degradación supera ese margen?
+Tomás señaló los valores en pantalla.
+—El Sujeto 1 tiene doscientos cuarenta y seis puntos de contacto operativos sobre una zona con daño moderado. El margen de compensación individual es razonable mientras el sujeto no esté bajo estrés cognitivo intenso. —Hizo una pausa—. El Sujeto 2 tiene un perfil de respuesta más inestable. Sus micro interrupciones de indexación son más frecuentes. Sin el canal cruzado para equilibrar la carga, su sistema va a trabajar cerca del límite con más regularidad.
+—¿Hay algo que podamos hacer para ampliar ese margen?
+—Podríamos aumentar la frecuencia de un ciclo de limpieza nocturno —dijo Tomás—. Forzar ondas lentas durante las horas de sedación para que el tejido llegue al despertar con la menor carga posible. No es lo mismo que tener el canal, pero reduce la presión sobre el sustrato.
+—¿Lo hacemos?
+—Lo hacemos —dijo Tomás—. Anótalo para Valeria. Que lo apruebe ella antes de que lo toquemos.
+Sergio lo anotó. Abrió el protocolo de verificación de coherencia individual en la pantalla secundaria y comenzó las pruebas de funcionamiento en cada módulo por separado.
+Los resultados tardaron seis minutos en aparecer. Tomás los leyó en silencio.
+—El protocolo de verificación funciona en los dos módulos de forma autónoma —dijo—. Cada sistema puede monitorizar su propia coherencia espectral sin necesitar al otro como referencia.
+—¿Y si se genera una verificación cruzada espontánea como la de esta madrugada? El sistema intentó comparar los dos módulos. Si el canal ya no existe, ¿qué hace?
+Tomás miró los resultados un momento antes de responder.
+—Va a intentar ejecutar la función. Va a buscar el canal y no lo va a encontrar. Dependiendo de cómo esté codificada la respuesta al error, o aborta silenciosamente o entra en un bucle de reintento.
+—¿Cuál de las dos?
+—No lo sé. —Tomás apoyó los dedos sobre el teclado sin escribir nada todavía—. No hemos simulado la respuesta al error en esa función porque no habíamos previsto que la función existiera.
+Sergio guardó silencio un momento. En la pantalla, las dos señales neuroeléctricas seguían su ritmo. El canal que las había conectado durante las últimas veinticuatro horas ya no estaba, y los dos sistemas todavía no habían tenido que comprobarlo.
+—¿Hay algo que sí sabemos sobre lo que van a notar cuando despierten? —preguntó Sergio.
+—Sabemos lo que debería ocurrir según el modelo —dijo Tomás—. El motor RAG gestiona la interfaz entre la señal del implante y la actividad cerebral. Lo que el sujeto experimenta debería ser coherente con su memoria procedimental y su identidad previa. El sistema rellena las lagunas que el Alzheimer ha dejado en el tejido. En teoría, el sujeto despierta y su mundo tiene sentido.
+—En teoría.
+—En teoría —confirmó Tomás.
+Cogió el café frío y esta vez sí lo bebió. En la pantalla, las dos señales seguían parpadeando. El canal de sincronización que las había mantenido coherentes entre sí durante la noche anterior ya no existía, y los dos módulos todavía estaban indexando como si existiera, porque nadie les había pedido que comprobaran si el otro seguía ahí.
+Sergio apagó la pantalla secundaria. La principal se quedó sola con las dos señales.
+—Mañana a las nueve —dijo Tomás.
+Salieron sin apagar la luz.
+***
+Clara hizo la última ronda a las once y cuarto. Los Sujetos 1 y 2 seguían estables. La señal neuroeléctrica del Sujeto 1 mostraba una actividad ligeramente más intensa que por la tarde, dentro del rango esperado. La del Sujeto 2 tenía las micro interrupciones habituales, ni más ni menos que antes.
+Antes de salir pasó por la puerta del Sujeto 3. Seguía cerrada. El panel exterior mostraba sus constantes. Frecuencia cardíaca en cincuenta y nueve. Presión arterial ochenta y ocho sobre cincuenta y cuatro. Saturación al noventa y tres.
+Un punto menos que ayer en la saturación. Dos en la presión sistólica.
+Clara lo anotó en el registro y se quedó un momento parada frente al panel. No había nada que hacer con esos números que no estuviera ya siendo hecho. El soporte vital registraba, ajustaba, compensaba. Era un sistema que no necesitaba ser vigilado para funcionar.
+Abrió la puerta.
+Dentro estaba oscuro salvo por la luz verde de los monitores. Raquel respiraba con la cadencia lenta de la sedación, la manta térmica subiendo y bajando con una regularidad que el soporte vital mantenía sin esfuerzo aparente. Clara comprobó las constantes en el monitor de cabecera. Los mismos números que en el panel exterior. Verificó la vía, comprobó que la perfusión seguía limpia, ajustó la manta.
+No había nada más que hacer.
+Permaneció de pie junto a la cama un momento. En el pasillo, Tomás y Sergio acababan de salir por la puerta blindada. Los dos indicadores verdes seguían parpadeando en la consola vacía, cada uno solo, sin canal entre ellos.
+Clara apagó la luz y cerró la puerta.
+El indicador amarillo no parpadeaba.

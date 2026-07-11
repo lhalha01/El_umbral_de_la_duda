@@ -1,0 +1,119 @@
+﻿Capítulo 15
+
+Tomás llevaba toda la mañana con el entorno adaptativo de Juan abierto en dos pantallas: una con el guion que Hugo había mandado, la otra con el modelo de memoria en construcción.
+Valeria entró sin tocar.
+—¿Cómo va? —preguntó.
+—Lento. El sistema no traga bien los huecos. Cada vez que le doy una secuencia con un vacío —el momento exacto en que se levanta de la cama, por ejemplo, antes de la caída— el motor intenta rellenarlo solo, y lo que rellena no siempre es lo que pone en el expediente.
+—¿Qué pone el expediente, exactamente? —preguntó Valeria, aunque ya lo sabía. Quería oírlo en voz alta una vez más antes de aprobarlo.
+Sergio leyó la pantalla sin necesidad de la tablet.
+—Ingresado para valoración neurológica. Una noche se levanta, desorientado, y nadie llega a tiempo para impedirlo. Intenta bajar solo. Cae contra el lateral de la cama. —Hizo una pausa—. Eso es todo lo que tenemos. No hay hora exacta, no hay luz encendida o apagada, no hay nada que Hugo haya fijado más allá de esas cuatro líneas.
+—Entonces lo fijamos nosotros —dijo Valeria—. Y lo que fijemos hoy es lo que va a recordar el resto de su vida. No quiero generar un detalle nuevo cada vez que ejecutemos esto.
+Tomás asintió y abrió el editor de secuencia.
+—Necesito algo para el momento de la caída. Sonido, luz, algo que el motor pueda anclar.
+—Luz de emergencia del pasillo —dijo Sergio—. Es lo único que estaría encendido a esa hora en una habitación de hospitalización estándar. Verde, tenue, por debajo de la puerta.
+—¿Y el sonido?
+—El golpe. Solo el golpe. Nada de gritos, nada de pasos viniendo a ayudarlo, porque según el expediente nadie lo vio caer.
+Valeria lo anotó ella misma en el campo de metadatos, no en el cuaderno de Tomás.
+Memoria DCE-01. Anclaje sensorial: luz verde de emergencia bajo la puerta. Sonido: impacto único, sin testigos audibles. Fijado.
+—Cárgalo —dijo.
+Tomás ejecutó la secuencia. En la pantalla de monitorización, la actividad basal del Sujeto 1 —todavía sedado, todavía sin ninguna posibilidad de saber que estaba recibiendo nada— registró el primer contacto con el recuerdo nuevo como una serie de picos pequeños y ordenados, nada parecido a la respuesta autonómica de un trauma real.
+—Acoplamiento theta-gamma en cero setenta y dos —leyó Sergio—. Estable. El sistema lo está indexando como evento episódico, no como amenaza.
+—Eso es bueno —dijo Valeria—. Significa que lo va a recordar como algo que le pasó, no como algo que todavía le está pasando.
+Repitieron la carga. La segunda ejecución fue idéntica a la primera.
+Tomás revisaba la tercera —la última de las dos que Valeria había pedido— cuando algo en la traza de impedancia del módulo compartido subió medio punto y volvió a bajar, tan rápido que casi no llegó a registrarse como evento.
+Lo miró un segundo. Podía ser cualquier cosa —una microvariación de carga, un artefacto de la propia ejecución, algo que el sistema generaba de vez en cuando sin que nadie hubiera encontrado todavía el motivo—. Ya lo había visto antes, aunque no recordaba cuántas veces ni cuándo exactamente, y siempre se había resuelto solo en el siguiente ciclo.
+—Ruido del modelo —dijo, sin levantar la vista.
+No lo anotó. No le pareció que mereciera una línea en un informe que ya tenía bastantes líneas importantes esperando. Pero quiso ver una repetición más antes de cerrarlo, solo para comprobar que el recuerdo en sí seguía intacto.
+—Cuarta repetición, idéntica a las anteriores —confirmó, un minuto después—. El recuerdo está listo.
+Valeria revisó la pantalla una última vez: las cuatro ejecuciones, superpuestas, calcadas unas sobre otras.
+—Aprobado —dijo—. Que conste como memoria validada para el Sujeto 1. Pasamos al siguiente bloque cuando Hugo nos dé el diseño de la relación con Ana.
+Sergio cerró el editor. En ningún momento de la mañana llegó a ver lo que Tomás había visto y descartado sin decírselo a nadie.
+***
+Hugo llegó con la tablet en la mano. El sistema detectó la tablet al instante; el borrador apareció proyectado.
+—Esto es lo que tenemos —dijo—. La versión con Raquel está descartada desde que dejó de ser sujeto del proyecto. No vamos a volver a ella.
+Nadie pidió volver a ella.
+Avanzó a la página siguiente, que tenía mucho menos texto que la anterior.
+—Cena de los Premios Nacionales a la Innovación. Categoría Economía y Finanzas para Juan Ferreira, categoría Ciencias de la Vida para Ana Moreira. Los dos asistieron, cada uno por su nominación, eso ya está verificado en las listas que publica la fundación. Lo que no tenemos todavía es el momento en que se cruzan.
+—¿Eso es todo lo que traes? —preguntó Sergio.
+—Es todo lo que puedo traer yo solo —dijo Hugo—. El resto necesita que estéis los tres. Tomás y Sergio saben qué traga el sistema y qué no. Valeria sabe qué puede sostener clínicamente si algún día hay que defenderlo delante de uno de los dos sujetos. Yo solo sé si algo deja rastro fuera de esta sala.
+Antonio se recostó en la silla.
+—Entonces empecemos por lo más simple que se pueda imaginar —dijo—. Si funciona lo mínimo, no necesitamos nada más.
+—Un cruce de miradas —propuso Valeria—. Se ven, sin hablar, y cada uno vuelve a lo suyo.
+—No aguanta —dijo Sergio, casi de inmediato—. Un cruce de miradas sin nada después, el motor lo trata como ruido de fondo, no como un evento. Si alguno de los dos intenta recordarlo bajo presión, no hay nada ahí para sostenerlo.
+—¿Y si el sistema simplemente no necesita sostenerlo? —preguntó Antonio—. Es la pregunta que sigo sin haber oído contestada. ¿Por qué hace falta algo más que «se conocen vagamente»?
+—Porque «vagamente» no es un estado, es una ausencia —dijo Valeria—. Si algún día el módulo compartido produce un cruce de información entre los dos, necesitamos un motivo por el que se reconocen, no solo una etiqueta sin contenido detrás.
+Antonio no insistió, pero tampoco pareció convencido del todo.
+—Un cruce en el guardarropa, entonces —dijo Valeria—. Se confunden de ticket, se disculpan, ya está. Tiene objeto y tiene motivo.
+—Demasiado mecánico —dijo Hugo—. Un guardarropa tiene empleados. Si alguna vez alguien pregunta, hay una persona real que podría, en teoría, recordar una confusión de tickets esa noche. Es poco probable, pero existe.
+—Una conversación sobre el menú —propuso Tomás—. Comentan algo del plato, se ríen un poco, cada uno vuelve a su mesa.
+—Esa es peor, no mejor —dijo Hugo—. Una conversación tiene que sostenerse sola si alguna vez se la preguntan. ¿De qué hablaron exactamente? ¿Cuánto duró? En el momento en que hace falta inventar más de una frase, ya no es un cruce pequeño, es una escena entera que cualquiera de los dos podría contar mal el día que se lo pregunten.
+—¿Y si coinciden fuera, fumando? —probó Sergio.
+—No —dijo Valeria, antes de que Hugo llegara a responder—. Eso no es solo un cruce, es un hábito que después tenemos que mantener en el resto del perfil de los dos. Si alguna vez alguien los ve sin fumar, o fumando de una marca distinta a la que hayamos puesto en el expediente, es una grieta nueva que no existía antes de esta reunión.
+—Bien visto —dijo Hugo—. Nada que implique un comportamiento sostenido. Solo un instante.
+—¿Y un tropiezo, sin más? —propuso Tomás—. Ana choca con él al pasar, se disculpa, sigue andando.
+—Eso es exactamente lo que decía Valeria del cruce de miradas, solo que con contacto físico —dijo Sergio—. Tampoco ancla nada. Un tropiezo sin consecuencia es ruido, igual que una mirada sin consecuencia. El motor necesita que el evento deje algo detrás, no solo que haya ocurrido.
+Nadie dijo nada, no porque se les hubieran acabado las ideas, sino porque las que tenían ya estaban descartadas todas por el mismo tipo de razón.
+—Necesita un objeto —dijo Sergio, al final—. No una conversación, no un hábito. Algo que uno tenga y el otro necesite, durante el tiempo justo para que pase algo y no más.
+—¿Como qué? —preguntó Tomás.
+—Como un cargador —dijo Sergio—. El móvil de uno se queda sin batería. El otro tiene uno de sobra.
+Hugo lo consideró brevemente.
+—¿Quién se queda sin batería? —preguntó—. Eso decide la mitad del recuerdo.
+—Juan —dijo Valeria—. Si es antes de un discurso, tiene un motivo real para estar pendiente del móvil esa noche —comprobando la hora, contestando algo del despacho— y un motivo real para que se le agote.
+—Entonces Ana es quien presta el cargador —dijo Hugo—. Lo cual tiene más sentido del que parece: a esa edad, en ese tipo de eventos, los hombres no suelen llevar nada encima salvo el teléfono y la cartera. Las mujeres sí llevan bolso, por costumbre, no por necesidad. Si alguna vez alguien pregunta por qué ella tenía un cargador de sobra y él no, la respuesta más aburrida es también la más probable.
+—Me vale —dijo Valeria—. Construyámoslo entero, entonces, antes de que alguien encuentre un motivo para tirarlo abajo.
+Antonio levantó una mano, no para detenerlos, sino para marcar el ritmo.
+—Quince minutos —dijo—. No tenemos toda la tarde para esto.
+Hugo abrió un documento nuevo y empezó a escribir mientras hablaba, en voz alta, para que los demás pudieran corregir sobre la marcha.
+—Juan está en una mesa de su categoría, pero lejos del escenario, porque confirmó la asistencia tarde. Antes del discurso, sale a buscar un cargador. No encuentra a nadie cerca que le preste uno y vuelve a su sitio sin él.
+—Ahí tiene que quedar sin resolver —dijo Sergio—. Si lo resuelve en ese momento, no hace falta que vuelva a cruzarse con nadie después.
+—Lo sé —dijo Hugo, y siguió escribiendo—. Cuando terminan los premios, Ana pasa por las mesas, saludando a quien la felicita. Se detiene en la de Juan. Alguien menciona el incidente de antes.
+—¿Quién lo menciona? —preguntó Tomás—. Si es un tercero, ya hay un testigo más que controlar.
+Hugo se detuvo a pensarlo.
+—Que lo mencione el propio Juan —dijo—. Es lo más simple. Ella se acerca a saludar a la mesa en general, él comenta de pasada que se le ha quedado el móvil sin batería antes de su discurso. No hace falta que nadie más intervenga.
+—Eso funciona —dijo Sergio—. Un solo testigo posible de la frase, y es uno de los dos sujetos. No hay nadie fuera de esto a quien preguntar.
+—Ella le presta el suyo —continuó Hugo, escribiendo—, el que lleva en el bolso por costumbre, y sigue su camino. Juan lo conecta en su propia mesa. Un rato después, va a devolvérselo. Un cruce de unos segundos, las gracias por el cargador y por el premio que no ha visto entregar. Nada más.
+Valeria leyó la pantalla por encima del hombro de Hugo.
+—¿Cuánto es «un rato después»? —preguntó—. Si lo dejamos así, vago, el sistema puede decidir que fueron cinco minutos o que fue toda la noche, y eso cambia cuánto tiempo cree Juan que pasó cerca de ella.
+—No necesita una cifra —dijo Sergio—. Necesita que el recuerdo no incluya el tiempo de en medio en absoluto. Lo que carga la batería pasa sin que nadie lo presencie. Lo único que queda fijado son los dos instantes: cuando ella se lo da, cuando él se lo devuelve. El resto no es parte del recuerdo porque no fue parte de la escena para ninguno de los dos.
+—Eso es más limpio que poner un número —admitió Valeria.
+—Y no necesita testigos —añadió Hugo—. Nadie se acuerda de quién le prestó un cargador a un desconocido en una gala hace meses, ni siquiera la propia premiada, rodeada de gente toda la noche.
+Antonio, que llevaba un rato sin hablar, señaló la pantalla.
+—¿Y si alguno de los dos, más adelante, recuerda algo de esa noche que no esté aquí escrito? —preguntó—. Un color, una canción, algo que el sistema decida añadir por su cuenta.
+—Entonces lo sabremos —dijo Sergio—, porque será la primera vez que el sistema invente algo sin que se lo hayamos pedido, y eso, paradójicamente, es la alarma que queremos tener encendida. Un recuerdo demasiado pobre es indistinguible de uno bien hecho. Un recuerdo que de pronto empieza a crecer solo, no.
+Valeria abrió el documento compartido y copió el texto de Hugo, palabra por palabra.
+—Categoría: conocidos, no amigos —dijo, leyendo mientras tecleaba—. Dos instantes de unos segundos cada uno, separados por un préstamo sin testigos. Ninguna continuidad posterior. Si alguno de los dos muestra indicios de conocer algo del otro más allá de esto, ya sabemos de dónde puede venir la sospecha, y ya sabemos que no debería venir de aquí.
+—Queda fijado —dijo Hugo—. Cuando Tomás y Sergio lo construyan, que sea exactamente este texto. Nada de luz, nada de sonido, nada de tiempo de en medio que no esté aquí escrito.
+Antonio siguió con los ojos en la pantalla mientras los demás recogían, sin añadir nada más.
+***
+Por la tarde, con el accidente de Juan ya cerrado, Valeria, Sergio y Tomás pasaron al expediente de Ana.
+—Solo el accidente, hoy —dijo Valeria—. El recuerdo de la gala puede esperar. Es el primero que depende de los dos sujetos a la vez, no de uno solo; quiero los dos accidentes asentados antes de tocarlo.
+Tomás abrió el entorno adaptativo de Ana y cargó el expediente de Hugo en la pantalla de construcción.
+—Caminata en solitario, zona escarpada, sábado —leyó, de memoria—. No hay testigo cuyo punto de vista haya que sacar del recuerdo, porque no había nadie más. Eso simplifica la mitad del trabajo.
+—Anclaje sensorial —dijo Valeria—. ¿Qué tenemos?
+—El viento —propuso Sergio—. Si va sola, por una zona escarpada, lo único constante en todo el paseo es el viento. Encaja con cualquier hora del día, no hace falta precisar más.
+—¿Y el momento de la caída?
+—El horizonte —dijo Tomás—. Inclinándose. No hace falta nada más violento que eso. El cuerpo ya sabe que se cae sin que el recuerdo tenga que explicarlo con un golpe.
+—Tiene sentido —dijo Valeria—. La amnesia alrededor del instante exacto del impacto es lo más común en una caída real, mucho más que en un golpe contra una cama con barrera. Que no recuerde el golpe no es un recuerdo pobre. Es lo clínicamente esperable.
+Valeria anotó los dos anclajes en el campo de metadatos.
+Memoria DCE-02. Anclaje sensorial: viento constante, sin variación por hora. Momento de la caída: inclinación del horizonte, sin sonido de impacto. Fijado.
+—Cárgalo.
+La respuesta fue, si cabe, más limpia que la de Juan. El sustrato de Ana indexó el evento sin ningún pico de alarma, como si el propio anclaje —silencioso, sin testigos, sin nadie corriendo a ayudarla— le costara menos al sistema que la versión de Juan, con su luz de pasillo y su golpe contra la cama.
+—Repítelo —dijo Valeria—. Dos veces más, igual que con Juan.
+Lo repitieron. La primera, idéntica. Fue en la segunda comprobación, mientras verificaba que la curva no se hubiera movido ni un grado, cuando la traza del módulo compartido subió medio punto y volvió a bajar. Era la misma forma exacta que Tomás había visto y descartado esa misma mañana, sin que ninguno de los dos llegara a compararlo con nada.
+Sergio lo miró un segundo.
+Ya lo había visto antes, aunque en ese momento no relacionó cuántas veces ni con qué construcción exactamente. Microvariación de carga, se dijo, la misma explicación de siempre, y siguió con la pantalla.
+—Ruido del modelo —dijo, en voz alta esta vez, porque Valeria estaba mirando—. Pasa de tanto en tanto. No es nada.
+Valeria no preguntó más. No lo anotó nadie.
+—Segunda repetición, idéntica —confirmó Tomás, un minuto después—. El accidente está listo.
+Valeria revisó las tres ejecuciones, superpuestas, calcadas unas sobre otras.
+—Aprobado —dijo—. Que conste como memoria validada para el Sujeto 2.
+Ninguno de los tres mencionó que era la segunda vez en el mismo día que alguien veía ese pico y decidía, sin pararse a pensarlo, que no merecía una línea.
+***
+Pasaba de las once cuando Sergio abrió el panel de monitorización de soporte vital del Sujeto 3, no por ninguna alerta, sino porque era lo último que hacía cada noche antes de irse, desde hacía semanas, aunque nadie le había pedido que lo hiciera.
+Las constantes estaban donde siempre. Cincuenta y cinco. Ochenta y dos sobre cincuenta. Pasó el cursor por el resto de los canales sin esperar nada, hasta que el de acoplamiento theta-gamma marcó un pico breve, aislado, que subió y bajó en menos de dos segundos.
+Lo miró sin sobresaltarse.
+Ya lo había visto antes. No sabía decir cuántas veces exactamente —al principio las contaba, ahora ya no—, pero conocía la forma de esa curva lo bastante bien como para no necesitar comprobar nada más. Un pico limpio, sin ruido alrededor, sin que ningún otro parámetro se moviera para acompañarlo. Eso era distinto de cuando aparecía pegado a una caída de coherencia, que sí merecía mirarse dos veces. Esto no. Esto era solo lo que llevaba pasando, con esa misma forma exacta, desde hacía más tiempo del que él mismo podría haber precisado si alguien le hubiera preguntado esa noche.
+Hubo una época, semanas atrás, en que cada pico de estos se ganaba una línea en la carpeta sin nombre de su disco local. Llevaba un tiempo sin abrirla. No porque hubiera dejado de importarle, sino porque la frecuencia con la que aparecían había terminado, sin que él lo decidiera del todo, por convertirlos en parte del paisaje habitual del Sujeto 3, como las propias constantes vitales que ya ni se molestaba en anotar si no cambiaban.
+Cerró el panel sin escribir nada.
+Antes de salir, echó un vistazo rápido a la hora del registro. Las once y diez. No lo comparó con nada —ni con el que había visto él mismo esa misma tarde, durante la carga del accidente de Ana, ni con ningún otro—. El pico que acababa de descartar como rutina llevaba la misma forma exacta que el de esa tarde, y el de esa tarde la misma forma exacta que los que ya no contaba. No se le ocurrió, mientras apagaba la pantalla, que esa misma mañana Tomás había visto uno idéntico al construir el accidente de Juan, sin decírselo a nadie tampoco. Tres ecos en un solo día, repartidos entre dos personas, y ninguno de los tres llegó a juntarse con los otros dos en la cabeza de nadie.
+Apagó la pantalla y se fue.

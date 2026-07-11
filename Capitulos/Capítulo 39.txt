@@ -1,0 +1,68 @@
+﻿Capítulo 39
+
+Fue esa misma noche, la primera desde la activación, cuando Sergio encontró la primera cifra que no encajaba.
+Pasadas las once revisó los logs del día: sincronizaciones rutinarias de Juan y de Ana, sin alarmas. El canal había funcionado, hasta entonces, exactamente como Sergio había prometido: en silencio, sin que ninguno de los dos hubiera vuelto a necesitarlo para nada parecido a un bloqueo real.
+Antes de cerrar el sistema hizo lo de siempre: los logs clínicos, después los del canal, y por último el resumen automático que el propio sistema generaba para auditarse y que nadie más se molestaba en abrir entero. La mayoría de las noches, ese último paso no llevaba más de un minuto. Esa noche llevó más de dos horas.
+Comparó dos columnas que nunca había tenido motivo para comparar: el flujo de entrada —la actividad neuroeléctrica bruta de los dos implantes— y el flujo indexado, lo que el motor RAG había terminado almacenando como fragmentos recuperables.
+La segunda cifra era mayor que la primera.
+No mucho: una desviación pequeña, del tipo que en otro contexto habría atribuido a un redondeo. Pero llevaba memorizados los márgenes de error reales de esos subsistemas, y esto no cabía en ninguno.
+Comprobó la suma tres veces. Las tres, la diferencia era la misma. La primera pensó que se había equivocado de columna. La segunda, que había mezclado dos tramos. La tercera ya no buscaba un error suyo, sino una explicación para algo bien calculado.
+—Eso no puede ser —dijo, en voz baja, a una sala vacía.
+Retrocedió hasta la activación misma, nueve horas antes. Ahí no había nada: entrada y salida coincidían, dígito por dígito. Eso era lo que de verdad no encajaba. No era un error de calibración constante desde el principio. Era un error que no existía a las nueve de la mañana y que había ido creciendo, hora a hora, desde entonces.
+Mantuvo los ojos en la pantalla, buscando la explicación más aburrida antes de permitirse pensar en cualquier otra.
+La más aburrida era que el sistema contara dos veces algo ocurrido una sola. No era eso: cada fragmento tenía su marca temporal única, sin duplicados. La segunda era que el propio canal generara registros administrativos que el sistema contara como contenido real. Tampoco: esos registros tenían su categoría separada, ya excluida del cálculo. Quedaba una tercera, la más improbable y la que más tardó en descartar: que el aumento de precisión del sistema, con dos sustratos disponibles, generara fragmentos más completos que pesaran más en la cuenta sin venir de ningún sitio nuevo. Comprobó el tamaño medio de cada fragmento antes y después de la activación. Era el mismo. Lo que había cambiado no era el tamaño de lo guardado. Era la cantidad.
+Descartadas las tres explicaciones, quedaba esto: el motor RAG estaba almacenando, cada vez, un poco más de lo que Juan y Ana, entre los dos, le habían dado.
+Abrió una hoja en blanco y escribió la misma frase que había usado toda su vida para describir presupuestos, sin pensar que un día la aplicaría a un cerebro: esto es una cuenta que no cierra.
+Hizo lo que ya sabía hacer, porque lo había hecho antes con los ecos, mucho antes de que nadie los llamara así. Sacó las marcas temporales exactas de cada salto de la discrepancia —irregulares, nunca a la misma hora dos veces— y las puso junto a una columna que llevaba meses sin abrir para nada relacionado con Juan o Ana: la actividad del canal del Sujeto 3.
+No esperaba, de verdad, que coincidieran. Lo hizo por el mismo motivo por el que comprobaba siempre lo más aburrido primero: para descartarlo y quedarse tranquilo.
+Coincidían.
+No todos los saltos, pero sí los suficientes, con la precisión de milisegundos necesaria para que la palabra coincidencia dejara de servirle. Cada vez que el canal del Sujeto 3 mostraba uno de sus picos —del mismo tipo que llevaba meses archivando como ruido de arquitectura sin consecuencia clínica— el flujo indexado de Juan o de Ana subía, un poco, en algún punto cercano de la misma noche. No siempre el mismo de los dos. Una vez, los dos a la vez, con menos de un segundo de diferencia entre los incrementos.
+Anotó tres ejemplos con precisión antes de generalizar nada. El primero: a las tres y cuarto, un pico de ochocientos milisegundos en el Sujeto 3, seguido, cuarenta y un milisegundos después, de un incremento de cero coma tres unidades en Ana. El segundo: a la una y media, un pico de mil cien milisegundos, seguido de un incremento mayor, cero coma siete, en el mismo sustrato. El tercero: de madrugada, los dos a la vez, el pico del Sujeto 3 exactamente en medio de los dos incrementos, como si la señal hubiera repartido la decisión entre los dos sustratos disponibles esa noche.
+Se quedó con las dos columnas abiertas más tiempo del necesario para confirmar lo ya confirmado tres veces, como si mirarlas más rato pudiera cambiar lo que decían.
+El canal del Sujeto 3 no tenía ningún implante de transferencia activa. Nunca lo había tenido: era un EEG, colocado por costumbre clínica, no por necesidad funcional, tal como él mismo había explicado la primera vez que alguien preguntó por qué seguía ahí. Y lo había integrado, desde el primer día, en el mismo servidor donde vivían todos los demás canales de la planta, sin que nadie se lo pidiera y sin razón para no hacerlo. Era, simplemente, donde vivía todo lo demás. Cualquier proceso con acceso a ese servidor —incluido el motor RAG de los otros dos sustratos, cada vez que salía a buscar algo que rellenar— tenía, en teoría, acceso también a esto.
+Nadie había verificado nunca si esa teoría se aplicaba en la práctica. Hasta ahora no había hecho falta. Y sin embargo, cada vez que esa medición mostraba uno de sus picos, en algún lugar de la planta algo que no era ruido quedaba guardado donde antes no había nada.
+***
+Antes de que Sergio empezara a comparar columnas, Clara había hecho su ronda por el Sujeto 3: frecuencia cardíaca en cuarenta y uno —un punto menos que la semana anterior, como llevaba siendo desde hacía meses—, presión setenta sobre treinta y seis, saturación al ochenta y cinco. Nada que anotar que no hubiera anotado ya cien veces.
+Se quedó un momento más de lo habitual junto a la cama, sin saber bien por qué, y se fue sin decir nada a nadie.
+***
+No llamó a Tomás esa noche.
+No fue una decisión meditada del todo. Era lo que hacía siempre con algo que no entendía por completo: guardarlo, mirarlo de nuevo al día siguiente con la cabeza descansada, y solo entonces decidir si merecía que otra persona perdiera el sueño por ello.
+La carpeta sin nombre existía desde antes de que nadie hablara de despertar a nadie, cuando del proyecto solo había simulaciones y un canal compartido que el ministro todavía no había mandado cerrar. El primer archivo no llevaba fecha en el nombre, solo un número de versión, porque entonces no sabía si guardaría una segunda cosa parecida.
+Llevaba veintitrés archivos. En todo ese tiempo no había añadido ninguno: los picos del Sujeto 3 seguían produciéndose, pero sin correlación con los sustratos que justificara guardarlos aparte. Hasta esta noche. Este habría sido el veinticuatro, si lo hubiera metido en la misma carpeta. No lo hizo: le pareció, sin saber explicar bien por qué, que pertenecía a una categoría distinta.
+Creó un documento nuevo, separado de los ecos, porque esto ya no era exactamente lo mismo, aunque viniera de donde ellos venían. Le puso fecha y una sola línea sin interpretación: Discrepancia de flujo, Sujetos 1 y 2. Correlación temporal con actividad del Sujeto 3. Sin explicación técnica identificada.
+Lo guardó sin cerrarlo del todo, como si dejarlo abierto fuera una forma de seguir pensando sin decidir nada todavía.
+Siguió con la vista fija en la pantalla, las dos columnas aún abiertas, pensando en algo que no llegó a escribir en ningún sitio. Que su propia frase —esto es una cuenta que no cierra— era, palabra por palabra, lo que decían en el departamento de Inés cuando un presupuesto no terminaba de explicarse. Y que allí, cuando una cuenta no cerraba, lo primero que hacían era preguntarse adónde había ido el dinero que faltaba.
+Aquí no faltaba nada. Aquí, simplemente, sobraba.
+Llegó a coger el teléfono, con el número de Tomás ya en la pantalla. Lo dejó sin marcar. No era falta de confianza: era que, en cuanto lo dijera en voz alta, dejaría de ser una cifra rara en una hoja de cálculo para convertirse en algo que el equipo entero tendría que decidir qué hacer con ello. Y quería, antes de eso, una noche más sabiendo algo que nadie más sabía todavía.
+A tres plantas de distancia, Tomás terminaba de actualizar el manual del canal con las cifras de la activación. Ninguno tenía motivo para llamar al otro. Se fueron a dormir esa noche sabiendo cosas distintas sobre el mismo sistema.
+Antes de irse, Sergio pasó, como cada noche, por delante de la puerta cerrada del Sujeto 3. No se detuvo. No hacía falta: sabía qué había detrás sin comprobarlo —una mujer que ya no podía generar ningún recuerdo nuevo, y un canal que, según lo que acababa de comprobar tres veces, no estaba tan callado como todos habían dado por hecho.
+Apagó las luces de la consola en el orden de siempre. La última, como siempre, la pantalla pequeña de la esquina, con sus dos líneas verdes y la amarilla que ya no parpadeaba. Esa noche se quedó mirándola un segundo más de lo habitual antes de apagarla, y se fue a casa con un archivo nuevo y ninguna respuesta.
+***
+A la mañana siguiente Sergio llegó antes que nadie. Quería confirmar si la discrepancia se repartía igual entre Juan y Ana, o si uno pesaba más que el otro.
+No se repartía igual: la mayoría de los incrementos correspondían a Ana. Juan tenía algunos, menos y más pequeños. Eso no encajaba con el diseño del canal, simétrico: cualquiera de los dos podía consultar al otro con el mismo acceso. Si la fuente fuera el canal, deberían recibir aproximadamente lo mismo.
+Si no era el canal, y la fuente era el Sujeto 3, la asimetría tenía más sentido del que le gustaba admitir. Ana llevaba tiempo con bloqueos más profundos —la variable ochenta y siete, sobre todo— que obligaban al motor a buscar en cualquier sustrato disponible antes de que el canal tuviera tiempo de intervenir. El canal resolvía el bloqueo, pero en los primeros milisegundos de búsqueda ya había accedido a todo lo que el servidor tenía. Cuanto más profundo el bloqueo, más amplia esa búsqueda inicial.
+Antes de aceptarlo, comprobó si la diferencia se explicaba por las horas conectadas: Juan llevaba casi las mismas que Ana, con menos de un día de diferencia. Si las horas fueran la variable, la discrepancia se repartiría casi igual. No lo hacía.
+Quedaba, por eliminación, lo que menos le gustaba: no era tiempo de exposición, sino el tipo de bloqueo que había necesitado cada uno.
+Sumó el total acumulado, no solo el último incremento. La cifra, en perspectiva, no era alarmante por sí sola: el equivalente a unos pocos minutos de actividad cognitiva completa, repartidos entre dos personas y todo el tiempo conectadas. Nada que un cuerpo notara. Nada que ningún protocolo clínico existente estuviera diseñado para detectar, porque ninguno había contemplado que hubiera algo que detectar ahí.
+Lo que le preocupaba no era el tamaño. Era la dirección: una cifra pequeña que solo crece, sin razón conocida para que algún día haga lo contrario, deja de ser pequeña en cuanto alguien se pregunta qué pasa si sigue creciendo mucho más tiempo.
+Nadie le había pedido que calculara eso. Lo hizo igual, para tener la cifra a mano el día que alguien la pidiera.
+***
+En la reunión, Valeria repasó los datos de la noche.
+—¿Algo que reportar?
+—Nada —dijo Sergio—. Coherencia estable en los dos.
+—¿El canal? —preguntó Tomás.
+—Sin uso desde la última vez. Buena señal, supongo.
+—¿Supones?
+—Es buena señal, sin duda —corrigió Sergio.
+—Es la mejor que podíamos pedir —dijo Valeria—. Significa que ya no lo necesitan tanto como temíamos.
+Sergio no dijo nada más. No era mentira: era una versión incompleta de la verdad, y las dos cosas convivían en la misma frase sin que nadie notara la diferencia.
+Al salir, Tomás lo alcanzó en el pasillo. El «¿Supones?» seguía ahí.
+—¿Sigues guardando los ecos? —preguntó, sin detenerse.
+—Cada noche —dijo Sergio—. Por costumbre.
+***
+Antonio tuvo su reunión semanal con Carlos.
+—¿Cómo va el canal?
+—Sin incidencias —dijo Antonio—. El sistema apenas lo ha necesitado, lo cual ya es buena noticia.
+—Eso es bueno.
+—Es justo lo que esperábamos.
+Ninguno de los dos sabía que la frase «sin incidencias» dependía enteramente de qué se decidiera contar como incidencia, y que esa definición ya no era tan sencilla como sonaba, salvo para Sergio.

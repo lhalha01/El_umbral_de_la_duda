@@ -1,0 +1,124 @@
+﻿Capítulo 11
+
+La reunión del tercer día empezó con un silencio distinto al de las mañanas anteriores. No el de gente cansada. El de gente que lleva horas trabajando con algo que no termina de entender y prefiere no decirlo antes de tener los datos delante.
+—El canal de sincronización cruzada está suprimido desde las once y veinte de anoche —dijo Sergio—. Los dos módulos llevan nueve horas operando en solitario. Sin incidencias. Una verificación espontánea a las cuatro y ocho: el módulo del Sujeto 1 buscó el canal, no lo encontró, abortó en menos de un segundo.
+—Van tres en tres días —dijo Tomás—. Si hay una cuarta antes del despertar, lo monitorizamos como patrón, no como ruido.
+Valeria dejó la tableta sobre la mesa.
+—El Sujeto 1 está listo para el primer escalón de sedación. Podemos empezar esta tarde. El Sujeto 2 necesita cuarenta y ocho horas mínimo.
+—¿Cuándo los tenemos a los dos operativos? —preguntó Antonio.
+—El Sujeto 1, el sábado como muy pronto. El Sujeto 2, el miércoles que viene.
+—El ministro los quiere a los dos en sus puestos el lunes.
+El silencio que siguió fue distinto al del principio.
+—No —dijo Valeria, y durante varios segundos no dijo nada más—. El cuerpo del Sujeto 2 no se ha calibrado del todo alrededor del implante. Sin canal cruzado, cualquier bloqueo de indexación va a multiplicarse en cuanto haya carga cognitiva real, y no tenemos precedente de cuánto puede aguantar el sustrato en esas condiciones. Lo que sí tenemos es al Sujeto 3, que nos mostró qué pasa cuando el tejido no reúne las condiciones mínimas. La diferencia es que a él lo perdimos en un quirófano que controlábamos. Al Sujeto 2 lo perderíamos en una sala de juntas.
+—¿Cuánto tiempo pides? —preguntó Antonio.
+—Dos semanas desde los implantes es lo mínimo defendible. Tres, lo que firmaría sin reservas.
+Antonio miró la pantalla de monitorización. Dos indicadores verdes. Uno amarillo.
+—Esta tarde, primer escalón del Sujeto 1. Y antes de empezar, separamos físicamente a los dos sujetos. Habitaciones independientes, sin contacto.
+—¿Por qué la separación? —preguntó Clara.
+—El módulo del Sujeto 1 ya busca el canal solo —dijo Tomás—. Si empieza a salir de la sedación en la misma sala que el otro, no podemos descartar que el firmware trate la presencia física como una referencia. No lo hemos simulado.
+—Necesito el informe conjunto antes de las tres —dijo Antonio, ya de pie—. Algo que el ministro no pueda rechazar sin asumir él la responsabilidad. El plazo lo negocio yo.
+Tomás y Valeria discutieron dos minutos por dónde empezar el informe —los márgenes clínicos primero abrían la puerta a que el ministro los negociara; el precedente del Sujeto 3 no— y trabajaron después sin interrupción hasta las dos y cuarto. Sergio pasó la mañana separando los dos monitores que hasta entonces habían compartido pantalla: las señales, distintas entre sí desde siempre, ahora ya no tenían nada entre ellas. Clara organizó el traslado del Sujeto 1 con los celadores que ya conocían la planta. El Sujeto 1 no se movió durante el traslado. No sabía que lo habían movido. No sabía nada.
+***
+Antonio llamó al ministro a las tres menos diez, con el informe leído dos veces.
+—El Sujeto 2 no puede estar operativo el lunes —dijo—. Si lo forzamos antes de que el sustrato se estabilice, el sistema puede fallar en un entorno que no controlamos.
+—El despacho de Juan lleva días cerrado con una baja que sus socios ya cuestionan —dijo el ministro—. Ana tiene contratos pendientes que no pueden esperar. Cada día es un día más cerca de una pregunta que no podemos responder.
+—Si los devolvemos antes de tiempo y el sistema falla delante de sus equipos, esas preguntas van a ser mucho peores.
+—¿Qué garantías me das de que en dos semanas funciona?
+—Ninguna.
+Silencio largo.
+—No voy a ponerte fecha —dijo el ministro al fin, con la misma frialdad de la primera reunión—. Tú decides cuándo están listos. Pero si algo sale mal, lo primero que se desmonta es el proyecto. Y lo segundo, tú.
+—Está claro.
+La llamada se cortó. Antonio cogió el informe y subió a la Planta 42.
+***
+A las cuatro, con Clara en la cabecera, Sergio en la consola y Tomás junto a la pared con el cuaderno abierto, Valeria bajó la perfusión de propofol un quince por ciento: el primer escalón. Los primeros cuatro minutos no pasó nada. A los seis, la señal del hipocampo empezó a subir, despacio, irregular.
+—El motor RAG está respondiendo —dijo Sergio—. Cero setenta y tres. Subiendo. Solo, sin canal cruzado.
+A los nueve minutos la coherencia llegó a cero ochenta y uno y se quedó ahí. Los dedos de la mano izquierda del Sujeto 1 se movieron una vez sobre la sábana —el mismo gesto que Clara llevaba días anotando sin clasificar— y no volvieron a moverse.
+—Doce horas de observación mínima —dijo Valeria—. Si se mantiene, mañana evaluamos el segundo escalón.
+Antonio entró sin hacer ruido cuando ya llevaban tres horas por encima de cero ochenta.
+—¿Has hablado con el ministro? —preguntó Tomás.
+—El plazo es nuestro. Él no pone fecha.
+—¿Qué significa eso?
+—Que si algo sale mal, cae sobre mí.
+***
+A las siete y media, con la coherencia del Sujeto 1 todavía estable, Valeria decidió algo que no estaba en el protocolo.
+—Vamos a intentarlo con el Sujeto 2.
+—Le dijiste cuarenta y ocho horas —dijo Tomás.
+—Lo sé. Pero si da aunque sea una señal de estabilidad inicial, tenemos un dato real antes de decidir cuándo iniciamos su escalón. Y si no la da, también. —Bajó la perfusión un diez por ciento, no el quince estándar—. Veinte minutos de observación. Si no hay respuesta coherente antes de ese límite, cerramos y no lo repetimos hasta las cuarenta y ocho completas.
+A los ocho minutos, un incremento de cuatro segundos que Tomás descartó como ruido. A los dieciséis, la frecuencia cardíaca subió a noventa y uno de golpe.
+—Respuesta autonómica —dijo Clara.
+—Coherencia cayendo. Cero setenta y ocho. Cero setenta y tres —dijo Sergio.
+—Volvemos al nivel base.
+Cuatro minutos después la frecuencia había vuelto a setenta y dos y la coherencia se había estabilizado en cero ochenta y uno, sin que nada pareciera haber pasado.
+—El sustrato ha detectado el cambio antes de tener señal endógena para procesarlo —dijo Tomás—. Sin canal, no ha tenido adónde ir.
+—Cuarenta y ocho horas —dijo Valeria—. No antes.
+No lo dijo para nadie en particular. Lo dijo para el registro.
+***
+Clara hizo la última ronda a las once y media. El Sujeto 1, estable, coherencia por encima de ochenta. El Sujeto 2, sin que nada en su gesto recordara el episodio de las siete y media. Antes de salir fue al fondo del pasillo. El panel del Sujeto 3 mostraba unos números un poco más bajos que la tarde anterior, como cada noche. Entró, comprobó la vía de Raquel, ajustó la manta térmica, y se quedó de pie junto a la cama sin hacer nada más. En el pasillo, los dos indicadores verdes parpadeaban en habitaciones separadas, cada uno solo. Apagó la luz.
+***
+La reunión del cuarto día empezó igual que la anterior: Sergio con los logs, directo a los datos.
+—El Sujeto 1 ha completado doce horas en el primer escalón. Coherencia estable en cero ochenta y tres. Tres incrementos de actividad gestionados sin intervención externa.
+—¿Verificaciones espontáneas? —preguntó Tomás.
+—Una más. Van cuatro.
+—¿El Sujeto 2? —preguntó Valeria.
+—Sedación base. Las cuarenta y ocho horas se cumplen mañana, no hoy.
+—Lo sé —dijo Valeria—. Esta tarde, primer escalón del Sujeto 2. Protocolo estándar, quince por ciento. Si el sustrato no aguanta, mejor saberlo hoy, con margen, que descubrirlo más cerca del lunes.
+—Dijiste cuarenta y ocho. Sin excepciones —dijo Tomás.
+—Fueron mis palabras y puedo decidir lo contrario. —Hizo una pausa—. Esta mañana, segundo escalón del Sujeto 1. Con lo que vimos ayer, quiero a todo el equipo a las siete y media. Sin excepciones.
+Nadie lo discutió.
+—Hugo está aquí esta mañana —dijo Antonio, con la misma neutralidad con que habría anunciado que había café. Nadie lo había visto entrar—. El Sujeto 3 sigue bajo régimen de Disponibilidad Cognitiva Estratégica, y su proceso biológico está avanzando. Hay una cuestión legal que no hemos resuelto.
+Hugo abrió su carpeta.
+—Cuando fallezca, su muerte no puede certificarse por el procedimiento ordinario. Un activo DCE es documentación reservada; el registro civil, el forense, el certificado estándar: ninguno puede aplicarse sin levantar la clasificación, y eso exige una autorización que nadie ha pedido porque nadie previó este escenario. Tengo que construir el protocolo antes de que ocurra.
+—¿Cuánto tiempo necesitas? —preguntó Antonio.
+Hugo miró las constantes del Sujeto 3 en la pantalla lateral.
+—Menos del que nos queda.
+—¿Algo que cambiar en el acompañamiento clínico? —preguntó Antonio, mirando a Valeria.
+—No —dijo Clara, antes de que Valeria pudiera responder. Fue la única palabra que dijo en toda la reunión.
+—Hugo, quédate esta mañana para el protocolo de cierre —dijo Antonio—. Valeria, segundo escalón cuando estés lista. Nos vemos a las siete y media.
+***
+El segundo escalón del Sujeto 1 fue más rápido que el primero: el sustrato ya trabajaba por encima del basal. A los cinco minutos la actividad subió sin la lentitud del día anterior; a los nueve, la coherencia se estabilizó en cero ochenta y nueve. Clara detectó un aleteo en el párpado izquierdo, menos de un segundo, sin apertura.
+—Reflejo de transición —dijo Valeria, tras comprobar la reactividad pupilar—. No es despertar. Lo esperábamos en algún momento de este escalón.
+Doce horas más de estabilidad y al día siguiente evaluarían el tercer escalón. Valeria salió del box con la tableta bajo el brazo. En el pasillo la esperaba Hugo.
+—Necesito entender el procedimiento clínico exacto —dijo, ya en el despacho pequeño del fondo—. Cuando el Sujeto 3 fallezca, ¿qué ocurre médicamente aquí?
+—El soporte vital registrará la caída de constantes. Yo determinaría la muerte, anotaría la hora, firmaría el parte.
+—Ahí está el problema. El parte ordinario genera un asiento público en el registro civil, y el nombre de Raquel Sanz vinculado a este hospital en esta fecha levanta preguntas que el decreto no puede responder. —Hugo expuso el plan sin levantar la voz: una defunción en dos capas. Para el hospital, Raquel Sanz muere como paciente neurológica en cuidados paliativos, causa natural, progresión de enfermedad neurodegenerativa —lo que es, sin nada que falsificar—. Para el Estado, el expediente DCE se cierra por cese biológico del activo, con documentación reservada de nivel cinco, firmado por la Comisión Interministerial, no por el médico. Dos sistemas que nunca se van a comparar porque uno es público y el otro está clasificado. El historial de paliativos que sostiene la primera capa es el mismo que Clara lleva redactando desde el primer día, sin saber que tiene una función legal además de clínica.
+—¿Clara lo sabe? —preguntó Valeria.
+—No —dijo Hugo.
+—Ponme el procedimiento por escrito antes de mediodía —dijo Valeria—. Qué firmo, cuándo, en qué orden. No quiero improvisar en ese momento.
+***
+En la cafetería, durante la comida, Clara le preguntó a Sergio si había mirado algo en los electrodos del Sujeto 3 desde que se los puso.
+—Cada noche. Por costumbre. Línea plana. Algún ruido de base que el sistema descarta solo.
+—¿Esperabas ver algo más?
+—No esperaba ver nada. Por eso lo puse. Para no tener que preguntarme después si debería haberlo hecho.
+—¿Y si en algún momento aparece algo?
+—Entonces lo veré —dijo Sergio—. Está configurado para registrarlo aunque sea mínimo. Si hay algo, va a quedar ahí.
+—¿Y si no hay nada?
+—Entonces seguirá plana hasta que deje de hacer falta mirarla.
+—Es un detalle raro para alguien que no cree que vaya a encontrar nada.
+—No he dicho que no crea que vaya a encontrar nada —dijo Sergio—. He dicho que no lo espero.
+***
+A las siete y veinte, en el box del Sujeto 2, con Antonio junto a la puerta sin acercarse a la cama, Valeria repitió el protocolo en voz alta una vez más, delante de todos, antes de empezar. Quince por ciento, no el diez del día anterior; si la respuesta era coherente con la del Sujeto 1, seguían; si no, nivel base y cuarenta y ocho horas completas, sin excepciones.
+—¿Y si el ministro no tiene otras cuarenta y ocho? —preguntó Antonio.
+—El ministro no está en esta sala —dijo Valeria, sin girarse—. Sergio.
+Los primeros tres minutos fueron idénticos a los del día anterior. Nada. Pero a los seis, la coherencia empezó a subir —cero ochenta y uno, cero ochenta y cuatro— más rápido que la vez pasada. A los nueve, cero ochenta y siete: el tramo más largo de estabilidad que el Sujeto 2 había mostrado nunca. Y entonces, a los once minutos, la frecuencia cardíaca empezó a subir, gradual esta vez, no de golpe.
+—Ochenta y ocho. Noventa y dos —dijo Clara.
+—Coherencia bajando. Cero ochenta y dos. Cero setenta y nueve —dijo Sergio.
+—El motor RAG ha entrado en un bloqueo —dijo Tomás—. Está intentando indexar algo que el sustrato no puede sostener, y sin canal cruzado no tiene adónde ir.
+—Ciento tres —dijo Clara—. Sigue subiendo.
+—Volvemos al nivel base. Ahora.
+La frecuencia llegó a ciento siete antes de empezar a bajar —el pico más alto que le habían visto—, y la coherencia, en vez de recuperarse, se estabilizó en cero sesenta y cuatro: más baja que antes del intento.
+—No ha vuelto al nivel anterior —dijo Sergio—. Se ha quedado más bajo.
+—¿Cuánto tardará en recuperarse? —preguntó Antonio.
+—No lo sé —dijo Valeria—. No teníamos ese dato porque no habíamos llegado tan lejos. —Fijó la vista en la pantalla—. Cuanto más se acerca a la vigilia, peor va a ser, no mejor.
+—¿Qué significa eso para el lunes?
+—Que sigue siendo imposible. Y que no sé cuándo dejará de serlo.
+—Anótalo todo —le dijo a Tomás, quitándose unos guantes que no había necesitado—. Y anota que el nivel basal ha cambiado. A partir de ahora medimos desde aquí.
+***
+Sergio se quedó solo en la consola pasadas las once. Había revisado dos veces los logs de los Sujetos 1 y 2 —estables, sin incidencias— cuando, por costumbre más que por necesidad, abrió el canal del Sujeto 3. La línea seguía plana, como llevaba cuatro días. Iba a cerrarla cuando algo en el registro de eventos le hizo detenerse. A las dos y cincuenta y uno de la madrugada anterior, el canal del Sujeto 3 había registrado un microincremento de ochocientos milisegundos, muy por debajo del umbral clínico, visible solo porque él mismo había configurado el registro al mínimo sensible que el sistema permitía.
+A esa misma hora, el módulo del Sujeto 1 había generado una verificación espontánea, había buscado el canal cruzado que ya no existía, y había abortado en menos de un segundo.
+Las dos marcas estaban separadas por cuarenta y dos milisegundos.
+Sabía por qué podía no significar nada: el canal del Sujeto 3 vivía en el mismo servidor de indexación que los otros dos módulos, porque él mismo lo había puesto ahí, y un barrido de memoria compartida podía generar una lectura espuria en los dos registros a la vez. Ruido de arquitectura. Era exactamente lo que él mismo habría llamado ruido dos días antes, sin pensarlo dos veces.
+Abrió el historial completo del canal desde que lo instaló. Encontró tres microincrementos más en los últimos cuatro días, todos en la misma banda, todos por debajo del umbral, todos de menos de un segundo. Cruzó las cuatro marcas con el registro de verificaciones espontáneas de los Sujetos 1 y 2.
+Las cuatro coincidían.
+La explicación de la arquitectura compartida seguía siendo la más probable. También seguía siendo una hipótesis que no había verificado, solo asumida porque no exigía hacer nada más. No escribió nada en el log oficial. Abrió un documento sin nombre, anotó las cuatro marcas, las amplitudes, la correlación, y lo guardó en una carpeta local que no compartía con el sistema central. Antes de decírselo a nadie —a Tomás, a Valeria, a Antonio— necesitaba confirmar que era ruido. O confirmar que no lo era.
+Apagó el monitor secundario y se quedó un momento más con el principal encendido: los dos indicadores verdes, cada uno en su habitación, cada uno solo, sin canal entre ellos.
+Al menos, sin el canal que él había cortado.

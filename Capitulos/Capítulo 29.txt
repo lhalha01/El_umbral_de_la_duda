@@ -1,0 +1,118 @@
+﻿========================================
+Parte III — El despertar
+========================================
+
+Capítulo 29
+
+Tomás llegó con el cuaderno cerrado esa mañana: no había nada urgente que anotar todavía. Sergio proyectó los logs nocturnos por costumbre, no porque nadie se lo hubiera pedido. Nadie había pedido café. El equipo ya había leído los datos desde casa, y la reunión de las nueve era solo la forma de decirlo en voz alta.
+—El recuerdo de la gala está cargado en los dos sujetos desde las once y cuarenta de anoche —dijo Sergio—. Tres ejecuciones en Juan, tres en Ana. Las curvas de indexación son idénticas entre sí y consistentes con las de los accidentes. El motor RAG lo ha procesado como memoria episódica de baja intensidad emocional en ambos casos.
+—¿Sin picos de activación cruzada durante la carga? —preguntó Tomás.
+—Sin picos. El canal estuvo en modo pasivo, como acordamos. Ninguno de los dos módulos intentó verificar el recuerdo contra el otro.
+Valeria dejó la pantalla secundaria y se giró hacia la mesa.
+—¿Alguna anomalía en el contenido generado por inferencia?
+—Una en Juan. El motor ha añadido un detalle a la devolución del cargador que no estaba en el guion de Hugo: el olor del perfume de Ana. Lo ha inferido de un fragmento de memoria olfativa del propio Juan, que tiene indexados varios perfumes femeninos de situaciones sociales formales. Seleccionó uno y lo asoció al recuerdo del cruce.
+—¿Cuál?
+—El sistema no identifica marcas, solo firmas químicas. Algo amaderado con fondo floral.
+—¿Ana lleva ese tipo de perfume? —preguntó Clara.
+—No lo sabemos. No está en el perfil de referencia.
+Clara se quedó mirando la pantalla: calculaba las probabilidades de que una mujer que llegaba dos horas antes que nadie y no comía con sus compañeros llevara ese perfume a una gala.
+—¿Podemos eliminarlo? —preguntó Tomás.
+—Podemos borrar el fragmento olfativo —dijo Sergio—. Pero el recuerdo quedaría con un hueco justo ahí, y el motor lo rellenaría de nuevo en la próxima ejecución. Lo que ponga la segunda vez puede ser distinto de la primera.
+—¿Y si pone algo peor?
+—Eso es justo lo que no podemos controlar si intervenimos —dijo Tomás.
+—Mejor dejarlo —dijo Antonio—. Si Ana lleva ese perfume, el recuerdo es más sólido. Si no, Juan recordará mal un detalle de una gala con doscientas personas, hace meses. Un cerebro normal recuerda con huecos y con detalles inventados sin saberlo. Si el sistema hace lo mismo, no es un fallo.
+—También hay una observación en Ana —siguió Sergio—. En la segunda ejecución el motor añadió una sensación de alivio leve al terminar la conversación con Juan. No estaba en el guion: es una respuesta emocional apropiada al perfil, alguien aliviado tras un intercambio social inesperado.
+—¿Lo has marcado como anomalía? —preguntó Valeria.
+—Como observación. Encaja con el perfil. No genera riesgo de incoherencia.
+—Bien.
+Tomás anotó algo. Llegó ese momento de calma que siempre aparecía cuando la noche no traía sorpresas graves.
+—Los dos accidentes están cerrados —dijo Valeria—. El recuerdo de la gala está cerrado. Los entornos adaptativos están sincronizados con los guiones. Podemos pasar a la verificación previa al despertar.
+—¿El protocolo P-3?
+—El P-3 con modificaciones.
+Llevaba en el manual desde el diseño: doce puntos en tres bloques —integridad estructural de los implantes, motor RAG, entorno adaptativo—, ejecutado en simulación trescientas diecisiete veces. Todos en la sala lo conocían de memoria.
+—¿Qué modificaciones?
+Valeria abrió el documento que ya tenía preparado en la tablet.
+—El P-3 se diseñó para un módulo compartido en configuración estándar. Lo que tenemos ahora es un canal camuflado dentro del firmware, dos sujetos con tejido real, y comportamientos que las simulaciones no anticiparon. Faltan tres cosas: verificar que el canal opera sin señal detectable desde el exterior, evaluar la activación espontánea fuera de perfil, y contemplar la reactividad vascular de Ana como variable activa.
+—Son cinco ítems nuevos —dijo Tomás, que ya los había contado.
+—Cinco. Van al final como bloque D: el protocolo pasa de doce a diecisiete puntos. A, B y C quedan sin tocar.
+—¿Cuántos de los nuevos son bloqueantes? —preguntó Sergio.
+—Dos: el canal sin señal detectable, y la coherencia del entorno adaptativo bajo los nuevos patrones de inferencia. Los otros tres son observacionales.
+—¿Y la frecuencia de ejecución?
+—Antes se ejecutaba una vez, antes del arranque. Con tejido real no basta. Lo haremos cada cuatro horas durante las primeras veinticuatro, diecisiete puntos completos en cada ronda.
+—¿Y el Sujeto 2?
+—Sigue su propio protocolo. No iniciamos la reducción de Ana hasta que Juan complete el primer escalón con estabilidad suficiente. Su reactividad vascular sigue sin estar del todo controlada. Necesita más margen, no menos.
+Sergio y Tomás cruzaron una mirada que no necesitaba traducción tras meses en la misma sala.
+—¿Veinticuatro horas bastan? —preguntó Antonio.
+—Es el mínimo defendible. Si algo falla en las primeras rondas, lo resolvemos antes de seguir. Si las seis pasan sin incidentes, tendremos datos, no solo intuición.
+—¿Y si falla un punto bloqueante?
+—Paramos, corregimos si es corregible, y reiniciamos desde cero.
+—¿Cuándo empezamos?
+—Ahora.
+—Necesito imprimir el P-3 modificado —dijo Tomás.
+—Ya está en la impresora.
+Cuando volvió con las dos copias, el resto ya había tomado posiciones: Sergio en la consola, Clara en el monitor de constantes, Antonio de pie mirando los indicadores verdes.
+Solo Hugo seguía sentado, con la carpeta cerrada delante de él.
+—Hugo.
+—Estoy aquí —dijo Hugo—. Pero para esto no me necesitáis.
+No era pregunta ni disculpa: era una descripción. Se levantó, se abotonó la chaqueta.
+—Si surge alguna cuestión legal, llamadme. Si no, nos vemos cuando despierten.
+Salió sin hacer ruido, con la precisión de quien ha decidido que hay cosas mejor no ver hasta que ya han ocurrido. Los demás también salieron.
+***
+Sergio alcanzó a Tomás en el pasillo.
+—¿Tienes diez minutos?
+—Valeria ha dicho ahora.
+—Diez minutos no cambian nada.
+Bajaron a la cafetería del edificio principal, donde la mujer de la barra los conocía de vista pero nunca preguntaba en qué trabajaban. Sergio pidió café; Tomás, agua. Se sentaron en la mesa más alejada.
+—¿Cuántas veces has ejecutado el P-3?
+—En simulación, cientos. En tejido real, ninguna. Esta mañana es la primera.
+—Trescientas diecisiete —dijo Sergio—. Lo dijiste tú en la reunión.
+—No sé por qué me quedó ese número.
+—Porque lo contaste una vez y ya no se te fue. A mí me pasa con el umbral de impedancia. Dos a ocho kiloohmios. Tatuado.
+Tomás no respondió.
+—¿Estás bien?
+—Sí —dijo Tomás, sin inflexión, pero esta vez Sergio supo que era respuesta real, no evasión—. Solo que es distinto. Las simulaciones, el firmware, el canal: eran problemas técnicos, con solución o sin ella. Esta tarde vamos a despertar a alguien que hace semanas verbalizaba secuencias de cálculo mirando el techo sin saber dónde estaba. Y si algo falla, no hay vuelta atrás.
+—¿Crees que va a funcionar?
+—El sistema funciona. Lo hemos visto.
+—No te pregunto si el sistema funciona.
+Tomás lo miró.
+—No sé si lo que va a despertar mañana va a ser Juan. O algo que funciona como Juan. O algo que funciona como Juan casi siempre, hasta que un día, en una reunión del Banco de España, se quede quieto de una forma que nadie sepa explicar.
+Sergio asintió: no por acuerdo, sino porque oírlo en voz alta era distinto de tenerlo solo en la cabeza.
+—¿Se lo has dicho a alguien?
+—Valeria lo sabe. Antonio lo sabe. Tú lo sabes. No hace falta decirlo.
+—A veces hace falta.
+—¿Tú crees que va a funcionar?
+Sergio tardó un momento.
+—Creo que el canal funciona. Creo que los recuerdos están donde tienen que estar. Creo que Juan va a abrir los ojos y va a creer que se cayó de una cama. Lo que no sé es qué hay entre eso y que vuelva a ser Juan.
+—Nadie lo sabe.
+Sergio terminó el café.
+—¿Sabes lo que me pareció raro esta mañana? Que nadie dijera en voz alta lo que es esto. Hemos hablado del P-3, del canal, del motor RAG. Y nadie ha dicho que vamos a despertar a un enfermo de Alzheimer que la medicina había desahuciado, que hace semanas no reconocía a la enfermera que tenía al lado.
+Tomás no dijo nada.
+—Supongo que es mejor así. Que sigamos hablando de escalones y de coherencia espectral.
+—Es la única forma de hacerlo.
+—Lo sé. Solo que a veces quisiera que no fuera así.
+Se levantaron. Sergio dejó el dinero sobre la mesa. Subieron sin decir nada más.
+***
+Cuando llegaron, Valeria ya estaba en la consola. Sergio encendió sus pantallas; Tomás abrió el cuaderno en página nueva y comprobó el bolígrafo.
+Los dos abrieron el P-3 modificado.
+—Bloque A. Punto uno. Impedancia de los electrodos dentro de rango. Referencia: entre dos y ocho kiloohmios.
+—Doscientos cuarenta y seis electrodos en el Sujeto 1, doscientos cuarenta y ocho en el Sujeto 2 —dijo Sergio—. Todos dentro de rango. El más bajo, cinco coma dos; el más alto, seis coma ocho.
+—Anotado. Punto dos: continuidad de fijación del electrodo, sin variación respecto a la última neuronavegación.
+—Sin variación —confirmó Sergio—. Los dos puntos del borde de la malla siguen igual que el primer día.
+—Punto tres: generador piezoeléctrico, carga por encima del umbral en los dos sujetos.
+—Por encima. El de Ana sube más despacio, pero sube.
+Valeria seguía cada respuesta en su propia copia, marcando cada punto cerrado sin corregir ni preguntar dos veces.
+Avanzaron por los doce puntos del bloque original —acoplamiento theta-gamma, latencia de indexación, margen de compensación tisular— con la misma cadencia de siempre, cada valor dentro de su referencia.
+—Bloque C cerrado. Pasamos al D.
+Algo en la voz de Tomás cambió, lo suficiente para que Sergio levantara la vista.
+—Punto trece. Canal de baja frecuencia. Verificación de ausencia de señal detectable desde el exterior. Bloqueante.
+El analizador de espectro tardó cuarenta segundos en barrer el rango completo. Nadie habló. La línea se mantuvo plana.
+—Sin señal detectable. El canal está dentro.
+—Anotado —dijo Tomás, con la voz otra vez normal—. Punto catorce: coherencia del entorno adaptativo bajo los nuevos patrones de inferencia. También bloqueante.
+Ese fue el que más tardó. Sergio cruzó las curvas de indexación contra el modelo tres veces: Valeria había insistido en verificarlo más de una vez antes de cerrarlo.
+—Coherente las tres veces. Sin desviación significativa.
+Valeria marcó ese punto dos veces en su tablet — el único del bloque D que la había hecho dudar.
+Los tres observacionales se completaron en menos de diez minutos.
+—Diecisiete de diecisiete —dijo Tomás—. Primera ronda completa. Sin bloqueantes fallidos.
+—Quedan cinco.
+—Quedan cinco.
+Ninguno añadió nada más. Volvieron a sus pantallas, y durante las cuatro horas siguientes hablaron de impedancias, umbrales y rangos. De todo lo que no era esto.
