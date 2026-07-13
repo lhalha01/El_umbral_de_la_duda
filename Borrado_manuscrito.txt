@@ -20,7 +20,7 @@ Inés inclinó la cabeza despacio, como si eso fuera exactamente lo que necesita
 Valeria, futura directora clínica, intervino con impaciencia.
 —Esa burocracia los está condenando. El protocolo que hemos diseñado con Tomás está listo para detener el avance de su deterioro cognitivo de manera inmediata a través de entornos adaptativos sintéticos. Cada semana que perdemos discutiendo el código civil con el ministerio es tejido cerebral e identidad irrecuperable para el Sujeto 1 y los demás.
 —Cuando dice identidad irrecuperable —dijo Inés, con la misma voz plana—, ¿a qué velocidad está hablando?
-—En el caso del Sujeto 1, el inspector médico estima menos de ocho semanas antes de la degradación del tejido crítico —respondió Valeria—. En el del Sujeto 2, máximo seis. Es un reloj distinto al de sus neurólogos habituales: no mide cuánto tiempo les queda de vida cognitiva reconocible. Mide cuánto tiempo queda de tejido todavía operable. Uno puede agotarse mucho antes que el otro. El Sujeto 3 es el más urgente: riesgo inminente de desconexión sináptica terminal. Días, no semanas.
+—En el caso del Sujeto 1, el inspector médico estima menos de ocho semanas antes de la degradación del tejido crítico —respondió Valeria—. En el del Sujeto 2, máximo seis semanas antes de que el tejido deje de ser operable. El Sujeto 3 es el más urgente: riesgo inminente de desconexión sináptica terminal. Días, no semanas.
 Nadie se movió. Fuera, el tráfico de la tarde llenaba el silencio que había dejado la cifra de Valeria.
 Hugo giró el post-it entre los dedos sin decir nada.
 —¿Y una vez intervenidos? —preguntó Inés—. Esas ventanas no desaparecen el día de la operación. ¿Cuánto tiempo necesitáis para gestionar el riesgo después?
@@ -50,7 +50,7 @@ Inés asintió una vez, con la precisión de quien acaba de recibir la informaci
 
 Capítulo 2
 
-—...y ese es el problema real, Mateo. No es solo el calor. Es que el calor ya no perdona ni de noche —dice Elena, con esa urgencia controlada que la caracteriza—. Los arrecifes que vimos en Filipinas en 2019 ya no existen. Blanqueados el ochenta por ciento. En diez años, quizás menos.
+—...y ese es el problema real, Mateo. No es solo el calor. Es que el calor ya no perdona ni de noche —dice Elena, con esa urgencia controlada que la caracteriza—. Los arrecifes que vimos en Filipinas en 2019 están casi muertos. Blanqueados en un ochenta por ciento. En diez años, quizás menos, ya no existirán.
 —Lo sé —le digo.
 —No, no lo sabes. Lo sabes con la cabeza. Yo lo sé con las manos. Yo los he tocado.
 Asiento. Es lo que diría la Elena real. Palabra por palabra.
@@ -112,6 +112,7 @@ Antonio guardó la carpeta.
 —¿Cómo lo sabes?
 —Porque es exactamente lo que tú me hiciste a mí en esa sala hace tres días. —Se dio la vuelta hacia el ascensor—. No me diste una opción. Me diste un cálculo que solo tenía una salida razonable. Suerte con el ministro.
 Se fue antes de que Antonio pudiera responder.
+***
 Consuelo le indicó con un gesto que podía pasar antes de que él llegara a preguntarlo.
 El despacho del ministro ocupaba la última planta de Nuevos Ministerios. Estaba de pie junto al ventanal, de espaldas a la puerta, con la Castellana extendida abajo. No se giró cuando Antonio entró.
 —He leído el borrador —dijo—. Es bueno. Eso es lo que me preocupa.
