@@ -2,7 +2,7 @@
 Parte II — Antes
 ========================================
 
-Capítulo 16
+Capítulo 16 — Los expertos solitarios
 
 Ferreira & Vidal no aparecía en ningún ranking de las grandes firmas de consultoría, y eso era exactamente lo que querían sus dos socios fundadores. No competían por volumen. Competían por ser, en un puñado de mesas muy concretas —el comité de modelos del Banco de España, el grupo de trabajo de riesgo sistémico de la Autoridad Bancaria Europea, los despachos de validación interna de cuatro de los seis grandes bancos del país—, la última firma a la que se llamaba antes de aprobar algo que, si fallaba, se llevaría por delante una cifra de nueve dígitos o, en los peores escenarios, la estabilidad de una entidad entera.
 Habían empezado siendo dos personas y una sala alquilada por horas. Ahora eran setenta y cuatro profesionales, repartidos en cuatro áreas —riesgo de modelo, arquitectura regulatoria, pruebas de resistencia macroprudenciales, y una cuarta sin nombre oficial que dentro de la firma llamaban simplemente «el laboratorio»— y un historial de clientes que incluía bancos centrales de tres países distintos, dos supervisores europeos, y desde hacía cinco años un contrato permanente de revisión con el propio Banco de España que ninguna otra firma de su tamaño podía igualar.

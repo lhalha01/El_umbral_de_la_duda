@@ -1,4 +1,4 @@
-﻿Capítulo 41
+﻿Capítulo 41 — Dos casos curiosos
 
 Sergio encontró los dos fragmentos esa misma noche, revisando el registro de indexación, como había empezado a hacer desde que abrió el documento de la discrepancia.
 El sistema llevaba, desde el diseño original, una taxonomía de dominios para cada sujeto: para Juan, regulación bancaria, análisis de riesgo, sistemas financieros; para Ana, gestión de cuencas, modelización hidrológica, derecho administrativo del agua. Cualquier fragmento indexado tenía que encajar en alguna de esas categorías. El sistema estaba diseñado para señalar, no para impedir, cuando algo no encajaba del todo.
