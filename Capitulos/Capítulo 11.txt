@@ -1,4 +1,4 @@
-﻿Capítulo 11
+﻿Capítulo 11 — Primeras coincidencias
 
 La reunión del tercer día empezó con un silencio distinto al de las mañanas anteriores. No el de gente cansada. El de gente que lleva horas trabajando con algo que no termina de entender y prefiere no decirlo antes de tener los datos delante.
 —El canal de sincronización cruzada está suprimido desde las once y veinte de anoche —dijo Sergio—. Los dos módulos llevan nueve horas operando en solitario. Sin incidencias. Una verificación espontánea a las cuatro y ocho: el módulo del Sujeto 1 buscó el canal, no lo encontró, abortó en menos de un segundo.

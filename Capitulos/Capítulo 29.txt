@@ -2,7 +2,7 @@
 Parte III — El despertar
 ========================================
 
-Capítulo 29
+Capítulo 29 — El último control
 
 Tomás llegó con el cuaderno cerrado esa mañana: no había nada urgente que anotar todavía. Sergio proyectó los logs nocturnos por costumbre, no porque nadie se lo hubiera pedido. Nadie había pedido café. El equipo ya había leído los datos desde casa, y la reunión de las nueve era solo la forma de decirlo en voz alta.
 —El recuerdo de la gala está cargado en los dos sujetos desde las once y cuarenta de anoche —dijo Sergio—. Tres ejecuciones en Juan, tres en Ana. Las curvas de indexación son idénticas entre sí y consistentes con las de los accidentes. El motor RAG lo ha procesado como memoria episódica de baja intensidad emocional en ambos casos.

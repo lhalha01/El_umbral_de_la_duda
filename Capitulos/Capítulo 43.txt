@@ -1,4 +1,4 @@
-﻿Capítulo 43
+﻿Capítulo 43 — Comparar los datos
 
 Sergio configuró la alarma esa misma noche, antes de irse: cualquier pico en el canal del Sujeto 3, sin excepción, dispararía una sincronización de emergencia en los otros dos sustratos, con o sin bloqueo asociado. Nunca habían tenido motivo para mirar los tres canales a la vez. Ahora lo tenían.
 La alarma no sustituía a las anteriores —la rutina horaria seguía intacta, igual que las de bloqueo—. Se sumaba a ellas, usando el mismo servidor que llevaba meses haciendo posible todo esto sin que nadie lo hubiera diseñado para eso. Sergio se preguntó, mientras la configuraba, si estaba arreglando algo o solo construyendo una ventana mejor para ver algo que no podía arreglar de ninguna forma.

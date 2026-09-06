@@ -1,0 +1,57 @@
+========================================
+Parte I — El protocolo
+========================================
+
+
+Capítulo 0: La carpeta
+
+La primera vez que vi mi nombre en aquel archivo no pensé que estuviera relacionado conmigo. Durante años había trabajado con sistemas en los que los nombres de usuario, los identificadores de proceso y las etiquetas internas se mezclaban constantemente con documentos que no tenían ninguna relación con quien los recibía, de modo que mi primera reacción fue atribuirlo a un simple error de clasificación.
+El archivo había aparecido en una carpeta temporal de mi terminal y su nombre no correspondía a ninguno de los proyectos que tenía abiertos en ese momento, aunque tampoco contenía nada que pudiera considerarse una amenaza o una anomalía. Se titulaba, simplemente:
+MATEO_SALINAS.pdf
+Lo abrí porque quería saber qué era.
+La primera página no contenía datos profesionales ni información procedente de un expediente convencional. No aparecía mi historial laboral, ni los proyectos en los que había participado, ni una relación de mis responsabilidades.
+Lo que encontré fue una descripción de determinados patrones de comportamiento que, al principio, interpreté como un ejercicio de análisis conductual bastante elaborado. El documento establecía relaciones entre situaciones y respuestas, identificaba tendencias en mi manera de tomar decisiones y señalaba comportamientos que se repetían con suficiente frecuencia como para considerarlos previsibles.
+No me sorprendió especialmente.
+Después de tantos años trabajando con sistemas de análisis sabía que, disponiendo de suficientes datos, era posible obtener conclusiones bastante precisas sobre una persona sin necesidad de tratarla en directo. Un sistema podía determinar cómo respondía alguien ante una situación de presión, cuánto tardaba en contestar un mensaje, qué tipo de decisiones tendía a posponer y cuáles ejecutaba inmediatamente.
+Incluso podía establecer relaciones entre variables que la propia persona no identificaría por sí misma. El comportamiento humano deja un rastro considerable cuando se observa durante el tiempo suficiente.
+Seguí leyendo con esa idea en la cabeza.
+La primera incomodidad apareció cuando comprendí que el documento no se limitaba a describir comportamientos observables. Intentaba explicar también las razones detrás de ellos y, en algunos casos, anticipaba mi reacción ante escenarios que no figuraban en ninguno de los registros que yo conocía.
+Había referencias a mi necesidad de verificar personalmente determinadas decisiones, a mi dificultad para aceptar una explicación cuando quedaba algún elemento sin justificar y a mi tendencia a incrementar la información que intento obtener cuando una situación escapa de mis límites.
+No eran afirmaciones especialmente originales; cualquiera que hubiera trabajado conmigo durante el tiempo suficiente podría haber llegado a algunas de ellas. Lo que me inquietó fue la combinación.
+El documento no parecía un informe redactado por un observador externo. Parecía elaborado a partir de mi propio criterio.
+Volví a leer algunas páginas desde el principio y empecé a fijarme en los detalles que había pasado por alto. Había una estructura clara. Primero venían los patrones, después las circunstancias en las que se manifestaban y, por último, una serie de predicciones sobre la forma en que reaccionaría ante determinados imprevistos.
+El lenguaje era técnico pero no especializado, como si quien lo hubiera elaborado hubiera querido que pudiera ser leído sin necesidad de conocer el sistema utilizado para obtener las conclusiones.
+Eso me llamó la atención. Si hubiera sido un informe interno, habría esperado referencias a las fuentes, indicadores de confianza, trazabilidad de los datos o algún identificador que permitiera reconstruir el proceso.
+No había nada de eso. Las conclusiones aparecían directamente, como si el proceso mediante el cual se habían obtenido no fuera relevante.
+Empecé a buscar el origen del archivo. Aquello sí sabía hacerlo.
+Comprobé los registros de acceso de mi terminal, las conexiones establecidas durante las horas anteriores y las transferencias asociadas a la carpeta temporal. Después amplié la búsqueda a los servidores que podían haber intervenido y revisé las autorizaciones que afectaban a mi equipo.
+No encontré ninguna transferencia que explicara la aparición del documento, ni una ejecución programada, ni una cuenta que hubiera accedido al sistema en el intervalo correspondiente.
+Lo revisé una segunda vez porque la primera conclusión podía ser consecuencia de una búsqueda mal planteada. El resultado no cambió. No había rastro.
+Aquello debería haberme tranquilizado. En cualquier sistema complejo existen situaciones en las que un archivo aparece sin que el usuario pueda reconstruir su recorrido, y la ausencia de un registro no significa necesariamente que el proceso no haya ocurrido.
+Puede significar que el registro está en otra capa, que ha sido eliminado, que la transferencia se produjo mediante un mecanismo no contemplado o que estoy buscando en el lugar equivocado.
+Conocía todas esas posibilidades. Precisamente por eso no podía descartar ninguna.
+Volví al documento y continué leyendo. Había una sección dedicada a mi comportamiento cuando una situación dejaba de responder al modelo previsto. Cómo reaccionaba, qué hacía primero, qué evitaba hacer. No voy a detenerme aquí en el contenido.
+Baste decir que la frase estaba escrita con una precisión casi matemática y que, aunque no contenía nada que yo no reconociera como cierto, tuve la sensación incómoda de estar leyendo la explicación de algo que hasta entonces había considerado simplemente mi manera de trabajar.
+No era la primera vez que alguien describía esa característica. Lo que me molestaba era que estuviera allí.
+Cerré el archivo y me levanté para preparar café. Mientras esperaba a que terminara la máquina, pensé que estaba concediendo demasiada importancia a un documento cuya procedencia ni siquiera había conseguido determinar.
+Podía tratarse de un análisis elaborado a partir de información pública, de un borrador traspapelado o de cualquier otra cosa. No tenía sentido construir una hipótesis a partir de una carpeta que podía ser, sencillamente, un error de índice.
+Pero cuando regresé al estudio volví a abrirla.
+Esta vez busqué algo distinto. No quería saber qué decía de mí; quería saber qué información había utilizado para llegar hasta allí.
+No la encontré. Había afirmaciones que podían deducirse de mi actividad profesional, pero también había otras para las que no encontraba una fuente razonable, como ciertas reacciones ante conflictos personales o los mecanismos que utilizaba para recuperar la estabilidad.
+Algunas descripciones me resultaban tan familiares que tuve que preguntarme quién podía haber proporcionado los datos.
+Pensé en las personas que me conocían desde hacía más tiempo.
+Elena. Montse. Julián.
+Los tres habían compartido conmigo suficientes años como para conocer cosas que no figuraban en ningún registro profesional.
+Habíamos pasado por etapas en las que nos veíamos prácticamente todos los días y otras en las que transcurrían meses sin hablar, pero seguíamos conservando recuerdos comunes, algunos tan antiguos que ya no sabía distinguir qué parte procedía de lo sucedido y cuál había sido reconstruida a fuerza de repetirla.
+Hasta entonces nunca había considerado que aquello pudiera tener importancia. Siempre había pensado que la memoria funcionaba de forma sencilla: uno recuerda algo, los demás recuerdan una parte distinta y las versiones terminan mezclándose.
+Nos había ocurrido muchas veces al discutir sobre viajes, conversaciones o fechas, y casi siempre la discusión terminaba igual: alguien encontraba una fotografía o un correo antiguo, demostraba que estábamos equivocados y continuábamos hablando de otra cosa.
+Aquella noche pensé que quizá la memoria no era tan inocente como habíamos supuesto.
+No sabía por qué había relacionado el documento con ellos. El perfil era mío y no había referencias directas a los otros tres.
+Sin embargo, mientras volvía a leer algunas de las predicciones, tuve la sensación de que necesitaba comprobar algo que no podía verificar mediante ningún registro.
+Necesitaba verlos.
+No me bastaría con intercambiar mensajes ni con escuchar sus voces a través de una pantalla.
+Quería estar delante de ellos y observarlos sin que supieran qué estaba buscando; comprobar si determinadas reacciones aparecían como las recordaba, si seguían utilizando las mismas expresiones o si conservaban esos pequeños gestos que nadie considera relevantes hasta que empieza a buscarlos.
+Dejé la pantalla encendida y me quedé mirando el cursor parpadear sobre la carpeta abierta.
+La necesidad de contrastar aquel perfil con la realidad se me había clavado en el pecho, pero no sabía aún cómo justificar un reencuentro después de tanto tiempo sin parecer paranoico.
+Cerré los ojos unos segundos. Mañana pensaría en la forma de convocar esa reunión. Mañana buscaría una excusa.
+Apagué el monitor. Pero mientras la luz de la pantalla se extinguía, no pude quitarme de encima la sensación de que la decisión que acababa de tomar no me pertenecía del todo.
