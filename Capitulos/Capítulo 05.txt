@@ -69,7 +69,7 @@ Antes de empezar, Valeria se detuvo con los guantes puestos.
 —¿Cambiamos de lado? —preguntó Sergio.
 —Cambiamos de lado. Sien izquierda en el Sujeto 2. El módulo funciona igual desde cualquiera de las dos sienes, no hay razón clínica para no hacerlo.
 —¿Y el generador? —preguntó Tomás.
-—Lo dejamos donde está —dijo Valeria—. Da igual qué lado, pero cambiar los dos a la vez sería tan simétrico como no cambiar ninguno. Quiero algo que no parezca decidido a propósito. —Se quedó pensando un momento más—. Voy a dejar una pequeña incisión más, detrás de la oreja izquierda. No conecta con nada, no tiene ninguna función. Si alguna vez alguien compara los dos cuerpos, hay una diferencia real que no necesita ninguna explicación complicada: una exploración que no llevó a ningún sitio, como pasa con cualquier paciente.
+—Lo dejamos donde está —dijo Valeria—. Da igual qué lado, pero cambiar los dos a la vez sería tan simétrico como no cambiar ninguno. Quiero algo que no parezca decidido a propósito. —Se quedó pensando un momento más—. Voy a dejar una pequeña incisión más, detrás de la oreja izquierda. No conecta con nada, no tiene ninguna función. Si alguna vez alguien compara los dos cuerpos, hay una diferencia real que no necesita ninguna explicación complicada, una exploración que no llevó a ningún sitio, como pasa con cualquier paciente.
 —¿Procedemos? —preguntó Tomás.
 —Procedemos.
 La segunda intervención fue más rápida y sin ningún contratiempo: el módulo entró sin resistencia, la malla quedó anclada sin ningún contacto fuera de rango, y el tejido de Ana respondió mejor de lo esperado.
@@ -102,7 +102,7 @@ El silencio que siguió fue breve pero denso.
 —Sergio —dijo Valeria.
 —El expediente llegó dos días después, por un canal distinto, y no pasó por la misma verificación automática —dijo Sergio—. Es un fallo de proceso, no de código.
 —Es un fallo —dijo Antonio. Nadie lo discutió.
-—Hemos perdido un tercio del proyecto —dijo Antonio—. El perfil con mayor densidad de conocimiento estratégico, sin segunda oportunidad. Al ministerio le daré la verdad técnica: que el deterioro había avanzado más rápido de lo documentado. Lo que no voy a decirles es que podríamos haberlo detectado antes con pruebas recientes. Eso se queda aquí.
+—Hemos perdido un tercio del proyecto —dijo Antonio—. El perfil con mayor densidad de conocimiento estratégico, sin segunda oportunidad. Al ministerio le daré la verdad técnica, que el deterioro había avanzado más rápido de lo documentado. Lo que no voy a decirles es que podríamos haberlo detectado antes con pruebas recientes. Eso se queda aquí.
 —¿Y la incidencia? —preguntó Tomás.
 —Se cierra internamente. Queda registrada pero no sale de esta sala.
 La puerta se abrió. Inés entró sin que nadie la hubiera llamado.

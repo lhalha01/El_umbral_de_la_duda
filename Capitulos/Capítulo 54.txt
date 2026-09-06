@@ -52,7 +52,7 @@ Antonio considera esto.
 —La lista —dice el hombre.
 —Cuando el equipo creador haya analizado lo que tienen ahora. El acoplamiento entre los dos sujetos es el dato que faltaba. Con eso sobre la mesa, el protocolo para los siguientes va a ser distinto del que usamos con Juan y Ana. Más preciso. Con menos variables fuera de diseño.
 —¿Cuántos?
-—Cuatro. En dos pares. El acoplamiento funciona en par: Juan y Ana lo han demostrado. Lo que no sabemos todavía es si escala, si el fenómeno se reproduce con perfiles distintos y en condiciones distintas. Para saberlo necesitamos dos pares más, con suficiente distancia entre ellos para que los resultados no se contaminen.
+—Cuatro. En dos pares. El acoplamiento funciona en par. Juan y Ana lo han demostrado. Lo que no sabemos todavía es si escala, si el fenómeno se reproduce con perfiles distintos y en condiciones distintas. Para saberlo necesitamos dos pares más, con suficiente distancia entre ellos para que los resultados no se contaminen.
 —¿Mismo perfil de sujeto?
 —Perfiles complementarios, como Juan y Ana. Dos áreas de competencia que se beneficien mutuamente del acoplamiento. El equipo creador tiene propuestas. Las revisaré cuando me las manden.
 —¿Cuánto tiempo necesita el equipo?
@@ -70,7 +70,7 @@ Antonio se queda solo en el green.
 Marca el número de Carlos antes de recoger los palos.
 —Necesito hablar contigo —dice, sin preámbulo—. Sobre el protocolo.
 —Dime.
-—Dos sujetos no son una muestra. Son un caso. Para consolidar el protocolo antes de escalarlo, necesito repetirlo en condiciones controladas. Dos parejas más. Mismo perfil clínico que Juan y Ana: deterioro neurodegenerativo avanzado, sin apoyo familiar efectivo, conocimiento de interés estratégico para el país.
+—Dos sujetos no son una muestra. Son un caso. Para consolidar el protocolo antes de escalarlo, necesito repetirlo en condiciones controladas. Dos parejas más. Mismo perfil clínico que Juan y Ana. Deterioro neurodegenerativo avanzado, sin apoyo familiar efectivo, conocimiento de interés estratégico para el país.
 Hay un silencio al otro lado.
 —¿Es esto por algo que ha pasado? —pregunta Carlos.
 —Es por lo que no ha pasado todavía. Necesitamos más casos antes de que alguien nos pida escalar sin base suficiente.

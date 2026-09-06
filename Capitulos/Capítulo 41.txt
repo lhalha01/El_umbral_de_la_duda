@@ -39,7 +39,7 @@ Rodrigo le había pasado a Ana esa misma tarde la documentación de una concesi�
 Ana lo leyó completo, como todo desde que había vuelto.
 —Esto no cumple el trámite —dijo, al fin.
 —¿El caudal? —preguntó Rodrigo—. Está dentro de los márgenes...
-—No el caudal. La exposición pública. El expediente dice treinta días, del cuatro al tres del mes siguiente. Pero el cuatro fue domingo: el plazo legal no puede empezar a contar en día no hábil. Si alguien lo impugna, la concesión cae por defecto de forma.
+—No el caudal. La exposición pública. El expediente dice treinta días, del cuatro al tres del mes siguiente. Pero el cuatro fue domingo. El plazo legal no puede empezar a contar en día no hábil. Si alguien lo impugna, la concesión cae por defecto de forma.
 Rodrigo revisó las fechas. Tenía razón, y no en el caudal, sino en algo que no tenía nada que ver con el caudal.
 —Eso no es algo que sueles mirar —dijo, casi sin pensarlo.
 —Alguien tiene que mirarlo —dijo Ana, ya en la siguiente carpeta.
@@ -64,7 +64,7 @@ Encontró un tercero.
 Había ocurrido en el comité de planificación, el día anterior. Según el acta, Ana había señalado que un expediente de concesión de pozos llevaba el sello de un funcionario de baja médica esa semana. Nadie le dio importancia entonces —era el tipo de detalle que se resuelve con una llamada— y quien tomaba el acta solo anotó al margen: Ana tiene razón, raro que se fijara en esto. Comprobado después, el funcionario confirmó la baja, y el sello llevaba semanas usándolo otra persona sin que nadie actualizara el registro de firmas. Era exactamente el tipo de fallo que un sistema de control bien diseñado debería detectar solo, y que ese departamento nunca había detectado.
 Tres fragmentos. Dos detectados por quien los recibía, sin saber que detectaba algo fuera de lo normal. Uno ni siquiera registrado como digno de mención, archivado y olvidado la misma tarde.
 —Si hay tres que hemos encontrado buscando a propósito —dijo Tomás—, ¿cuántos más no hemos encontrado?
-—No lo sé. El primero no generó alarma porque no fue un bloqueo, sino lo contrario: una respuesta perfecta, sin coste de tiempo. El sistema no está diseñado para sospechar de las respuestas que llegan demasiado bien.
+—No lo sé. El primero no generó alarma porque no fue un bloqueo, sino lo contrario. Una respuesta perfecta, sin coste de tiempo. El sistema no está diseñado para sospechar de las respuestas que llegan demasiado bien.
 —Eso es peor que lo que pensaba hace cinco minutos —dijo Tomás, casi para sí mismo—. Si el sistema puede clasificar esto como suyo sin que nadie lo note nunca, ¿cómo sabemos que estos tres son los únicos?
 —No lo sabemos. Sabemos que son los únicos que hemos encontrado buscando con cuidado. No es lo mismo.
 Los dos lo sabían.

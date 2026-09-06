@@ -1,7 +1,7 @@
 ﻿Capítulo 11 — Primeras coincidencias
 
 La reunión del tercer día empezó con un silencio distinto al de las mañanas anteriores. No el de gente cansada. El de gente que lleva horas trabajando con algo que no termina de entender y prefiere no decirlo antes de tener los datos delante.
-—El canal de sincronización cruzada está suprimido desde las once y veinte de anoche —dijo Sergio—. Los dos módulos llevan nueve horas operando en solitario. Sin incidencias. Una verificación espontánea a las cuatro y ocho: el módulo del Sujeto 1 buscó el canal, no lo encontró, abortó en menos de un segundo.
+—El canal de sincronización cruzada está suprimido desde las once y veinte de anoche —dijo Sergio—. Los dos módulos llevan nueve horas operando en solitario. Sin incidencias. Una verificación espontánea a las cuatro y ocho. El módulo del Sujeto 1 buscó el canal, no lo encontró, abortó en menos de un segundo.
 —Van tres en tres días —dijo Tomás—. Si hay una cuarta antes del despertar, lo monitorizamos como patrón, no como ruido.
 Valeria dejó la tableta sobre la mesa.
 —El Sujeto 1 está listo para el primer escalón de sedación. Podemos empezar esta tarde. El Sujeto 2 necesita cuarenta y ocho horas mínimo.
@@ -67,7 +67,7 @@ La reunión del cuarto día empezó igual que la anterior: Sergio con los logs, 
 Nadie lo discutió.
 —Hugo está aquí esta mañana —dijo Antonio, con la misma neutralidad con que habría anunciado que había café. Nadie lo había visto entrar—. El Sujeto 3 sigue bajo régimen de Disponibilidad Cognitiva Estratégica, y su proceso biológico está avanzando. Hay una cuestión legal que no hemos resuelto.
 Hugo abrió su carpeta.
-—Cuando fallezca, su muerte no puede certificarse por el procedimiento ordinario. Un activo DCE es documentación reservada; el registro civil, el forense, el certificado estándar: ninguno puede aplicarse sin levantar la clasificación, y eso exige una autorización que nadie ha pedido porque nadie previó este escenario. Tengo que construir el protocolo antes de que ocurra.
+—Cuando fallezca, su muerte no puede certificarse por el procedimiento ordinario. Un activo DCE es documentación reservada; el registro civil, el forense, el certificado estándar. Ninguno puede aplicarse sin levantar la clasificación, y eso exige una autorización que nadie ha pedido porque nadie previó este escenario. Tengo que construir el protocolo antes de que ocurra.
 —¿Cuánto tiempo necesitas? —preguntó Antonio.
 Hugo miró las constantes del Sujeto 3 en la pantalla lateral.
 —Menos del que nos queda.
@@ -80,7 +80,7 @@ El segundo escalón del Sujeto 1 fue más rápido que el primero: el sustrato ya
 Doce horas más de estabilidad y al día siguiente evaluarían el tercer escalón. Valeria salió del box con la tableta bajo el brazo. En el pasillo la esperaba Hugo.
 —Necesito entender el procedimiento clínico exacto —dijo, ya en el despacho pequeño del fondo—. Cuando el Sujeto 3 fallezca, ¿qué ocurre médicamente aquí?
 —El soporte vital registrará la caída de constantes. Yo determinaría la muerte, anotaría la hora, firmaría el parte.
-—Ahí está el problema. El parte ordinario genera un asiento público en el registro civil, y el nombre de Raquel Sanz vinculado a este hospital en esta fecha levanta preguntas que el decreto no puede responder. —Hugo expuso el plan sin levantar la voz: una defunción en dos capas. Para el hospital, Raquel Sanz muere como paciente neurológica en cuidados paliativos, causa natural, progresión de enfermedad neurodegenerativa —lo que es, sin nada que falsificar—. Para el Estado, el expediente DCE se cierra por cese biológico del activo, con documentación reservada de nivel cinco, firmado por la Comisión Interministerial, no por el médico. Dos sistemas que nunca se van a comparar porque uno es público y el otro está clasificado. El historial de paliativos que sostiene la primera capa es el mismo que Clara lleva redactando desde el primer día, sin saber que tiene una función legal además de clínica.
+—Ahí está el problema. El parte ordinario genera un asiento público en el registro civil, y el nombre de Raquel Sanz vinculado a este hospital en esta fecha levanta preguntas que el decreto no puede responder. —Hugo expuso el plan sin levantar la voz. Una defunción en dos capas. Para el hospital, Raquel Sanz muere como paciente neurológica en cuidados paliativos, causa natural, progresión de enfermedad neurodegenerativa —lo que es, sin nada que falsificar—. Para el Estado, el expediente DCE se cierra por cese biológico del activo, con documentación reservada de nivel cinco, firmado por la Comisión Interministerial, no por el médico. Dos sistemas que nunca se van a comparar porque uno es público y el otro está clasificado. El historial de paliativos que sostiene la primera capa es el mismo que Clara lleva redactando desde el primer día, sin saber que tiene una función legal además de clínica.
 —¿Clara lo sabe? —preguntó Valeria.
 —No —dijo Hugo.
 —Ponme el procedimiento por escrito antes de mediodía —dijo Valeria—. Qué firmo, cuándo, en qué orden. No quiero improvisar en ese momento.

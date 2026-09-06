@@ -1,9 +1,9 @@
 ﻿Capítulo 37 — Reunión de urgencia
 
 Sergio no se sentó cuando empezó a hablar. Permaneció junto a la pantalla apagada, como si necesitara el espacio entero de la sala.
-—Ahora mismo Juan y Ana son dos sistemas aislados —dijo—. Cada implante resuelve sus huecos con su propio sustrato. Cuando algo falla, como falló con la variable ochenta y siete, el motor RAG de Ana solo tiene un sitio donde buscar: lo que queda de su cerebro. Si no está ahí, no está en ningún sitio. Treinta y dos segundos es lo que tarda en darse cuenta de que tiene que reconstruir el camino entero desde cero, sin ayuda de nadie.
+—Ahora mismo Juan y Ana son dos sistemas aislados —dijo—. Cada implante resuelve sus huecos con su propio sustrato. Cuando algo falla, como falló con la variable ochenta y siete, el motor RAG de Ana solo tiene un sitio donde buscar. Lo que queda de su cerebro. Si no está ahí, no está en ningún sitio. Treinta y dos segundos es lo que tarda en darse cuenta de que tiene que reconstruir el camino entero desde cero, sin ayuda de nadie.
 —¿Y la alternativa? —preguntó Antonio.
-—Conectar los dos sustratos de forma permanente —dijo Sergio—. No la sincronización puntual que ya tenemos con la planta: hablo del canal entre los dos implantes, el que dejamos reducido a un hilo por orden del ministro.
+—Conectar los dos sustratos de forma permanente —dijo Sergio—. No la sincronización puntual que ya tenemos con la planta. Hablo del canal entre los dos implantes, el que dejamos reducido a un hilo por orden del ministro.
 Hubo un silencio.
 —Eso es justo lo que Carlos pidió que no volviera a pasar —dijo Valeria—. Un patrón asociativo genera una identidad colectiva, dijo. Con esas palabras.
 —Lo dijo sobre un canal abierto sin propósito clínico —dijo Tomás—. Esto es distinto. Si Ana se bloquea en algo que su sustrato ya no tiene y el sistema puede mirar también en el de Juan, el bloqueo se resuelve en milisegundos, no en segundos. No accede a su identidad ni a sus recuerdos. Solo a la estructura de razonamiento que comparten por formación y años de cálculo bajo presión.
@@ -11,14 +11,14 @@ Hubo un silencio.
 Tomás y Sergio se miraron antes de responder.
 —Funciona —dijo Sergio—. Lo hemos modelado con los datos de los dos bloqueos de esta semana. El de Juan se habría resuelto en menos de un segundo. El de Ana, en dos o tres.
 —¿Con qué datos, exactamente? —preguntó Valeria.
-—Tomamos el acoplamiento theta-gamma de los dos durante sus bloqueos —dijo Tomás—. Simulamos qué habría pasado si el sistema hubiera podido consultar el patrón del otro en el mismo instante, en vez de buscar a tientas en solitario. No es magia: es indexación cruzada, con menos pasos entre pregunta y respuesta.
+—Tomamos el acoplamiento theta-gamma de los dos durante sus bloqueos —dijo Tomás—. Simulamos qué habría pasado si el sistema hubiera podido consultar el patrón del otro en el mismo instante, en vez de buscar a tientas en solitario. No es magia. Es indexación cruzada, con menos pasos entre pregunta y respuesta.
 —¿Probablemente?
 —Es un modelo. No lo hemos visto pasar de verdad.
 Antonio se quedó mirando la pantalla apagada.
 —¿Riesgos? —preguntó, al fin.
-—Los mismos que ya tenía el canal antes de que el ministro pidiera reducirlo —dijo Tomás—. Solo que con más ancho de banda: lo que era un riesgo teórico mínimo podría dejar de serlo.
+—Los mismos que ya tenía el canal antes de que el ministro pidiera reducirlo —dijo Tomás—. Solo que con más ancho de banda. Lo que era un riesgo teórico mínimo podría dejar de serlo.
 —¿Qué riesgo? —preguntó Valeria.
-—El que dijo el ministro —dijo Sergio—. No sabemos qué pasa cuando dos sistemas diseñados para ser independientes empiezan a depender constantemente el uno del otro. Solo sabemos lo visto hasta ahora: ecos, picos sincronizados, sin problema clínico observable. Pero eso era con un hilo. Esto sería con una autopista.
+—El que dijo el ministro —dijo Sergio—. No sabemos qué pasa cuando dos sistemas diseñados para ser independientes empiezan a depender constantemente el uno del otro. Solo sabemos lo visto hasta ahora. Ecos, picos sincronizados, sin problema clínico observable. Pero eso era con un hilo. Esto sería con una autopista.
 —¿Y si decimos que no?
 —Entonces la próxima vez que uno se bloquee más de treinta y dos segundos, lo gestionamos como hasta ahora. Esperando, sin saber si va a resolverse solo.
 —Eso no responde a mi pregunta —dijo Valeria—. Describe lo que ya tenemos.
@@ -42,12 +42,12 @@ Sergio tardó en responder.
 —Es la mitad de la razón por la que lo has propuesto —dijo Tomás.
 —¿Y la otra mitad? —preguntó él mismo, aunque ya sospechaba la respuesta.
 —También es verdad —dijo Sergio—. Treinta y dos segundos es demasiado. La próxima vez podría no resolverse sola, y entonces ya no hablaríamos de un modelo.
-—Las dos cosas pueden ser ciertas a la vez —dijo Tomás, al fin—. Eso es lo que más me inquieta: que no hace falta mentir en ningún punto para llegar justo a donde queríamos llegar.
+—Las dos cosas pueden ser ciertas a la vez —dijo Tomás, al fin—. Eso es lo que más me inquieta, que no hace falta mentir en ningún punto para llegar justo a donde queríamos llegar.
 ***
 Hugo recibió la llamada de Antonio.
 —¿Reabrir el canal entero? Carlos lo cerró por escrito. Hay una nota en el expediente que dice justo eso.
 —No lo reabrimos —dijo Antonio—. Lo ampliamos con un propósito clínico nuevo. La nota de Carlos hablaba de un canal sin función real. Este la tiene.
-—Eso es una distinción legal, no real —dijo Hugo—. Si alguien lee las dos notas juntas, la mía y la de Carlos, verá lo mismo que veo yo: que decidimos que la palabra correcta importaba más que el hecho que describía.
+—Eso es una distinción legal, no real —dijo Hugo—. Si alguien lee las dos notas juntas, la mía y la de Carlos, verá lo mismo que veo yo, que decidimos que la palabra correcta importaba más que el hecho que describía.
 —¿Vas a escribir la nota o no?
 Hugo se quedó callado un momento largo.
 —La voy a escribir. Pero quiero que conste, en algún sitio que no sea el papel oficial, que lo señalé antes de que nadie me lo pidiera.

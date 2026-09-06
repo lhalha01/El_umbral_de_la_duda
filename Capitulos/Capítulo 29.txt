@@ -10,7 +10,7 @@ Tomás llegó con el cuaderno cerrado esa mañana: no había nada urgente que an
 —Sin picos. El canal estuvo en modo pasivo, como acordamos. Ninguno de los dos módulos intentó verificar el recuerdo contra el otro.
 Valeria dejó la pantalla secundaria y se giró hacia la mesa.
 —¿Alguna anomalía en el contenido generado por inferencia?
-—Una en Juan. El motor ha añadido un detalle a la devolución del cargador que no estaba en el guion de Hugo: el olor del perfume de Ana. Lo ha inferido de un fragmento de memoria olfativa del propio Juan, que tiene indexados varios perfumes femeninos de situaciones sociales formales. Seleccionó uno y lo asoció al recuerdo del cruce.
+—Una en Juan. El motor ha añadido un detalle a la devolución del cargador que no estaba en el guion de Hugo. El olor del perfume de Ana. Lo ha inferido de un fragmento de memoria olfativa del propio Juan, que tiene indexados varios perfumes femeninos de situaciones sociales formales. Seleccionó uno y lo asoció al recuerdo del cruce.
 —¿Cuál?
 —El sistema no identifica marcas, solo firmas químicas. Algo amaderado con fondo floral.
 —¿Ana lleva ese tipo de perfume? —preguntó Clara.
@@ -21,7 +21,7 @@ Clara se quedó mirando la pantalla: calculaba las probabilidades de que una muj
 —¿Y si pone algo peor?
 —Eso es justo lo que no podemos controlar si intervenimos —dijo Tomás.
 —Mejor dejarlo —dijo Antonio—. Si Ana lleva ese perfume, el recuerdo es más sólido. Si no, Juan recordará mal un detalle de una gala con doscientas personas, hace meses. Un cerebro normal recuerda con huecos y con detalles inventados sin saberlo. Si el sistema hace lo mismo, no es un fallo.
-—También hay una observación en Ana —siguió Sergio—. En la segunda ejecución el motor añadió una sensación de alivio leve al terminar la conversación con Juan. No estaba en el guion: es una respuesta emocional apropiada al perfil, alguien aliviado tras un intercambio social inesperado.
+—También hay una observación en Ana —siguió Sergio—. En la segunda ejecución el motor añadió una sensación de alivio leve al terminar la conversación con Juan. No estaba en el guion. Es una respuesta emocional apropiada al perfil, alguien aliviado tras un intercambio social inesperado.
 —¿Lo has marcado como anomalía? —preguntó Valeria.
 —Como observación. Encaja con el perfil. No genera riesgo de incoherencia.
 —Bien.
@@ -32,11 +32,11 @@ Tomás anotó algo. Llegó ese momento de calma que siempre aparecía cuando la 
 Llevaba en el manual desde el diseño: doce puntos en tres bloques —integridad estructural de los implantes, motor RAG, entorno adaptativo—, ejecutado en simulación trescientas diecisiete veces. Todos en la sala lo conocían de memoria.
 —¿Qué modificaciones?
 Valeria abrió el documento que ya tenía preparado en la tablet.
-—El P-3 se diseñó para un módulo compartido en configuración estándar. Lo que tenemos ahora es un canal camuflado dentro del firmware, dos sujetos con tejido real, y comportamientos que las simulaciones no anticiparon. Faltan tres cosas: verificar que el canal opera sin señal detectable desde el exterior, evaluar la activación espontánea fuera de perfil, y contemplar la reactividad vascular de Ana como variable activa.
+—El P-3 se diseñó para un módulo compartido en configuración estándar. Lo que tenemos ahora es un canal camuflado dentro del firmware, dos sujetos con tejido real, y comportamientos que las simulaciones no anticiparon. Faltan tres cosas. Verificar que el canal opera sin señal detectable desde el exterior, evaluar la activación espontánea fuera de perfil, y contemplar la reactividad vascular de Ana como variable activa.
 —Son cinco ítems nuevos —dijo Tomás, que ya los había contado.
-—Cinco. Van al final como bloque D: el protocolo pasa de doce a diecisiete puntos. A, B y C quedan sin tocar.
+—Cinco. Van al final como bloque D. El protocolo pasa de doce a diecisiete puntos. A, B y C quedan sin tocar.
 —¿Cuántos de los nuevos son bloqueantes? —preguntó Sergio.
-—Dos: el canal sin señal detectable, y la coherencia del entorno adaptativo bajo los nuevos patrones de inferencia. Los otros tres son observacionales.
+—Dos. El canal sin señal detectable, y la coherencia del entorno adaptativo bajo los nuevos patrones de inferencia. Los otros tres son observacionales.
 —¿Y la frecuencia de ejecución?
 —Antes se ejecutaba una vez, antes del arranque. Con tejido real no basta. Lo haremos cada cuatro horas durante las primeras veinticuatro, diecisiete puntos completos en cada ronda.
 —¿Y el Sujeto 2?
@@ -70,7 +70,7 @@ Bajaron a la cafetería del edificio principal, donde la mujer de la barra los c
 —Porque lo contaste una vez y ya no se te fue. A mí me pasa con el umbral de impedancia. Dos a ocho kiloohmios. Tatuado.
 Tomás no respondió.
 —¿Estás bien?
-—Sí —dijo Tomás, sin inflexión, pero esta vez Sergio supo que era respuesta real, no evasión—. Solo que es distinto. Las simulaciones, el firmware, el canal: eran problemas técnicos, con solución o sin ella. Esta tarde vamos a despertar a alguien que hace semanas verbalizaba secuencias de cálculo mirando el techo sin saber dónde estaba. Y si algo falla, no hay vuelta atrás.
+—Sí —dijo Tomás, sin inflexión, pero esta vez Sergio supo que era respuesta real, no evasión—. Solo que es distinto. Las simulaciones, el firmware, el canal. Eran problemas técnicos, con solución o sin ella. Esta tarde vamos a despertar a alguien que hace semanas verbalizaba secuencias de cálculo mirando el techo sin saber dónde estaba. Y si algo falla, no hay vuelta atrás.
 —¿Crees que va a funcionar?
 —El sistema funciona. Lo hemos visto.
 —No te pregunto si el sistema funciona.
@@ -94,11 +94,11 @@ Se levantaron. Sergio dejó el dinero sobre la mesa. Subieron sin decir nada má
 ***
 Cuando llegaron, Valeria ya estaba en la consola. Sergio encendió sus pantallas; Tomás abrió el cuaderno en página nueva y comprobó el bolígrafo.
 Los dos abrieron el P-3 modificado.
-—Bloque A. Punto uno. Impedancia de los electrodos dentro de rango. Referencia: entre dos y ocho kiloohmios.
+—Bloque A. Punto uno. Impedancia de los electrodos dentro de rango. Referencia, entre dos y ocho kiloohmios.
 —Doscientos cuarenta y seis electrodos en el Sujeto 1, doscientos cuarenta y ocho en el Sujeto 2 —dijo Sergio—. Todos dentro de rango. El más bajo, cinco coma dos; el más alto, seis coma ocho.
-—Anotado. Punto dos: continuidad de fijación del electrodo, sin variación respecto a la última neuronavegación.
+—Anotado. Punto dos. Continuidad de fijación del electrodo, sin variación respecto a la última neuronavegación.
 —Sin variación —confirmó Sergio—. Los dos puntos del borde de la malla siguen igual que el primer día.
-—Punto tres: generador piezoeléctrico, carga por encima del umbral en los dos sujetos.
+—Punto tres. Generador piezoeléctrico, carga por encima del umbral en los dos sujetos.
 —Por encima. El de Ana sube más despacio, pero sube.
 Valeria seguía cada respuesta en su propia copia, marcando cada punto cerrado sin corregir ni preguntar dos veces.
 Avanzaron por los doce puntos del bloque original —acoplamiento theta-gamma, latencia de indexación, margen de compensación tisular— con la misma cadencia de siempre, cada valor dentro de su referencia.
@@ -107,7 +107,7 @@ Algo en la voz de Tomás cambió, lo suficiente para que Sergio levantara la vis
 —Punto trece. Canal de baja frecuencia. Verificación de ausencia de señal detectable desde el exterior. Bloqueante.
 El analizador de espectro tardó cuarenta segundos en barrer el rango completo. Nadie habló. La línea se mantuvo plana.
 —Sin señal detectable. El canal está dentro.
-—Anotado —dijo Tomás, con la voz otra vez normal—. Punto catorce: coherencia del entorno adaptativo bajo los nuevos patrones de inferencia. También bloqueante.
+—Anotado —dijo Tomás, con la voz otra vez normal—. Punto catorce. Coherencia del entorno adaptativo bajo los nuevos patrones de inferencia. También bloqueante.
 Ese fue el que más tardó. Sergio cruzó las curvas de indexación contra el modelo tres veces: Valeria había insistido en verificarlo más de una vez antes de cerrarlo.
 —Coherente las tres veces. Sin desviación significativa.
 Valeria marcó ese punto dos veces en su tablet — el único del bloque D que la había hecho dudar.

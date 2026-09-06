@@ -9,7 +9,7 @@ Sergio no respondió enseguida.
 —Que cuando la bolsa esté vacía, deja de haber nada que transferir.
 —No —dijo Tomás—. Eso significaría para nosotros. Te pregunto qué significaría para ella.
 Sergio lo miró. Tomás seguía con los ojos en la pantalla del Sujeto 3.
-—Que lo que hubiera quedado de ella en ese sistema —dijo, despacio, midiendo cada palabra— no sería lo que ella es. Sería lo que ella sabía. Y eso ya no estaría en ella: estaría en Juan y en Ana, distribuido, sin nombre, sin que ninguno sepa que lo tiene. Lo que hay en esa cama seguiría siendo Raquel Sanz. Lo otro, si existe de verdad, sería algo aparte.
+—Que lo que hubiera quedado de ella en ese sistema —dijo, despacio, midiendo cada palabra— no sería lo que ella es. Sería lo que ella sabía. Y eso ya no estaría en ella. Estaría en Juan y en Ana, distribuido, sin nombre, sin que ninguno sepa que lo tiene. Lo que hay en esa cama seguiría siendo Raquel Sanz. Lo otro, si existe de verdad, sería algo aparte.
 Sergio no dijo nada.
 —No sabemos si el sistema extrae a una persona —siguió Tomás—. Sospechamos que extrae lo que una persona sabe. Y lo que alguien sabe no es lo mismo que esa persona. Si esto es lo que parece, lo que el sistema habría preservado no sería ella. Sería algo que tenía, que ya no tendría, y que ahora tendrían otros sin saberlo.
 —Eso lo sospechábamos desde el principio —dijo Sergio.
@@ -18,9 +18,9 @@ Se quedaron en silencio un momento. La línea del Sujeto 3 no varió.
 —¿Qué pasa con lo que hay dentro de esa pantalla? —preguntó Tomás, señalando el monitor—. No lo indexado. Lo que queda en el propio tejido. ¿Qué pasa con eso cuando llegue el momento?
 —Desaparece.
 —¿Cuándo?
-—Cuando el soporte biológico deje de funcionar. La memoria biológica no sobrevive al sustrato. Es la diferencia con lo que hemos indexado nosotros: eso no necesita el cuerpo de origen para existir. Lo que sigue en el tejido, sí.
+—Cuando el soporte biológico deje de funcionar. La memoria biológica no sobrevive al sustrato. Es la diferencia con lo que hemos indexado nosotros. Eso no necesita el cuerpo de origen para existir. Lo que sigue en el tejido, sí.
 —¿Y lo del servidor?
-—No depende de nada biológico —dijo Sergio—. Puede degradarse si hay un fallo técnico, si alguien borra el archivo, si falta mantenimiento. Pero no se degrada solo. Un recuerdo biológico se degrada aunque la persona esté sana, aunque nadie haga nada: el tejido que lo sostiene va muriendo de todas formas. No hace falta enfermedad. Solo tiempo.
+—No depende de nada biológico —dijo Sergio—. Puede degradarse si hay un fallo técnico, si alguien borra el archivo, si falta mantenimiento. Pero no se degrada solo. Un recuerdo biológico se degrada aunque la persona esté sana, aunque nadie haga nada. El tejido que lo sostiene va muriendo de todas formas. No hace falta enfermedad. Solo tiempo.
 Tomás asintió despacio, como si Sergio hubiera dicho en voz alta algo que él ya sabía pero necesitaba oír.
 —Entonces lo que tenemos en el servidor sería más permanente que el original.
 —En ese sentido, sí. Si es así.
@@ -39,21 +39,21 @@ Era la frase que había estado evitando desde la noche anterior. Dicha en voz al
 Sergio tardó en responder.
 —No lo sé. Eso no está en ningún archivo que yo haya visto.
 Valeria entró en ese momento. Había oído lo último desde el pasillo y se quedó en la puerta un segundo antes de entrar del todo.
-—No se lo dijo nadie —dijo—. No por falta de tiempo. Porque en el estadio en que estaba cuando ingresó, la información no habría llegado a ningún sitio donde pudiera procesarse como tal. —Una pausa—. Lo que quedaba de Raquel cuando empezamos este proyecto era exactamente lo que describe el informe: el procedimiento, el reflejo, la capacidad de operar sobre estructuras sin necesitar saber que era ella quien operaba. Si esto que vemos en Juan y Ana tiene esa misma forma, no es una casualidad menor. Tampoco es una prueba. Es, otra vez, la explicación que no nos obliga a inventar nada nuevo. Pero la persona que podría haber escuchado esto y decidido algo ya no estaba, fuera lo que fuera lo que pasó después.
+—No se lo dijo nadie —dijo—. No por falta de tiempo. Porque en el estadio en que estaba cuando ingresó, la información no habría llegado a ningún sitio donde pudiera procesarse como tal. —Una pausa—. Lo que quedaba de Raquel cuando empezamos este proyecto era exactamente lo que describe el informe. El procedimiento, el reflejo, la capacidad de operar sobre estructuras sin necesitar saber que era ella quien operaba. Si esto que vemos en Juan y Ana tiene esa misma forma, no es una casualidad menor. Tampoco es una prueba. Es, otra vez, la explicación que no nos obliga a inventar nada nuevo. Pero la persona que podría haber escuchado esto y decidido algo ya no estaba, fuera lo que fuera lo que pasó después.
 —¿Eso lo hace mejor o peor? —preguntó Tomás.
 —No lo sé. Me lo he preguntado desde el principio y no tengo mejor respuesta que entonces.
 Se quedaron los tres en silencio. La pantalla del Sujeto 3 mostraba los mismos números de siempre.
 —¿Cuánto crees que queda? —preguntó Tomás, sin especificar de qué.
-—De los tres tipos que no hemos visto: no lo sé. Pueden aparecer mañana o nunca. La curva da un margen, no una fecha.
+—De los tres tipos que no hemos visto, no lo sé. Pueden aparecer mañana o nunca. La curva da un margen, no una fecha.
 —Y de lo otro —dijo Tomás, señalando la pantalla sin nombrarlo.
 Nadie respondió. Los números lo decían con más precisión de la que cualquier respuesta en voz alta habría tenido.
 ***
 Sergio cerró el log de la mañana con una línea nueva: sincronización cruzada estable, veinticuatro horas, sin discontinuidades desde que se resolvió el problema de fase inicial. Era la frase que llevaba tiempo queriendo escribir sin matizarla con un «salvo» o un «todavía no».
 Tomás la leyó por encima de su hombro.
 —¿Ya no hay ventanas?
-—Ninguna —dijo Sergio—. Ni activación por evento, ni reconexión tras bloqueo, ni nada que dependa de que uno necesite al otro en un momento concreto. El acoplamiento está abierto todo el tiempo. Coherencia de Juan, de Ana, acoplamiento cruzado: las tres líneas se mueven juntas desde hace tiempo. Día y noche, trabajo y sueño.
+—Ninguna —dijo Sergio—. Ni activación por evento, ni reconexión tras bloqueo, ni nada que dependa de que uno necesite al otro en un momento concreto. El acoplamiento está abierto todo el tiempo. Coherencia de Juan, de Ana, acoplamiento cruzado. Las tres líneas se mueven juntas desde hace tiempo. Día y noche, trabajo y sueño.
 —¿Y las discontinuidades de al principio? ¿Las caídas al despertar?
-—Resueltas. Era un problema de fase, no de canal: el acoplamiento se perdía cuando uno salía de sueño profundo y el sistema tardaba segundos en recuperar la referencia del otro. Recalibramos la resincronización dentro del mismo firmware. No hizo falta nada nuevo. Desde entonces, cero discontinuidades.
+—Resueltas. Era un problema de fase, no de canal. El acoplamiento se perdía cuando uno salía de sueño profundo y el sistema tardaba segundos en recuperar la referencia del otro. Recalibramos la resincronización dentro del mismo firmware. No hizo falta nada nuevo. Desde entonces, cero discontinuidades.
 Tomás se quedó mirando la pantalla, donde las tres líneas —setenta y nueve, ochenta y uno, y la del acoplamiento cruzado, que ya no bajaba de noventa— avanzaban juntas sin ningún hueco.
 —Esto ya no es el canal que le describisteis a Carlos —dijo, no como pregunta.
 —Es el mismo canal —dijo Sergio—. Solo que ahora hace todo el tiempo lo que antes hacía a veces. El papel que firmó Carlos no dice cuántas horas puede estar activo. Dice que existe, que tiene propósito clínico documentado, que hay informe mensual. Las tres cosas siguen siendo ciertas.

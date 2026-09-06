@@ -55,8 +55,8 @@ Colgó sin despedirse, que en Carlos era señal de satisfacción.
 Antonio se quedó con el teléfono en la mano, sin moverse. Carlos no había preguntado por Raquel ni una vez desde que el proyecto empezó a funcionar con los otros dos. Podía significar que ya no le importaba, o que le importaba demasiado para arriesgarse a preguntar. No había forma de saberlo, y preguntárselo directamente habría revelado más de lo que Antonio quería descubrir de él.
 ***
 Hugo se reunió con Valeria al día siguiente.
-—Necesito que me confirmes algo —dijo—. El historial entregado a cada hospital no contempla el diagnóstico real. Si alguno preguntara por qué estaba siendo evaluado antes del accidente, no tengo respuesta preparada: cualquiera abriría más preguntas de las que cierra.
-—No va a preguntarlo —dijo Valeria—. Porque no lo tiene. El motor reconstruyó la carrera, las relaciones, el modo de pensar. Lo único que sustituyó del todo fue el tramo final, el que llevaba al ingreso. Ahí no hay hueco que rellenar: hay un recuerdo entero de una caída. No echan en falta nada porque no saben que falta algo.
+—Necesito que me confirmes algo —dijo—. El historial entregado a cada hospital no contempla el diagnóstico real. Si alguno preguntara por qué estaba siendo evaluado antes del accidente, no tengo respuesta preparada. Cualquiera abriría más preguntas de las que cierra.
+—No va a preguntarlo —dijo Valeria—. Porque no lo tiene. El motor reconstruyó la carrera, las relaciones, el modo de pensar. Lo único que sustituyó del todo fue el tramo final, el que llevaba al ingreso. Ahí no hay hueco que rellenar. Hay un recuerdo entero de una caída. No echan en falta nada porque no saben que falta algo.
 Hugo asintió, sin quedar del todo tranquilo.
 —¿Y si alguno intenta reconstruir esas semanas por su cuenta? —preguntó, ya en la puerta—. Como Juan con el modelo de las dos curvas, la noche antes de ingresar.
 Valeria no había pensado en eso.
@@ -133,7 +133,7 @@ Tomás soltó el aire que llevaba conteniendo.
 La pantalla volvió a quedarse en espera. En el despacho, Carmen recogió la carpeta y salió. Juan se quedó mirando la mesa vacía un momento antes de pasar página. De eso, nadie en el edificio anexo supo nada.
 Antonio entró en la sala de supervisión sin avisar.
 —¿Cómo va?
-—La rutina de las diez no trajo nada —dijo Tomás—. A las diez y veinte saltó una alarma: una laguna de cinco segundos, resuelta sola, sin que nadie en el despacho la notara.
+—La rutina de las diez no trajo nada —dijo Tomás—. A las diez y veinte saltó una alarma. Una laguna de cinco segundos, resuelta sola, sin que nadie en el despacho la notara.
 —¿Qué tipo de laguna?
 —Un dato concreto, no un bloqueo de identidad —dijo Sergio—. El sistema sabía qué buscaba. Solo tardó en encontrarlo.
 —¿Y desde entonces?

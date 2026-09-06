@@ -60,7 +60,7 @@ Tomás se quedó mientras Sergio terminaba la lista. Repasaron juntos algunos de
 —Eso es la curva de quien saca bolas de una bolsa sin reponerlas —dijo Tomás—. Al principio sale una distinta cada vez. Después empiezan a repetirse, porque quedan menos colores.
 —Es exactamente esa curva —dijo Sergio—. Hay métodos para estimar, a partir de la velocidad con que algo deja de ser nuevo, cuántos elementos había en total antes de empezar a sacar nada. Los usé.
 —¿De dónde sacaste el método?
-—De ecología. Sirve para estimar cuántas especies hay en un ecosistema sin haberlas visto todas: cuantas más muestras sin encontrar nada nuevo, más cerca del total real. Nunca pensé que lo aplicaría a esto.
+—De ecología. Sirve para estimar cuántas especies hay en un ecosistema sin haberlas visto todas. Cuantas más muestras sin encontrar nada nuevo, más cerca del total real. Nunca pensé que lo aplicaría a esto.
 —¿Y bien?
 —Entre once y catorce tipos en total, con margen razonable. Ya hemos visto once. Quedan, como mucho, tres.
 Tomás se sentó despacio, como si necesitara el peso de la silla para sostener lo que acababa de oír.

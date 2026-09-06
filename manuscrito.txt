@@ -8,126 +8,6 @@ Asiento registral: 04 / 2026 / 3846
 
 © Antonio Hinojosa López
 
-Índice
-
-PARTE I 1
-
-Capítulo 0 3
-
-Capítulo 1 11
-
-Capítulo 2 17
-
-Capítulo 3 23
-
-Capítulo 4 33
-
-Capítulo 5 55
-
-Capítulo 6 65
-
-Capítulo 7 79
-
-Capítulo 8 93
-
-Capítulo 9 103
-
-Capítulo 10 121
-
-Capítulo 11 131
-
-Capítulo 12 143
-
-Capítulo 13 161
-
-Capítulo 14 169
-
-Capítulo 15 183
-
-PARTE II 197
-
-Capítulo 16 199
-
-Capítulo 17 215
-
-Capítulo 18 221
-
-Capítulo 19 233
-
-Capítulo 20 249
-
-Capítulo 21 257
-
-Capítulo 22 271
-
-Capítulo 23 283
-
-Capítulo 24 289
-
-Capítulo 25 303
-
-Capítulo 26 313
-
-Capítulo 27 319
-
-Capítulo 28 325
-
-PARTE III 341
-
-Capítulo 29 343
-
-Capítulo 30 353
-
-Capítulo 31 363
-
-Capítulo 32 375
-
-Capítulo 33 393
-
-Capítulo 34 405
-
-Capítulo 35 415
-
-Capítulo 36 427
-
-Capítulo 37 441
-
-Capítulo 38 453
-
-Capítulo 39 467
-
-Capítulo 40 477
-
-Capítulo 41 483
-
-Capítulo 42 493
-
-Capítulo 43 505
-
-Capítulo 44 517
-
-Capítulo 45 533
-
-Capítulo 46 545
-
-Capítulo 47 553
-
-PARTE IV 567
-
-Capítulo 48 569
-
-Capítulo 49 581
-
-Capítulo 50 585
-
-Capítulo 51 597
-
-Capítulo 52 609
-
-Capítulo 53 633
-
-Capítulo 54 643
-
 PARTE I
 
 El protocolo
@@ -266,7 +146,7 @@ Valeria, futura directora clínica, intervino con impaciencia.
 
 —Cuando dice identidad irrecuperable —dijo Inés, con la misma voz plana—, ¿a qué velocidad está hablando?
 
-—En el caso del Sujeto 1, el inspector médico estima menos de ocho semanas antes de la degradación del tejido crítico —respondió Valeria—. En el del Sujeto 2, máximo seis. Es un reloj distinto al de sus neurólogos habituales: no mide cuánto tiempo les queda de vida cognitiva reconocible. Mide cuánto tiempo queda de tejido todavía operable. Uno puede agotarse mucho antes que el otro. El Sujeto 3 es el más urgente: riesgo inminente de desconexión sináptica terminal. Días, no semanas.
+—En el caso del Sujeto 1, el inspector médico estima menos de ocho semanas antes de la degradación del tejido crítico —respondió Valeria—. En el del Sujeto 2, máximo seis. Es un reloj distinto al de sus neurólogos habituales. No mide cuánto tiempo les queda de vida cognitiva reconocible. Mide cuánto tiempo queda de tejido todavía operable. Uno puede agotarse mucho antes que el otro. El Sujeto 3 es el más urgente. Riesgo inminente de desconexión sináptica terminal. Días, no semanas.
 
 Nadie se movió. Fuera, el tráfico de la tarde llenaba el silencio que había dejado la cifra de Valeria.
 
@@ -300,7 +180,7 @@ Carvajal arqueó una ceja, escéptico.
 
 —Eso lleva años de trámites parlamentarios, Antonio. El Alzheimer de esos tres no va a esperar.
 
-—No si tú mismo redactas la grieta, Hugo —respondió Antonio—. Necesito que diseñes un borrador de Real Decreto-Ley de urgencia. Algo que el Gobierno pueda aprobar el próximo viernes bajo el paraguas del interés general y la preservación de capacidades estratégicas irrecuperables para el Estado. Introduce una enmienda técnica: la disponibilidad cognitiva estratégica. Un redactado corto que permita al Estado transferir de forma temporal la tutela médica de estos ciudadanos dependientes a nuestra comisión especial si su conocimiento es crítico para el país.
+—No si tú mismo redactas la grieta, Hugo —respondió Antonio—. Necesito que diseñes un borrador de Real Decreto-Ley de urgencia. Algo que el Gobierno pueda aprobar el próximo viernes bajo el paraguas del interés general y la preservación de capacidades estratégicas irrecuperables para el Estado. Introduce una enmienda técnica, la disponibilidad cognitiva estratégica. Un redactado corto que permita al Estado transferir de forma temporal la tutela médica de estos ciudadanos dependientes a nuestra comisión especial si su conocimiento es crítico para el país.
 
 Carvajal guardó silencio un instante, asimilando la propuesta, y empezó a tomar notas rápidas.
 
@@ -466,7 +346,7 @@ Silencio. El ministro volvió a mirar la ventana.
 
 —¿Y si se filtra? —preguntó, sin volverse.
 
-—Entonces lo que se filtra es esto. —Antonio abrió la carpeta y dejó tres hojas sobre la mesa—. Juan Ferreira. Ana Moreira. Raquel Sanz. Tres personas ingresadas desde hace meses, sin que ningún protocolo público las cubra, mientras su conocimiento se pierde. Eso es lo que va a contar la prensa si no hay decreto el viernes: que el Gobierno dejó morir el trabajo de tres de las mentes más valiosas del país por no firmar un papel a tiempo. Lo otro —señaló la carpeta cerrada— no llega a existir nunca, porque nadie sabe que hubo una alternativa.
+—Entonces lo que se filtra es esto. —Antonio abrió la carpeta y dejó tres hojas sobre la mesa—. Juan Ferreira. Ana Moreira. Raquel Sanz. Tres personas ingresadas desde hace meses, sin que ningún protocolo público las cubra, mientras su conocimiento se pierde. Eso es lo que va a contar la prensa si no hay decreto el viernes, que el Gobierno dejó morir el trabajo de tres de las mentes más valiosas del país por no firmar un papel a tiempo. Lo otro —señaló la carpeta cerrada— no llega a existir nunca, porque nadie sabe que hubo una alternativa.
 
 El ministro no tocó las hojas.
 
@@ -1424,7 +1304,7 @@ Antes de empezar, Valeria se detuvo con los guantes puestos.
 
 —¿Y el generador? —preguntó Tomás.
 
-—Lo dejamos donde está —dijo Valeria—. Da igual qué lado, pero cambiar los dos a la vez sería tan simétrico como no cambiar ninguno. Quiero algo que no parezca decidido a propósito. —Se quedó pensando un momento más—. Voy a dejar una pequeña incisión más, detrás de la oreja izquierda. No conecta con nada, no tiene ninguna función. Si alguna vez alguien compara los dos cuerpos, hay una diferencia real que no necesita ninguna explicación complicada: una exploración que no llevó a ningún sitio, como pasa con cualquier paciente.
+—Lo dejamos donde está —dijo Valeria—. Da igual qué lado, pero cambiar los dos a la vez sería tan simétrico como no cambiar ninguno. Quiero algo que no parezca decidido a propósito. —Se quedó pensando un momento más—. Voy a dejar una pequeña incisión más, detrás de la oreja izquierda. No conecta con nada, no tiene ninguna función. Si alguna vez alguien compara los dos cuerpos, hay una diferencia real que no necesita ninguna explicación complicada, una exploración que no llevó a ningún sitio, como pasa con cualquier paciente.
 
 —¿Procedemos? —preguntó Tomás.
 
@@ -1490,7 +1370,7 @@ El silencio que siguió fue breve pero denso.
 
 —Es un fallo —dijo Antonio. Nadie lo discutió.
 
-—Hemos perdido un tercio del proyecto —dijo Antonio—. El perfil con mayor densidad de conocimiento estratégico, sin segunda oportunidad. Al ministerio le daré la verdad técnica: que el deterioro había avanzado más rápido de lo documentado. Lo que no voy a decirles es que podríamos haberlo detectado antes con pruebas recientes. Eso se queda aquí.
+—Hemos perdido un tercio del proyecto —dijo Antonio—. El perfil con mayor densidad de conocimiento estratégico, sin segunda oportunidad. Al ministerio le daré la verdad técnica, que el deterioro había avanzado más rápido de lo documentado. Lo que no voy a decirles es que podríamos haberlo detectado antes con pruebas recientes. Eso se queda aquí.
 
 —¿Y la incidencia? —preguntó Tomás.
 
@@ -2240,7 +2120,7 @@ El ministro cerró la carpeta y la apartó a un lado.
 
 —La comisión de secretos oficiales no va a saber nada de lo que ocurre dentro de esa planta.
 
-—Eso me dijiste también sobre el expediente del Sujeto 3. —El ministro dejó la frase en el aire un momento—. Lo que me preocupa no es la comisión, Antonio. Lo que me preocupa es el patrón. Dos sujetos que comparten información generan un patrón asociativo. Un patrón asociativo genera una identidad colectiva. Una identidad colectiva genera comportamientos que no están previstos en el protocolo. Ya lo has visto esta noche: el sistema ha generado una función que nadie había programado.
+—Eso me dijiste también sobre el expediente del Sujeto 3. —El ministro dejó la frase en el aire un momento—. Lo que me preocupa no es la comisión, Antonio. Lo que me preocupa es el patrón. Dos sujetos que comparten información generan un patrón asociativo. Un patrón asociativo genera una identidad colectiva. Una identidad colectiva genera comportamientos que no están previstos en el protocolo. Ya lo has visto esta noche. El sistema ha generado una función que nadie había programado.
 
 —Es una función de autorregulación. Está dentro de la arquitectura general del firmware.
 
@@ -2644,7 +2524,7 @@ Capítulo 11
 
 La reunión del tercer día empezó con un silencio distinto al de las mañanas anteriores. No el de gente cansada. El de gente que lleva horas trabajando con algo que no termina de entender y prefiere no decirlo antes de tener los datos delante.
 
-—El canal de sincronización cruzada está suprimido desde las once y veinte de anoche —dijo Sergio—. Los dos módulos llevan nueve horas operando en solitario. Sin incidencias. Una verificación espontánea a las cuatro y ocho: el módulo del Sujeto 1 buscó el canal, no lo encontró, abortó en menos de un segundo.
+—El canal de sincronización cruzada está suprimido desde las once y veinte de anoche —dijo Sergio—. Los dos módulos llevan nueve horas operando en solitario. Sin incidencias. Una verificación espontánea a las cuatro y ocho. El módulo del Sujeto 1 buscó el canal, no lo encontró, abortó en menos de un segundo.
 
 —Van tres en tres días —dijo Tomás—. Si hay una cuarta antes del despertar, lo monitorizamos como patrón, no como ruido.
 
@@ -2776,7 +2656,7 @@ Nadie lo discutió.
 
 Hugo abrió su carpeta.
 
-—Cuando fallezca, su muerte no puede certificarse por el procedimiento ordinario. Un activo DCE es documentación reservada; el registro civil, el forense, el certificado estándar: ninguno puede aplicarse sin levantar la clasificación, y eso exige una autorización que nadie ha pedido porque nadie previó este escenario. Tengo que construir el protocolo antes de que ocurra.
+—Cuando fallezca, su muerte no puede certificarse por el procedimiento ordinario. Un activo DCE es documentación reservada; el registro civil, el forense, el certificado estándar. Ninguno puede aplicarse sin levantar la clasificación, y eso exige una autorización que nadie ha pedido porque nadie previó este escenario. Tengo que construir el protocolo antes de que ocurra.
 
 —¿Cuánto tiempo necesitas? —preguntó Antonio.
 
@@ -2802,7 +2682,7 @@ Doce horas más de estabilidad y al día siguiente evaluarían el tercer escaló
 
 —El soporte vital registrará la caída de constantes. Yo determinaría la muerte, anotaría la hora, firmaría el parte.
 
-—Ahí está el problema. El parte ordinario genera un asiento público en el registro civil, y el nombre de Raquel Sanz vinculado a este hospital en esta fecha levanta preguntas que el decreto no puede responder. —Hugo expuso el plan sin levantar la voz: una defunción en dos capas. Para el hospital, Raquel Sanz muere como paciente neurológica en cuidados paliativos, causa natural, progresión de enfermedad neurodegenerativa —lo que es, sin nada que falsificar—. Para el Estado, el expediente DCE se cierra por cese biológico del activo, con documentación reservada de nivel cinco, firmado por la Comisión Interministerial, no por el médico. Dos sistemas que nunca se van a comparar porque uno es público y el otro está clasificado. El historial de paliativos que sostiene la primera capa es el mismo que Clara lleva redactando desde el primer día, sin saber que tiene una función legal además de clínica.
+—Ahí está el problema. El parte ordinario genera un asiento público en el registro civil, y el nombre de Raquel Sanz vinculado a este hospital en esta fecha levanta preguntas que el decreto no puede responder. —Hugo expuso el plan sin levantar la voz. Una defunción en dos capas. Para el hospital, Raquel Sanz muere como paciente neurológica en cuidados paliativos, causa natural, progresión de enfermedad neurodegenerativa —lo que es, sin nada que falsificar—. Para el Estado, el expediente DCE se cierra por cese biológico del activo, con documentación reservada de nivel cinco, firmado por la Comisión Interministerial, no por el médico. Dos sistemas que nunca se van a comparar porque uno es público y el otro está clasificado. El historial de paliativos que sostiene la primera capa es el mismo que Clara lleva redactando desde el primer día, sin saber que tiene una función legal además de clínica.
 
 —¿Clara lo sabe? —preguntó Valeria.
 
@@ -3548,7 +3428,7 @@ Hugo lo consideró brevemente.
 
 —Juan —dijo Valeria—. Si es antes de un discurso, tiene un motivo real para estar pendiente del móvil esa noche —comprobando la hora, contestando algo del despacho— y un motivo real para que se le agote.
 
-—Entonces Ana es quien presta el cargador —dijo Hugo—. Lo cual tiene más sentido del que parece: a esa edad, en ese tipo de eventos, los hombres no suelen llevar nada encima salvo el teléfono y la cartera. Las mujeres sí llevan bolso, por costumbre, no por necesidad. Si alguna vez alguien pregunta por qué ella tenía un cargador de sobra y él no, la respuesta más aburrida es también la más probable.
+—Entonces Ana es quien presta el cargador —dijo Hugo—. Lo cual tiene más sentido del que parece. A esa edad, en ese tipo de eventos, los hombres no suelen llevar nada encima salvo el teléfono y la cartera. Las mujeres sí llevan bolso, por costumbre, no por necesidad. Si alguna vez alguien pregunta por qué ella tenía un cargador de sobra y él no, la respuesta más aburrida es también la más probable.
 
 —Me vale —dijo Valeria—. Construyámoslo entero, entonces, antes de que alguien encuentre un motivo para tirarlo abajo.
 
@@ -3578,7 +3458,7 @@ Valeria leyó la pantalla por encima del hombro de Hugo.
 
 —¿Cuánto es «un rato después»? —preguntó—. Si lo dejamos así, vago, el sistema puede decidir que fueron cinco minutos o que fue toda la noche, y eso cambia cuánto tiempo cree Juan que pasó cerca de ella.
 
-—No necesita una cifra —dijo Sergio—. Necesita que el recuerdo no incluya el tiempo de en medio en absoluto. Lo que carga la batería pasa sin que nadie lo presencie. Lo único que queda fijado son los dos instantes: cuando ella se lo da, cuando él se lo devuelve. El resto no es parte del recuerdo porque no fue parte de la escena para ninguno de los dos.
+—No necesita una cifra —dijo Sergio—. Necesita que el recuerdo no incluya el tiempo de en medio en absoluto. Lo que carga la batería pasa sin que nadie lo presencie. Lo único que queda fijado son los dos instantes, cuando ella se lo da, cuando él se lo devuelve. El resto no es parte del recuerdo porque no fue parte de la escena para ninguno de los dos.
 
 —Eso es más limpio que poner un número —admitió Valeria.
 
@@ -4048,7 +3928,7 @@ Ana había revisado el contrato original, los anexos técnicos, los informes de 
 
 —Los trabajos preparatorios no forman parte del contrato —dijo el asesor jurídico, que había decidido que observar tenía sus límites.
 
-—No —dijo Ana—. Por eso he dicho que si hay implicaciones legales, la vía correcta es la Asesoría Jurídica del Estado. Lo que yo puedo decirles desde el modelo técnico es esto: la interpretación de la Agencia es consistente con los documentos preparatorios. La interpretación de la confederación, en cambio, genera en los meses de caudal bajo una extracción para turbinación que compromete el caudal ecológico del tramo bajo del Ebro en el delta. Eso no es una opinión jurídica. Es lo que dice el modelo con los datos reales de los últimos tres ciclos hidrológicos.
+—No —dijo Ana—. Por eso he dicho que si hay implicaciones legales, la vía correcta es la Asesoría Jurídica del Estado. Lo que yo puedo decirles desde el modelo técnico es esto. La interpretación de la Agencia es consistente con los documentos preparatorios. La interpretación de la confederación, en cambio, genera en los meses de caudal bajo una extracción para turbinación que compromete el caudal ecológico del tramo bajo del Ebro en el delta. Eso no es una opinión jurídica. Es lo que dice el modelo con los datos reales de los últimos tres ciclos hidrológicos.
 
 El representante miró la pantalla. Los datos de caudal en el delta aparecían en tres columnas: caudal real, caudal ecológico mínimo exigido por la normativa europea, y diferencia. En los meses de febrero y marzo de los tres ciclos anteriores, la diferencia era negativa con la interpretación de media mensual.
 
@@ -4744,7 +4624,7 @@ Rodrigo se sentó, sorprendido. Ana nunca le había ofrecido una explicación qu
 
 Ana abrió un archivo de hacía siete años, el diseño original del sistema que ahora estaba traduciendo al modelo del Segura.
 
-—Esto lo construí cuando llevaba cuatro años en el puesto —dijo—. La pregunta que resuelve no es técnica, aunque parezca técnica. Es esta: cuando dos concesiones tienen el mismo respaldo legal pero no hay agua para las dos, ¿quién decide y con qué criterio? El criterio que elegí entonces, y que sigo usando, es la antigüedad ponderada por uso continuado. No basta con ser el más antiguo. Hay que haber usado la concesión de forma ininterrumpida. Eso evita que alguien acumule derechos históricos sobre papel sin haber regado nunca un campo.
+—Esto lo construí cuando llevaba cuatro años en el puesto —dijo—. La pregunta que resuelve no es técnica, aunque parezca técnica. Es esta. Cuando dos concesiones tienen el mismo respaldo legal pero no hay agua para las dos, ¿quién decide y con qué criterio? El criterio que elegí entonces, y que sigo usando, es la antigüedad ponderada por uso continuado. No basta con ser el más antiguo. Hay que haber usado la concesión de forma ininterrumpida. Eso evita que alguien acumule derechos históricos sobre papel sin haber regado nunca un campo.
 
 —La antigüedad ponderada por uso continuado —repitió Rodrigo, más para sí que para ella—. Es un criterio elegante.
 
@@ -5566,7 +5446,7 @@ El presidente miró a Carlos.
 
 El presidente miró a los que habían votado. Luego miró la mesa.
 
-—Aprobado. —Hizo una pausa—. Y Carlos: si esto falla, no hay cobertura que aguante. Ni para ti ni para nadie en esta sala.
+—Aprobado. —Hizo una pausa—. Y Carlos, si esto falla, no hay cobertura que aguante. Ni para ti ni para nadie en esta sala.
 
 —Lo sé —dijo Carlos.
 
@@ -5818,7 +5698,7 @@ Valeria dejó la pantalla secundaria y se giró hacia la mesa.
 
 —¿Alguna anomalía en el contenido generado por inferencia?
 
-—Una en Juan. El motor ha añadido un detalle a la devolución del cargador que no estaba en el guion de Hugo: el olor del perfume de Ana. Lo ha inferido de un fragmento de memoria olfativa del propio Juan, que tiene indexados varios perfumes femeninos de situaciones sociales formales. Seleccionó uno y lo asoció al recuerdo del cruce.
+—Una en Juan. El motor ha añadido un detalle a la devolución del cargador que no estaba en el guion de Hugo. El olor del perfume de Ana. Lo ha inferido de un fragmento de memoria olfativa del propio Juan, que tiene indexados varios perfumes femeninos de situaciones sociales formales. Seleccionó uno y lo asoció al recuerdo del cruce.
 
 —¿Cuál?
 
@@ -5840,7 +5720,7 @@ Clara se quedó mirando la pantalla: calculaba las probabilidades de que una muj
 
 —Mejor dejarlo —dijo Antonio—. Si Ana lleva ese perfume, el recuerdo es más sólido. Si no, Juan recordará mal un detalle de una gala con doscientas personas, hace meses. Un cerebro normal recuerda con huecos y con detalles inventados sin saberlo. Si el sistema hace lo mismo, no es un fallo.
 
-—También hay una observación en Ana —siguió Sergio—. En la segunda ejecución el motor añadió una sensación de alivio leve al terminar la conversación con Juan. No estaba en el guion: es una respuesta emocional apropiada al perfil, alguien aliviado tras un intercambio social inesperado.
+—También hay una observación en Ana —siguió Sergio—. En la segunda ejecución el motor añadió una sensación de alivio leve al terminar la conversación con Juan. No estaba en el guion. Es una respuesta emocional apropiada al perfil, alguien aliviado tras un intercambio social inesperado.
 
 —¿Lo has marcado como anomalía? —preguntó Valeria.
 
@@ -5862,15 +5742,15 @@ Llevaba en el manual desde el diseño: doce puntos en tres bloques —integridad
 
 Valeria abrió el documento que ya tenía preparado en la tablet.
 
-—El P-3 se diseñó para un módulo compartido en configuración estándar. Lo que tenemos ahora es un canal camuflado dentro del firmware, dos sujetos con tejido real, y comportamientos que las simulaciones no anticiparon. Faltan tres cosas: verificar que el canal opera sin señal detectable desde el exterior, evaluar la activación espontánea fuera de perfil, y contemplar la reactividad vascular de Ana como variable activa.
+—El P-3 se diseñó para un módulo compartido en configuración estándar. Lo que tenemos ahora es un canal camuflado dentro del firmware, dos sujetos con tejido real, y comportamientos que las simulaciones no anticiparon. Faltan tres cosas. Verificar que el canal opera sin señal detectable desde el exterior, evaluar la activación espontánea fuera de perfil, y contemplar la reactividad vascular de Ana como variable activa.
 
 —Son cinco ítems nuevos —dijo Tomás, que ya los había contado.
 
-—Cinco. Van al final como bloque D: el protocolo pasa de doce a diecisiete puntos. A, B y C quedan sin tocar.
+—Cinco. Van al final como bloque D. El protocolo pasa de doce a diecisiete puntos. A, B y C quedan sin tocar.
 
 —¿Cuántos de los nuevos son bloqueantes? —preguntó Sergio.
 
-—Dos: el canal sin señal detectable, y la coherencia del entorno adaptativo bajo los nuevos patrones de inferencia. Los otros tres son observacionales.
+—Dos. El canal sin señal detectable, y la coherencia del entorno adaptativo bajo los nuevos patrones de inferencia. Los otros tres son observacionales.
 
 —¿Y la frecuencia de ejecución?
 
@@ -5938,7 +5818,7 @@ Tomás no respondió.
 
 —¿Estás bien?
 
-—Sí —dijo Tomás, sin inflexión, pero esta vez Sergio supo que era respuesta real, no evasión—. Solo que es distinto. Las simulaciones, el firmware, el canal: eran problemas técnicos, con solución o sin ella. Esta tarde vamos a despertar a alguien que hace semanas verbalizaba secuencias de cálculo mirando el techo sin saber dónde estaba. Y si algo falla, no hay vuelta atrás.
+—Sí —dijo Tomás, sin inflexión, pero esta vez Sergio supo que era respuesta real, no evasión—. Solo que es distinto. Las simulaciones, el firmware, el canal. Eran problemas técnicos, con solución o sin ella. Esta tarde vamos a despertar a alguien que hace semanas verbalizaba secuencias de cálculo mirando el techo sin saber dónde estaba. Y si algo falla, no hay vuelta atrás.
 
 —¿Crees que va a funcionar?
 
@@ -5986,15 +5866,15 @@ Cuando llegaron, Valeria ya estaba en la consola. Sergio encendió sus pantallas
 
 Los dos abrieron el P-3 modificado.
 
-—Bloque A. Punto uno. Impedancia de los electrodos dentro de rango. Referencia: entre dos y ocho kiloohmios.
+—Bloque A. Punto uno. Impedancia de los electrodos dentro de rango. Referencia, entre dos y ocho kiloohmios.
 
 —Doscientos cuarenta y seis electrodos en el Sujeto 1, doscientos cuarenta y ocho en el Sujeto 2 —dijo Sergio—. Todos dentro de rango. El más bajo, cinco coma dos; el más alto, seis coma ocho.
 
-—Anotado. Punto dos: continuidad de fijación del electrodo, sin variación respecto a la última neuronavegación.
+—Anotado. Punto dos. Continuidad de fijación del electrodo, sin variación respecto a la última neuronavegación.
 
 —Sin variación —confirmó Sergio—. Los dos puntos del borde de la malla siguen igual que el primer día.
 
-—Punto tres: generador piezoeléctrico, carga por encima del umbral en los dos sujetos.
+—Punto tres. Generador piezoeléctrico, carga por encima del umbral en los dos sujetos.
 
 —Por encima. El de Ana sube más despacio, pero sube.
 
@@ -6012,7 +5892,7 @@ El analizador de espectro tardó cuarenta segundos en barrer el rango completo. 
 
 —Sin señal detectable. El canal está dentro.
 
-—Anotado —dijo Tomás, con la voz otra vez normal—. Punto catorce: coherencia del entorno adaptativo bajo los nuevos patrones de inferencia. También bloqueante.
+—Anotado —dijo Tomás, con la voz otra vez normal—. Punto catorce. Coherencia del entorno adaptativo bajo los nuevos patrones de inferencia. También bloqueante.
 
 Ese fue el que más tardó. Sergio cruzó las curvas de indexación contra el modelo tres veces: Valeria había insistido en verificarlo más de una vez antes de cerrarlo.
 
@@ -6294,7 +6174,7 @@ Valeria se apartó de la cama y miró a Sergio.
 
 Sergio repasó la traza completa antes de responder.
 
-—Nada. Todo está donde el guion decía: la valoración, la caída, el nombre, la firma, Marta. En el orden correcto, con la urgencia correcta.
+—Nada. Todo está donde el guion decía. La valoración, la caída, el nombre, la firma, Marta. En el orden correcto, con la urgencia correcta.
 
 Antonio, desde la puerta, no había dicho nada. Cuando Valeria se giró hacia él, asintió una vez, sin acercarse más.
 
@@ -6368,7 +6248,7 @@ Marta recibió la llamada a las ocho, en su despacho vacío de Ferreira & Vidal,
 
 —¿Está bien? ¿Recuerda algo?
 
-—Lo esperado: su nombre, su trabajo. La memoria del incidente no ha vuelto, lo cual es habitual. No hay motivo de alarma.
+—Lo esperado. Su nombre, su trabajo. La memoria del incidente no ha vuelto, lo cual es habitual. No hay motivo de alarma.
 
 Marta colgó y miró la mesa vacía de Juan, después la carpeta con la versión cuatro del documento de la ABE que llevaba dos días esperando revisión. La dejó donde estaba.
 
@@ -6800,9 +6680,9 @@ Antonio se quedó con el teléfono en la mano, sin moverse. Carlos no había pre
 
 Hugo se reunió con Valeria al día siguiente.
 
-—Necesito que me confirmes algo —dijo—. El historial entregado a cada hospital no contempla el diagnóstico real. Si alguno preguntara por qué estaba siendo evaluado antes del accidente, no tengo respuesta preparada: cualquiera abriría más preguntas de las que cierra.
+—Necesito que me confirmes algo —dijo—. El historial entregado a cada hospital no contempla el diagnóstico real. Si alguno preguntara por qué estaba siendo evaluado antes del accidente, no tengo respuesta preparada. Cualquiera abriría más preguntas de las que cierra.
 
-—No va a preguntarlo —dijo Valeria—. Porque no lo tiene. El motor reconstruyó la carrera, las relaciones, el modo de pensar. Lo único que sustituyó del todo fue el tramo final, el que llevaba al ingreso. Ahí no hay hueco que rellenar: hay un recuerdo entero de una caída. No echan en falta nada porque no saben que falta algo.
+—No va a preguntarlo —dijo Valeria—. Porque no lo tiene. El motor reconstruyó la carrera, las relaciones, el modo de pensar. Lo único que sustituyó del todo fue el tramo final, el que llevaba al ingreso. Ahí no hay hueco que rellenar. Hay un recuerdo entero de una caída. No echan en falta nada porque no saben que falta algo.
 
 Hugo asintió, sin quedar del todo tranquilo.
 
@@ -6956,7 +6836,7 @@ Antonio entró en la sala de supervisión sin avisar.
 
 —¿Cómo va?
 
-—La rutina de las diez no trajo nada —dijo Tomás—. A las diez y veinte saltó una alarma: una laguna de cinco segundos, resuelta sola, sin que nadie en el despacho la notara.
+—La rutina de las diez no trajo nada —dijo Tomás—. A las diez y veinte saltó una alarma. Una laguna de cinco segundos, resuelta sola, sin que nadie en el despacho la notara.
 
 —¿Qué tipo de laguna?
 
@@ -7248,7 +7128,7 @@ Veinticinco segundos.
 
 Cinco segundos de silencio. Luego, en el registro de indexación, algo cambió.
 
-—Está recuperando fragmentos —dijo Sergio—. Varios a la vez. Sentencias del Tribunal Supremo, por orden cronológico: el método que ella describe en sus páginas para construir el marco jurídico antes del coeficiente.
+—Está recuperando fragmentos —dijo Sergio—. Varios a la vez. Sentencias del Tribunal Supremo, por orden cronológico. El método que ella describe en sus páginas para construir el marco jurídico antes del coeficiente.
 
 —¿Cuántas?
 
@@ -7280,7 +7160,7 @@ La pantalla volvió a quedarse en espera. La transmisión de emergencia se habí
 
 Antes de cerrar la sala, Tomás volvió a mirar la traza de los treinta y dos segundos.
 
-—Lo que más me inquieta no es la duración —dijo—. Es que reconstruyó el camino completo. No encontró un atajo: hizo lo mismo que ella habría hecho con la cabeza sana, paso por paso, con la seguridad de quien sabe que es así como se hace.
+—Lo que más me inquieta no es la duración —dijo—. Es que reconstruyó el camino completo. No encontró un atajo. Hizo lo mismo que ella habría hecho con la cabeza sana, paso por paso, con la seguridad de quien sabe que es así como se hace.
 
 —Es así como se hace —dijo Sergio—. Está en sus propios fragmentos. El sistema no inventó el método. Lo encontró donde ya estaba.
 
@@ -7632,11 +7512,11 @@ Capítulo 37
 
 Sergio no se sentó cuando empezó a hablar. Permaneció junto a la pantalla apagada, como si necesitara el espacio entero de la sala.
 
-—Ahora mismo Juan y Ana son dos sistemas aislados —dijo—. Cada implante resuelve sus huecos con su propio sustrato. Cuando algo falla, como falló con la variable ochenta y siete, el motor RAG de Ana solo tiene un sitio donde buscar: lo que queda de su cerebro. Si no está ahí, no está en ningún sitio. Treinta y dos segundos es lo que tarda en darse cuenta de que tiene que reconstruir el camino entero desde cero, sin ayuda de nadie.
+—Ahora mismo Juan y Ana son dos sistemas aislados —dijo—. Cada implante resuelve sus huecos con su propio sustrato. Cuando algo falla, como falló con la variable ochenta y siete, el motor RAG de Ana solo tiene un sitio donde buscar. Lo que queda de su cerebro. Si no está ahí, no está en ningún sitio. Treinta y dos segundos es lo que tarda en darse cuenta de que tiene que reconstruir el camino entero desde cero, sin ayuda de nadie.
 
 —¿Y la alternativa? —preguntó Antonio.
 
-—Conectar los dos sustratos de forma permanente —dijo Sergio—. No la sincronización puntual que ya tenemos con la planta: hablo del canal entre los dos implantes, el que dejamos reducido a un hilo por orden del ministro.
+—Conectar los dos sustratos de forma permanente —dijo Sergio—. No la sincronización puntual que ya tenemos con la planta. Hablo del canal entre los dos implantes, el que dejamos reducido a un hilo por orden del ministro.
 
 Hubo un silencio.
 
@@ -7652,7 +7532,7 @@ Tomás y Sergio se miraron antes de responder.
 
 —¿Con qué datos, exactamente? —preguntó Valeria.
 
-—Tomamos el acoplamiento theta-gamma de los dos durante sus bloqueos —dijo Tomás—. Simulamos qué habría pasado si el sistema hubiera podido consultar el patrón del otro en el mismo instante, en vez de buscar a tientas en solitario. No es magia: es indexación cruzada, con menos pasos entre pregunta y respuesta.
+—Tomamos el acoplamiento theta-gamma de los dos durante sus bloqueos —dijo Tomás—. Simulamos qué habría pasado si el sistema hubiera podido consultar el patrón del otro en el mismo instante, en vez de buscar a tientas en solitario. No es magia. Es indexación cruzada, con menos pasos entre pregunta y respuesta.
 
 —¿Probablemente?
 
@@ -7662,11 +7542,11 @@ Antonio se quedó mirando la pantalla apagada.
 
 —¿Riesgos? —preguntó, al fin.
 
-—Los mismos que ya tenía el canal antes de que el ministro pidiera reducirlo —dijo Tomás—. Solo que con más ancho de banda: lo que era un riesgo teórico mínimo podría dejar de serlo.
+—Los mismos que ya tenía el canal antes de que el ministro pidiera reducirlo —dijo Tomás—. Solo que con más ancho de banda. Lo que era un riesgo teórico mínimo podría dejar de serlo.
 
 —¿Qué riesgo? —preguntó Valeria.
 
-—El que dijo el ministro —dijo Sergio—. No sabemos qué pasa cuando dos sistemas diseñados para ser independientes empiezan a depender constantemente el uno del otro. Solo sabemos lo visto hasta ahora: ecos, picos sincronizados, sin problema clínico observable. Pero eso era con un hilo. Esto sería con una autopista.
+—El que dijo el ministro —dijo Sergio—. No sabemos qué pasa cuando dos sistemas diseñados para ser independientes empiezan a depender constantemente el uno del otro. Solo sabemos lo visto hasta ahora. Ecos, picos sincronizados, sin problema clínico observable. Pero eso era con un hilo. Esto sería con una autopista.
 
 —¿Y si decimos que no?
 
@@ -7714,7 +7594,7 @@ Sergio tardó en responder.
 
 —También es verdad —dijo Sergio—. Treinta y dos segundos es demasiado. La próxima vez podría no resolverse sola, y entonces ya no hablaríamos de un modelo.
 
-—Las dos cosas pueden ser ciertas a la vez —dijo Tomás, al fin—. Eso es lo que más me inquieta: que no hace falta mentir en ningún punto para llegar justo a donde queríamos llegar.
+—Las dos cosas pueden ser ciertas a la vez —dijo Tomás, al fin—. Eso es lo que más me inquieta, que no hace falta mentir en ningún punto para llegar justo a donde queríamos llegar.
 
 * * *
 
@@ -7724,7 +7604,7 @@ Hugo recibió la llamada de Antonio.
 
 —No lo reabrimos —dijo Antonio—. Lo ampliamos con un propósito clínico nuevo. La nota de Carlos hablaba de un canal sin función real. Este la tiene.
 
-—Eso es una distinción legal, no real —dijo Hugo—. Si alguien lee las dos notas juntas, la mía y la de Carlos, verá lo mismo que veo yo: que decidimos que la palabra correcta importaba más que el hecho que describía.
+—Eso es una distinción legal, no real —dijo Hugo—. Si alguien lee las dos notas juntas, la mía y la de Carlos, verá lo mismo que veo yo, que decidimos que la palabra correcta importaba más que el hecho que describía.
 
 —¿Vas a escribir la nota o no?
 
@@ -8332,7 +8212,7 @@ Ana lo leyó completo, como todo desde que había vuelto.
 
 —¿El caudal? —preguntó Rodrigo—. Está dentro de los márgenes...
 
-—No el caudal. La exposición pública. El expediente dice treinta días, del cuatro al tres del mes siguiente. Pero el cuatro fue domingo: el plazo legal no puede empezar a contar en día no hábil. Si alguien lo impugna, la concesión cae por defecto de forma.
+—No el caudal. La exposición pública. El expediente dice treinta días, del cuatro al tres del mes siguiente. Pero el cuatro fue domingo. El plazo legal no puede empezar a contar en día no hábil. Si alguien lo impugna, la concesión cae por defecto de forma.
 
 Rodrigo revisó las fechas. Tenía razón, y no en el caudal, sino en algo que no tenía nada que ver con el caudal.
 
@@ -8382,7 +8262,7 @@ Tres fragmentos. Dos detectados por quien los recibía, sin saber que detectaba 
 
 —Si hay tres que hemos encontrado buscando a propósito —dijo Tomás—, ¿cuántos más no hemos encontrado?
 
-—No lo sé. El primero no generó alarma porque no fue un bloqueo, sino lo contrario: una respuesta perfecta, sin coste de tiempo. El sistema no está diseñado para sospechar de las respuestas que llegan demasiado bien.
+—No lo sé. El primero no generó alarma porque no fue un bloqueo, sino lo contrario. Una respuesta perfecta, sin coste de tiempo. El sistema no está diseñado para sospechar de las respuestas que llegan demasiado bien.
 
 —Eso es peor que lo que pensaba hace cinco minutos —dijo Tomás, casi para sí mismo—. Si el sistema puede clasificar esto como suyo sin que nadie lo note nunca, ¿cómo sabemos que estos tres son los únicos?
 
@@ -8736,7 +8616,7 @@ Tomás se quedó mientras Sergio terminaba la lista. Repasaron juntos algunos de
 
 —¿De dónde sacaste el método?
 
-—De ecología. Sirve para estimar cuántas especies hay en un ecosistema sin haberlas visto todas: cuantas más muestras sin encontrar nada nuevo, más cerca del total real. Nunca pensé que lo aplicaría a esto.
+—De ecología. Sirve para estimar cuántas especies hay en un ecosistema sin haberlas visto todas. Cuantas más muestras sin encontrar nada nuevo, más cerca del total real. Nunca pensé que lo aplicaría a esto.
 
 —¿Y bien?
 
@@ -9084,7 +8964,7 @@ Sergio no respondió enseguida.
 
 Sergio lo miró. Tomás seguía con los ojos en la pantalla del Sujeto 3.
 
-—Que lo que hubiera quedado de ella en ese sistema —dijo, despacio, midiendo cada palabra— no sería lo que ella es. Sería lo que ella sabía. Y eso ya no estaría en ella: estaría en Juan y en Ana, distribuido, sin nombre, sin que ninguno sepa que lo tiene. Lo que hay en esa cama seguiría siendo Raquel Sanz. Lo otro, si existe de verdad, sería algo aparte.
+—Que lo que hubiera quedado de ella en ese sistema —dijo, despacio, midiendo cada palabra— no sería lo que ella es. Sería lo que ella sabía. Y eso ya no estaría en ella. Estaría en Juan y en Ana, distribuido, sin nombre, sin que ninguno sepa que lo tiene. Lo que hay en esa cama seguiría siendo Raquel Sanz. Lo otro, si existe de verdad, sería algo aparte.
 
 Sergio no dijo nada.
 
@@ -9102,11 +8982,11 @@ Se quedaron en silencio un momento. La línea del Sujeto 3 no varió.
 
 —¿Cuándo?
 
-—Cuando el soporte biológico deje de funcionar. La memoria biológica no sobrevive al sustrato. Es la diferencia con lo que hemos indexado nosotros: eso no necesita el cuerpo de origen para existir. Lo que sigue en el tejido, sí.
+—Cuando el soporte biológico deje de funcionar. La memoria biológica no sobrevive al sustrato. Es la diferencia con lo que hemos indexado nosotros. Eso no necesita el cuerpo de origen para existir. Lo que sigue en el tejido, sí.
 
 —¿Y lo del servidor?
 
-—No depende de nada biológico —dijo Sergio—. Puede degradarse si hay un fallo técnico, si alguien borra el archivo, si falta mantenimiento. Pero no se degrada solo. Un recuerdo biológico se degrada aunque la persona esté sana, aunque nadie haga nada: el tejido que lo sostiene va muriendo de todas formas. No hace falta enfermedad. Solo tiempo.
+—No depende de nada biológico —dijo Sergio—. Puede degradarse si hay un fallo técnico, si alguien borra el archivo, si falta mantenimiento. Pero no se degrada solo. Un recuerdo biológico se degrada aunque la persona esté sana, aunque nadie haga nada. El tejido que lo sostiene va muriendo de todas formas. No hace falta enfermedad. Solo tiempo.
 
 Tomás asintió despacio, como si Sergio hubiera dicho en voz alta algo que él ya sabía pero necesitaba oír.
 
@@ -9144,7 +9024,7 @@ Sergio tardó en responder.
 
 Valeria entró en ese momento. Había oído lo último desde el pasillo y se quedó en la puerta un segundo antes de entrar del todo.
 
-—No se lo dijo nadie —dijo—. No por falta de tiempo. Porque en el estadio en que estaba cuando ingresó, la información no habría llegado a ningún sitio donde pudiera procesarse como tal. —Una pausa—. Lo que quedaba de Raquel cuando empezamos este proyecto era exactamente lo que describe el informe: el procedimiento, el reflejo, la capacidad de operar sobre estructuras sin necesitar saber que era ella quien operaba. Si esto que vemos en Juan y Ana tiene esa misma forma, no es una casualidad menor. Tampoco es una prueba. Es, otra vez, la explicación que no nos obliga a inventar nada nuevo. Pero la persona que podría haber escuchado esto y decidido algo ya no estaba, fuera lo que fuera lo que pasó después.
+—No se lo dijo nadie —dijo—. No por falta de tiempo. Porque en el estadio en que estaba cuando ingresó, la información no habría llegado a ningún sitio donde pudiera procesarse como tal. —Una pausa—. Lo que quedaba de Raquel cuando empezamos este proyecto era exactamente lo que describe el informe. El procedimiento, el reflejo, la capacidad de operar sobre estructuras sin necesitar saber que era ella quien operaba. Si esto que vemos en Juan y Ana tiene esa misma forma, no es una casualidad menor. Tampoco es una prueba. Es, otra vez, la explicación que no nos obliga a inventar nada nuevo. Pero la persona que podría haber escuchado esto y decidido algo ya no estaba, fuera lo que fuera lo que pasó después.
 
 —¿Eso lo hace mejor o peor? —preguntó Tomás.
 
@@ -9154,7 +9034,7 @@ Se quedaron los tres en silencio. La pantalla del Sujeto 3 mostraba los mismos n
 
 —¿Cuánto crees que queda? —preguntó Tomás, sin especificar de qué.
 
-—De los tres tipos que no hemos visto: no lo sé. Pueden aparecer mañana o nunca. La curva da un margen, no una fecha.
+—De los tres tipos que no hemos visto, no lo sé. Pueden aparecer mañana o nunca. La curva da un margen, no una fecha.
 
 —Y de lo otro —dijo Tomás, señalando la pantalla sin nombrarlo.
 
@@ -9168,11 +9048,11 @@ Tomás la leyó por encima de su hombro.
 
 —¿Ya no hay ventanas?
 
-—Ninguna —dijo Sergio—. Ni activación por evento, ni reconexión tras bloqueo, ni nada que dependa de que uno necesite al otro en un momento concreto. El acoplamiento está abierto todo el tiempo. Coherencia de Juan, de Ana, acoplamiento cruzado: las tres líneas se mueven juntas desde hace tiempo. Día y noche, trabajo y sueño.
+—Ninguna —dijo Sergio—. Ni activación por evento, ni reconexión tras bloqueo, ni nada que dependa de que uno necesite al otro en un momento concreto. El acoplamiento está abierto todo el tiempo. Coherencia de Juan, de Ana, acoplamiento cruzado. Las tres líneas se mueven juntas desde hace tiempo. Día y noche, trabajo y sueño.
 
 —¿Y las discontinuidades de al principio? ¿Las caídas al despertar?
 
-—Resueltas. Era un problema de fase, no de canal: el acoplamiento se perdía cuando uno salía de sueño profundo y el sistema tardaba segundos en recuperar la referencia del otro. Recalibramos la resincronización dentro del mismo firmware. No hizo falta nada nuevo. Desde entonces, cero discontinuidades.
+—Resueltas. Era un problema de fase, no de canal. El acoplamiento se perdía cuando uno salía de sueño profundo y el sistema tardaba segundos en recuperar la referencia del otro. Recalibramos la resincronización dentro del mismo firmware. No hizo falta nada nuevo. Desde entonces, cero discontinuidades.
 
 Tomás se quedó mirando la pantalla, donde las tres líneas —setenta y nueve, ochenta y uno, y la del acoplamiento cruzado, que ya no bajaba de noventa— avanzaban juntas sin ningún hueco.
 
@@ -9538,7 +9418,7 @@ Eran cinco: Antonio, Valeria, Tomás, Sergio, Clara. Hugo llegaría después, cu
 
 Antonio asintió.
 
-—Entonces lo digo aquí antes que en ningún informe: esta fase se cierra. La que vigilaba tres sujetos despertando a la vez, una transferencia activa, un equipo entero pendiente de tres pantallas día y noche. Terminó. Lo que viene es mantenimiento, y el mantenimiento no necesita un equipo de este tamaño ni especialización.
+—Entonces lo digo aquí antes que en ningún informe. Esta fase se cierra. La que vigilaba tres sujetos despertando a la vez, una transferencia activa, un equipo entero pendiente de tres pantallas día y noche. Terminó. Lo que viene es mantenimiento, y el mantenimiento no necesita un equipo de este tamaño ni especialización.
 
 Nadie dijo nada durante un momento.
 
@@ -9560,7 +9440,7 @@ Clara asintió y no preguntó más.
 
 —¿Y la carpeta de los ecos? —preguntó Tomás.
 
-—Cerrada —dijo Sergio—. Lo que había dentro ya tiene explicación, aunque no prueba: los once tipos, la curva, el patrón que coincide con el canal del Sujeto 3. No queda ningún eco sin catalogar, ni carpeta sin nombre en ningún disco de la planta.
+—Cerrada —dijo Sergio—. Lo que había dentro ya tiene explicación, aunque no prueba. Los once tipos, la curva, el patrón que coincide con el canal del Sujeto 3. No queda ningún eco sin catalogar, ni carpeta sin nombre en ningún disco de la planta.
 
 —Y los dos siguen en sus puestos —dijo Antonio—. Juan, rindiendo a un nivel que su departamento jurídico no sabe explicar. Ana, sin incidencia desde que volvió. Ninguna llamada, ningún periodista, ninguna pregunta incómoda desde ninguna de las dos oficinas. —Una pausa—. De los tres expedientes con los que empezamos hace catorce meses, dos están cerrados con reincorporación plena. El tercero se cerró hace una semana, por cese biológico.
 
@@ -9872,7 +9752,7 @@ El taxi para. Pago. Subo al despacho.
 
 Marta me intercepta en el pasillo. Lleva una carpeta bajo el brazo.
 
-—Aurelio ha llamado agradeciendo la reunión —dice—. Y me ha dicho algo más: que resolviste lo de Eriksson en una tarde, cuando el resto de la operación llevaba semanas cerrada en apariencia. Se lo tomó como una suerte. Yo no estoy tan segura de que sea suerte.
+—Aurelio ha llamado agradeciendo la reunión —dice—. Y me ha dicho algo más, que resolviste lo de Eriksson en una tarde, cuando el resto de la operación llevaba semanas cerrada en apariencia. Se lo tomó como una suerte. Yo no estoy tan segura de que sea suerte.
 
 —¿En qué sentido? —pregunto.
 
@@ -9956,7 +9836,7 @@ Llamo a Rodrigo.
 
 * * *
 
-—Necesito el histórico de solicitudes de cambio de aprovechamiento hídrico de secano a regadío en toda España en los últimos quince años —le digo cuando entra—. Y necesito cruzarlo con el registro de licencias de campos de golf concedidas en el mismo periodo. Quiero ver si hay coincidencias: concesiones de agua para uso agrícola en parcelas que total o parcialmente coincidan en el Catastro con terrenos donde después se concedió licencia de campo de golf.
+—Necesito el histórico de solicitudes de cambio de aprovechamiento hídrico de secano a regadío en toda España en los últimos quince años —le digo cuando entra—. Y necesito cruzarlo con el registro de licencias de campos de golf concedidas en el mismo periodo. Quiero ver si hay coincidencias. Concesiones de agua para uso agrícola en parcelas que total o parcialmente coincidan en el Catastro con terrenos donde después se concedió licencia de campo de golf.
 
 Rodrigo levanta la vista del bloc.
 
@@ -11338,7 +11218,7 @@ Antonio considera esto.
 
 —¿Cuántos?
 
-—Cuatro. En dos pares. El acoplamiento funciona en par: Juan y Ana lo han demostrado. Lo que no sabemos todavía es si escala, si el fenómeno se reproduce con perfiles distintos y en condiciones distintas. Para saberlo necesitamos dos pares más, con suficiente distancia entre ellos para que los resultados no se contaminen.
+—Cuatro. En dos pares. El acoplamiento funciona en par. Juan y Ana lo han demostrado. Lo que no sabemos todavía es si escala, si el fenómeno se reproduce con perfiles distintos y en condiciones distintas. Para saberlo necesitamos dos pares más, con suficiente distancia entre ellos para que los resultados no se contaminen.
 
 —¿Mismo perfil de sujeto?
 
@@ -11374,7 +11254,7 @@ Marca el número de Carlos antes de recoger los palos.
 
 —Dime.
 
-—Dos sujetos no son una muestra. Son un caso. Para consolidar el protocolo antes de escalarlo, necesito repetirlo en condiciones controladas. Dos parejas más. Mismo perfil clínico que Juan y Ana: deterioro neurodegenerativo avanzado, sin apoyo familiar efectivo, conocimiento de interés estratégico para el país.
+—Dos sujetos no son una muestra. Son un caso. Para consolidar el protocolo antes de escalarlo, necesito repetirlo en condiciones controladas. Dos parejas más. Mismo perfil clínico que Juan y Ana. Deterioro neurodegenerativo avanzado, sin apoyo familiar efectivo, conocimiento de interés estratégico para el país.
 
 Hay un silencio al otro lado.
 
