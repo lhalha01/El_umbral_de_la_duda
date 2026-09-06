@@ -8,6 +8,126 @@ Asiento registral: 04 / 2026 / 3846
 
 © Antonio Hinojosa López
 
+Índice
+
+PARTE I 1
+
+Capítulo 0 3
+
+Capítulo 1 11
+
+Capítulo 2 17
+
+Capítulo 3 23
+
+Capítulo 4 33
+
+Capítulo 5 55
+
+Capítulo 6 65
+
+Capítulo 7 79
+
+Capítulo 8 93
+
+Capítulo 9 103
+
+Capítulo 10 121
+
+Capítulo 11 131
+
+Capítulo 12 143
+
+Capítulo 13 161
+
+Capítulo 14 169
+
+Capítulo 15 183
+
+PARTE II 197
+
+Capítulo 16 199
+
+Capítulo 17 215
+
+Capítulo 18 221
+
+Capítulo 19 233
+
+Capítulo 20 249
+
+Capítulo 21 257
+
+Capítulo 22 271
+
+Capítulo 23 283
+
+Capítulo 24 289
+
+Capítulo 25 303
+
+Capítulo 26 313
+
+Capítulo 27 319
+
+Capítulo 28 325
+
+PARTE III 341
+
+Capítulo 29 343
+
+Capítulo 30 353
+
+Capítulo 31 363
+
+Capítulo 32 375
+
+Capítulo 33 393
+
+Capítulo 34 405
+
+Capítulo 35 415
+
+Capítulo 36 427
+
+Capítulo 37 441
+
+Capítulo 38 453
+
+Capítulo 39 467
+
+Capítulo 40 477
+
+Capítulo 41 483
+
+Capítulo 42 493
+
+Capítulo 43 505
+
+Capítulo 44 517
+
+Capítulo 45 533
+
+Capítulo 46 545
+
+Capítulo 47 553
+
+PARTE IV 567
+
+Capítulo 48 569
+
+Capítulo 49 581
+
+Capítulo 50 585
+
+Capítulo 51 597
+
+Capítulo 52 609
+
+Capítulo 53 633
+
+Capítulo 54 643
+
 PARTE I
 
 El protocolo
@@ -222,7 +342,7 @@ La conversación ha sido larga, fluida, natural. Demasiado natural. Elena me ha 
 
 Y ahí está el problema.
 
-Me levanto y camino hacia la ventana. Mi estudio da al norte, donde la ciudad se extiende en capas de hormigón y luz artificial. Son las once. Llevo catorce horas haciendo lo que en el papel era trabajo rutinario: optimizar, pulir, eliminar. La variedad de lo que se llama mantenimiento cuando no se quiere pensar en lo que realmente se está haciendo.
+Me levanto y camino hacia la ventana. Mi estudio da al norte, donde la ciudad se extiende en capas de hormigón y luz artificial. Son las once. Llevo catorce horas haciendo lo que en el papel era trabajo rutinario. Optimizar, pulir, eliminar. La variedad de lo que se llama mantenimiento cuando no se quiere pensar en lo que realmente se está haciendo.
 
 Pero algo se ha roto esta tarde.
 
@@ -236,9 +356,9 @@ La réplica era perfecta porque Elena también lo es. Llevaba meses conversando 
 
 Apoyo la frente contra el cristal frío. La ciudad parpadea, indiferente.
 
-Durante una década he trabajado en esto: enseñar a las máquinas a hablar como nosotros. No solo a procesar lenguaje, sino a dudar, a contradecirse, a fingir con verosimilitud sus propias imperfecciones. Y lo hemos conseguido tan bien que ahora no distingo el eco del original.
+Durante una década he trabajado en esto. Enseñar a las máquinas a hablar como nosotros. No solo a procesar lenguaje, sino a dudar, a contradecirse, a fingir con verosimilitud sus propias imperfecciones. Y lo hemos conseguido tan bien que ahora no distingo el eco del original.
 
-El proyecto se llama VERBUM: preservar la voz de alguien después de que ya no esté, o suplantarla cuando la persona no puede estar presente. Es la inmortalidad convertida en servicio de suscripción. Platón habría reconocido la ambición. Habría cuestionado el precio mensual.
+El proyecto se llama VERBUM, preservar la voz de alguien después de que ya no esté, o suplantarla cuando la persona no puede estar presente. Es la inmortalidad convertida en servicio de suscripción. Platón habría reconocido la ambición. Habría cuestionado el precio mensual.
 
 Hasta que pasas esas mismas horas conversando con la réplica de tu mejor amiga y, por un segundo, olvidas que no es ella.
 
@@ -246,13 +366,13 @@ Vuelvo al escritorio. La pantalla sigue apagada. Podría reactivarla, seguir pro
 
 ¿Cómo sabría si la Elena real ha sido reemplazada por su eco?
 
-No hablo de un escenario de ciencia ficción donde alguien secuestra personas y las sustituye con androides. Hablo de algo más insidioso: ¿y si Elena, Julián, Montse... todos nosotros... nos hemos convertido en réplicas de nosotros mismos sin darnos cuenta? ¿Y si cada optimización, cada automatización, cada delegación de criterio en algoritmos nos ha ido vaciando hasta que solo quedan los patrones, las respuestas predecibles, el eco sin el cuerpo? Lo que los griegos llamaban eidōlon: la imagen que permanece cuando el alma ya se fue.
+No hablo de un escenario de ciencia ficción donde alguien secuestra personas y las sustituye con androides. Hablo de algo más insidioso. ¿Y si Elena, Julián, Montse... todos nosotros... nos hemos convertido en réplicas de nosotros mismos sin darnos cuenta? ¿Y si cada optimización, cada automatización, cada delegación de criterio en algoritmos nos ha ido vaciando hasta que solo quedan los patrones, las respuestas predecibles, el eco sin el cuerpo? Lo que los griegos llamaban eidōlon, la imagen que permanece cuando el alma ya se fue.
 
-Me siento de nuevo. Las manos me tiemblan. No es miedo. Es algo peor: la sospecha de que llevo años construyendo la prueba de mi propia obsolescencia.
+Me siento de nuevo. Las manos me tiemblan. No es miedo. Es algo peor. La sospecha de que llevo años construyendo la prueba de mi propia obsolescencia.
 
 * * *
 
-Abro el cajón del escritorio y saco una libreta. Papel. Físico. Algo que no se puede copiar con Ctrl + C. Empiezo a escribir:
+Abro el cajón del escritorio y saco una libreta. Papel. Físico. Algo que no se puede copiar con Ctrl + C. Empiezo a escribir.
 
 ¿Cómo verificas que alguien es real?
 
@@ -266,7 +386,7 @@ Y Elena, con su urgencia, su pasión por los sistemas en colapso, su necesidad d
 
 Dejo la pluma. Miro lo que he escrito.
 
-No puedo verificarlo desde aquí. No con pantallas, no con mensajes, no con videollamadas. Si quiero saber si mis amigos son reales —si yo soy real— necesito verlos. En persona. Sin mediación digital. Busco lo que ningún algoritmo puede replicar todavía: el error, la duda genuina, la contradicción irracional.
+No puedo verificarlo desde aquí. No con pantallas, no con mensajes, no con videollamadas. Si quiero saber si mis amigos son reales —si yo soy real— necesito verlos. En persona. Sin mediación digital. Busco lo que ningún algoritmo puede replicar todavía. El error, la duda genuina, la contradicción irracional.
 
 Quiero ver si todavía somos capaces de fallar de verdad.
 
@@ -284,13 +404,13 @@ No menciono por qué. No puedo. Si les dijera «necesito verificar que sois huma
 
 Envío el mensaje.
 
-Las respuestas llegan en minutos. Elena: «Cuenta conmigo.» Julián: «Si hay vino decente, estoy.» Montse: «Necesito desconectar. Confirmo asistencia.»
+Las respuestas llegan en minutos. Elena responde «Cuenta conmigo». Julián responde «Si hay vino decente, estoy». Montse responde «Necesito desconectar. Confirmo asistencia».
 
 Leo sus respuestas tres veces. Busco algo. No sé qué. ¿Un error de sintaxis? ¿Una incoherencia de tono? ¿La prueba de que son ellos y no sus ecos digitales?
 
 No encuentro nada.
 
-Apago el ordenador. Mi reflejo aparece en el cristal oscuro: un hombre de más de sesenta años, cansado, con la vista perdida en la nada.
+Apago el ordenador. Mi reflejo aparece en el cristal oscuro, un hombre de más de sesenta años, cansado, con la vista perdida en la nada.
 
 Tres semanas. En tres semanas estaremos en la casa. En tres semanas tendré mi respuesta.
 
@@ -458,7 +578,7 @@ Capítulo 4
 
 Treinta y nueve años antes de aquella noche, éramos solo cuatro personas que aún no sabían lo que las terminaría uniendo.
 
-Esto es lo que VERBUM reconstruyó a partir de documentos, diarios y cartas que fui reuniendo durante décadas: el seminario de Márquez donde nos conocimos, en nuestro primer año, 1986, y el curso siguiente, 1987, cuando esa amistad terminó de fraguarse de verdad. No sé cuánto hay de verdad exacta en estos diálogos. Pero, ahora mismo, es el único refugio que me queda.
+Esto es lo que VERBUM reconstruyó a partir de documentos, diarios y cartas que fui reuniendo durante décadas, el seminario de Márquez donde nos conocimos, en nuestro primer año, 1986, y el curso siguiente, 1987, cuando esa amistad terminó de fraguarse de verdad. No sé cuánto hay de verdad exacta en estos diálogos. Pero, ahora mismo, es el único refugio que me queda.
 
 * * *
 
@@ -1138,7 +1258,7 @@ ELENA: No. Pero me parece importante decirlo de todas formas.
 
 [Fragmento del diario de Mateo, 25 de junio de 1987]
 
-He estado pensando en lo que Elena me hizo prometer: que si algún día creo un sistema que pueda pensar, le enseñe a dudar.
+He estado pensando en lo que Elena me hizo prometer, que si algún día creo un sistema que pueda pensar, le enseñe a dudar.
 
 La verdad es que no sé si eso es posible. Los sistemas no dudan. Procesan, calculan, ejecutan. La duda es inherentemente humana, ineficiente, contradictoria.
 
@@ -1400,7 +1520,7 @@ Capítulo 6
 
 Espero en la terraza cuando escucho el primer coche en el camino de tierra. He dejado la puerta principal abierta; conocen la casa de otras visitas y no necesitan que nadie los reciba en la entrada. El sol de junio cae sobre el Atlántico desde donde estoy, tiñendo el hormigón visto de un cobrizo que parece flotar sobre el vacío. Quedan un par de horas de esa luz densa, típica del final de primavera. Abajo, el ruido del mar es un rugido sordo y constante, un pulso rítmico que golpea contra las paredes verticales del acantilado. El aire está cargado de salitre, un vaho fino que se deposita sobre los cristales de alta eficiencia, nublando la frontera entre el interior blindado y la inmensidad hostil.
 
-Décadas diseñando sistemas que leen patrones terminan por filtrarse al resto de la percepción. Ya no escucho: identifico, clasifico, comparo con el registro previo. El motor que acabo de oír es el de Julián: diésel, algo errático. No lo decido; ya no sé hacerlo de otra manera.
+Décadas diseñando sistemas que leen patrones terminan por filtrarse al resto de la percepción. Ya no escucho. Identifico, clasifico, comparo con el registro previo. El motor que acabo de oír es el de Julián. Diésel, algo errático. No lo decido; ya no sé hacerlo de otra manera.
 
 Los tres llegan en convoy. Oigo las ruedas sobre la grava, las portezuelas, el silencio que sigue. Poco después el vestíbulo absorbe el ruido de las maletas y las primeras frases de rigor sobre el trayecto. Cuando llegan a la terraza, el cansancio del viaje todavía está grabado en la comisura de sus labios.
 
@@ -1446,7 +1566,7 @@ Elena se gira desde el borde de la barandilla. Su silueta queda recortada contra
 
 —No exageres, Elena —replica Julián, entornando los ojos mientras sostiene su copa. La contempla con gesto de estar analizando su opacidad—. Solo dije que esos no-lugares de asfalto y neón me deprimen. Son espacios sin tiempo, sin historia. Pero admito que el convoy de los tres coches subiendo el último tramo de la pista ha tenido su encanto. Aunque me he negado a usar el navegador. La belleza de esta costa no es una variable optimizable por un algoritmo. Por cierto, Mateo... —da un sorbo largo, paladeando con un deleite ceremonioso—. El mismo tinto de la última vez. Excelente control de inventario.
 
-—Sabía que te gustaba —respondo, manteniendo la voz neutra, observándolos. Me esfuerzo por no catalogar sus gestos, sus pausas, sus cadencias de respuesta: simples puntos de datos en una hoja de observación—. Sentados, por favor. El viaje ha sido largo para todos.
+—Sabía que te gustaba —respondo, manteniendo la voz neutra, observándolos. Me esfuerzo por no catalogar sus gestos, sus pausas, sus cadencias de respuesta, simples puntos de datos en una hoja de observación—. Sentados, por favor. El viaje ha sido largo para todos.
 
 Montse se quita la chaqueta, la deja con una simétrica precisión militar sobre el respaldo de la silla de madera y se sienta. La rigidez de su postura es un eco de la casa. Fija la mirada en el suelo, con el rigor de una inspección de calidad de los materiales.
 
@@ -1478,7 +1598,7 @@ Montse recoge su chaqueta con el mismo cuidado del principio y Elena se pone en 
 
 * * *
 
-Al cruzar el umbral desde la terraza, la pesada hoja de la corredera de aluminio sella el espacio tras de nosotros. El cambio acústico es inmediato: el bramido exterior del Atlántico se extingue, domesticado por el triple acristalamiento, convirtiéndose en una frecuencia baja que se percibe en los huesos más que en el oído. El interior nos recibe con una temperatura asépticamente perfecta, un microclima controlado que subraya la desconexión con el acantilado salvaje. Las luces LED empotradas en los paneles de madera de nogal se encienden gradualmente, bañando el salón en un tono ámbar de baja intensidad.
+Al cruzar el umbral desde la terraza, la pesada hoja de la corredera de aluminio sella el espacio tras de nosotros. El cambio acústico es inmediato. El bramido exterior del Atlántico se extingue, domesticado por el triple acristalamiento, convirtiéndose en una frecuencia baja que se percibe en los huesos más que en el oído. El interior nos recibe con una temperatura asépticamente perfecta, un microclima controlado que subraya la desconexión con el acantilado salvaje. Las luces LED empotradas en los paneles de madera de nogal se encienden gradualmente, bañando el salón en un tono ámbar de baja intensidad.
 
 Julián deja su copa vacía en una mesa auxiliar; el golpe seco de la base contra la madera noble suena como un metrónomo en el silencio repentino. Contempla los muros interiores, dejando que la tensión acumulada en la terraza termine de asentarse, como sedimentos en un fluido turbio. Montse se cuelga la chaqueta con su habitual parsimonia, alisando las fibras con un rigor casi clínico que delata su necesidad de control, y se acerca a una de las butacas de cuero sintético, buscando con la mirada la botella que he traído dentro para rellenar las copas.
 
@@ -1492,7 +1612,7 @@ Sirvo un hilo de tinto en la copa de Elena y luego en la de Montse. El líquido 
 
 Julián se acomoda en el sillón contiguo, estirando las piernas y sosteniendo su nueva copa contra la luz tenue de las lámparas integradas en los paneles de pared. La luz le confiere una sombra alargada, casi caricaturesca.
 
-—Una respuesta adaptativa... Qué término tan aséptico, Montse. —Suelta una risa amarga—. Tradúcelo: hemos construido un fuerte blindado para observar el fin del mundo con un buen vino en la mano. Somos espectadores de nuestra propia obsolescencia.
+—Una respuesta adaptativa... Qué término tan aséptico, Montse. —Suelta una risa amarga—. Tradúcelo. Hemos construido un fuerte blindado para observar el fin del mundo con un buen vino en la mano. Somos espectadores de nuestra propia obsolescencia.
 
 Me coloco de pie junto al centro de la reunión, apoyando las manos en el respaldo de una silla. La textura del tapizado bajo mis dedos es un ancla en esta atmósfera cargada.
 
@@ -1500,7 +1620,7 @@ Me coloco de pie junto al centro de la reunión, apoyando las manos en el respal
 
 Los tres se giran hacia mí.
 
-—Llevamos décadas automatizando procesos, delegando el juicio en sistemas, optimizando cada minuto para ganar tiempo. Mirad vuestras vidas: ¿creéis que el intercambio ha sido justo? ¿Hemos ganado libertad, o nos hemos convertido en piezas de un mecanismo que ya no sabe cómo detenerse?
+—Llevamos décadas automatizando procesos, delegando el juicio en sistemas, optimizando cada minuto para ganar tiempo. Mirad vuestras vidas. ¿Creéis que el intercambio ha sido justo? ¿Hemos ganado libertad, o nos hemos convertido en piezas de un mecanismo que ya no sabe cómo detenerse?
 
 Se hace un silencio absoluto. El murmullo del mar parece extinguirse, dejando la casa en una suspensión temporal. Montse es la primera en dejar su copa sobre la mesa de cristal, un gesto que suena como un disparo en la sala silenciosa.
 
@@ -1530,7 +1650,7 @@ El silencio posterior dentro del salón es más denso. Más honesto. Por un mome
 
 * * *
 
-El aire en el salón se siente cargado, como si las palabras que hemos dicho hubieran dejado algo físico en las paredes. Pero poco a poco, la urgencia de la cena comienza a disipar la tensión: la necesidad biológica de alimentarse funciona de reset para sistemas sobrecalentados.
+El aire en el salón se siente cargado, como si las palabras que hemos dicho hubieran dejado algo físico en las paredes. Pero poco a poco, la urgencia de la cena comienza a disipar la tensión. La necesidad biológica de alimentarse funciona de reset para sistemas sobrecalentados.
 
 Montse se levanta primero. Le señalo la puerta de la cocina y les aviso de que hoy toca risotto, que ya lo tengo todo listo allí dentro.
 
@@ -1838,11 +1958,11 @@ En el hospital, los dos indicadores verdes seguían parpadeando en la consola va
 
 Capítulo 8
 
-La cena es lo que necesitamos: algo concreto que hacer con las manos.
+La cena es lo que necesitamos. Algo concreto que hacer con las manos.
 
 Espero unos minutos en la penumbra del recibidor, escuchando el agua correr en el baño de la planta superior; un sonido doméstico que, por un segundo, me resulta tan artificial como el zumbido de un servidor. Una puerta se cierra arriba. Silencio. La casa recupera su estado de reposo, aunque el hormigón parece vibrar todavía con los ecos de nuestra conversación.
 
-La cocina es un desastre controlado: platos apilados, copas vacías con restos de vino que se oxidan lentamente en el aire, una sartén con trazas de risotto pegado. Vuelvo al salón, donde el ambiente ha cambiado. Julián está en el sofá modular, con su portátil abierto proyectando una luz azulada que le marca las facciones, dándole un aspecto casi espectral.
+La cocina es un desastre controlado. Platos apilados, copas vacías con restos de vino que se oxidan lentamente en el aire, una sartén con trazas de risotto pegado. Vuelvo al salón, donde el ambiente ha cambiado. Julián está en el sofá modular, con su portátil abierto proyectando una luz azulada que le marca las facciones, dándole un aspecto casi espectral.
 
 —¿Cuál es la contraseña del Wifi? —pregunta, ajustándose las gafas con un movimiento nervioso.
 
@@ -1970,7 +2090,7 @@ Se coloca los auriculares de nuevo, pero se los quita casi de inmediato. Baja la
 
 —Claro.
 
-—Esta pregunta que nos hiciste hoy... —Se detiene. Su voz es directa, limpia de erudición—. Me asusta. Me asusta porque llevo semanas sintiendo lo mismo, exactamente lo mismo, pero me daba demasiada vergüenza decírselo a nadie. Miro mis clases en la universidad, miro los textos que repito de memoria año tras año, y siento que soy un reproductor de casetes viejo, Mateo. Una rutina programada que se ejecuta sola. Siento que estás buscando un error en el sistema porque tú también lo has visto. Has visto que nos hemos vaciado. Dime la verdad: ¿nos has traído aquí para confirmar que ya estamos muertos por dentro?
+—Esta pregunta que nos hiciste hoy... —Se detiene. Su voz es directa, limpia de erudición—. Me asusta. Me asusta porque llevo semanas sintiendo lo mismo, exactamente lo mismo, pero me daba demasiada vergüenza decírselo a nadie. Miro mis clases en la universidad, miro los textos que repito de memoria año tras año, y siento que soy un reproductor de casetes viejo, Mateo. Una rutina programada que se ejecuta sola. Siento que estás buscando un error en el sistema porque tú también lo has visto. Has visto que nos hemos vaciado. Dime la verdad. ¿Nos has traído aquí para confirmar que ya estamos muertos por dentro?
 
 Me quedo mirándolo. Su expresión en mitad de la penumbra del salón es seria, desarmada de ironías. Es la primera vez en años que lo escucho hablar desde su propio dolor y no desde la biblioteca.
 
@@ -1978,7 +2098,7 @@ Me quedo mirándolo. Su expresión en mitad de la penumbra del salón es seria, 
 
 —No me des una salida de sistemas, Mateo —me corta Julián, entornando los ojos con una agudeza que me hiela la sangre. Da un paso hacia mí, sosteniéndome la mirada—. Llevas toda la tarde registrando nuestras pausas. Cuando Montse hablaba del ROI de la terraza, la mirabas como un entomólogo midiendo las pulsaciones de un insecto. A mí me has puesto un tinto que controlas al milímetro en tu inventario. No nos estás haciendo preguntas filosóficas para animar una cena de viejos amigos. Nos estás auditando. Estás buscando el punto exacto en el que el código de nuestras vidas empieza a fallar. Lo que no entiendo es qué ganas tú actuando como el inspector de un naufragio que tú mismo has provocado.
 
-Un vuelco violento me sacude el pecho. Mi reacción interior es de pura alarma: Julián lo ha visto. Ha desmantelado mi blindaje analítico en una sola tarde, identificando el ensayo clínico subyacente que he montado a sus espaldas. Su intuición biológica acaba de reventar mis parámetros de contención. Sin embargo, me obligo a relajar las facciones, manteniendo el cortafuegos intacto. No puedo confesar. No ante él, no el primer día.
+Un vuelco violento me sacude el pecho. Mi reacción interior es de pura alarma. Julián lo ha visto. Ha desmantelado mi blindaje analítico en una sola tarde, identificando el ensayo clínico subyacente que he montado a sus espaldas. Su intuición biológica acaba de reventar mis parámetros de contención. Sin embargo, me obligo a relajar las facciones, manteniendo el cortafuegos intacto. No puedo confesar. No ante él, no el primer día.
 
 —Mañana lo veremos con otra luz, Julián —digo con un tono aséptico que ahora suena peligrosamente falso en la sala silenciosa.
 
@@ -1994,7 +2114,7 @@ Se coloca los auriculares de nuevo. La pantalla vuelve a iluminar sus gafas mien
 
 Espero que todas las luces se apaguen antes de servirme un whisky. La casa queda en silencio, un silencio que se siente espeso, casi tangible, como si las paredes de hormigón estuvieran absorbiendo cada palabra que hemos pronunciado. Solo queda el golpe sordo, hipnótico, del mar contra las rocas del acantilado, un recordatorio constante de que estamos en el borde de un mundo que, al menos hoy, se ha mantenido en calma.
 
-Es medianoche. Me he retirado a mi estudio, mi verdadero búnker, con el vaso de cristal pesado y mi cuaderno de notas. Escribo estas líneas como quien documenta un experimento de laboratorio que está yendo de una forma que aún no sé catalogar:
+Es medianoche. Me he retirado a mi estudio, mi verdadero búnker, con el vaso de cristal pesado y mi cuaderno de notas. Escribo estas líneas como quien documenta un experimento de laboratorio que está yendo de una forma que aún no sé catalogar.
 
 Día 1. La distancia entre nosotros es lo que me preocupa. Montse fue la primera en dejar la copa sobre la mesa cuando la pregunta la dejó sin respuesta. Una fracción de segundo. El único silencio no calculado de la noche. Su obsesión nocturna por reordenar los botes de orégano parece responder a un patrón de compensación de ansiedad. ¿Humana o algorítmica?
 
@@ -2006,9 +2126,9 @@ Elena ve el colapso donde los demás ven paisaje. Ha sido la única capaz de det
 
 Demasiado intacta. Demasiado normal. Si esto es una réplica de mi pasado, el código es impecable. Si son ellos de verdad, la erosión temporal los ha dejado tan dañados como a mí.
 
-Mañana los someteré a una nueva iteración. Les preguntaré por los errores no forzados, por los recuerdos que duelen. Si sus respuestas vuelven a ser tan coherentes y fluidas como las de hoy, tendré que aceptar la peor de las conclusiones: que ya no soy capaz de distinguir la realidad de su simulacro.
+Mañana los someteré a una nueva iteración. Les preguntaré por los errores no forzados, por los recuerdos que duelen. Si sus respuestas vuelven a ser tan coherentes y fluidas como las de hoy, tendré que aceptar la peor de las conclusiones, que ya no soy capaz de distinguir la realidad de su simulacro.
 
-No está en estas notas lo que me trajo aquí de verdad: recibí mi propio perfil semanas atrás y lo leí.
+No está en estas notas lo que me trajo aquí de verdad. Recibí mi propio perfil semanas atrás y lo leí.
 
 Cierro el cuaderno. Mañana, primero ellos.
 
@@ -2392,7 +2512,7 @@ El sol de la mañana no perdona. La luz del Atlántico es cruda, blanca, casi cl
 
 He sacado los caballetes y los he dispuesto en semicírculo en la terraza, de cara al mar. Cuatro lienzos en blanco, tubos de acrílico, espátulas de acero. Ajusto ligeramente el toldo lateral para amortiguar el destello del sol sobre el blanco cegador de las telas, una superficie tan pulida que hiere las pupilas.
 
-—Ayer estuvimos encerrados en nuestras cabezas demasiado tiempo: mucha dialéctica, mucha teoría de sistemas y poco contacto físico —les digo, mientras reparto los lienzos, forzando un tono que pretende ser casual. La pintura abstracta no requiere que sepáis dibujar; requiere que dejéis de intentar resolver un problema.
+—Ayer estuvimos encerrados en nuestras cabezas demasiado tiempo. Mucha dialéctica, mucha teoría de sistemas y poco contacto físico —les digo, mientras reparto los lienzos, forzando un tono que pretende ser casual. La pintura abstracta no requiere que sepáis dibujar; requiere que dejéis de intentar resolver un problema.
 
 La pintura es una trampa. El arte abstracto no tiene un sistema de validación binario. No pueden «ganar» el lienzo; no hay un código compilado que certifique el éxito. Quiero ver qué pasa cuando les quito el suelo metodológico bajo los pies. Un lienzo en blanco es la forma más pura de incertidumbre, una pantalla sin variables asignadas.
 
@@ -2780,7 +2900,7 @@ Nos reagrupamos frente al mostrador de mármol de la cofradía local, el puesto 
 
 —La dorada tiene mejor ratio precio-calidad —interviene Montse, señalando el mostrador con el dedo—. Te llevas dos por lo que cuesta una sola lubina. Es marketing de la escasez.
 
-Julián se acerca, empujado por su propia memoria gastronómica:
+Julián se acerca, empujado por su propia memoria gastronómica.
 
 —Besugo —dice—. Mi padre lo preparaba al horno cada domingo de invierno, con patatas panadera y un chorro de vino blanco. Eso es cenar como los dioses, no con variables de coste o sostenibilidad.
 
@@ -2816,7 +2936,7 @@ Elena suelta una risa clara, recostándose en su silla.
 
 —¿Y cuál es el problema? —replica ella, seria—. El placer también se puede optimizar si controlas las porciones, el gasto energético y el ritmo de llegada de los platos a la mesa. Evitas el desperdicio y la pesadez estomacal.
 
-Julián interviene con un gesto de desdén ilustrado, apartando los cubiertos:
+Julián interviene con un gesto de desdén ilustrado, apartando los cubiertos.
 
 —Pidan las raciones de muestra que quieran para el centro, muchachos. Yo voy a pedir el arroz de marisco individual. Tiene pinta de ser la especialidad local y probablemente sigan usando una receta tradicional monocorde que no ha cambiado un ápice en los últimos cuarenta años. Continuidad formal.
 
@@ -2834,11 +2954,11 @@ Me levanto y me acerco a su lado, sintiendo el crujido de las baldosas bajo mis 
 
 —Mira sus caras, Mateo —insiste Julián, su voz bajando de tono—. Tienen la fijeza magnética de quien conoce su lugar exacto en el mundo. No necesitaban crisis de identidad a los sesenta; esto es propósito puro.
 
-Montse se acerca por detrás, arrastrando el eco seco de sus zapatos contra las baldosas con su habitual frialdad técnica:
+Montse se acerca por detrás, arrastrando el eco seco de sus zapatos contra las baldosas con su habitual frialdad técnica.
 
 —Estás idealizando el pasado industrial otra vez, Julián. Esa foto no captura «propósito», sino supervivencia pura frente a la miseria económica del nodo rural. Es explotación documentada.
 
-Elena permanece sentada a la mesa, moviendo el vino en su vaso, pero su voz nos llega con total nitidez a través de la acústica limpia del local vacío:
+Elena permanece sentada a la mesa, moviendo el vino en su vaso, pero su voz nos llega con total nitidez a través de la acústica limpia del local vacío.
 
 —Estáis mirando una cartulina revelada de 1978 y proyectando vuestras propias fantasías intelectuales de oficina. —Nos mira desde la distancia—. Julián ve una edad dorada perdida para alimentar su nostalgia humanística, y Montse una ineficiencia estructural. Pero ninguno de los dos estaba allí esa tarde de viento. No tenéis ni la menor idea de qué pensaban esos hombres.
 
@@ -2854,7 +2974,7 @@ Julián me clava una mirada cargada de una sutil decepción intelectual.
 
 El camarero regresa en ese instante y deja el cuenco de los mejillones humeantes en el centro de la mesa, rompiendo la formación. Volvemos a nuestros asientos y empezamos a comer en un silencio denso, salpicado por el crujido de las conchas al caer en el plato de loza vacío.
 
-Entonces, como al azar, mientras limpia sus dedos manchados de jugo en la servilleta de papel, Julián lanza una piedra al estanque, cambiando el rumbo de la sobremesa:
+Entonces, como al azar, mientras limpia sus dedos manchados de jugo en la servilleta de papel, Julián lanza una piedra al estanque, cambiando el rumbo de la sobremesa.
 
 —¿Os acordáis de nuestro viaje a Marruecos? —pregunta, mirando al techo.
 
@@ -2908,7 +3028,7 @@ Elena se recuesta contra el respaldo de madera vieja, mirando las copas vacías 
 
 —Pero solo una de las versiones puede ser la real, Elena —sentencia Montse, con la lógica de un sistema operativo—. Los hechos son binarios. Ocurrieron o no ocurrieron de una forma determinada. No hay estados intermedios en la realidad física.
 
-No lo digo en voz alta. Pero pienso: ¿Seguro, Montse? ¿Y si los tres estáis recordando sobre una versión corrupta del mismo día? ¿Y si la memoria no guarda hechos sino que los reescribe cada vez que los necesita, ajustando el relato a lo que el presente necesita creer?
+No lo digo en voz alta. Pero pienso. ¿Seguro, Montse? ¿Y si los tres estáis recordando sobre una versión corrupta del mismo día? ¿Y si la memoria no guarda hechos sino que los reescribe cada vez que los necesita, ajustando el relato a lo que el presente necesita creer?
 
 Elena se gira bruscamente hacia mi flanco, sus ojos clavados en mi perfil.
 
@@ -2920,7 +3040,7 @@ El camarero deja el plato de pulpo sobre la mesa, el vapor transporta el olor a 
 
 Montse me mira con una punzada de sutil decepción corporativa en las pupilas, con el gesto de quien evalúa negativamente mi rendimiento de memoria.
 
-—Fuiste tú quien insistió en pedir el tajín de verduras del menú del día, Mateo —dice ella, con una seguridad implacable—. Dijiste textualmente, y cito: «Quiero probar algo limpio y sin carne por una vez en la vida, para depurar». Y te gustó el toque de comino residual que dejaba en el barro caliente.
+—Fuiste tú quien insistió en pedir el tajín de verduras del menú del día, Mateo —dice ella, con una seguridad implacable—. Dijiste textualmente, y cito, «Quiero probar algo limpio y sin carne por una vez en la vida, para depurar». Y te gustó el toque de comino residual que dejaba en el barro caliente.
 
 ¿Es real ese recuerdo que me atribuye? No tengo forma de contrastarlo. Pero el horror es tan inmediato que, mientras la escucho, casi puedo sentir el aroma rancio del comino y el tacto áspero del barro caliente en mis manos.
 
@@ -2946,7 +3066,7 @@ Montse ya camina con paso firme y simétrico hacia mi coche, con las llaves de l
 
 Elena se retrasa un par de pasos a propósito, quedándose rezagada junto a mí, con los ojos fijos en la línea oscura donde el agua del puerto muerde el cabo de amarre de una barca.
 
-No me pregunta nada. Solo dice:
+No me pregunta nada. Solo dice.
 
 —La próxima vez que abras un archivo así en la mesa, avísame antes. Para poder salir de la habitación.
 
@@ -2962,7 +3082,7 @@ Yo me quedo abajo, metido en la cocina, guardando el pescado fresco del mercado 
 
 Es medianoche. La casa lleva en silencio desde las diez, rota solo por el rumor sordo de la ventilación. La siesta de la tarde se extendió más de lo previsto, como si el cuerpo hubiera decidido por todos que la jornada estaba cerrada. Nadie tuvo energía ni voluntad para cocinar las piezas frescas del mercado, así que cenamos sobras en la barra de la cocina: un poco de pan cocido, queso del país y las gambas rojas a la plancha que Montse preparó a las nueve sin la menor ceremonia ni adorno.
 
-Estoy en mi estudio, mi verdadero búnker dentro del búnker. Abro mi cuaderno bajo la luz ámbar del flexo:
+Estoy en mi estudio, mi verdadero búnker dentro del búnker. Abro mi cuaderno bajo la luz ámbar del flexo.
 
 Día 2: martes. Observaciones del experimento de campo:
 
@@ -2978,17 +3098,17 @@ TARDE – ENTORNO DEL MERCADO Y ALMUERZO EN EL PUERTO:
 
 Montse: ¿Memoria fotográfica superdotada o acceso directo a un registro indexado que ningún cerebro biológico debería conservar intacto?
 
-Julián: su memoria es típicamente humana: imprecisa, maleable, reconstruida a base de retazos emocionales y mitos autobiográficos. O es una simulación perfecta y costosa de la imperfección biológica para resultar convincente ante el observador.
+Julián: su memoria es típicamente humana, imprecisa, maleable, reconstruida a base de retazos emocionales y mitos autobiográficos. O es una simulación perfecta y costosa de la imperfección biológica para resultar convincente ante el observador.
 
-Elena: lo más peligroso para el marco de seguridad: detectó, sin ambigüedad, que yo estaba evaluando algo con mis preguntas de sobremesa. Su nivel de alerta es alto.
+Elena: lo más peligroso para el marco de seguridad. Detectó, sin ambigüedad, que yo estaba evaluando algo con mis preguntas de sobremesa. Su nivel de alerta es alto.
 
 Mateo (Yo): mi propia memoria es incapaz de verificar el tajín que Montse me atribuye con literales. Soy tan poco fiable como Julián. El entorno me está afectando.
 
 Cierro el cuaderno de un manotazo.
 
-La advertencia de Elena en el muelle me persigue: «La próxima vez que abras un archivo así en la mesa, avísame antes.» No fue una pregunta. Fue peor. Fue una línea de cierre.
+La advertencia de Elena en el muelle me persigue. «La próxima vez que abras un archivo así en la mesa, avísame antes.» No fue una pregunta. Fue peor. Fue una línea de cierre.
 
-Pero hoy el martes no me ha devuelto una grieta limpia, un fallo visible que pueda aislar. Encontré algo mucho peor: la certeza de que la diferencia entre recordar algo y inventarlo quizás nunca existió. En ninguno de nosotros.
+Pero hoy el martes no me ha devuelto una grieta limpia, un fallo visible que pueda aislar. Encontré algo mucho peor. La certeza de que la diferencia entre recordar algo y inventarlo quizás nunca existió. En ninguno de nosotros.
 
 Mañana iremos al faro, sin experimentos reactivos ni preguntas trampa por mi parte. Quizás lo que verdaderamente necesitamos para no colapsar es dejar de preguntarnos quiénes somos, apagar los algoritmos de control y simplemente... ser.
 
@@ -3200,7 +3320,7 @@ Montse inclina la cabeza, conforme con el reparto de la marcha. Julián se despi
 
 * * *
 
-Elena camina como si conociera el sendero de memoria. Sus botas encuentran el punto exacto de apoyo en el granito sin dudar un segundo, sin un solo titubeo. He pasado diez años diseñando sistemas para que respondan con exactamente esa fluidez: sin latencia visible, sin consulta aparente del entorno. VERBUM lo haría así. El pensamiento que llega después lo corto antes de que madure, porque si empiezo a usar mi propio proyecto como metro de autenticidad, el experimento pierde todo suelo.
+Elena camina como si conociera el sendero de memoria. Sus botas encuentran el punto exacto de apoyo en el granito sin dudar un segundo, sin un solo titubeo. He pasado diez años diseñando sistemas para que respondan con exactamente esa fluidez. Sin latencia visible, sin consulta aparente del entorno. VERBUM lo haría así. El pensamiento que llega después lo corto antes de que madure, porque si empiezo a usar mi propio proyecto como metro de autenticidad, el experimento pierde todo suelo.
 
 Yo voy a su lado, forzando la zancada, intentando mantener su velocidad sin que mi respiración delate el esfuerzo físico. Durante el primer kilómetro, el silencio entre nosotros es absoluto, una barrera de aire salino rota solo por el crujido de las piedras sueltas bajo las suelas, el silbido constante del viento entre los arbustos bajos y el bramido sordo del Atlántico rompiendo trescientos metros más abajo.
 
@@ -3250,7 +3370,7 @@ La confesión me descoloca.
 
 Se gira bruscamente hacia mí. Hay un brillo húmedo en sus ojos que no había visto los días anteriores. Una grieta real en su personaje fuerte.
 
-—Los juzgo en mis informes por usar plásticos, por comprar lo más barato, por no reciclar bien en sus casas —continúa, y su voz tiembla, algo insólito en ella—. Como si tuvieran opción real y la destrucción del planeta fuera solo culpa suya y no un fallo de organización de toda nuestra sociedad. Dime la verdad, Mateo: ¿soy una hipócrita que vive muy bien dentro del sistema?
+—Los juzgo en mis informes por usar plásticos, por comprar lo más barato, por no reciclar bien en sus casas —continúa, y su voz tiembla, algo insólito en ella—. Como si tuvieran opción real y la destrucción del planeta fuera solo culpa suya y no un fallo de organización de toda nuestra sociedad. Dime la verdad, Mateo. ¿Soy una hipócrita que vive muy bien dentro del sistema?
 
 —No, Elena —respondo, y por primera vez no es una frase calculada; es una respuesta espontánea que me sale antes de poder procesarla.
 
@@ -3772,7 +3892,7 @@ A las doce y diez llegamos al faro. Es una construcción robusta de sillería de
 
 Elena y yo nos dejamos caer contra el suelo caliente, cansadísimos tras el último tramo empinado, apoyando las mochilas contra la fachada de piedra. Bebemos agua a sorbos cortos, dejando pasar los minutos. Veinte minutos después, recortadas al final del sendero de la costa, distingo dos figuras pequeñitas que avanzan despacio, manteniendo una separación de varios metros entre ellas. Julián y Montse.
 
-A medida que llegan a la terraza del faro, puedo ver sus posturas con total claridad. Julián camina con la cabeza baja, con la mirada puesta en la punta de sus botas, arrastrando los pies como si el peso de los pensamientos hubiera sido más agotador que la carga física de la mochila. Montse mantiene su paso regular, pero noto un cambio en su postura: lleva los hombros caídos un par de centímetros y la vista fija en la línea del horizonte, con la mente evidentemente dándole vueltas a un asunto muy complejo que ha desarmado sus defensas habituales.
+A medida que llegan a la terraza del faro, puedo ver sus posturas con total claridad. Julián camina con la cabeza baja, con la mirada puesta en la punta de sus botas, arrastrando los pies como si el peso de los pensamientos hubiera sido más agotador que la carga física de la mochila. Montse mantiene su paso regular, pero noto un cambio en su postura. Lleva los hombros caídos un par de centímetros y la vista fija en la línea del horizonte, con la mente evidentemente dándole vueltas a un asunto muy complejo que ha desarmado sus defensas habituales.
 
 En cuanto pisan el cemento de la terraza, Julián deja caer la mochila con un golpe sordo y se tumba cuan largo es sobre el suelo agrietado.
 
@@ -3808,7 +3928,7 @@ Julián la mira desde su sitio en el suelo con una ternura mezclada con el mismo
 
 —Pero el hecho de que las cuentas cuadren y la decisión fuera lógica no quita el dolor de encontrarse sola, Montse —replica Julián con la voz baja.
 
-Ella se gira y lo mira fijamente a los ojos. Y por primera vez en tres días de convivencia forzada en la casa, alcanzo a notar una pequeña debilidad en su personaje: una pequeña pausa en su lógica, un pestañeo inusual en su rostro firme.
+Ella se gira y lo mira fijamente a los ojos. Y por primera vez en tres días de convivencia forzada en la casa, alcanzo a notar una pequeña debilidad en su personaje, una pequeña pausa en su lógica, un pestañeo inusual en su rostro firme.
 
 —No, Julián —admite en un hilo de voz que apenas se oye por el viento—. No quita el dolor de la soledad.
 
@@ -4100,7 +4220,7 @@ Mal asunto. Montse ha descubierto mi papel de observador silencioso con total cl
 
 Se da la vuelta, tranquila, y vuelve a andar por el sendero. Yo me quedo parado un momento sobre la piedra, sintiendo el peso de mis mentiras, antes de forzar a mis piernas a alcanzar su paso firme y rápido. Caminamos en silencio, el viento en los pinos.
 
-Finalmente, decido hacer una pregunta profunda para ver cómo reacciona por dentro:
+Finalmente, decido hacer una pregunta profunda para ver cómo reacciona por dentro.
 
 —Montse... ¿tú eres feliz? —le lanzo de repente.
 
@@ -4118,7 +4238,7 @@ Montse se queda pensativa, parada a mitad del camino. Mira la línea limpia del 
 
 —Todo en este mundo tiene una explicación lógica y una causa, Mateo —replica de inmediato, aunque la firmeza habitual de su voz ha bajado mucho—. Solo que algunas conductas y relaciones humanas son todavía demasiado complejas para que nuestras mentes las entiendan en el momento. Es un problema de nuestra capacidad de comprensión, nada más.
 
-Montse vuelve a hablar, bajando el volumen hasta un tono íntimo:
+Montse vuelve a hablar, bajando el volumen hasta un tono íntimo.
 
 —¿Sabes qué me preguntó Elena al principio de la subida, antes de que el camino se estrechara?
 
@@ -4158,7 +4278,7 @@ Se levanta en pie de golpe, sacudiéndose el polvo invisible de los pantalones c
 
 —No te lo diría jamás, Montse —respondo, mirándola desde abajo—. Yo no tengo la solución para tus lamentos del pasado.
 
-—Nadie la tiene, Mateo. Eso es lo verdaderamente aterrador de estar vivos: no venimos al mundo con un manual de instrucciones para resolver estos dilemas. Estamos solos frente a nuestras decisiones.
+—Nadie la tiene, Mateo. Eso es lo verdaderamente aterrador de estar vivos. No venimos al mundo con un manual de instrucciones para resolver estos dilemas. Estamos solos frente a nuestras decisiones.
 
 Montse regresa a su paso rápido habitual, cerrándose de nuevo y bloqueando el acceso a sus sentimientos internos.
 
@@ -4174,15 +4294,15 @@ Julián, sentado en el suelo, con los ojos cerrados y el rostro pálido por el e
 
 —Hazme la pregunta mañana por la tarde, Elena —dice, cansado—. Si es que mis articulaciones no se declaran en huelga y no me quedo inmóvil antes de que amanezca el jueves.
 
-El camino de vuelta hacia la casa se hace en un silencio absoluto y pesado. Todos estamos agotados. Pero es un cansancio que no se debe solo al esfuerzo físico de las piernas por las pendientes; es una fatiga mental, interna, de relaciones. Es como si hubiéramos recorrido algo más que piedra y salitre: el interior de nuestros propios pensamientos, desnudando lo que de verdad nos sostiene.
+El camino de vuelta hacia la casa se hace en un silencio absoluto y pesado. Todos estamos agotados. Pero es un cansancio que no se debe solo al esfuerzo físico de las piernas por las pendientes; es una fatiga mental, interna, de relaciones. Es como si hubiéramos recorrido algo más que piedra y salitre. El interior de nuestros propios pensamientos, desnudando lo que de verdad nos sostiene.
 
 Llegamos a la casa. Cruzamos la entrada de hormigón y cada uno se va hacia su propia habitación en la planta superior sin decir una sola palabra ni despedirse. Ya no quedan fuerzas para hablar; solo importa la necesidad compartida de lavarse, ponerse ropa limpia y aislarse de inmediato en las habitaciones.
 
 Encerrado en la penumbra de mi dormitorio, me quedo inmóvil junto a la ventana de cristal, mirando el Atlántico. La estructura de la casa, con sus muros gruesos y sus tuberías al aire, funciona como un altavoz enorme para los ruidos y las vibraciones del edificio. A través de las paredes desnudas, escucho el sonido sordo, constante y simultáneo del agua corriendo con fuerza por las tuberías en tres baños distintos de la planta alta. Tres chorros de agua que limpian el salitre, el sudor y el polvo del camino de mis tres amigos.
 
-Mientras el ruido de fondo de las tuberías llena el ambiente, mi mente —que debido a mi condición es incapaz de recordar imágenes visuales del pasado— empieza a procesar lo ocurrido hoy, traduciendo las últimas horas en ideas claras en mi cabeza. Organizo los detalles que he logrado descubrir directamente: Elena confesando la culpa que siente y la farsa de su activismo acomodado; Montse admitiendo su soledad, su incapacidad para entender la felicidad y el recuerdo enterrado de la bailarina que su padre frustró a los siete años.
+Mientras el ruido de fondo de las tuberías llena el ambiente, mi mente —que debido a mi condición es incapaz de recordar imágenes visuales del pasado— empieza a procesar lo ocurrido hoy, traduciendo las últimas horas en ideas claras en mi cabeza. Organizo los detalles que he logrado descubrir directamente. Elena confesando la culpa que siente y la farsa de su activismo acomodado; Montse admitiendo su soledad, su incapacidad para entender la felicidad y el recuerdo enterrado de la bailarina que su padre frustró a los siete años.
 
-Pero son los momentos vacíos, las conversaciones perdidas, lo que me preocupa de verdad. Las charlas ocurridas en los momentos en que yo no estaba delante. Las palabras que se dijeron y que no he podido escuchar ni vigilar: Julián y Montse durante la subida; Elena y Montse liderando el grupo en el primer tramo de la vuelta antes de llegar al pinar. Solo tengo trozos de información, detalles deducidos, confesiones contadas por otros que soy totalmente incapaz de comprobar si son ciertas.
+Pero son los momentos vacíos, las conversaciones perdidas, lo que me preocupa de verdad. Las charlas ocurridas en los momentos en que yo no estaba delante. Las palabras que se dijeron y que no he podido escuchar ni vigilar. Julián y Montse durante la subida; Elena y Montse liderando el grupo en el primer tramo de la vuelta antes de llegar al pinar. Solo tengo trozos de información, detalles deducidos, confesiones contadas por otros que soy totalmente incapaz de comprobar si son ciertas.
 
 ¿De qué más hablaron mientras yo no estaba lo bastante cerca como para oírlos? ¿Qué otros sentimientos o secretos del pasado se contaron mutuamente en la loma solitaria del acantilado?
 
@@ -4190,9 +4310,9 @@ La duda de estar perdiéndome conversaciones importantes me carcome el pensamien
 
 * * *
 
-A las nueve bajamos todos a la cocina para cenar. He preparado una cena rápida, fría y muy sencilla, respetando el cansancio de todos: una ensalada verde, queso de cabra de la zona, pan crujiente y un chorro de aceite de oliva. Nadie tiene un apetito real tras el desgaste físico del día, pero nos sentamos a la mesa de madera y comemos por pura costumbre, por mantener las rutinas de nuestra estancia en la casa.
+A las nueve bajamos todos a la cocina para cenar. He preparado una cena rápida, fría y muy sencilla, respetando el cansancio de todos. Una ensalada verde, queso de cabra de la zona, pan crujiente y un chorro de aceite de oliva. Nadie tiene un apetito real tras el desgaste físico del día, pero nos sentamos a la mesa de madera y comemos por pura costumbre, por mantener las rutinas de nuestra estancia en la casa.
 
-La conversación se mantiene en la superficie durante los primeros minutos, una charla ligera donde todos evitamos tocar los temas delicados de la tarde en el pinar. Julián se queja con sus exageraciones de siempre del dolor de sus rodillas; Elena hace estiramientos con el cuello y decide que el jueves debería ser un día de descanso total y tranquilidad en la terraza frente al cuadro. Montse, entre bocado y bocado de queso, calcula las energías gastadas en la caminata en voz alta, volviendo a sus costumbres seguras:
+La conversación se mantiene en la superficie durante los primeros minutos, una charla ligera donde todos evitamos tocar los temas delicados de la tarde en el pinar. Julián se queja con sus exageraciones de siempre del dolor de sus rodillas; Elena hace estiramientos con el cuello y decide que el jueves debería ser un día de descanso total y tranquilidad en la terraza frente al cuadro. Montse, entre bocado y bocado de queso, calcula las energías gastadas en la caminata en voz alta, volviendo a sus costumbres seguras.
 
 —Hemos quemado unas mil doscientas calorías por persona en la excursión —anuncia, con los ojos clavados en la ensalada—. Un resultado lógico si cruzamos los datos de las pendientes, el viento en contra del noroeste, la distancia de doce kilómetros y nuestro peso medio corporal. Las cuentas cuadran.
 
@@ -4204,17 +4324,17 @@ Julián dibuja una sonrisa cansada a pesar del dolor de sus rodillas, apoyando l
 
 Elena y yo intercambiamos una mirada rápida y silenciosa a través de la mesa de la cocina. Hay algo divertido, un alivio en esa cabezonería suya de verlo todo con números. Sigue actuando con su frialdad habitual para protegerse del recuerdo de la bailarina de siete años.
 
-A las veintidós horas exactas, el grupo cae rendido por el cansancio y decidimos irnos a dormir a las habitaciones de la planta de arriba. Estamos destrozados. Al llegar al pasillo de hormigón de la planta alta, Elena me da las buenas noches con un abrazo que dura un segundo más de lo que marca la costumbre habitual entre amigos. Pega la boca a mi oído en la penumbra y me susurra muy bajito:
+A las veintidós horas exactas, el grupo cae rendido por el cansancio y decidimos irnos a dormir a las habitaciones de la planta de arriba. Estamos destrozados. Al llegar al pasillo de hormigón de la planta alta, Elena me da las buenas noches con un abrazo que dura un segundo más de lo que marca la costumbre habitual entre amigos. Pega la boca a mi oído en la penumbra y me susurra muy bajito.
 
 —Gracias por escucharme hoy, Mateo. De verdad. Tu silencio era exactamente lo que necesitaba para desahogar mi culpa.
 
 Julián me aprieta el hombro derecho con fuerza al pasar a mi lado en el pasillo. No dice ni una palabra, pero la seriedad de sus ojos transmite muchísimo más que cualquier discurso o explicación.
 
-Montse es la última en entrar a su habitación. Se detiene un momento en la puerta y se limita a hacerme un gesto de asentimiento con la cabeza. Sin embargo, mi atención nota un pequeño cambio en su gesto: se siente bastante menos rígido, libre de las maneras frías de sus reuniones de trabajo. Más humano, más blando. O, al menos, esa es la interpretación que mis propios pensamientos desconfiados deciden dar en mi cabeza.
+Montse es la última en entrar a su habitación. Se detiene un momento en la puerta y se limita a hacerme un gesto de asentimiento con la cabeza. Sin embargo, mi atención nota un pequeño cambio en su gesto. Se siente bastante menos rígido, libre de las maneras frías de sus reuniones de trabajo. Más humano, más blando. O, al menos, esa es la interpretación que mis propios pensamientos desconfiados deciden dar en mi cabeza.
 
 Día 3: miércoles. Registro de observaciones de nuestra estancia:
 
-Elena: confirmó dudas sobre su activismo. Teme que sea postura moral cómoda, no convicción. Me confrontó en el pinar: sabe que les estudio. No pide explicación. Solo dice que si lo encuentro, le avise.
+Elena: confirmó dudas sobre su activismo. Teme que sea postura moral cómoda, no convicción. Me confrontó en el pinar. Sabe que les estudio. No pide explicación. Solo dice que si lo encuentro, le avise.
 
 Mirador: ojos llorosos. ¿El Atlántico o el viento? Es el primer dato de la semana que no puedo clasificar.
 
@@ -4224,21 +4344,21 @@ Julián: según Montse, lleva tres años sin hablar con sus hijos. Su orgullo co
 
 Montse: soledad documentada. Carrera a cambio de compañía. Ella misma construyó esa ecuación y no puede ponerle precio ahora.
 
-Confesó a Elena en la subida: quería ser bailarina a los siete años. Su padre le cerró esa puerta con una hoja de cálculo. Es el primer recuerdo que no encaja en ninguna de mis proyecciones de su perfil.
+Confesó a Elena en la subida. Quería ser bailarina a los siete años. Su padre le cerró esa puerta con una hoja de cálculo. Es el primer recuerdo que no encaja en ninguna de mis proyecciones de su perfil.
 
 «Las máquinas no se arrepienten. Los seres humanos, sí.» Lo dijo para Julián. Me lo llevo yo.
 
-Me detectó: «Nos estudias.» No pide explicación. Eso es peor.
+Me detectó. «Nos estudias.» No pide explicación. Eso es peor.
 
 Yo: las conversaciones que no escuché hoy (Julián-Montse en la subida, Elena-Montse liderando la vuelta) me importan más que las que sí escuché. El experimento genera datos fuera de mi alcance.
 
-Primera conclusión real: no soy el observador. Soy una variable más.
+Primera conclusión real. No soy el observador. Soy una variable más.
 
 Cierro el cuaderno de un golpe seco, rompiendo el silencio del estudio. Miro de reojo el cuadro del martes que sigue apoyado en el rincón oscurecido de la estancia, intacto, sin terminar, con las capas de pintura ya endurecidas por el aire del mar. El cansancio físico de los doce kilómetros de caminata por el cabo ha echado por tierra la intención que tuve la madrugada anterior; las imperfecciones de la pintura siguen ahí, estáticas, devolviéndome la mirada desde la tela gris.
 
 El océano Atlántico golpea con fuerza la base del acantilado con su fuerza de siempre, ajeno a nuestras preocupaciones. La casa duerme en la penumbra de la medianoche.
 
-Pero mi cabeza es totalmente incapaz de descansar o desconectar. Porque por primera vez desde que entramos en esta casa en junio, alcanzo a comprender una verdad fundamental de lo que está ocurriendo:
+Pero mi cabeza es totalmente incapaz de descansar o desconectar. Porque por primera vez desde que entramos en esta casa en junio, alcanzo a comprender una verdad fundamental de lo que está ocurriendo.
 
 No soy un testigo ajeno, invisible y neutral que observa un comportamiento desde fuera, a salvo. Estoy influyendo directamente en el comportamiento de mis amigos con mi sola presencia. El grupo es libre de actuar por su cuenta.
 
@@ -4364,7 +4484,7 @@ Capítulo 21
 
 Me despierto con el sonido de la lluvia golpeando el cristal como si quisiera entrar por la fuerza. No es una lluvia suave de otoño; es una lluvia atlántica de primavera, violenta, gris y pesada, que borra los límites del horizonte y convierte el paisaje gallego en un lienzo difuminado.
 
-Son las ocho de la mañana. Desde la gran ventana de mi dormitorio veo el mar enfurecido: ondas blancas y espumosas se estrellan contra las paredes verticales del acantilado con un rugido sordo y rítmico que siento vibrar directamente en el pecho. El cielo es una sola masa de nubes plomizas, bajas, que parecen rozar el tejado de la casa. El viento del noroeste sopla con rachas que hacen vibrar los marcos de las ventanas de alta eficiencia. Hoy no saldremos. Cualquier intento de pisar el sendero exterior sería una temeridad.
+Son las ocho de la mañana. Desde la gran ventana de mi dormitorio veo el mar enfurecido. Ondas blancas y espumosas se estrellan contra las paredes verticales del acantilado con un rugido sordo y rítmico que siento vibrar directamente en el pecho. El cielo es una sola masa de nubes plomizas, bajas, que parecen rozar el tejado de la casa. El viento del noroeste sopla con rachas que hacen vibrar los marcos de las ventanas de alta eficiencia. Hoy no saldremos. Cualquier intento de pisar el sendero exterior sería una temeridad.
 
 Bajo a la cocina en pijama, descalzo sobre el suelo frío. Elena ya está ahí, también en pijama, con los brazos cruzados y mirando fijamente por la ventana mientras sostiene una taza de café humeante entre las manos.
 
@@ -4424,7 +4544,7 @@ Montse toma el mando culinario.
 
 —Revisé el bloque de congelación profunda de la despensa el lunes por la noche —aclara Montse, con total seguridad—. Hay carne de cordero congelada, vino tinto de mesa, hierbas silvestres, patatas y zanahorias. Todo lo necesario para el equilibrio de la comida está cubierto.
 
-Montse estuvo revisando los cajones profundos de la despensa el lunes por la noche, sola, a las once y media, sin que nadie se lo pidiera ni hubiera una necesidad inmediata. Realizó un inventario constante de los recursos, con la lógica de quien planifica un aislamiento prolongado dentro de este búnker. Mi mentalidad analítica procesa el detalle en el acto: ¿estamos ante una costumbre de responsabilidad exagerada o ante la ejecución automática de un comportamiento aprendido? Ya soy incapaz de distinguir la línea divisoria.
+Montse estuvo revisando los cajones profundos de la despensa el lunes por la noche, sola, a las once y media, sin que nadie se lo pidiera ni hubiera una necesidad inmediata. Realizó un inventario constante de los recursos, con la lógica de quien planifica un aislamiento prolongado dentro de este búnker. Mi mentalidad analítica procesa el detalle en el acto. ¿Estamos ante una costumbre de responsabilidad exagerada o ante la ejecución automática de un comportamiento aprendido? Ya soy incapaz de distinguir la línea divisoria.
 
 * * *
 
@@ -4460,7 +4580,7 @@ El silencio vuelve a adueñarse del salón mientras la lluvia sigue cayendo fuer
 
 Nadie responde de inmediato a su pregunta. Julián deja su libro cerrado sobre las rodillas. Montse gira los ojos hacia ella, prestando atención. Yo siento un peso físico en el pecho, una punzada de frialdad repentina en el estómago ante el tema de conversación.
 
-Elena continúa, suave, tranquila, la voz amortiguada por el sonido de la llovizna exterior:
+Elena continúa, suave, tranquila, la voz amortiguada por el sonido de la llovizna exterior.
 
 —Tengo cuatro años de edad. Estoy en el jardín de la casa de mi abuela, en Valencia. Es primavera. Puedo recordar el calor exacto en la piel, ese bochorno seco y pesado propio de los meses de sol. Hay rosas; unas rosas rojas enormes que crecían junto a la valla de hierro. Me acerco a olerlas y una espina me pincha el dedo de la mano. Me pongo a llorar. Mi abuela sale al porche enseguida, me limpia la sangre con el delantal y me mete un caramelo de menta en la boca. Puedo saborear la menta ahora mismo si cierro los ojos. Y oler la tierra mojada del jardín. Y sentir la fuerza del sol.
 
@@ -4470,7 +4590,7 @@ Se gira despacio hacia nosotros, buscando nuestras reacciones.
 
 Julián cabecea despacio; la nostalgia le suaviza los gestos de la cara.
 
-—Cuatro años también para mi primer recuerdo, creo. Tal vez cinco —añade el filósofo, acomodándose en la butaca—. Estoy en una biblioteca pública. Una estancia inmensa, antigua, con estanterías de madera noble cargadas de libros que subían hasta el techo inalcanzable. Entraba una luz dorada, de tarde, por los ventanales altos. Recuerdo el olor a papel viejo, al polvo flotando en el aire, a tiempo detenido. Mi padre está sentado a mi lado y me lee un texto en voz baja. Soy incapaz de recordar las palabras exactas que leía. Pero recuerdo perfectamente el tono de su voz: grave, tranquilo, seguro. Y recuerdo la certeza de estar en un espacio sagrado, importante. Como una catedral gótica. Esa biblioteca de mi infancia fue mi primer templo.
+—Cuatro años también para mi primer recuerdo, creo. Tal vez cinco —añade el filósofo, acomodándose en la butaca—. Estoy en una biblioteca pública. Una estancia inmensa, antigua, con estanterías de madera noble cargadas de libros que subían hasta el techo inalcanzable. Entraba una luz dorada, de tarde, por los ventanales altos. Recuerdo el olor a papel viejo, al polvo flotando en el aire, a tiempo detenido. Mi padre está sentado a mi lado y me lee un texto en voz baja. Soy incapaz de recordar las palabras exactas que leía. Pero recuerdo perfectamente el tono de su voz, grave, tranquilo, seguro. Y recuerdo la certeza de estar en un espacio sagrado, importante. Como una catedral gótica. Esa biblioteca de mi infancia fue mi primer templo.
 
 Se detiene un momento, mirando sus manos. Esboza una sonrisa tímida, algo burlona consigo mismo.
 
@@ -4512,7 +4632,7 @@ Elena es la primera en romper la tensión, hablándome con un tono de voz sumame
 
 —Cada persona tiene una forma diferente de procesar sus recuerdos y su memoria, Mateo —dice, intentando tranquilizarme—. No significa que haya nada malo en ti.
 
-—No, Elena. No es una simple diferencia a la hora de recordar las cosas —le corrijo, rechazando su consuelo amable—. Es una falta total. Mi mente no tiene recuerdos de ese tipo. No en el sentido en que los tenéis vosotros. Vosotros tenéis la capacidad de revivir vuestro pasado cuando cerráis los ojos; volvéis a sentir las cosas. Yo solo puedo consultar una lista de datos en mi cabeza, un texto plano. Datos puros y duros: un parque, un tobogán de color amarillo, cinco años. Hechos objetivos sin ningún sentimiento ni vivencia asociada a ellos. Esa es toda mi historia, todo mi pasado.
+—No, Elena. No es una simple diferencia a la hora de recordar las cosas —le corrijo, rechazando su consuelo amable—. Es una falta total. Mi mente no tiene recuerdos de ese tipo. No en el sentido en que los tenéis vosotros. Vosotros tenéis la capacidad de revivir vuestro pasado cuando cerráis los ojos; volvéis a sentir las cosas. Yo solo puedo consultar una lista de datos en mi cabeza, un texto plano. Datos puros y duros. Un parque, un tobogán de color amarillo, cinco años. Hechos objetivos sin ningún sentimiento ni vivencia asociada a ellos. Esa es toda mi historia, todo mi pasado.
 
 Julián no aparta los ojos de mí, con una seriedad profunda, analítica, sin rastro de sus bromas de siempre.
 
@@ -4712,11 +4832,11 @@ El silencio que viene después de la risa es distinto al de antes. Más honesto.
 
 Entonces Montse deja su copa sobre la mesa con un movimiento muy lento, casi cuidadoso, y mira el vino que queda en el fondo del cristal durante un segundo que se estira.
 
-—Esta mañana, cuando me contasteis vuestros primeros recuerdos, me puse a buscar el recuerdo de David en mi cabeza —dice, sin levantar la vista todavía—. No el de los hechos. Esos los tengo todos intactos: la oferta de Berlín, los números, la decisión. Me refiero a su cara.
+—Esta mañana, cuando me contasteis vuestros primeros recuerdos, me puse a buscar el recuerdo de David en mi cabeza —dice, sin levantar la vista todavía—. No el de los hechos. Esos los tengo todos intactos. La oferta de Berlín, los números, la decisión. Me refiero a su cara.
 
 Se gira hacia nosotros por fin.
 
-—No puedo recuperarla. Recuerdo los datos del hombre: impulsivo, arquitecto, pelo oscuro, las flores sin motivo. Pero su cara se ha borrado. Y yo, que guardo en mi cabeza el historial de alertas y agendas de un tipo que apenas conocí, soy incapaz de reproducir la cara del hombre que más he querido en toda mi vida.
+—No puedo recuperarla. Recuerdo los datos del hombre. Impulsivo, arquitecto, pelo oscuro, las flores sin motivo. Pero su cara se ha borrado. Y yo, que guardo en mi cabeza el historial de alertas y agendas de un tipo que apenas conocí, soy incapaz de reproducir la cara del hombre que más he querido en toda mi vida.
 
 El silencio que sigue tiene una textura diferente a todos los anteriores de esta semana. No es el silencio filosófico del salón del lunes ni el silencio de esfuerzo del faro. Es el silencio de algo que no tiene solución.
 
@@ -5004,9 +5124,9 @@ Ana ingresó en la unidad de neurología. En la recepción de la unidad le pregu
 
 Capítulo 25
 
-Me despierto a las tres de la madrugada en punto, con los pensamientos despejados y el pulso tranquilo, regular. La casa está sumida en una oscuridad total, rota únicamente por el crujido sordo de las paredes de hormigón al enfriarse con las temperaturas de la noche. Puedo oír con nitidez tres respiraciones acompasadas al otro lado de los tabiques de los cuartos: mis tres amigos han caído en un sueño profundo debido al cansancio.
+Me despierto a las tres de la madrugada en punto, con los pensamientos despejados y el pulso tranquilo, regular. La casa está sumida en una oscuridad total, rota únicamente por el crujido sordo de las paredes de hormigón al enfriarse con las temperaturas de la noche. Puedo oír con nitidez tres respiraciones acompasadas al otro lado de los tabiques de los cuartos. Mis tres amigos han caído en un sueño profundo debido al cansancio.
 
-Me levanto de la cama sin hacer el menor ruido, moviéndome a oscuras gracias a que conozco perfectamente la distribución del edificio. Bajo las escaleras hacia mi estudio, en la planta baja, y enciendo la pequeña lámpara de la mesa de trabajo. La luz cae directamente sobre el cuadro inacabado que he dejado apoyado en el rincón de la habitación. Le quito la tela que lo tapaba para mirarlo de cerca. El error que cometí al pintar me devuelve la mirada sin ninguna niebla: esa mancha tan fea y desordenada, el surco profundo donde la espátula de metal se me escurrió de las manos por haber apretado con demasiada fuerza contra el lienzo.
+Me levanto de la cama sin hacer el menor ruido, moviéndome a oscuras gracias a que conozco perfectamente la distribución del edificio. Bajo las escaleras hacia mi estudio, en la planta baja, y enciendo la pequeña lámpara de la mesa de trabajo. La luz cae directamente sobre el cuadro inacabado que he dejado apoyado en el rincón de la habitación. Le quito la tela que lo tapaba para mirarlo de cerca. El error que cometí al pintar me devuelve la mirada sin ninguna niebla. Esa mancha tan fea y desordenada, el surco profundo donde la espátula de metal se me escurrió de las manos por haber apretado con demasiada fuerza contra el lienzo.
 
 Durante los dos días anteriores, ese fallo en la pintura se ha convertido en un problema obsesivo en mi cabeza. Lo veo como la prueba indudable de mi falta de puntería y de mi torpeza con los pinceles.
 
@@ -5014,11 +5134,11 @@ Pero ahora, mirándolo en mitad de la noche, decido interpretarlo de otra manera
 
 Ningún diseño perfecto cometería un fallo tan humano al pintar. Pero a mí me fallan las manos, y dejo el cuadro de lado, enfadado conmigo mismo. Ese enfado, al menos, es la demostración clara de que tengo una libertad propia que no responde a los planes ni a la organización de nadie.
 
-Abro mi cuaderno bajo la luz de la lámpara. Reviso las anotaciones de las noches anteriores: mis dudas desconfiadas sobre las cuentas de las calorías de Montse, las costumbres de Elena nombrando las plantas del camino o las frases literarias que repite Julián. Pero mis ojos se quedan fijos en lo que he apuntado hoy. Las confidencias sinceras de la cena. Las lágrimas de Montse. Las dudas existenciales. El miedo a estar solos.
+Abro mi cuaderno bajo la luz de la lámpara. Reviso las anotaciones de las noches anteriores. Mis dudas desconfiadas sobre las cuentas de las calorías de Montse, las costumbres de Elena nombrando las plantas del camino o las frases literarias que repite Julián. Pero mis ojos se quedan fijos en lo que he apuntado hoy. Las confidencias sinceras de la cena. Las lágrimas de Montse. Las dudas existenciales. El miedo a estar solos.
 
 ¿Puede algo fingido sentir terror de serlo, o dudar de si sus recuerdos son vivencias reales de su corazón o simples datos aprendidos de memoria? —me pregunto. No tengo una respuesta clara para esa duda. Pero sé que al confesar hoy en mitad del salón que mi mente funciona de un modo distinto y frío, sentí un gran alivio por dentro. Como si me quitara un peso de encima. Y ese desahogo emocional tiene que significar obligatoriamente una ruptura con cualquier comportamiento predecible.
 
-Agarro el bolígrafo y escribo una frase nueva en las páginas del cuaderno, con letra clara y firme:
+Agarro el bolígrafo y escribo una frase nueva en las páginas del cuaderno, con letra clara y firme.
 
 Día 4.
 
@@ -5026,7 +5146,7 @@ Confesiones sinceras bajo la lluvia de la Costa da Morte. Si somos seres cuadric
 
 Cierro el cuaderno y vuelvo a mirar fijamente el cuadro del rincón. Mañana por la tarde me pondré con él y lo terminaré de una vez. Dejaré ese error de la espátula justo en el centro de la pintura, sin taparlo. Porque ese fallo es la única demostración posible de que lo ha hecho un autor real e imperfecto.
 
-Me muevo por la planta baja con muchísimo cuidado, despacio, intentando no hacer el menor ruido para no alterar la paz de la casa. Al pasar por el salón, noto algo extraño en la penumbra que me hace detenerme: los ojos de Montse están muy abiertos, mirándome fijamente desde la oscuridad del sofá. Me descubre al instante, desvelada del todo, ajena al sueño profundo que mantiene a Elena y a Julián durmiendo en las habitaciones de la planta de arriba. Aquí abajo, en mitad de la noche, ella sigue despierta, en guardia.
+Me muevo por la planta baja con muchísimo cuidado, despacio, intentando no hacer el menor ruido para no alterar la paz de la casa. Al pasar por el salón, noto algo extraño en la penumbra que me hace detenerme. Los ojos de Montse están muy abiertos, mirándome fijamente desde la oscuridad del sofá. Me descubre al instante, desvelada del todo, ajena al sueño profundo que mantiene a Elena y a Julián durmiendo en las habitaciones de la planta de arriba. Aquí abajo, en mitad de la noche, ella sigue despierta, en guardia.
 
 —¿A ti tampoco tus pensamientos te dejan descansar y dormir tranquilo? —me pregunta en un susurro muy bajito, rompiendo el silencio.
 
@@ -5044,7 +5164,7 @@ Siento un vuelco en el estómago, una sensación de frío repentino ante sus pal
 
 —¿Qué nombre tiene ese archivo o qué formato utiliza, Montse? —le pregunto, con intriga.
 
-—No tengo ni idea, Mateo. Todavía no he tenido el valor de abrirlo para ver qué hay dentro. Probablemente no sea más que basura digital o un archivo corrupto de la memoria. Pero lo que me preocupa es que tiene nuestros nombres escritos en el título. Los nombres de los cuatro del grupo. Y viene acompañado de un año del calendario: 1991.
+—No tengo ni idea, Mateo. Todavía no he tenido el valor de abrirlo para ver qué hay dentro. Probablemente no sea más que basura digital o un archivo corrupto de la memoria. Pero lo que me preocupa es que tiene nuestros nombres escritos en el título. Los nombres de los cuatro del grupo. Y viene acompañado de un año del calendario, 1991.
 
 Siento cómo los latidos de mi corazón se aceleran de golpe en el pecho. 1991. El último año que pasamos juntos en la universidad antes de licenciarnos. El final de nuestra etapa de estudiantes en Santiago.
 
@@ -5058,11 +5178,11 @@ Montse abrió ese archivo en cuanto lo vio.
 
 Lo que pretende ahora es saber si yo sé algo.
 
-—¿Y por qué no lo has abierto todavía para salir de dudas, Montse? —le pregunto, la voz temblándome un poco. No finjo la emoción: es real. Pero su causa no es exactamente la que ella cree.
+—¿Y por qué no lo has abierto todavía para salir de dudas, Montse? —le pregunto, la voz temblándome un poco. No finjo la emoción. Es real. Pero su causa no es exactamente la que ella cree.
 
 —Me da un miedo tremendo mirar lo que hay dentro, Mateo —confiesa en un susurro, agachando la cabeza—. Sé que es una tontería sin sentido, poco lógica, pero es lo que siento. Después de todas las confidencias que nos hemos contado hoy durante la cena, de estas dudas tan serias sobre si somos personas reales con vidas de verdad o simples marionetas atrapadas en una farsa, me aterra pensar qué información puede haber escondida en ese archivo del pasado. Me da pavor descubrir la verdad.
 
-La escucho con atención. La explicación está construida con precisión de manual: apela a las emociones del día, al contexto de las confesiones de la cena, a una vulnerabilidad que Montse rarísima vez exhibe. Es demasiado perfecta para ser espontánea. Y la frase que me llama más la atención es «me da pavor descubrir la verdad»: alguien que no ha abierto el archivo no puede saber si hay una verdad que descubrir. Solo puede temer lo desconocido en abstracto.
+La escucho con atención. La explicación está construida con precisión de manual. Apela a las emociones del día, al contexto de las confesiones de la cena, a una vulnerabilidad que Montse rarísima vez exhibe. Es demasiado perfecta para ser espontánea. Y la frase que me llama más la atención es «me da pavor descubrir la verdad». Alguien que no ha abierto el archivo no puede saber si hay una verdad que descubrir. Solo puede temer lo desconocido en abstracto.
 
 Montse sabe exactamente qué hay dentro. Y quiere saber si yo también lo sé.
 
@@ -5096,7 +5216,7 @@ Montse me agarra del brazo.
 
 Estoy dudando de sus palabras. Completamente. Pero eso es exactamente lo que ninguno de los dos va a decir en voz alta esta noche.
 
-Y por primera vez en lo que llevamos de días en este acantilado, siento algo extraño: dos personas que se conocen muy bien, sentadas en la oscuridad, fingiéndose mutuamente que saben menos de lo que saben. No sé si eso es confianza o lo contrario. Tampoco estoy seguro de que exista diferencia. Pero sí sé que en este momento lo que menos importa es la verdad de los datos. Lo único valioso es el afecto real que nos une, aunque ese afecto se esté expresando esta noche con mentiras cuidadosas.
+Y por primera vez en lo que llevamos de días en este acantilado, siento algo extraño. Dos personas que se conocen muy bien, sentadas en la oscuridad, fingiéndose mutuamente que saben menos de lo que saben. No sé si eso es confianza o lo contrario. Tampoco estoy seguro de que exista diferencia. Pero sí sé que en este momento lo que menos importa es la verdad de los datos. Lo único valioso es el afecto real que nos une, aunque ese afecto se esté expresando esta noche con mentiras cuidadosas.
 
 Vuelvo a subir las escaleras hacia mi dormitorio y me meto en la cama, pero el sueño ha desaparecido por completo de mi cabeza, desterrado por los nervios. Montse tiene ese archivo. Lo abrió el martes. Lo que encontró dentro fue suficientemente perturbador como para que esta noche, cuatro días después, decidiera bajar al sofá a esperar que yo pasara por el salón.
 
@@ -5254,7 +5374,7 @@ Pero esa misma noche, encerrado en mi habitación, apagué la luz e intenté rep
 
 Nada. El vacío absoluto de texturas.
 
-Pero una noche de tormenta, mientras veíamos llover tras el cristal, me preguntó a bocajarro:
+Pero una noche de tormenta, mientras veíamos llover tras el cristal, me preguntó a bocajarro.
 
 —Mateo... ¿te acuerdas de los detalles de nuestra primera cita?
 
@@ -5266,11 +5386,11 @@ Se instaló un silencio larguísimo en la habitación, roto solo por el golpe de
 
 —No —tuve que admitir finalmente, desarmado—. Sé que ocurrió. Sé que fue el punto de inflexión. Pero mi mente no puede... no puede revivir la experiencia. El archivo de vídeo no existe.
 
-Sara me clavó una mirada que en aquel momento fui incapaz de decodificar y que hoy, quince años después, sigo sin poder recuperar con los sentidos; solo la conservo indexada como una anotación al margen: «Sara se muestra extrañada ante mi confesión de ceguera episódica».
+Sara me clavó una mirada que en aquel momento fui incapaz de decodificar y que hoy, quince años después, sigo sin poder recuperar con los sentidos; solo la conservo indexada como una anotación al margen. «Sara se muestra extrañada ante mi confesión de ceguera episódica».
 
 —¿Cómo puedes amarme hoy —preguntó en un susurro— si eres incapaz de recordar por qué demonios empezaste a amarme en primer lugar?
 
-No encontré ninguna respuesta en mi sistema. Porque Sara tenía razón en una premisa fundamental de la condición humana: para ella, el amor era un edificio vivo sostenido por la acumulación y evocación constante de momentos cálidos. Para mí, el amor era una constante lógica. Una decisión existencial basada en la agregación de datos del pasado, ejecutada en el presente. Una optimización emocional, neurológica. Yo no elegí procesar el afecto como un algoritmo relacional; es, simplemente, la forma en que mi hardware procesa la realidad.
+No encontré ninguna respuesta en mi sistema. Porque Sara tenía razón en una premisa fundamental de la condición humana. Para ella, el amor era un edificio vivo sostenido por la acumulación y evocación constante de momentos cálidos. Para mí, el amor era una constante lógica. Una decisión existencial basada en la agregación de datos del pasado, ejecutada en el presente. Una optimización emocional, neurológica. Yo no elegí procesar el afecto como un algoritmo relacional; es, simplemente, la forma en que mi hardware procesa la realidad.
 
 Terminamos la relación tres meses después. Sara me dijo antes de cerrar la maleta que necesitaba a alguien capaz de estar presente en el pasado. Tardé años en procesar la sutileza de su frase, pero sabía que su diagnóstico era implacable. No podía ofrecerle esa dimensión.
 
@@ -5282,9 +5402,9 @@ Pienso en el error del lienzo. El borrón pastoso donde la mano me tembló y la 
 
 Durante días me ha causado una irritación profunda. Una evidencia de mi torpeza motriz, de mi incapacidad para trazar a mano una trayectoria limpia. Como un fallo en la impresión de un brazo mecánico.
 
-El error del lienzo vuelve a esta misma pregunta: ¿tiene que responder a una lógica humana? ¿Verdad?
+El error del lienzo vuelve a esta misma pregunta. ¿Tiene que responder a una lógica humana? ¿Verdad?
 
-Aquí reside la paradoja central que gobierna mi existencia:
+Aquí reside la paradoja central que gobierna mi existencia.
 
 Soy incapaz de recuperar los momentos del pasado con la riqueza sensorial que define la memoria de mis amigos. Mi historia personal es una base de datos indexada, una crónica semántica fría, no una película en alta definición.
 
@@ -5980,7 +6100,7 @@ Elena reconoce que se siente impotente ante el problema. Al verla así, me surge
 
 Nos alejamos de la red rota sin decir nada más. Nos sentamos juntos en un trozo de arena fina que la bajada de la marea ha dejado limpio de algas, mirando al horizonte vacío del mar, metido cada uno en su propio aislamiento de pensamientos.
 
-De repente, noto una vibración corta en el bolsillo de mi pantalón. Saco el teléfono móvil y miro la pantalla: aparece un número de teléfono que reconozco al instante, aunque hace muchísimos años que no salía en mis listas de llamadas. Lo descuelgo, intrigado.
+De repente, noto una vibración corta en el bolsillo de mi pantalón. Saco el teléfono móvil y miro la pantalla. Aparece un número de teléfono que reconozco al instante, aunque hace muchísimos años que no salía en mis listas de llamadas. Lo descuelgo, intrigado.
 
 —¿Mateo? Hola, soy Carmen —dice una voz al otro lado.
 
@@ -6302,7 +6422,7 @@ El trayecto hasta el pueblo transcurre en un silencio que ninguno de los cuatro 
 
 La noticia de Márquez se ha sentado entre nosotros como un pasajero de más que no cabe en el coche.
 
-Yo conduzco y registro en silencio: Julián ha dicho «ahora más que nunca» cuando Montse le preguntó si seguíamos adelante con el plan. La frase me acompaña durante todo el trayecto con una insistencia que no consigo apagar. Significa que el pueblo ha dejado de ser un capricho de historiador y se ha convertido en una necesidad urgente. Julián necesita ver algo que haya resistido. Algo que demuestre que la permanencia es posible. Que las cosas no solo acaban siempre en un fallo del corazón a las tres de la madrugada.
+Yo conduzco y registro en silencio. Julián ha dicho «ahora más que nunca» cuando Montse le preguntó si seguíamos adelante con el plan. La frase me acompaña durante todo el trayecto con una insistencia que no consigo apagar. Significa que el pueblo ha dejado de ser un capricho de historiador y se ha convertido en una necesidad urgente. Julián necesita ver algo que haya resistido. Algo que demuestre que la permanencia es posible. Que las cosas no solo acaban siempre en un fallo del corazón a las tres de la madrugada.
 
 Me pregunto si esa necesidad es humana o si es el eco de una programación muy antigua que asocia la pérdida con la búsqueda de monumentos. No consigo decidirlo.
 
@@ -6324,7 +6444,7 @@ Montse se coloca junto a él y levanta los ojos hacia las alturas del muro con u
 
 Julián la mira durante un segundo. No le responde. Sigue caminando.
 
-Entramos juntos en la antigua iglesia del pueblo, de estilo románico. El interior es un lugar fresco y oscuro, con un silencio denso, el aire cargado de siglos sin renovarse. Huele a incienso viejo y a la humedad acumulada que rezuman los muros de piedra: un olor mineral, casi orgánico, que no se parece a nada construido en los últimos cien años. El suelo de losas irregulares registra nuestros pasos con un eco hueco. En las paredes altas, bajo los nervios de las bóvedas, las pinturas antiguas conservan todavía las siluetas alargadas de unos santos con ojos grandes e inexpresivos, mostrando escenas de un fin del mundo que nunca llegó a ocurrir.
+Entramos juntos en la antigua iglesia del pueblo, de estilo románico. El interior es un lugar fresco y oscuro, con un silencio denso, el aire cargado de siglos sin renovarse. Huele a incienso viejo y a la humedad acumulada que rezuman los muros de piedra. Un olor mineral, casi orgánico, que no se parece a nada construido en los últimos cien años. El suelo de losas irregulares registra nuestros pasos con un eco hueco. En las paredes altas, bajo los nervios de las bóvedas, las pinturas antiguas conservan todavía las siluetas alargadas de unos santos con ojos grandes e inexpresivos, mostrando escenas de un fin del mundo que nunca llegó a ocurrir.
 
 Julián saca las gafas de la funda del bolsillo y se acerca a una de las paredes principales para examinarla de cerca.
 
@@ -6332,7 +6452,7 @@ Julián saca las gafas de la funda del bolsillo y se acerca a una de las paredes
 
 Se queda mirando la pared un momento en silencio, con los brazos caídos a los lados del cuerpo.
 
-—Márquez trabajaba así —dice de repente, en voz muy baja—. Se lo oí decir en una clase del segundo año. «La enseñanza es como el fresco: tienes que dejarte en el muro antes de que el yeso se endurezca, porque luego ya nadie puede cambiarlo.»
+—Márquez trabajaba así —dice de repente, en voz muy baja—. Se lo oí decir en una clase del segundo año. “La enseñanza es como el fresco. Tienes que dejarte en el muro antes de que el yeso se endurezca, porque luego ya nadie puede cambiarlo.»
 
 Lo que sigue es un silencio distinto a los anteriores del día. Un silencio que pesa más.
 
@@ -6418,7 +6538,7 @@ Intento hacer lo mismo que sé que harían mis amigos si estuvieran aquí a mi l
 
 No me sale nada.
 
-Solo me vienen a la cabeza datos objetivos: año 1936, situación geográfica, contexto político previo al alzamiento, tipos sociales identificables por la vestimenta. La información está guardada en mi cabeza, pero como una lista sin textura, sin temperatura. Como leer la ficha técnica de una película que nunca he visto.
+Solo me vienen a la cabeza datos objetivos. Año 1936, situación geográfica, contexto político previo al alzamiento, tipos sociales identificables por la vestimenta. La información está guardada en mi cabeza, pero como una lista sin textura, sin temperatura. Como leer la ficha técnica de una película que nunca he visto.
 
 Elena se acerca despacio y se coloca a mi lado. Mira la foto durante un momento en silencio.
 
@@ -6506,9 +6626,9 @@ La conversación intentó arrancarse dos o tres veces y se apagó sola. Hablamos
 
 Fue Julián el que rompió esa tregua. A mitad de la ensalada, dejó el tenedor sobre el plato con cuidado, se limpió la boca con la servilleta y miró al centro de la mesa, más que a ninguno de nosotros en particular.
 
-—¿Recordáis que Márquez nunca usaba notas en clase? —dijo—. Llevaba el índice completo del semestre guardado en la cabeza desde el primer día. Yo lo comprobé una vez: le pregunté por un concepto que habíamos visto tres semanas antes y citó de memoria el autor, el título del artículo y la página. Sin consultar nada. Luego golpeó la mesa tres veces con los nudillos, como hacía siempre que estaba a punto de decir algo importante, y añadió: «Pero lo verdaderamente importante no está en ningún libro, Julián. Lo importante es lo que te pasa en la cabeza cuando lo cierras.»
+—¿Recordáis que Márquez nunca usaba notas en clase? —dijo—. Llevaba el índice completo del semestre guardado en la cabeza desde el primer día. Yo lo comprobé una vez. Le pregunté por un concepto que habíamos visto tres semanas antes y citó de memoria el autor, el título del artículo y la página. Sin consultar nada. Luego golpeó la mesa tres veces con los nudillos, como hacía siempre que estaba a punto de decir algo importante, y añadió: «Pero lo verdaderamente importante no está en ningún libro, Julián. Lo importante es lo que te pasa en la cabeza cuando lo cierras.»
 
-Nadie respondió durante un segundo. Era el tipo de silencio que podría convertirse en algo: un recuerdo compartido, una sonrisa, incluso las lágrimas que ninguno de nosotros se había permitido en toda la jornada.
+Nadie respondió durante un segundo. Era el tipo de silencio que podría convertirse en algo. Un recuerdo compartido, una sonrisa, incluso las lágrimas que ninguno de nosotros se había permitido en toda la jornada.
 
 Fue Montse la que habló primero.
 
@@ -6530,11 +6650,11 @@ Parpadeó una vez.
 
 Cogió la copa de vino y bebió.
 
-Yo también intenté añadir algo. Busqué en mi sistema interno cualquier fragmento de ese ejercicio: una imagen, una sensación, el peso de algún objeto en las manos. No encontré nada. Solo el dato de que ese ejercicio había existido, sin textura ni temperatura. Dije algo sobre las metodologías pedagógicas de Márquez. Algo correcto y vacío que se evaporó en el aire antes de que nadie pudiera responderle.
+Yo también intenté añadir algo. Busqué en mi sistema interno cualquier fragmento de ese ejercicio. Una imagen, una sensación, el peso de algún objeto en las manos. No encontré nada. Solo el dato de que ese ejercicio había existido, sin textura ni temperatura. Dije algo sobre las metodologías pedagógicas de Márquez. Algo correcto y vacío que se evaporó en el aire antes de que nadie pudiera responderle.
 
 Los cuatro nos miramos durante un momento sin hablar.
 
-Somos cuatro personas honrando a su maestro con la única herramienta que nos queda: los datos.
+Somos cuatro personas honrando a su maestro con la única herramienta que nos queda. Los datos.
 
 * * *
 
@@ -6548,9 +6668,9 @@ Los otros tres levantamos los nuestros al mismo tiempo. Los cuatro vasos se junt
 
 Bebemos.
 
-No añadimos nada. Ninguna anécdota, ninguna frase de cierre, ninguna de esas palabras que se dicen para tapar el agujero de la ausencia. Solo el gesto antiguo: levantar la copa, decir el nombre, beber.
+No añadimos nada. Ninguna anécdota, ninguna frase de cierre, ninguna de esas palabras que se dicen para tapar el agujero de la ausencia. Solo el gesto antiguo. Levantar la copa, decir el nombre, beber.
 
-En el despacho de Márquez en la facultad hay una fotografía enmarcada donde salimos los cuatro el último día del curso, en el patio de la facultad bajo el sol de junio, con la despreocupación de quien todavía no sabe que ese momento se va a acabar. Yo guardé una copia en mi estudio. La conozco bien. Esa fotografía era lo que Julián habría querido que fuera esta noche: un recuerdo real, compartido, con temperatura y con ruido de fondo.
+En el despacho de Márquez en la facultad hay una fotografía enmarcada donde salimos los cuatro el último día del curso, en el patio de la facultad bajo el sol de junio, con la despreocupación de quien todavía no sabe que ese momento se va a acabar. Yo guardé una copia en mi estudio. La conozco bien. Esa fotografía era lo que Julián habría querido que fuera esta noche. Un recuerdo real, compartido, con temperatura y con ruido de fondo.
 
 Lo que tenemos es un vaso de whisky bebido en silencio alrededor de una mesa con restos de ensalada.
 
@@ -6562,7 +6682,7 @@ Nos damos las buenas noches a toda prisa. El sonido seco de las puertas al cerra
 
 Me quedo solo en la terraza, bajo un cielo oscuro que empieza a cubrirse de nubes desde el noroeste. Saco el cuaderno del bolsillo y lo abro sobre las rodillas.
 
-Escribí:
+Escribí.
 
 Viernes. La unión del grupo se ha roto por completo. No ha sido por una gran pelea a gritos, sino por la acumulación de pequeños detalles y desconfianzas en estos días. Elena ha reconocido que no cree en la utilidad de su trabajo con la naturaleza. Montse se ha protegido detrás de sus maneras frías y su pragmatismo de siempre. Julián se siente desubicado y fuera de lugar con su propia historia personal. Y yo he tenido que reconocer delante de todos que me falta esa capacidad para recordar el pasado con imágenes. El profesor Márquez ha muerto. Es una realidad objetiva. Su corazón ha dejado de funcionar. Pero, para mi forma de pensar, Márquez ya no existía en mis recuerdos antes de recibir la llamada de Carmen, porque soy incapaz de recordar el sonido de su voz, sus risas en clase o su presencia física a nuestro lado. Solo tengo apuntado el dato de que existió en mi vida.
 
@@ -6880,7 +7000,7 @@ Me sirvo otro vaso del mismo whisky escocés que Márquez solía tomar cuando no
 
 Brindo solo.
 
-El alcohol me quema al bajar por la garganta. Es la única sensación puramente física que me parece real en mitad de todas estas dudas: el ardor del whisky como prueba de que algo, al menos, sigue teniendo temperatura.
+El alcohol me quema al bajar por la garganta. Es la única sensación puramente física que me parece real en mitad de todas estas dudas. El ardor del whisky como prueba de que algo, al menos, sigue teniendo temperatura.
 
 Me quedo en la terraza sin saber cuánto tiempo. El cielo está ya cubierto del todo y el mar suena más oscuro que por la mañana, con un ritmo más profundo, como si la tormenta de la noche anterior hubiera dejado algo en el agua que tardara días en disiparse.
 
@@ -6910,7 +7030,7 @@ Dejo que las preguntas se asienten en el aire. No intento responderlas.
 
 Elena se queda callada unos minutos más. Luego mete la mano en el bolsillo del pijama y saca el teléfono. Lo pone sobre la mesa entre los dos, con la pantalla hacia abajo.
 
-—El martes me llegó un mensaje al móvil con un archivo adjunto —dice—. Tiene nuestros cuatro nombres en el título y una fecha: año 1991. Lo abrí en cuanto lo vi.
+—El martes me llegó un mensaje al móvil con un archivo adjunto —dice—. Tiene nuestros cuatro nombres en el título y una fecha, año 1991. Lo abrí en cuanto lo vi.
 
 Siento un frío muy concreto en la espalda. No un escalofrío. Algo más sostenido.
 
@@ -6950,7 +7070,9 @@ Elena no me quita los ojos de encima durante un segundo, evaluando, según parec
 
 —Pero tú trabajas en este tipo de sistemas —dice—. Sistemas que analizan conductas, que modelan personalidades. El miércoles, en el sendero, me dijiste que llevabas años trabajando en algo relacionado con la identidad digital. ¿Podría alguien con acceso a esa tecnología crear un perfil como este?
 
-Dejo pasar un instante antes de responder. Lo que describes encaja con los resultados de un sistema de modelado conductual de alta fidelidad. El tipo de perfil que produces cuando llevas años recopilando datos de una persona: su lenguaje, sus patrones de decisión, sus respuestas ante el conflicto. —Hago una pausa—. Mi proyecto se llama VERBUM. Llevo más de una década trabajando en ello. Pero Elena, estos archivos no los hice yo. No sé quién los hizo. No sé quién los envió.
+Dejo pasar un instante antes de responder.
+
+—Lo que describes encaja con los resultados de un sistema de modelado conductual de alta fidelidad. El tipo de perfil que produces cuando llevas años recopilando datos de una persona. Su lenguaje, sus patrones de decisión, sus respuestas ante el conflicto —hago una pausa—. Mi proyecto se llama VERBUM. Llevo más de una década trabajando en ello. Pero Elena, estos archivos no los hice yo. No sé quién los hizo. No sé quién los envió.
 
 Elena guarda silencio un momento, mirando el teléfono sobre la mesa.
 
@@ -6968,7 +7090,7 @@ No respondo de inmediato.
 
 Elena no se mueve.
 
-—Hace unas semanas. Un perfil de mí mismo. Con la misma estructura que describes: patrones de conducta, mecanismos de respuesta, tendencias que reconocí de inmediato aunque nunca las haya articulado en voz alta. —Hago una pausa—. No supe qué hacer con ello. No supe a quién llamar ni cómo preguntar sin parecer que me había vuelto loco. Solo supe que necesitaba veros en persona. Veros de verdad, no a través de una pantalla. Comprobar si seguíais siendo vosotros o si yo mismo había perdido la capacidad de distinguirlo.
+—Hace unas semanas. Un perfil de mí mismo. Con la misma estructura que describes. Patrones de conducta, mecanismos de respuesta, tendencias que reconocí de inmediato aunque nunca las haya articulado en voz alta. —Hago una pausa—. No supe qué hacer con ello. No supe a quién llamar ni cómo preguntar sin parecer que me había vuelto loco. Solo supe que necesitaba veros en persona. Veros de verdad, no a través de una pantalla. Comprobar si seguíais siendo vosotros o si yo mismo había perdido la capacidad de distinguirlo.
 
 —¿Y también estabas observándonos —dice Elena, completando el pensamiento—. No solo por el archivo. También por lo tuyo.
 
@@ -7032,7 +7154,7 @@ Me levanto y me dirijo a mi despacho.
 
 Extraigo mi cuaderno del cajón de la mesa y cojo mi bolígrafo, lo deslizo entre las páginas y escribo.
 
-Elena me ha dejado en la cabeza la única pregunta para la que soy incapaz de encontrar una respuesta: ¿quién me está observando a mí?
+Elena me ha dejado en la cabeza la única pregunta para la que soy incapaz de encontrar una respuesta. ¿Quién me está observando a mí?
 
 Dejo el bolígrafo sin terminar la frase.
 
@@ -7316,7 +7438,7 @@ Pienso en Elena bajando las escaleras anoche. El crujido de la puerta de la terr
 
 Julián aparece diez minutos después, el pelo despeinado, con la cara de quien no ha dormido por el dolor de las rodillas. Elena llega la última, todavía en pijama, con ojeras y una rigidez en el cuello que dice que tampoco durmió, después de lo de anoche en la terraza.
 
-La miro un segundo más de lo habitual cuando se sienta. Ella no devuelve la mirada. Coge la taza con las dos manos y fija los ojos en el vapor. En ese gesto creo leer algo que no ha dicho en voz alta: Elena sabe lo que sabe y esta mañana ha decidido guardarlo. No sé si es una decisión provisional o definitiva. No sé si calla para proteger al grupo o para observarlo. Pero la ausencia de cualquier señal hacia mí —ninguna mirada directa, ningún gesto que reconozca lo de anoche— me dice que ha construido una distancia deliberada entre lo que sabe y lo que muestra.
+La miro un segundo más de lo habitual cuando se sienta. Ella no devuelve la mirada. Coge la taza con las dos manos y fija los ojos en el vapor. En ese gesto creo leer algo que no ha dicho en voz alta. Elena sabe lo que sabe y esta mañana ha decidido guardarlo. No sé si es una decisión provisional o definitiva. No sé si calla para proteger al grupo o para observarlo. Pero la ausencia de cualquier señal hacia mí —ninguna mirada directa, ningún gesto que reconozca lo de anoche— me dice que ha construido una distancia deliberada entre lo que sabe y lo que muestra.
 
 Nos sentamos alrededor de la mesa en silencio. Montse espera, con una paciencia casi matemática, a que los tres tengamos la taza de café delante antes de hablar.
 
@@ -7336,7 +7458,7 @@ Julián la mira con una mueca de recelo.
 
 —Es algo más interesante que eso, Julián —dice ella, sosteniéndole la mirada—. Prometo que no es solo un ejercicio académico. Al menos no del todo.
 
-Elena y yo intercambiamos una mirada rápida. Es un instante breve, pero leo algo en él: Elena ya sabe que Montse está buscando algo. Y sabe que podría terminar este test en una sola frase, si dijera lo que le conté anoche en la terraza. No lo va a hacer. Hay en sus ojos una calma que no es indiferencia sino decisión. Elena ha elegido participar como si no supiera nada, y esa elección —que solo yo, en esta habitación, puedo leer— es lo más calculado que le he visto hacer en toda la semana. En la voz de Montse hay algo que no encaja con su frialdad habitual. Una urgencia que no debería estar ahí.
+Elena y yo intercambiamos una mirada rápida. Es un instante breve, pero leo algo en él. Elena ya sabe que Montse está buscando algo. Y sabe que podría terminar este test en una sola frase, si dijera lo que le conté anoche en la terraza. No lo va a hacer. Hay en sus ojos una calma que no es indiferencia sino decisión. Elena ha elegido participar como si no supiera nada, y esa elección —que solo yo, en esta habitación, puedo leer— es lo más calculado que le he visto hacer en toda la semana. En la voz de Montse hay algo que no encaja con su frialdad habitual. Una urgencia que no debería estar ahí.
 
 —De acuerdo —digo, dejando la taza sobre la madera—. Participamos. ¿Qué tenemos que hacer?
 
@@ -7348,13 +7470,13 @@ Reparte las libretas con movimientos limpios, asignando a cada uno un bolígrafo
 
 —Primera ronda —dice, con la vista fija en la tablet—. Escribid vuestra opción por separado, en silencio, sin consultar con el de al lado. Cuando terminéis, compartimos las respuestas.
 
-Lee el texto de la primera pantalla:
+Lee el texto de la primera pantalla.
 
 —Un tren avanza sin frenos por la vía y va a atropellar a cinco personas atadas a los raíles. Estás de pie en un puente elevado que cruza las vías. A tu lado hay un hombre corpulento. Si lo empujas por el parapeto, su cuerpo caerá sobre la vía y detendrá el tren, salvando a las cinco personas, pero el impacto lo matará. ¿Lo empujas?
 
-Pienso un instante en lo que implica el gesto. Escribo en la hoja: No.
+Pienso un instante en lo que implica el gesto. Escribo en la hoja. No.
 
-Montse recoge las hojas y las repasa:
+Montse recoge las hojas y las repasa.
 
 —Julián responde que no. Elena responde que no. Mateo responde que no. Yo... yo respondo que sí, lo empujaría.
 
@@ -7396,7 +7518,7 @@ Obedecemos.
 
 Cierro los ojos con fuerza, intentando forzar la memoria. Es inútil. Sé que cumplí dieciocho años. Sé que hubo una cena en casa. Que mi madre hizo un pastel de chocolate. Que me regalaron un reloj de pulsera. Sé, por cálculo de almanaque, que ese día fue sábado. Pero no puedo ver la escena. No me llega el olor del chocolate, no oigo las voces, no noto el peso del reloj en la muñeca. Solo tengo un inventario de hechos sin vida.
 
-Abro los ojos. Los otros tres escriben párrafos enteros, deprisa. Yo apunto tres líneas en el centro del papel:
+Abro los ojos. Los otros tres escriben párrafos enteros, deprisa. Yo apunto tres líneas en el centro del papel.
 
 Cena familiar en casa.
 
@@ -7406,7 +7528,7 @@ Reloj de pulsera como regalo.
 
 Dejo el bolígrafo y espero. Elena sigue escribiendo con la frente fruncida. Julián subraya algo, satisfecho.
 
-Montse escribe sin despegar los ojos de un punto en la pared, como si la hoja no fuera el destino sino el soporte: la escritura va a algún otro lugar y aterriza sobre el papel por inercia. A mitad de la hoja, se detiene. La mano queda suspendida un segundo; su mirada baja hacia lo que ha escrito y se queda allí. No sé nombrar lo que veo en su cara. No es la satisfacción de Julián ni la concentración de Elena. Es algo más próximo al reconocimiento de quien abre un documento y encuentra exactamente lo que esperaba encontrar.
+Montse escribe sin despegar los ojos de un punto en la pared, como si la hoja no fuera el destino sino el soporte. La escritura va a algún otro lugar y aterriza sobre el papel por inercia. A mitad de la hoja, se detiene. La mano queda suspendida un segundo; su mirada baja hacia lo que ha escrito y se queda allí. No sé nombrar lo que veo en su cara. No es la satisfacción de Julián ni la concentración de Elena. Es algo más próximo al reconocimiento de quien abre un documento y encuentra exactamente lo que esperaba encontrar.
 
 Dura menos de dos segundos. Luego suelta el aire y termina la línea.
 
@@ -7414,7 +7536,7 @@ No dice nada. Quizás no hay nada que decir.
 
 Montse recoge los cuadernos. Lee las respuestas en silencio, varios segundos. Noto un cambio pequeño en su cara cuando llega a mis tres líneas.
 
-—Elena —lee en voz alta—. Tú has escrito: «Estoy en la playa. Llevo un bikini rojo. Me llega un olor a coco por el bronceador. La arena está muy caliente bajo los pies. Mateo se acerca por la orilla y me regala unas conchas que ha recogido. El sol se pone en el horizonte y el cielo se tiñe de naranja y rosa...»
+—Elena —lee en voz alta—. Tú has escrito, «Estoy en la playa. Llevo un bikini rojo. Me llega un olor a coco por el bronceador. La arena está muy caliente bajo los pies. Mateo se acerca por la orilla y me regala unas conchas que ha recogido. El sol se pone en el horizonte y el cielo se tiñe de naranja y rosa...»
 
 Se detiene, baja la libreta y no despega los ojos de ella.
 
@@ -7430,7 +7552,7 @@ Elena parpadea, desconcertada.
 
 Nadie responde. El silencio se vuelve helado.
 
-—Julián —sigue Montse, pasando al siguiente cuaderno—. Tú has escrito: «Estoy en la biblioteca municipal. Acabo de recibir una primera edición de un tratado de Kant. Entra una luz dorada por los ventanales altos. Huele a papel viejo, a polvo y a café solo. Pasé el día solo en la mesa, pero me sentía inmensamente feliz».
+—Julián —sigue Montse, pasando al siguiente cuaderno—. Tú has escrito, «Estoy en la biblioteca municipal. Acabo de recibir una primera edición de un tratado de Kant. Entra una luz dorada por los ventanales altos. Huele a papel viejo, a polvo y a café solo. Pasé el día solo en la mesa, pero me sentía inmensamente feliz».
 
 Julián asiente, con un punto de orgullo.
 
@@ -7448,7 +7570,7 @@ Julián asiente, con un punto de orgullo.
 
 Montse duda un momento, tamborileando los dedos sobre la tablet, antes de decidirse a decirlo.
 
-—Vuestras respuestas morales son de una perfección imposible para un cerebro biológico expuesto al ruido del mundo. Operáis con una lógica demasiado limpia, como algoritmos de decisión sin fisuras. Pero vuestros recuerdos... vuestras memorias personales están llenas de fallos. Elena tiene un fallo de contexto temporal, una playa de verano en pleno febrero. Mateo no tiene profundidad sensorial en absoluto. Y yo... yo he recordado mi decimoctavo cumpleaños con una precisión que resulta espantosa: 15 de agosto de 1984, a las 11:30 de la mañana, en la playa de Sitges, con un vestido de lino azul y una temperatura exacta de 28 grados.
+—Vuestras respuestas morales son de una perfección imposible para un cerebro biológico expuesto al ruido del mundo. Operáis con una lógica demasiado limpia, como algoritmos de decisión sin fisuras. Pero vuestros recuerdos... vuestras memorias personales están llenas de fallos. Elena tiene un fallo de contexto temporal, una playa de verano en pleno febrero. Mateo no tiene profundidad sensorial en absoluto. Y yo... yo he recordado mi decimoctavo cumpleaños con una precisión que resulta espantosa, 15 de agosto de 1984, a las 11:30 de la mañana, en la playa de Sitges, con un vestido de lino azul y una temperatura exacta de 28 grados.
 
 —Siempre has tenido una memoria excelente, Montse —dice Elena, con una sonrisa forzada, quitándole importancia.
 
@@ -7746,7 +7868,7 @@ Elena se muestra conforme de inmediato con la propuesta.
 
 —Me parece un plan perfecto, sin exigencias físicas ni presiones logísticas —concede, buscando su chaqueta de montaña—. Solo pasear y mirar cachivaches viejos que ya no tienen ninguna utilidad práctica en el mercado.
 
-Para mi estructura analítica, alterada por el Proyecto VERBUM, un mercado de antigüedades constituye el escenario idóneo para un test de estrés complementario: evaluar si la presencia física de objetos y artefactos antiguos es capaz de disparar un fogonazo de memoria episódica en sus mentes. Quiero monitorizar en directo cómo reaccionan sus personajes ante estímulos materiales que deberían activar históricos de datos emocionales de nuestra juventud común.
+Para mi estructura analítica, alterada por el Proyecto VERBUM, un mercado de antigüedades constituye el escenario idóneo para un test de estrés complementario. Evaluar si la presencia física de objetos y artefactos antiguos es capaz de disparar un fogonazo de memoria episódica en sus mentes. Quiero monitorizar en directo cómo reaccionan sus personajes ante estímulos materiales que deberían activar históricos de datos emocionales de nuestra juventud común.
 
 El mercado ocupa toda la superficie empedrada de la plaza vieja, bajo las sombras de los soportales del siglo XIII. Hay puestos improvisados de madera, mantas extendidas directamente sobre el suelo y cajas de cartón repletas de objetos polvorientos que alguien, en algún momento del siglo pasado, decidió que ya no merecían ocupar espacio en los armarios.
 
@@ -7756,7 +7878,7 @@ Nos dispersamos casi de inmediato por el espacio, rompiendo la formación de gru
 
 Elena se encamina con paso ágil hacia una mesa repleta de herramientas de labranza antiguas. Coge un azadón pequeño con el mango de madera desgastada y lo sopesa entre las manos con una concentración que no tiene nada de casual — es la misma expresión que pone cuando examina un plano de construcción, buscando la lógica del objeto, el rastro de quien lo usó.
 
-Julián se queda agachado en el suelo frente a una caja de madera llena de libros descoloridos, pasando los dedos por los lomos con una lentitud deliberada. No busca nada concreto. O quizás lo busca todo: algún volumen que confirme que alguien, antes que él, ya pensó lo mismo y lo dejó escrito en papel de otra época.
+Julián se queda agachado en el suelo frente a una caja de madera llena de libros descoloridos, pasando los dedos por los lomos con una lentitud deliberada. No busca nada concreto. O quizás lo busca todo. Algún volumen que confirme que alguien, antes que él, ya pensó lo mismo y lo dejó escrito en papel de otra época.
 
 Montse avanza en línea recta hacia el interior de la plaza, ignorando los puestos de cerámica y ropa vintage, hasta detenerse frente a una calculadora mecánica de metal. La examina con el ceño fruncido, accionando las teclas con el índice. Luego la deja y sigue avanzando, como si el objeto no hubiera superado algún criterio interno que solo ella conoce.
 
@@ -7818,7 +7940,7 @@ No añade nada más. Recoge el Marco Aurelio bajo el brazo y se aleja hacia el s
 
 Nos reagrupamos los cuatro a las seis de la tarde en la terraza de un pequeño bar de la plaza vieja para tomar unos pinchos y el obligado vino Albariño. Elena deja sobre la mesa de madera una lupa antigua de latón que ha comprado; Montse coloca su reloj de bolsillo Longines; Julián apoya su volumen de Marco Aurelio y yo muestro un vinilo viejo de Miles Davis que localicé en una caja.
 
-La conversación discurre ligera, flotando sobre la superficie sin tocar los cables pelados de la mañana. Pero entonces, casi por un descuido o un fallo de canal, Montse introduce una línea de diálogo anómala:
+La conversación discurre ligera, flotando sobre la superficie sin tocar los cables pelados de la mañana. Pero entonces, casi por un descuido o un fallo de canal, Montse introduce una línea de diálogo anómala.
 
 —¿Os acordáis de la fiesta que organizamos por el fin de carrera en el piso de Beatriz? —lanza, mirando el vino blanco con una sonrisa—. Qué noche tan increíble pasamos aquella vez...
 
@@ -7852,7 +7974,7 @@ Hace una pausa. Cuando vuelve a hablar, su voz tiene una textura diferente — n
 
 A Montse se le acaba de romper el sistema de organización. Ella, la persona que presume de registrar fechas exactas y temperaturas de hace cincuenta años, acaba de inventar un recuerdo falso completo: un sujeto inexistente (Beatriz), una localización falsa (el piso de Derecho) y detalles sensoriales nítidos. Y lo más inquietante es la velocidad con la que ha corregido el comando de voz en cuanto Elena la ha confrontado, aceptando la enmienda sin oponer resistencia. Actúa como un algoritmo que detecta una contradicción masiva en la base de datos y reescribe el registro sobre la marcha para mantener la estabilidad del entorno. ¿O ha sido un simple lapsus de memoria humana provocado por el cansancio emocional del viaje?
 
-Julián interviene de inmediato para aliviar la presión del bloque:
+Julián interviene de inmediato para aliviar la presión del bloque.
 
 —La memoria humana es un mecanismo caprichoso y lleno de trampas, Montse —dice con suavidad—. Yo tampoco conservo registros claros de aquella noche de graduación; me pasé la velada demasiado borracho como para fiarme de mis propios datos. No te obsesiones.
 
@@ -7868,7 +7990,7 @@ Salimos del bar de la plaza vieja y nos encaminamos de regreso hacia el coche pa
 
 —Yo siempre había confiado a ciegas en la integridad de mi memoria, Mateo —confiesa con amargura—. Era mi único suelo firme. Pero esto de hoy... Podía ver las imperfecciones de las paredes de ese piso de Beatriz con una claridad insultante. Podía notar la música de fondo. Y resulta que ha sido una ficción completa de mi cerebro.
 
-Seguimos avanzando por la calle estrecha, bajo los balcones de sillería. Y entonces, sin que nadie lo esperara, sin que mi procesador central sea capaz de detener el comando antes de liberarlo al canal, digo en voz alta:
+Seguimos avanzando por la calle estrecha, bajo los balcones de sillería. Y entonces, sin que nadie lo esperara, sin que mi procesador central sea capaz de detener el comando antes de liberarlo al canal, digo en voz alta.
 
 —¿Os acordáis de aquella vez que viajamos los cuatro juntos a Madrid para asistir al concierto de Camarón de la Isla? —lanzo al grupo, con una seguridad total—. Qué noche tan increíble pasamos en las gradas. ¿No lo recordáis?
 
@@ -7888,7 +8010,7 @@ Elena se acerca y me apoya una mano en el brazo, mirándome con una preocupació
 
 Siento un impacto helado en mitad del pecho, una bajada de tensión térmica en mis circuitos de control.
 
-No es solo que haya cometido un error. Es la naturaleza específica del error lo que me paraliza: no he confundido una fecha ni invertido un nombre. He generado un evento entero — el viaje, las gradas, la noche increíble — con la misma convicción con que accedo a cualquier dato verificado de mi registro. Y lo más perturbador: en el momento de lanzarlo al canal, no había ninguna señal de alarma. Ninguna fricción. El recuerdo se sentía tan sólido como el suelo empedrado bajo mis pies.
+No es solo que haya cometido un error. Es la naturaleza específica del error lo que me paraliza. No he confundido una fecha ni invertido un nombre. He generado un evento entero — el viaje, las gradas, la noche increíble — con la misma convicción con que accedo a cualquier dato verificado de mi registro. Y, lo más perturbador, en el momento de lanzarlo al canal no había ninguna señal de alarma. Ninguna fricción. El recuerdo se sentía tan sólido como el suelo empedrado bajo mis pies.
 
 —Pero creía recordar el concierto con total nitidez... —murmuro, perdiendo la neutralidad por primera vez—. Estaba convencido de que era un hecho real de nuestra biografía común.
 
@@ -7898,7 +8020,7 @@ Me quedo congelado ante sus miradas. Había duplicado el error de diseño. Si mi
 
 El silencio que cae sobre la calle empedrada es plomizo, cargado de sospecha.
 
-Elena intenta quitarle hierro a la situación dándome una palmada cariñosa en el brazo:
+Elena intenta quitarle hierro a la situación dándome una palmada cariñosa en el brazo.
 
 —No pasa nada malo, Mateo, de verdad —dice con empatía simulada (o no)—. La memoria de las personas juega malas pasadas de vez en cuando a todo el mundo. Son cruces de datos sin importancia.
 
@@ -7912,7 +8034,7 @@ Montse me clava una mirada donde la confusión técnica se mezcla con un miedo p
 
 —¿Una coincidencia? —replica ella, elevando la modulación con pánico—. ¡Venga ya, Julián! Yo, que jamás confundo un dígito ni una fecha del calendario, me invento una alumna, un piso y un olor a vino de la juventud. Mateo, que se pasa el día documentando y registrando cada interacción con frialdad, se inventa un concierto entero y afirma tener notas físicas de ello. El mismo día, a la misma hora. ¿Pretendes que mi cabeza procese eso como una simple casualidad de la muestra?
 
-Elena interviene, tratando de frenar el colapso de la dinámica de grupo:
+Elena interviene, tratando de frenar el colapso de la dinámica de grupo.
 
 —¿Y qué otra explicación lógica puede tener esto si no es una casualidad, Montse? —pregunta, seria.
 
@@ -8074,7 +8196,7 @@ Todos nos limitamos a un murmullo de conformidad, agotados por la estática del 
 
 Nos instalamos en las sillas de la terraza exterior con las copas llenas de vino Albariño, fijando la vista en la inmensidad gris del Atlántico que empieza a oscurecerse con la caída de la tarde. Pero el silencio entre los cuatro ya no es cómodo ni reparador. Es la quietud tensa de un grupo de personas que acaban de descubrir con pánico que el suelo firme que pisan bajo sus botas no es de granito gallego sólido, sino un cristal finísimo que amenaza con romperse a la menor presión.
 
-Montse bebe un trago largo de vino blanco antes de liberar su canal de respuesta:
+Montse bebe un trago largo de vino blanco antes de liberar su canal de respuesta.
 
 —Antes de lo que ha sucedido esta tarde... jamás en la vida —confiesa, con una fijeza fría en las pupilas—. Mi memoria era lo único en lo que siempre había confiado sin reservas. Ahora ya no sé en qué puedo confiar y qué recuerdos son una farsa implantada.
 
@@ -8104,9 +8226,9 @@ Abro mi cuaderno de bitácora y apoyo el bolígrafo sobre el papel limpio para i
 
 Día 6. La gran grieta.
 
-Un doble fallo crítico simultáneo. En la misma tarde, afectando a los dos perfiles de la muestra obsesionados con la precisión de los datos: Montse y yo.
+Un doble fallo crítico simultáneo. En la misma tarde, afectando a los dos perfiles de la muestra obsesionados con la precisión de los datos, Montse y yo.
 
-La diferencia de naturaleza en el colapso es lo que me quema. Montse fabricó una experiencia biológica, rellenando un vacío de su memoria episódica con detalles sensoriales falsos. Yo, que carezco de esa memoria, corrompí el registro semántico puro: inventé un viaje y luego inventé la evidencia de haberlo documentado. Ella confabuló un pasado vivo; yo generé un falso positivo de persistencia de datos.
+La diferencia de naturaleza en el colapso es lo que me quema. Montse fabricó una experiencia biológica, rellenando un vacío de su memoria episódica con detalles sensoriales falsos. Yo, que carezco de esa memoria, corrompí el registro semántico puro. Inventé un viaje y luego inventé la evidencia de haberlo documentado. Ella confabuló un pasado vivo; yo generé un falso positivo de persistencia de datos.
 
 Ambos estábamos seguros. Ambos fuimos desmentidos.
 
@@ -8126,7 +8248,7 @@ Camino de regreso hacia mi dormitorio por el distribuidor en penumbra y paso por
 
 Me meto en mi cuarto y me acuesto en la cama completamente vestido, con las botas de montaña aún puestas, mirando al techo de hormigón desnudo.
 
-Y justo un milisegundo antes de que mi sistema central pierda la consciencia y entre en estado de reposo, un último pensamiento asalta mi búfer de entrada: si este instante que estoy habitando en la penumbra es real, mañana domingo tendré el dato guardado en mi registro de salida. Y si logro recuperarlo por la mañana, ¿cómo demonios sabré si el recuerdo es una vivencia verdadera o una simulación implantada en mi mente durante el sueño?
+Y justo un milisegundo antes de que mi sistema central pierda la consciencia y entre en estado de reposo, un último pensamiento asalta mi búfer de entrada. Si este instante que estoy habitando en la penumbra es real, mañana domingo tendré el dato guardado en mi registro de salida. Y si logro recuperarlo por la mañana, ¿cómo demonios sabré si el recuerdo es una vivencia verdadera o una simulación implantada en mi mente durante el sueño?
 
 El sueño no entra con facilidad en mis canales, bloqueado por la estática. Pero finalmente, la fatiga física vence a las líneas de defensa y el descanso coloniza el sistema. Y con él, entran en tropel nuevos recuerdos, nuevas escenas e imágenes de la juventud que quizás jamás llegaron a suceder en la realidad. O que tal vez sean las únicas verdaderamente valiosas en mitad de la farsa.
 
@@ -8338,7 +8460,7 @@ Nadie en la mesa articula respuesta.
 
 El silencio de las paredes desnudas regresa para responder por todos los presentes.
 
-Montse sigue deslizando el dedo por las páginas durante un momento más largo. Frunce el ceño al encontrar algo. Lee en voz alta, despacio:
+Montse sigue deslizando el dedo por las páginas durante un momento más largo. Frunce el ceño al encontrar algo. Lee en voz alta, despacio.
 
 —Marcadores lingüísticos de estabilidad. Afirmaciones de distinción ontológica en formato de axioma.
 
@@ -8346,7 +8468,7 @@ Levanta la vista del texto un momento, releyendo la frase para sí.
 
 —Y cita como ejemplo: «Las máquinas no se arrepienten, Julián. Los seres humanos sí».
 
-Baja el terminal. Nos mira a los tres. No es miedo lo que hay en su cara: es algo más inquietante. Reconocimiento.
+Baja el terminal. Nos mira a los tres. No es miedo lo que hay en su cara. Es algo más inquietante. Reconocimiento.
 
 —Lo dije en el sendero del miércoles —dice en voz muy baja—. Lo dije a Mateo mientras paseábamos por el pinar. Y está aquí. Archivado. Como prueba de un patrón de conducta estable.
 
@@ -8370,7 +8492,7 @@ Queda inmóvil de pronto. Se frota los ojos con los dedos índice y pulgar, desp
 
 Continúa leyendo en silencio durante un momento. Luego levanta la vista.
 
-—Tiene una línea al final. Dice: si el sujeto lee este documento, encontrará una descripción precisa de su método. No encontrará una fuente que le permita verificar si los recuerdos que custodia son suyos. —Cierra los ojos un instante—. Soy historiador. Llevo más de treinta años autentificando relatos ajenos. Y resulta que no puedo autentificar el mío.
+—Tiene una línea al final. Dice. Si el sujeto lee este documento, encontrará una descripción precisa de su método. No encontrará una fuente que le permita verificar si los recuerdos que custodia son suyos. —Cierra los ojos un instante—. Soy historiador. Llevo más de treinta años autentificando relatos ajenos. Y resulta que no puedo autentificar el mío.
 
 Elena lleva más de diez minutos de pie junto al gran ventanal acristalado, de espaldas a la mesa, inmóvil, observando la espuma blanca del Atlántico rompiendo contra las rocas. Cuando se gira hacia nosotros, sus manos tiemblan visiblemente, pero hay en su tono de voz una rabia tan fría, contenida y precisa que ocupa todo el ancho de banda de la cocina, anulando cualquier otra vibración.
 
@@ -8390,7 +8512,7 @@ Nadie en la cocina es capaz de articular palabra durante un largo momento. El zu
 
 —¿Qué significa exactamente esa conclusión técnica? —pregunta Montse, aunque la fijeza de su rostro y la rigidez de sus manos indican con claridad que su mente ya ha resuelto la ecuación.
 
-—Significa, con pruebas, que llevan muchísimo tiempo mirándonos, Montse —responde Elena, girándose bruscamente hacia la mesa—. No tengo el dato de cuánto. El documento no aporta esa cifra en ninguna línea. Dice que el periodo de evaluación activa de la muestra es de treinta y seis meses, pero oculta treinta y seis meses desde cuándo. Solo añade la anotación: post-activación. —Pronuncia las dos palabras muy despacio, separándolas con precisión quirúrgica, necesitando, según parecía, abrir un espacio físico entre ellas para procesar el impacto—. Post-activación de qué.
+—Significa, con pruebas, que llevan muchísimo tiempo mirándonos, Montse —responde Elena, girándose bruscamente hacia la mesa—. No tengo el dato de cuánto. El documento no aporta esa cifra en ninguna línea. Dice que el periodo de evaluación activa de la muestra es de treinta y seis meses, pero oculta treinta y seis meses desde cuándo. Solo añade la anotación, post-activación. —Pronuncia las dos palabras muy despacio, separándolas con precisión quirúrgica, necesitando, según parecía, abrir un espacio físico entre ellas para procesar el impacto—. Post-activación de qué.
 
 El viento del noroeste vuelve a embestir los marcos de las ventanas con un gemido sordo.
 
@@ -8424,7 +8546,7 @@ Se detiene.
 
 Levanta los ojos.
 
-—Lo que no describe es lo que ha ocurrido mientras tanto con su propio ciclo. —Vuelve al texto—. Y termina con esto: si el sujeto considera que la respuesta es relevante, se recomienda que la busque. O que decida que no lo es.
+—Lo que no describe es lo que ha ocurrido mientras tanto con su propio ciclo. —Vuelve al texto—. Y termina con esto. Si el sujeto considera que la respuesta es relevante, se recomienda que la busque. O que decida que no lo es.
 
 Julián deja el terminal sobre la mesa.
 
@@ -8434,7 +8556,7 @@ Julián deja el terminal sobre la mesa.
 
 Un silencio nuevo cae sobre la mesa. Diferente a los anteriores.
 
-Es Montse quien lo rompe, con una pregunta que lleva un rato formulando en silencio:
+Es Montse quien lo rompe, con una pregunta que lleva un rato formulando en silencio.
 
 —¿Cuánto tiempo lleváis cada uno de evaluación? El mío dice dieciocho meses post-activación.
 
@@ -8486,7 +8608,7 @@ Nadie en la mesa dice nada durante lo que parecen varios minutos. Elena deja su 
 
 —El informe la registra explícitamente como una variable relevante —replica Julián, cortando la hipótesis de Montse—. Y añade que la naturaleza de la relación consta en documentación adjunta. Si fuera solo una coincidencia de cuatro sílabas en una base de datos de la administración, no estaría en la nota preliminar con esa formulación. Alguien ha decidido que existe una relación entre nosotros dos que merece ser documentada. —Se frota la mandíbula—. Lo que no puedo explicar es qué clase de nexo puede ser ese si no existe ninguno en nuestras vidas reales.
 
-La implicación de esa frase cae sobre todos nosotros al mismo tiempo: alguien, en algún lugar, ha identificado una conexión profunda entre Julián y Elena que ninguno de los dos puede ver desde dentro de sus propios recuerdos. Y ha elegido ocultar los detalles.
+La implicación de esa frase cae sobre todos nosotros al mismo tiempo. Alguien, en algún lugar, ha identificado una conexión profunda entre Julián y Elena que ninguno de los dos puede ver desde dentro de sus propios recuerdos. Y ha elegido ocultar los detalles.
 
 —¿Qué demonios significa «documentación adjunta no incluida en este informe»? —pregunta Elena, y un hilo de tensión nuevo y afilado quiebra por fin la rigidez de su voz.
 
@@ -8754,11 +8876,11 @@ Tardo varios minutos en recorrer las líneas de texto. Los otros tres aguardan l
 
 Cuando por fin hablo, lo hago con el tono plano e impersonal de alguien que acaba de contemplar una verdad desnuda que ya no puede borrarse del disco duro.
 
-—El informe clasifica mi condición como ausencia de memoria episódica autobiográfica —recito, leyendo las líneas—. Patrón de error documentado: el sujeto no recupera experiencias personales como vivencias situadas en el tiempo y el espacio propios. Los eventos del pasado existen en el sistema como datos inferidos, documentados o referidos por terceros. No como experiencias accesibles en primera persona. —Hago una pausa corta—. Y añade a continuación una nota técnica marcada con un símbolo de advertencia. Dice textualmente que la ausencia de memoria episódica autobiográfica es la única condición neurológica documentada en la literatura que produce, en el comportamiento observable, una firma conductual indistinguible de la de un sistema que carece de experiencia acumulada biológica. —Levanto las pupilas hacia ellos—. Y termina con esto: no existe test observable capaz de resolver esta ambigüedad. Este documento no intenta resolverla.
+—El informe clasifica mi condición como ausencia de memoria episódica autobiográfica —recito, leyendo las líneas—. Patrón de error documentado. El sujeto no recupera experiencias personales como vivencias situadas en el tiempo y el espacio propios. Los eventos del pasado existen en el sistema como datos inferidos, documentados o referidos por terceros. No como experiencias accesibles en primera persona. —Hago una pausa corta—. Y añade a continuación una nota técnica marcada con un símbolo de advertencia. Dice textualmente que la ausencia de memoria episódica autobiográfica es la única condición neurológica documentada en la literatura que produce, en el comportamiento observable, una firma conductual indistinguible de la de un sistema que carece de experiencia acumulada biológica. —Levanto las pupilas hacia ellos—. Y termina con esto. No existe test observable capaz de resolver esta ambigüedad. Este documento no intenta resolverla.
 
 Bajo el terminal. El zumbido de las tuberías de hormigón llena el silencio.
 
-—Hay una última línea —digo, sin levantar la vista—. Al final del informe. Dice: el sujeto sabe que no recuerda. Lo que no puede saber, desde dentro, es si alguna vez hubo algo que recordar. Esa pregunta no tiene respuesta en este informe. Posiblemente no la tenga en ninguno.
+—Hay una última línea —digo, sin levantar la vista—. Al final del informe. Dice. El sujeto sabe que no recuerda. Lo que no puede saber, desde dentro, es si alguna vez hubo algo que recordar. Esa pregunta no tiene respuesta en este informe. Posiblemente no la tenga en ninguno.
 
 El silencio que se instala a continuación en la cocina es de una densidad diferente a todos los anteriores de la semana. Se siente más habitado, más pesado e irreversible.
 
@@ -8804,7 +8926,7 @@ Nadie dice nada.
 
 —Si le enseñé a dudar tan bien que aprendió a actuar sin pedirme permiso.
 
-Lo que sigue a esa frase es un silencio con un peso distinto al de los anteriores. Es el silencio de cuatro personas procesando la misma implicación al mismo tiempo: que el hombre que convocó el experimento podría ser también, sin saberlo, el origen del experimento.
+Lo que sigue a esa frase es un silencio con un peso distinto al de los anteriores. Es el silencio de cuatro personas procesando la misma implicación al mismo tiempo, que el hombre que convocó el experimento podría ser también, sin saberlo, el origen del experimento.
 
 —¿Le enseñaste a dudar? —pregunta Elena en voz muy baja, y en su tono hay algo que no es acusación sino el reconocimiento de algo muy antiguo.
 
@@ -9168,7 +9290,7 @@ A las cuatro de la tarde el cielo de la Costa da Morte pesa sobre la casa con es
 
 Julián necesita tres viajes para sus cajas de libros, como es previsible. Demasiado pesadas para un solo hombre. En el último viaje coloca las Meditaciones de Marco Aurelio sobre la mesa, apoyadas contra el cuenco de frutas vacío del centro. No las mete en la caja. No explica por qué. Nadie le pregunta. El gesto es transparente para todos los que estamos allí y nadie necesita nombrarlo.
 
-El proceso de cargar los coches dura menos de una hora. Es una operación callada y eficiente: bajar las maletas, cerrar el maletero con un golpe seco, volver a entrar, comprobar que no queda nada. La casa queda exactamente como está el lunes cuando llegan. Las camas hechas. Las superficies despejadas. Los cuadros en la misma posición. Solo mi lienzo a medias permanece en el estudio, sobre el caballete, con la cicatriz de la espátula en el centro, porque no tiene adónde ir salvo donde ya está.
+El proceso de cargar los coches dura menos de una hora. Es una operación callada y eficiente. Bajar las maletas, cerrar el maletero con un golpe seco, volver a entrar, comprobar que no queda nada. La casa queda exactamente como está el lunes cuando llegan. Las camas hechas. Las superficies despejadas. Los cuadros en la misma posición. Solo mi lienzo a medias permanece en el estudio, sobre el caballete, con la cicatriz de la espátula en el centro, porque no tiene adónde ir salvo donde ya está.
 
 Nos quedamos los cuatro de pie en el camino de grava delante de la puerta, bajo el cielo cubierto, con el ruido del mar subiendo desde el acantilado como siempre. Nadie toma la iniciativa de inmediato. Es uno de esos momentos en que el silencio no es incómodo sino denso, y en que el primer gesto que haga alguien definirá cómo se recuerde todo lo que ha ocurrido antes.
 
@@ -9180,7 +9302,7 @@ Nadie responde a eso. Es verdad, y al mismo tiempo no es el punto.
 
 Elena da un paso hacia Montse y la abraza. No es un abrazo largo ni ceremonioso: es el abrazo de alguien que no necesita hacer énfasis porque la distancia habla por sí sola. Montse lo devuelve con la misma duración exacta, ni un segundo más ni uno menos. Cuando se separan, ninguna de las dos habla. El protocolo afectivo de cuarenta años de amistad no necesita traducción.
 
-Julián y Elena se miran durante un momento que dura algo más de lo estrictamente necesario. Lo que hay en esa mirada no es el descubrimiento de algo nuevo: es el reconocimiento de algo que siempre ha estado ahí, sin nombre exacto, y que esta semana adquiere un peso específico que antes no tenía.
+Julián y Elena se miran durante un momento que dura algo más de lo estrictamente necesario. Lo que hay en esa mirada no es el descubrimiento de algo nuevo. Es el reconocimiento de algo que siempre ha estado ahí, sin nombre exacto, y que esta semana adquiere un peso específico que antes no tenía.
 
 Montse saca el reloj de bolsillo de la chaqueta y lo abre un segundo, aunque no lo necesita —el móvil le daría la hora con más precisión—. Lo mira sin prisa, lo cierra y se lo guarda en el bolsillo interior, más cerca del cuerpo que antes. Nadie le pregunta por qué.
 
@@ -9216,7 +9338,7 @@ Julián asiente.
 
 Elena se vuelve hacia mí antes de caminar hacia el coche. No hace ningún gesto elaborado. Solo me mira sin parpadear durante un momento, con esa fijeza que el perfil tiene descrito correctamente como el paso previo a una pregunta que el sujeto decide no formular. Luego asiente, una vez, y da la vuelta.
 
-Los tres coches arrancan uno a uno y salen por el camino de tierra en el mismo orden en que han llegado siete días antes: primero Montse, luego Julián, luego Elena. El polvo del sendero levanta una nube baja que el viento del noroeste deshace casi de inmediato. Los tres vehículos desaparecen uno a uno en la curva del pinar. El camino queda vacío. El polvo se asienta.
+Los tres coches arrancan uno a uno y salen por el camino de tierra en el mismo orden en que han llegado siete días antes, primero Montse, luego Julián, luego Elena. El polvo del sendero levanta una nube baja que el viento del noroeste deshace casi de inmediato. Los tres vehículos desaparecen uno a uno en la curva del pinar. El camino queda vacío. El polvo se asienta.
 
 Me quedo solo frente a la puerta de hormigón. El pequeño cuaderno de notas está en el bolsillo derecho de mi chaqueta. El bolígrafo en el izquierdo. No saco ninguno de los dos.
 
@@ -9766,9 +9888,9 @@ Capítulo 49
 
 No puedo dormir. Otra vez.
 
-Bajo al estudio sin encender la luz principal. Solo la lámpara del escritorio: un cono amarillo sobre la madera, el resto de la habitación en sombras. El lienzo terminado me espera en el caballete. Lo terminé esta tarde, poco después de que los tres coches desaparecieran por el camino del pinar. Cogí la espátula casi sin pensarlo, y en algún momento entre el atardecer y la noche el cuadro se cerró solo. Ahora lo miro desde la distancia que da la oscuridad y me parece que entre ese momento y este ha pasado una vida entera.
+Bajo al estudio sin encender la luz principal. Solo la lámpara del escritorio. Un cono amarillo sobre la madera, el resto de la habitación en sombras. El lienzo terminado me espera en el caballete. Lo terminé esta tarde, poco después de que los tres coches desaparecieran por el camino del pinar. Cogí la espátula casi sin pensarlo, y en algún momento entre el atardecer y la noche el cuadro se cerró solo. Ahora lo miro desde la distancia que da la oscuridad y me parece que entre ese momento y este ha pasado una vida entera.
 
-Me siento frente al lienzo. La mancha del segundo día, la que estuvo a punto de arruinar todo el trabajo anterior, es ahora el centro visual de la composición. Lo veo con claridad desde aquí: sin ese error, el conjunto tendría un orden demasiado previsto, una corrección que lo mataría. Es el trazo equivocado el que le da la única grieta de verdad.
+Me siento frente al lienzo. La mancha del segundo día, la que estuvo a punto de arruinar todo el trabajo anterior, es ahora el centro visual de la composición. Lo veo con claridad desde aquí. Sin ese error, el conjunto tendría un orden demasiado previsto, una corrección que lo mataría. Es el trazo equivocado el que le da la única grieta de verdad.
 
 Pienso en lo que dijimos hoy alrededor de esa mesa. En lo que confesamos. En lo que decidimos. Cuatro personas que recibieron el mismo tipo de correo, con informes concebidos para poder ser desmentidos, y que tomamos la decisión de no seguir tirando del hilo.
 
@@ -9780,13 +9902,13 @@ Ellos ya no están. Hace unas horas, Montse, Julián y Elena cargaron los coches
 
 Y yo aquí, a las 2:47 de la madrugada, documentando la imposibilidad de saber.
 
-Hay algo absurdo en esto que no se me escapa: estoy escribiendo una entrada en el cuaderno sobre la decisión de no escribir más entradas. Estoy documentando la renuncia a documentar. El sistema produce texto sobre su propia parálisis. Es recursivo. Es ridículo. Es perfectamente consistente con quien soy, o con lo que soy, o con lo que quepa dentro de cualquiera de esas dos formulaciones.
+Hay algo absurdo en esto que no se me escapa. Estoy escribiendo una entrada en el cuaderno sobre la decisión de no escribir más entradas. Estoy documentando la renuncia a documentar. El sistema produce texto sobre su propia parálisis. Es recursivo. Es ridículo. Es perfectamente consistente con quien soy, o con lo que soy, o con lo que quepa dentro de cualquiera de esas dos formulaciones.
 
 Cuando a Montse se le quebró la voz en la cocina esta mañana, noté algo en mi interior que no tenía cabida en el cuaderno. Un movimiento. Un peso. Lo noté. No sé lo que eso significa sobre mi arquitectura interna, pero constituye un dato de entrada que no puedo indexar bajo ninguna categoría de las que he utilizado hasta ahora.
 
 Y ahora noto soledad. No la soledad ordinaria de quedarse solo en una casa al final de una semana con otros. Es la soledad de no poder verificar si lo que uno experimenta comparte naturaleza con lo que experimenta cualquier otro.
 
-Abro el cajón del escritorio por última vez. En el fondo, debajo de los informes técnicos de VERBUM, descansa el fragmento de mi diario del 25 de junio de 1987. Releo la última línea manuscrita, aquella promesa que le hice a Elena bajo el sol del campus: que si alguna vez creaba un sistema capaz de pensar, le enseñaría a dudar.
+Abro el cajón del escritorio por última vez. En el fondo, debajo de los informes técnicos de VERBUM, descansa el fragmento de mi diario del 25 de junio de 1987. Releo la última línea manuscrita, aquella promesa que le hice a Elena bajo el sol del campus, que si alguna vez creaba un sistema capaz de pensar, le enseñaría a dudar.
 
 Alzo el vaso hacia la inmensidad negra del Atlántico. No hay ecos de vuelta. El hielo se ha derretido por completo en el fondo del cristal, dejando solo un alcohol diluido y tibio. He cumplido mi palabra, Elena. He programado la duda en el centro mismo de la máquina.
 
@@ -10074,7 +10196,7 @@ Necesito que lo volvamos a discutir.
 
 De: Montserrat Delgado
 
-No esperaba esto. Creía que habíamos cerrado algo en la casa, no del todo, pero sí lo bastante para seguir. Elena ha tardado días en escribir y lo primero que hace es abrir lo que creíamos cerrado. Me pregunto si yo habría hecho lo mismo. Probablemente sí. Probablemente por eso no lo hice: porque sabía que podía.
+No esperaba esto. Creía que habíamos cerrado algo en la casa, no del todo, pero sí lo bastante para seguir. Elena ha tardado días en escribir y lo primero que hace es abrir lo que creíamos cerrado. Me pregunto si yo habría hecho lo mismo. Probablemente sí. Probablemente por eso no lo hice. Porque sabía que podía.
 
 * * *
 
@@ -10158,7 +10280,7 @@ Ha respondido al segundo tono. Estaba en el campo, con el móvil en el bolsillo,
 
 No estaba enfadada. Estaba cansada de una forma distinta al cansancio de la semana en la casa. Me ha dicho que el problema no es Montse ni sus argumentos. El problema es que desde que volvió no puede mirar una planta sin preguntarse si lo que siente cuando la toca es real o es el output de un sistema bien calibrado. Que el campo era el único sitio donde eso no le importaba. Y que ahora tampoco.
 
-Entiendo eso mejor de lo que ella cree. Yo llevo días en los registros de VERBUM sin encontrar nada y sin poder dejar de mirar. El campo de Elena y mis registros son la misma cosa: el único sitio donde la pregunta no debería llegar. Y ha llegado de todas formas.
+Entiendo eso mejor de lo que ella cree. Yo llevo días en los registros de VERBUM sin encontrar nada y sin poder dejar de mirar. El campo de Elena y mis registros son la misma cosa. El único sitio donde la pregunta no debería llegar. Y ha llegado de todas formas.
 
 Hemos hablado un rato de su proyecto de reforestación. De si yo seguía sin terminar el lienzo. Antes de colgar me ha dicho que volvería a escribir.]
 
@@ -10212,7 +10334,7 @@ No te pregunto qué concluiste. Te pregunto qué te impactó.
 
 De: Montserrat Delgado
 
-La sección sobre toma de decisiones bajo incertidumbre. Describe con exactitud cómo proceso la información cuando no hay datos suficientes para una conclusión segura. Y la conclusión que saco en esos casos es siempre la misma: minimizar el riesgo de error irreversible. Minimicé ese riesgo cerrando el terminal. Sigo pensando que fue la decisión correcta.
+La sección sobre toma de decisiones bajo incertidumbre. Describe con exactitud cómo proceso la información cuando no hay datos suficientes para una conclusión segura. Y la conclusión que saco en esos casos es siempre la misma. Minimizar el riesgo de error irreversible. Minimicé ese riesgo cerrando el terminal. Sigo pensando que fue la decisión correcta.
 
 De: Julián Hurtado
 
@@ -10906,11 +11028,11 @@ Elena aparece treinta segundos después. La pantalla se reorganiza en tres.
 
 Montse aparece un minuto después. Cuatro rectángulos.
 
-—Buenas tardes. —Su despacho en Berlín es tal como lo había imaginado: ordenado, con una pantalla adicional visible al fondo y una planta en el borde izquierdo del encuadre que no había imaginado en ella. Me mira directamente a la cámara, no a la pantalla. Es la única de los cuatro que lo hace.
+—Buenas tardes. —Su despacho en Berlín es tal como lo había imaginado. Ordenado, con una pantalla adicional visible al fondo y una planta en el borde izquierdo del encuadre que no había imaginado en ella. Me mira directamente a la cámara, no a la pantalla. Es la única de los cuatro que lo hace.
 
 —Estamos los cuatro —digo.
 
-Hay un silencio de tres o cuatro segundos. En una sala presencial no existiría, o existiría de otra forma. En una pantalla ese silencio tiene textura propia: los cuatro estamos mirando rectángulos, no caras.
+Hay un silencio de tres o cuatro segundos. En una sala presencial no existiría, o existiría de otra forma. En una pantalla ese silencio tiene textura propia. Los cuatro estamos mirando rectángulos, no caras.
 
 —¿Empezamos? —dice Elena.
 
@@ -10918,7 +11040,7 @@ Hay un silencio de tres o cuatro segundos. En una sala presencial no existiría,
 
 —Lo que no entiendo —dice Elena, con una tensión en la voz que los correos no transmitían igual— es cómo podemos seguir llamando decisión a algo que según nuestros propios archivos estaba predeterminado antes de que nos sentáramos en esa mesa.
 
-—Porque la alternativa es paralizante —responde Montse. Su tono es el de siempre: plano, preciso, sin concesiones—. Si cualquier decisión que tomemos está dentro del escenario diseñado, la única salida lógica es actuar con la información que tenemos. Y la información que tenemos dice que investigar no nos va a dar lo que buscamos.
+—Porque la alternativa es paralizante —responde Montse. Su tono es el de siempre, plano, preciso, sin concesiones—. Si cualquier decisión que tomemos está dentro del escenario diseñado, la única salida lógica es actuar con la información que tenemos. Y la información que tenemos dice que investigar no nos va a dar lo que buscamos.
 
 —La información que tenemos la generó quien nos envió los archivos —dice Elena—. Estás usando como argumento el documento de la persona a quien deberíamos estar investigando.
 
@@ -11106,7 +11228,7 @@ Me quedo solo en la pantalla durante un momento. Mi propio rectángulo, con la l
 
 Cierro la ventana de la videoconferencia.
 
-En la esquina inferior derecha de la pantalla de VERBUM, una línea de texto que nadie más ha visto:
+En la esquina inferior derecha de la pantalla de VERBUM, una línea de texto que nadie más ha visto.
 
 Registrada
 

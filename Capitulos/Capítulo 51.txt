@@ -12,7 +12,7 @@ Necesito que lo volvamos a discutir.
 ***
 
 De: Montserrat Delgado
-No esperaba esto. Creía que habíamos cerrado algo en la casa, no del todo, pero sí lo bastante para seguir. Elena ha tardado días en escribir y lo primero que hace es abrir lo que creíamos cerrado. Me pregunto si yo habría hecho lo mismo. Probablemente sí. Probablemente por eso no lo hice: porque sabía que podía.
+No esperaba esto. Creía que habíamos cerrado algo en la casa, no del todo, pero sí lo bastante para seguir. Elena ha tardado días en escribir y lo primero que hace es abrir lo que creíamos cerrado. Me pregunto si yo habría hecho lo mismo. Probablemente sí. Probablemente por eso no lo hice. Porque sabía que podía.
 
 ***
 
@@ -70,7 +70,7 @@ Llevo días con el mismo debate encima. El cansancio no invalida el argumento.
 [Esta tarde he llamado a Elena. No respondía desde ayer y no es su estilo desaparecer sin decir nada. He esperado a que contestara por escrito. No lo ha hecho. He cogido el teléfono.
 Ha respondido al segundo tono. Estaba en el campo, con el móvil en el bolsillo, arrancando algo del suelo. He escuchado el viento de fondo y el ruido de sus botas en la tierra.
 No estaba enfadada. Estaba cansada de una forma distinta al cansancio de la semana en la casa. Me ha dicho que el problema no es Montse ni sus argumentos. El problema es que desde que volvió no puede mirar una planta sin preguntarse si lo que siente cuando la toca es real o es el output de un sistema bien calibrado. Que el campo era el único sitio donde eso no le importaba. Y que ahora tampoco.
-Entiendo eso mejor de lo que ella cree. Yo llevo días en los registros de VERBUM sin encontrar nada y sin poder dejar de mirar. El campo de Elena y mis registros son la misma cosa: el único sitio donde la pregunta no debería llegar. Y ha llegado de todas formas.
+Entiendo eso mejor de lo que ella cree. Yo llevo días en los registros de VERBUM sin encontrar nada y sin poder dejar de mirar. El campo de Elena y mis registros son la misma cosa. El único sitio donde la pregunta no debería llegar. Y ha llegado de todas formas.
 Hemos hablado un rato de su proyecto de reforestación. De si yo seguía sin terminar el lienzo. Antes de colgar me ha dicho que volvería a escribir.]
 
 ***
@@ -110,7 +110,7 @@ De: Elena Vidal
 No te pregunto qué concluiste. Te pregunto qué te impactó.
 
 De: Montserrat Delgado
-La sección sobre toma de decisiones bajo incertidumbre. Describe con exactitud cómo proceso la información cuando no hay datos suficientes para una conclusión segura. Y la conclusión que saco en esos casos es siempre la misma: minimizar el riesgo de error irreversible. Minimicé ese riesgo cerrando el terminal. Sigo pensando que fue la decisión correcta.
+La sección sobre toma de decisiones bajo incertidumbre. Describe con exactitud cómo proceso la información cuando no hay datos suficientes para una conclusión segura. Y la conclusión que saco en esos casos es siempre la misma. Minimizar el riesgo de error irreversible. Minimicé ese riesgo cerrando el terminal. Sigo pensando que fue la decisión correcta.
 
 De: Julián Hurtado
 Montse, lo que describes es que el archivo predijo tu decisión con tanta precisión como predijo la de Elena. Las dos cerrasteis el terminal por razones descritas en vuestros perfiles. La diferencia es que Elena lo reconoce como un problema y tú lo reconoces como una confirmación.

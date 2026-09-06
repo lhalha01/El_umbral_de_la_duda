@@ -12,13 +12,13 @@ Elena aparece treinta segundos después. La pantalla se reorganiza en tres.
 —¿Nos falta Montse? —pregunta Julián.
 —Nos falta Montse —confirmo.
 Montse aparece un minuto después. Cuatro rectángulos.
-—Buenas tardes. —Su despacho en Berlín es tal como lo había imaginado: ordenado, con una pantalla adicional visible al fondo y una planta en el borde izquierdo del encuadre que no había imaginado en ella. Me mira directamente a la cámara, no a la pantalla. Es la única de los cuatro que lo hace.
+—Buenas tardes. —Su despacho en Berlín es tal como lo había imaginado. Ordenado, con una pantalla adicional visible al fondo y una planta en el borde izquierdo del encuadre que no había imaginado en ella. Me mira directamente a la cámara, no a la pantalla. Es la única de los cuatro que lo hace.
 —Estamos los cuatro —digo.
-Hay un silencio de tres o cuatro segundos. En una sala presencial no existiría, o existiría de otra forma. En una pantalla ese silencio tiene textura propia: los cuatro estamos mirando rectángulos, no caras.
+Hay un silencio de tres o cuatro segundos. En una sala presencial no existiría, o existiría de otra forma. En una pantalla ese silencio tiene textura propia. Los cuatro estamos mirando rectángulos, no caras.
 —¿Empezamos? —dice Elena.
 —Empezamos —respondo.
 —Lo que no entiendo —dice Elena, con una tensión en la voz que los correos no transmitían igual— es cómo podemos seguir llamando decisión a algo que según nuestros propios archivos estaba predeterminado antes de que nos sentáramos en esa mesa.
-—Porque la alternativa es paralizante —responde Montse. Su tono es el de siempre: plano, preciso, sin concesiones—. Si cualquier decisión que tomemos está dentro del escenario diseñado, la única salida lógica es actuar con la información que tenemos. Y la información que tenemos dice que investigar no nos va a dar lo que buscamos.
+—Porque la alternativa es paralizante —responde Montse. Su tono es el de siempre, plano, preciso, sin concesiones—. Si cualquier decisión que tomemos está dentro del escenario diseñado, la única salida lógica es actuar con la información que tenemos. Y la información que tenemos dice que investigar no nos va a dar lo que buscamos.
 —La información que tenemos la generó quien nos envió los archivos —dice Elena—. Estás usando como argumento el documento de la persona a quien deberíamos estar investigando.
 —Estoy usando el único documento que tenemos.
 —Exactamente el problema.
@@ -112,5 +112,5 @@ Montse asiente.
 Julián desconecta primero. Su rectángulo se vuelve negro. Luego Elena, con un gesto de mano hacia la cámara antes de cerrar. Luego Montse, sin gesto, simplemente desaparece.
 Me quedo solo en la pantalla durante un momento. Mi propio rectángulo, con la luz anaranjada del estudio y las estanterías oscuras al fondo.
 Cierro la ventana de la videoconferencia.
-En la esquina inferior derecha de la pantalla de VERBUM, una línea de texto que nadie más ha visto:
+En la esquina inferior derecha de la pantalla de VERBUM, una línea de texto que nadie más ha visto.
 Registrada

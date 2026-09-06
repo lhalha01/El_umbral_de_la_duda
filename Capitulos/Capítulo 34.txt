@@ -2,7 +2,7 @@
 
 Me sirvo otro vaso del mismo whisky escocés que Márquez solía tomar cuando nos invitaba a su despacho en los años de estudiantes. Tiene un sabor intenso, amargo, con un toque de turba. Alzo el vaso en la oscuridad, mirando hacia la inmensidad negra del Atlántico.
 Brindo solo.
-El alcohol me quema al bajar por la garganta. Es la única sensación puramente física que me parece real en mitad de todas estas dudas: el ardor del whisky como prueba de que algo, al menos, sigue teniendo temperatura.
+El alcohol me quema al bajar por la garganta. Es la única sensación puramente física que me parece real en mitad de todas estas dudas. El ardor del whisky como prueba de que algo, al menos, sigue teniendo temperatura.
 Me quedo en la terraza sin saber cuánto tiempo. El cielo está ya cubierto del todo y el mar suena más oscuro que por la mañana, con un ritmo más profundo, como si la tormenta de la noche anterior hubiera dejado algo en el agua que tardara días en disiparse.
 Entonces escucho el leve sonido de unas pisadas a mis espaldas.
 ***
@@ -17,7 +17,7 @@ Su voz tiene algo diferente. No el cansancio de estos días, que ya conozco bien
 —¿Tú crees? —Deja escapar un suspiro corto—. A veces tengo el presentimiento de que es una postura de cara a los demás. Una farsa moral para no sentirme culpable mientras el planeta se destruye. Y luego pienso en Márquez. Toda una vida dedicada al estudio y a la enseñanza para que, al final, la sociedad pase olímpicamente de sus lecciones. ¿Qué queda de él ahora que ha muerto? ¿Qué va a quedar de nosotros cuando ya no estemos?
 Dejo que las preguntas se asienten en el aire. No intento responderlas.
 Elena se queda callada unos minutos más. Luego mete la mano en el bolsillo del pijama y saca el teléfono. Lo pone sobre la mesa entre los dos, con la pantalla hacia abajo.
-—El martes me llegó un mensaje al móvil con un archivo adjunto —dice—. Tiene nuestros cuatro nombres en el título y una fecha: año 1991. Lo abrí en cuanto lo vi.
+—El martes me llegó un mensaje al móvil con un archivo adjunto —dice—. Tiene nuestros cuatro nombres en el título y una fecha, año 1991. Lo abrí en cuanto lo vi.
 Siento un frío muy concreto en la espalda. No un escalofrío. Algo más sostenido.
 —¿Y qué encontraste dentro? —le pregunto, controlando la voz más de lo que me siento.
 —Un perfil —dice—. Psicológico. Conductual. —Traga saliva—. Mío.
@@ -37,7 +37,8 @@ Hace una pausa. Se pasa los dedos por el pelo con un gesto lento.
 —No —respondo. Y es la verdad más completa que he dicho en toda la semana.
 Elena no me quita los ojos de encima durante un segundo, evaluando, según parecía, si creerme.
 —Pero tú trabajas en este tipo de sistemas —dice—. Sistemas que analizan conductas, que modelan personalidades. El miércoles, en el sendero, me dijiste que llevabas años trabajando en algo relacionado con la identidad digital. ¿Podría alguien con acceso a esa tecnología crear un perfil como este?
-Dejo pasar un instante antes de responder. Lo que describes encaja con los resultados de un sistema de modelado conductual de alta fidelidad. El tipo de perfil que produces cuando llevas años recopilando datos de una persona: su lenguaje, sus patrones de decisión, sus respuestas ante el conflicto. —Hago una pausa—. Mi proyecto se llama VERBUM. Llevo más de una década trabajando en ello. Pero Elena, estos archivos no los hice yo. No sé quién los hizo. No sé quién los envió.
+Dejo pasar un instante antes de responder.
+—Lo que describes encaja con los resultados de un sistema de modelado conductual de alta fidelidad. El tipo de perfil que produces cuando llevas años recopilando datos de una persona. Su lenguaje, sus patrones de decisión, sus respuestas ante el conflicto —hago una pausa—. Mi proyecto se llama VERBUM. Llevo más de una década trabajando en ello. Pero Elena, estos archivos no los hice yo. No sé quién los hizo. No sé quién los envió.
 Elena guarda silencio un momento, mirando el teléfono sobre la mesa.
 —¿Y si alguien usó tu sistema? —pregunta—. ¿Si alguien con acceso a lo que tú has construido creó estos perfiles?
 —Es posible —admito—. No puedo descartarlo.
@@ -46,7 +47,7 @@ Ninguno de los dos dice nada durante un rato. Elena sigue con la vista fija en e
 No respondo de inmediato.
 —Porque yo también recibí uno —digo al fin.
 Elena no se mueve.
-—Hace unas semanas. Un perfil de mí mismo. Con la misma estructura que describes: patrones de conducta, mecanismos de respuesta, tendencias que reconocí de inmediato aunque nunca las haya articulado en voz alta. —Hago una pausa—. No supe qué hacer con ello. No supe a quién llamar ni cómo preguntar sin parecer que me había vuelto loco. Solo supe que necesitaba veros en persona. Veros de verdad, no a través de una pantalla. Comprobar si seguíais siendo vosotros o si yo mismo había perdido la capacidad de distinguirlo.
+—Hace unas semanas. Un perfil de mí mismo. Con la misma estructura que describes. Patrones de conducta, mecanismos de respuesta, tendencias que reconocí de inmediato aunque nunca las haya articulado en voz alta. —Hago una pausa—. No supe qué hacer con ello. No supe a quién llamar ni cómo preguntar sin parecer que me había vuelto loco. Solo supe que necesitaba veros en persona. Veros de verdad, no a través de una pantalla. Comprobar si seguíais siendo vosotros o si yo mismo había perdido la capacidad de distinguirlo.
 —¿Y también estabas observándonos —dice Elena, completando el pensamiento—. No solo por el archivo. También por lo tuyo.
 —Sí —admito—. Llevaba meses con una duda que no podía resolver desde mi estudio. Si después de tanto tiempo optimizando, automatizando, delegando... quedaba algo detrás de los patrones. En vosotros. En mí.
 —Así que también nos has estado estudiando tú —dice—. A tu manera. Además de quien sea que mandó los archivos.
@@ -78,6 +79,6 @@ Elena entra en la casa.
 Me quedo solo en la terraza.
 Me levanto y me dirijo a mi despacho.
 Extraigo mi cuaderno del cajón de la mesa y cojo mi bolígrafo, lo deslizo entre las páginas y escribo.
-Elena me ha dejado en la cabeza la única pregunta para la que soy incapaz de encontrar una respuesta: ¿quién me está observando a mí?
+Elena me ha dejado en la cabeza la única pregunta para la que soy incapaz de encontrar una respuesta. ¿Quién me está observando a mí?
 Dejo el bolígrafo sin terminar la frase.
 Mañana es el sábado, el sexto día del retiro. Y lo que había empezado como una investigación sobre los demás se ha convertido, en el espacio de una conversación en una terraza a medianoche, en una investigación sobre mí mismo. De la que no controlo el resultado.
