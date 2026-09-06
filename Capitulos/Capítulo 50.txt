@@ -26,12 +26,12 @@ Rodrigo levanta la vista del bloc.
 —Eso es mucho volumen de datos.
 —Lo sé. Empieza por las cuencas con mayor estrés hídrico.
 —¿Qué estamos buscando exactamente?
-—Un patrón. Si existe, lo vas a ver cuando cruces los datos. Si no existe, el análisis de impacto acumulado del acuífero es suficiente para el informe.
+—Un patrón. Si existe, lo vas a ver cuándo cruces los datos. Si no existe, el análisis de impacto acumulado del acuífero es suficiente para el informe.
 —¿Y si existe?
 —Entonces tenemos algo más que añadir.
 Rodrigo sale. Mientras espero, abro el mapa de acuíferos de la cuenca y calculo el impacto de los veinte pozos sobre el nivel freático. No solo para esta solicitud. Para el conjunto de extracciones activas en la misma unidad hidrogeológica, más las concesiones pendientes de resolver.
 El resultado no es bueno. El resultado no habría sido bueno aunque detrás de esta solicitud no hubiera nada más que lo que dice el expediente. Eso también puede ir en el informe.
-Rodrigo no va a terminar el análisis hoy. Lo sé cuando lo he pedido.
+Rodrigo no va a terminar el análisis hoy. Lo sé cuándo lo he pedido.
 Empiezo a escribir el informe mientras espero. Los primeros párrafos son los del impacto sobre el acuífero: datos propios, cálculos propios, sin necesidad de lo que Rodrigo va a traer.
 Estoy en la cuarta página cuando suena el teléfono.
 Número de la Consejería. Lo cojo.

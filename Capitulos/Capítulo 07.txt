@@ -4,7 +4,7 @@ La sala de recuperación de la Planta 42 tenía capacidad para cuatro camas pero
 Clara hizo la primera ronda de la tarde a las tres y cuarto. Comprobó las constantes del Sujeto 1 primero. Frecuencia cardíaca en sesenta y nueve, presión arterial estable, saturación al noventa y ocho. El módulo, bajo la piel, no era visible. Lo único que delataba que había ocurrido algo era la sutura, limpia y cubierta con un apósito estéril.
 El Sujeto 1 dormía con la cabeza ligeramente girada hacia la izquierda. Los dedos de su mano izquierda se movían sobre la sábana con un ritmo lento e irregular. Clara los observó un momento. No era un temblor. Era algo más parecido a lo que hace alguien cuando intenta recordar la secuencia de un movimiento que ya no controla del todo.
 Anotó el gesto en la tableta. Sin clasificarlo.
-Se acercó a la cama del Sujeto 2. Constantes dentro del rango. La señal neuroeléctrica en la ventana secundaria era diferente a la del primero: más fragmentada, con picos de actividad más cortos y más frecuentes. Clara repasó la pantalla sin tocar nada.
+Se acercó a la cama del Sujeto 2. Constantes dentro del rango. La señal neuroeléctrica en la ventana secundaria era diferente a la del primero: más fragmentada, con picos de actividad más cortos y frecuentes. Clara repasó la pantalla sin tocar nada.
 —¿Alguna anomalía? —preguntó Sergio Cruz desde la puerta, sin entrar.
 —De momento no —dijo Clara—. Las señales son distintas entre ellos. Lo esperábamos.
 —¿El sistema está leyendo bien en los dos?
@@ -51,7 +51,7 @@ Valeria se separó de la pantalla y se sentó por primera vez en lo que llevaba 
 —Reducción gradual. No los despertamos de golpe. Bajamos la sedación en escalones de seis horas, monitorizando la respuesta neuroeléctrica en cada escalón. Si el sistema aguanta la carga de un cerebro en estado de vigilia, seguimos. Si no, volvemos al escalón anterior y esperamos.
 —¿Cuánto puede durar ese proceso? —preguntó Sergio.
 —Días. Quizás una semana para el Sujeto 1. Más para el Sujeto 2, dada su respuesta más inestable.
-—¿Y qué buscamos exactamente cuando despierten? —preguntó Clara—. ¿Cómo sabemos si el sistema está funcionando o si simplemente está simulando que funciona?
+—¿Y qué buscamos exactamente cuándo despierten? —preguntó Clara—. ¿Cómo sabemos si el sistema está funcionando o si simplemente está simulando que funciona?
 —Esa es la pregunta correcta —dijo Valeria—. Y la respuesta honesta es que al principio no lo sabremos con certeza. Lo que podemos evaluar es si el sujeto responde a estímulos cognitivos de forma coherente con su perfil previo a la enfermedad. Si el Sujeto 1, cuando despierte, es capaz de mantener una conversación sobre regulación financiera sin que el sistema colapse, eso es una señal positiva. Si muestra signos de confusión severa o de rechazo al implante, tenemos un problema.
 —¿Qué tipo de rechazo? —preguntó Sergio.
 —Agitación. Desorientación extrema. Crisis comiciales. El cerebro intentando desconectarse de algo que no reconoce como propio. —Valeria hizo una pausa—. Por eso el despertar tiene que ser controlado, con el equipo completo presente, con los protocolos de intervención listos. No los despertamos solos.
@@ -87,7 +87,7 @@ Silencio al otro lado.
 —Antonio. —La voz del ministro bajó un tono—. Hemos construido todo el marco legal de este proyecto sobre tres perfiles. Los tres tienen un peso específico en la justificación ante la comisión. El Sujeto 3 cubre un área que los otros dos no cubren. ¿Sabes lo que significa presentarme ante el Consejo con un tercio del proyecto abortado el primer día?
 —Lo sé perfectamente.
 —¿Y?
-—Y no había alternativa. Si hubiéramos procedido y el implante hubiera fracasado en quirófano, estaríamos hablando de un incidente grave con un paciente en estado crítico dentro de unas instalaciones clasificadas. Eso es considerablemente peor que un procedimiento suspendido por criterio clínico.
+—Y no había alternativa. Si hubiéramos procedido y el implante hubiera fracasado en el quirófano, estaríamos hablando de un incidente grave con un paciente en estado crítico dentro de unas instalaciones clasificadas. Eso es considerablemente peor que un procedimiento suspendido por criterio clínico.
 Otro silencio. Más largo.
 —¿Hay posibilidad de recuperar ese perfil en algún momento? —preguntó el ministro.
 —No —dijo Antonio—. El Sujeto 3 seguirá su proceso biológico. Es irreversible.

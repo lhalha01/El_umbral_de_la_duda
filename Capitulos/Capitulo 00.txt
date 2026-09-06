@@ -6,8 +6,7 @@ Parte I — El protocolo
 Capítulo 0: La carpeta
 
 La primera vez que vi mi nombre en aquel archivo no pensé que estuviera relacionado conmigo. Durante años había trabajado con sistemas en los que los nombres de usuario, los identificadores de proceso y las etiquetas internas se mezclaban constantemente con documentos que no tenían ninguna relación con quien los recibía, de modo que mi primera reacción fue atribuirlo a un simple error de clasificación.
-El archivo había aparecido en una carpeta temporal de mi terminal y su nombre no correspondía a ninguno de los proyectos que tenía abiertos en ese momento, aunque tampoco contenía nada que pudiera considerarse una amenaza o una anomalía. Se titulaba, simplemente:
-MATEO_SALINAS.pdf
+El archivo había aparecido en una carpeta temporal de mi terminal y su nombre no correspondía a ninguno de los proyectos que tenía abiertos en ese momento, aunque tampoco contenía nada que pudiera considerarse una amenaza o una anomalía. Se titulaba, simplemente MATEO_SALINAS.pdf
 Lo abrí porque quería saber qué era.
 La primera página no contenía datos profesionales ni información procedente de un expediente convencional. No aparecía mi historial laboral, ni los proyectos en los que había participado, ni una relación de mis responsabilidades.
 Lo que encontré fue una descripción de determinados patrones de comportamiento que, al principio, interpreté como un ejercicio de análisis conductual bastante elaborado. El documento establecía relaciones entre situaciones y respuestas, identificaba tendencias en mi manera de tomar decisiones y señalaba comportamientos que se repetían con suficiente frecuencia como para considerarlos previsibles.

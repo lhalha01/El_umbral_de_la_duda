@@ -22,7 +22,7 @@ Valeria entró en el quirófano a las seis y veinte con la bata todavía sin ata
 —A las siete y cuarto —dijo Clara—. El Sujeto 1.
 A las siete menos diez, Antonio apareció con un café en cada mano. Le dio uno a Sergio sin preguntar.
 —¿Cómo estamos?
-—Los sistemas están listos. Tomás está en quirófano con Valeria.
+—Los sistemas están listos. Tomás está en el quirófano con Valeria.
 —¿Alguna sorpresa en los historiales de esta mañana?
 —Ninguna. Los tres están estables según los últimos informes de enfermería.
 Antonio fue hacia quirófano. En la puerta se cruzó con Tomás, que salía.
@@ -30,7 +30,7 @@ Antonio fue hacia quirófano. En la puerta se cruzó con Tomás, que salía.
 —A buscar café. El de arriba.
 —Acabo de traerte uno.
 —El tuyo es de la máquina del pasillo —dijo Tomás, sin detenerse.
-Antonio entró en quirófano. Valeria estaba frente a la pantalla principal.
+Antonio entró en el quirófano. Valeria estaba frente a la pantalla principal.
 —¿Cuánto tiempo tenemos antes de que traigan al primero?
 —Veinte minutos.
 —¿Hay algo que no estaba en el protocolo?
@@ -87,7 +87,7 @@ Apenas empezaron a comprobar su estado, quedó claro que algo no encajaba con lo
 —¿Qué hacemos con él? —preguntó Clara.
 —Mantenemos la sedación y lo trasladamos al box de soporte —dijo Valeria—. No vuelve a neurología.
 Salió del quirófano con la bata puesta para llamar a Antonio. Tomás actualizó la incidencia: el deterioro documentado en tiempo real era muy superior al de las pruebas del expediente; la antigüedad de esas pruebas había impedido una evaluación adecuada; incumplimiento de protocolo confirmado; se traslada a revisión de responsabilidades.
-—Esta queda aquí —le dijo Clara a los celadores del turno de tarde—. No vuelve a su planta.
+—Esta queda aquí —les dijo Clara a los celadores del turno de tarde—. No vuelve a su planta.
 Sergio entró en el box de soporte con un kit de electrodos externos bajo el brazo.
 —No hace falta —dijo Clara—. No hay protocolo de monitorización para un sujeto descartado.
 —No hay protocolo —confirmó Sergio—. Lo voy a poner igual. —Colocó los sensores, ajustó el registro al mínimo sensible y dejó el canal abierto, indexando en el mismo servidor donde el sistema de los Sujetos 1 y 2 procesaba sus propios datos—. Porque la última vez que no configuré algo, nadie se enteró hasta que fue tarde.

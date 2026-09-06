@@ -1,6 +1,6 @@
 ﻿Capítulo 52 — Cena de gala
 
-JUAN
+[JUAN]
 La invitación llega en papel, con el membrete de los Premios Nacionales a la Innovación grabado en relieve y una caligrafía que claramente es impresa pero que han diseñado para que parezca manuscrita. Me pregunto cuánto cuesta encargar ese tipo de papel. Luego me pregunto por qué me pregunto eso y vuelvo al expediente que tenía delante.
 A la hora del café, Marta la ve sobre mi mesa.
 —¿Vas a ir? —pregunta.
@@ -20,7 +20,7 @@ Marta coge la invitación y la examina con la atención que le dedica a todo lo 
 Me quedo mirando la invitación después de que Marta sale. Pienso en si tengo alguna razón sólida para no ir a una cena de gala a la que me han invitado porque en algún momento hice algo que alguien consideró notable. No encuentro ninguna que no sea una forma de pereza disfrazada de preferencia.
 El jueves confirmo que asistiré. Sin acompañante.
 ***
-ANA
+[ANA]
 La invitación llega con el resto del correo, entre una circular de la Confederación y un informe de seguimiento que Rodrigo ha dejado sobre mi mesa. La abro. La leo. La dejo a un lado y sigo con el informe de seguimiento.
 Rodrigo la ve cuando entra.
 —Premios Nacionales —dice, leyendo el membrete con la discreción de quien finge no leer lo que está leyendo—. ¿Vas a ir?
@@ -40,7 +40,7 @@ Llevo tiempo sin asistir a ningún evento que no sea estrictamente profesional. 
 Pero hay algo en la invitación que esta vez no descarto de inmediato.
 Confirmo que asistiré. Sin acompañante.
 ***
-JUAN
+[JUAN]
 El hotel tiene esa clase de lobby que está diseñado para impresionar en los primeros cinco segundos y resultar ligeramente incómodo en todos los siguientes. Flores que cuestan más que razonables, personal que se mueve con la discreción de quien ha aprendido a no dejarse ver. El salón de la gala está en el tercer piso, al fondo de un pasillo enmoquetado donde el ruido de los zapatos desaparece y se sustituye por ese silencio específico de los espacios que están esperando que ocurra algo.
 La mesa de galardonados anteriores está cerca del centro del salón, lo suficientemente cerca del escenario para que se sienta parte del evento y lo suficientemente lejos para que la conversación sea posible. Cuando llego hay seis sillas vacías. Sobre cada cubierto hay un programa con la lista de comensales, el menú y el orden de la noche. Leo el de mi mesa: Doctora Pilar Vega, Premio Nacional de Investigación en Biomedicina, con acompañante. Profesor Marcos Izquierdo, Premio Nacional de Investigación en Física Matemática, con acompañante. Y debajo, en el sitio a mi izquierda: Ana Moreira, Premio Nacional de Investigación en Ciencias de la Vida, Agencia del Agua.
 Me siento. Un camarero aparece con agua sin que yo haya pedido nada. Miro el menú. Miro el salón. Hay unas doscientas personas y el ruido de las conversaciones forma ya un fondo continuo que en algún momento de la noche dejará de percibirse como ruido y se convertirá simplemente en el ambiente.
@@ -58,7 +58,7 @@ Vega me mira. No esperaba que nadie recogiera eso.
 —En el sentido de que relevante y fundamental no son lo mismo. La física del Profesor Izquierdo es fundamental. La biomedicina es relevante. Los dos adjetivos son correctos y ninguno es superior al otro.
 Izquierdo me mira con una expresión que no termino de leer. Vega tampoco sabe del todo qué hacer con eso.
 El sexto sitio sigue vacío. Los camareros traen el pan. Izquierdo empieza a hablar sobre el formato de los premios de este año.
-ANA
+[ANA]
 Llego tarde. He tardado más de lo previsto en decidir qué ponerme, lo cual encuentro levemente irritante porque no tengo ninguna razón para haberlo tardado.
 El salón es exactamente como lo recuerdo: grande, bien iluminado, con esa temperatura ligeramente alta que tienen los espacios donde hay muchas personas y los organizadores siempre calibran mal el aire acondicionado. Las mesas tienen centros de flores que son demasiado altos. Igual que entonces.
 Cuando llego a la mesa hay cinco personas sentadas y el pan ya está en la mesa. Cojo el programa sobre mi cubierto y confirmo el sitio. Me siento. A mi derecha hay un hombre que mira el menú con la concentración de alguien que usa el menú como excusa para no tener que hablar todavía. No lo reconozco a primera vista. Su programa está boca arriba: Juan Ferreira, Economía y Finanzas.
@@ -71,7 +71,7 @@ Nos damos la mano. Y en ese apretón el fragmento de recuerdo se hace más níti
 Él me mira con la misma expresión que imagino que tengo yo: la de alguien que está buscando algo en un sitio donde sabe que existe pero no sabe exactamente dónde.
 —Creo que sí —dice—. Aunque no ubico dónde.
 Izquierdo sigue hablando. Los dos lo miramos un momento sin escucharlo del todo.
-JUAN
+[JUAN]
 Los entrantes llegan mientras Izquierdo sigue con el mismo tema de antes —el formato de los premios de este año—, que según él debería dar más tiempo a cada galardonado para explicar el contexto de su trabajo en lugar de limitarse a un discurso de agradecimiento.
 —Los premios son mejores cuando los ganadores pueden articular por qué su trabajo importa —dice Izquierdo—. No solo qué han hecho, sino por qué importa en un contexto más amplio. Eso requiere tiempo.
 —También requiere que los ganadores sean capaces de articularlo —dice Vega, con el tono de quien hace una observación objetiva que en realidad es un cumplido encubierto a sí misma.
@@ -105,7 +105,7 @@ En el escenario, alguien que trabaja para la organización comprueba el micrófo
 —¿Y cuál es esa diferencia? —pregunta la pareja de Vega, con curiosidad genuina.
 —Que el sistema dice que asigna capital de forma eficiente y en realidad asigna capital de forma que maximiza el beneficio de quienes ya tienen capital. No es lo mismo.
 Izquierdo asiente despacio, como quien anota algo mentalmente.
-ANA
+[ANA]
 El primer plato llega: un pescado bien ejecutado con una salsa que el chef ha pensado de verdad. El acto formal empieza con las palabras del presidente del jurado, un hombre de unos sesenta años con el tipo de autoridad que viene de haber ocupado cargos durante mucho tiempo y no de haber hecho cosas especialmente notables en ninguno de ellos. Habla bien. No dice nada que no pudiera decirse en la mitad de tiempo.
 A mi derecha, Juan Ferreira escucha el discurso con la misma expresión que yo imagino que tengo: atención educada, evaluación simultánea.
 —¿Cuánto crees que dura? —me pregunta en voz baja.
@@ -140,9 +140,9 @@ La premiada termina su discurso. Más aplausos.
 —No —digo.
 —No —dice Ferreira al mismo tiempo.
 Izquierdo archiva eso con la expresión de quien guarda algo que no termina de cuadrarle.
-JUAN
-El segundo plato llega: carne con una guarnición que el chef ha elegido con criterio. Los premios siguen: tres más antes del postre, cada uno con su discurso, cada uno con su aplauso. El salón tiene el ritmo específico de los eventos donde el contenido formal y el contenido real ocurren en paralelo y raramente se cruzan.
-Vega aprovecha un momento de transición entre premiados para hablar de su trabajo. Lo cuenta con un guión ya pulido por la repetición, calibrando exactamente qué incluir para que el interlocutor entienda la escala sin que parezca que está alardeando, aunque en realidad sí está alardeando.
+[JUAN]
+El segundo plato llega, carne con una guarnición que el chef ha elegido con criterio. Los premios siguen: tres más antes del postre, cada uno con su discurso, cada uno con su aplauso. El salón tiene el ritmo específico de los eventos donde el contenido formal y el contenido real ocurren en paralelo y raramente se cruzan.
+Vega aprovecha un momento de transición entre premiados para hablar de su trabajo. Lo cuenta con un guion ya pulido por la repetición, calibrando exactamente qué incluir para que el interlocutor entienda la escala sin que parezca que está alardeando, aunque en realidad sí está alardeando.
 —El mecanismo que hemos identificado podría cambiar el enfoque de tratamiento en varios tipos de cáncer —dice—. No es una cura. Es una forma de hacer más eficaces los tratamientos existentes actuando sobre la resistencia tumoral.
 —¿Cuánto tiempo hasta aplicación clínica? —pregunta la pareja de Izquierdo.
 —Difícil saberlo. Los ensayos clínicos tienen sus propios tiempos. Podríamos hablar de una década, en el mejor caso.
@@ -160,7 +160,7 @@ Vega me mira con una expresión que no termina de decidir si es un cumplido o no
 —Para el acuífero, bastante —digo.
 A mi izquierda, Ferreira no dice nada. Pero noto que ha dejado de cortar la carne.
 En el escenario anuncian el premio de Física Aplicada. El ganador es un hombre joven, mucho más joven de lo que cabría esperar para un premio de este nivel. Sube al estrado con la incomodidad visible de alguien que no ha tenido tiempo de acostumbrarse a que lo miren.
-—¿Cuántos años tendrá? —pregunto en voz baja.
+—¿Cuántos años tendrá? —preguntó en voz baja.
 —Los suficientes para haber hecho algo que nadie más había hecho —dice Ferreira, también en voz baja—. El resto no importa demasiado.
 El ganador empieza a hablar. Habla bien, con la concentración de quien tiene cosas concretas que decir y no tiempo que llenar. Izquierdo escucha con la atención ambivalente de quien reconoce calidad y hubiera preferido no tener que reconocerla en alguien tan joven.
 —¿Cuántos años tenías tú cuando ganaste? —me pregunta Ferreira.
@@ -173,7 +173,7 @@ El ganador joven termina su discurso. Los aplausos son genuinos, del tipo que se
 A mi izquierda, Ferreira aplaude. Yo también aplaudo. Y en el momento en que los dos dejamos de aplaudir, los dos nos miramos, y los dos sabemos que estábamos pensando exactamente lo mismo sobre ese discurso.
 Ninguno de los dos dice nada. No hace falta.
 ***
-ANA
+[ANA]
 Izquierdo retoma el control de la conversación de la mesa en cuanto los aplausos terminan. Es un reflejo: cada vez que el foco de la sala se mueve, él lo recupera.
 —El problema de premiar a gente tan joven —dice— es que la perspectiva histórica todavía no está. El trabajo es brillante, sin duda, pero no sabemos todavía si va a resistir el tiempo o si es un resultado que en veinte años resultará haber sido un camino sin salida.
 —Eso podría decirse de cualquier trabajo en el momento en que se produce —dice Ferreira.
@@ -206,7 +206,7 @@ A mi derecha, Ferreira dice en voz muy baja, casi para sí mismo:
 Yo iba a decir exactamente eso.
 No lo digo porque él ya lo ha dicho.
 ***
-JUAN
+[JUAN]
 Izquierdo se levanta para despedirse con el ritual elaborado de quien necesita que la salida transmita exactamente la importancia que él se atribuye. Da la mano a todos con presiones diferentes, calibradas según su evaluación de cada persona. A mí me da la mano con algo más de firmeza que al principio de la noche, lo cual interpreto como que he subido en su clasificación interna, lo cual a su vez me parece una información de dudosa utilidad pero que registro igualmente.
 —Ha sido una conversación interesante —me dice, lo cual en su vocabulario es probablemente un cumplido.
 —Para mí también —digo.
@@ -215,7 +215,7 @@ La Doctora Vega y su pareja se quedan hasta el segundo café. Vega aprovecha la 
 —¿Y usted tiene algo en marcha? —le pregunta a Ana con la cortesía de quien hace la pregunta porque hay que hacerla.
 —Siempre —dice Ana.
 —¿Algo publicable?
-—Los informes de la Agencia son públicos —dice Ana—. Aunque no en formato de paper.
+—Los informes de la Agencia son públicos —dice Ana—. Aunque no en formato de papel.
 Vega sonríe, la sonrisa de quien da por hecho que hay ligas y que ella juega en otra. Luego me mira a mí.
 —¿Y usted?
 —Tengo un cliente que va a encontrar un comprador mejor para su empresa de lo que habría encontrado si no hubiera hecho bien mi trabajo —digo—. No es publicable. Pero tiene sus satisfacciones.

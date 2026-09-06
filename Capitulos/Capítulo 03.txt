@@ -12,13 +12,12 @@ Antonio guardó la carpeta.
 —¿Cómo lo sabes?
 —Porque es exactamente lo que tú me hiciste a mí en esa sala hace tres días. —Se dio la vuelta hacia el ascensor—. No me diste una opción. Me diste un cálculo que solo tenía una salida razonable. Suerte con el ministro.
 Se fue antes de que Antonio pudiera responder.
-***
 Consuelo le indicó con un gesto que podía pasar antes de que él llegara a preguntarlo.
 El despacho del ministro ocupaba la última planta de Nuevos Ministerios. Estaba de pie junto al ventanal, de espaldas a la puerta, con la Castellana extendida abajo. No se giró cuando Antonio entró.
 —He leído el borrador —dijo—. Es bueno. Eso es lo que me preocupa.
 Antonio dejó la carpeta sobre la mesa, cerrada, y no dijo nada.
 —Disponibilidad Cognitiva Estratégica. —El ministro repitió el nombre despacio, como si decirlo en voz alta lo hiciera más real—. Si esto llega a la Comisión de Justicia tal como está redactado, alguien va a preguntar por qué el Estado decide que tres personas con tutela pública pierden el derecho a no ser objeto de experimentación. Y no hay forma de que eso suene bien en un titular.
-—No va a llegar a la Comisión de Justicia —dijo Antonio—. Llega al Consejo de Ministros el viernes, con la clasificación de reservado del artículo 5 ya aplicada. Para cuando alguien pueda preguntar, ya no queda nada que preguntar.
+—No va a llegar a la Comisión de Justicia —dijo Antonio—. Llega al Consejo de ministros el viernes, con la clasificación de reservado del artículo 5 ya aplicada. Para cuando alguien pueda preguntar, ya no queda nada que preguntar.
 El ministro se giró por fin.
 —Eso no es una garantía. Es una apuesta.
 —Es la misma apuesta que usted ya hizo hace catorce meses, cuando autorizó que el proyecto empezara a construirse —dijo Antonio—. Esto solo decide si lo hacemos con cobertura legal o sin ella.
@@ -33,24 +32,22 @@ El ministro se quedó callado un momento largo. Cuando habló, ya no tenía la c
 —Lo entiendo —dijo Antonio.
 —No estoy seguro de que lo entienda —dijo el ministro—. Pero ya está decidido.
 Recogió las tres hojas, las alineó sin necesidad, y las devolvió a la carpeta.
-Antonio salió al pasillo. 
-Consuelo levantó la vista de su monitor y le dedicó una sonrisa breve. Antonio le devolvió el gesto y cruzó el vestíbulo. 
-***
-El ruido del tráfico de Madrid, que antes le parecía una interferencia lejana, se filtró ahora por las cristaleras del edificio.
-Descendió en el ascensor hasta el garaje subterráneo. Mientras caminaba hacia su vehículo, el eco de sus pasos contra el hormigón era el único sonido en la penumbra.
-Se subió al coche y no arrancó de inmediato. Se quedó mirando el volante, con las manos apoyadas en el cuero. No sentía el triunfo ni la punzada de la culpa.
-Solo sentía una claridad técnica, la misma que experimenta un ingeniero al terminar de trazar los planos de una presa. El decreto era una pieza de hormigón legal; los sujetos de la Planta 42, los cimientos; y el Ministro, la compuerta que acababa de abrir.
+Antonio salió al pasillo. Consuelo levantó la vista de su monitor y le dedicó una sonrisa breve. Antonio le devolvió el gesto.
+Antonio cruzó el vestíbulo. El ruido del tráfico de Madrid, que antes le parecía una interferencia lejana, se filtró ahora por las cristaleras del edificio. Descendió en el ascensor hasta el garaje subterráneo. Mientras caminaba hacia su vehículo, el eco de sus pasos contra el hormigón era el único sonido en la penumbra.
+Se subió al coche y no arrancó de inmediato. Se quedó mirando el volante, con las manos apoyadas en el cuero. No sentía el triunfo ni la punzada de la culpa. Solo sentía una claridad técnica, la misma que experimenta un ingeniero al terminar de trazar los planos de una presa. El decreto era una pieza de hormigón legal; los sujetos de la Planta 42, los cimientos; y el ministro, la compuerta que acababa de abrir.
 Al salir a la calle, la luz de la tarde de Madrid le golpeó de lleno, pero él apenas parpadeó. La ciudad se movía ajena a lo que acababa de suceder en la última planta del Ministerio. Miles de personas cruzaban los pasos de cebra, ajenas a que el Estado acababa de reclamar la propiedad última sobre la conciencia de tres de sus ciudadanos más brillantes.
 Antonio se incorporó al flujo del tráfico, fundiéndose con el caos urbano. Era un ciudadano más circulando por la Castellana, oculto a plena vista, mientras el engranaje que acababa de poner en marcha empezaba a girar en la oscuridad de la Planta 42.
 ***
-BOLETÍN OFICIAL DEL ESTADO Año CXLV | Madrid, sábado 3 de junio de 2023| Núm. 135
-I. DISPOSICIONES GENERALES JEFATURA DEL ESTADO
-10243 Real Decreto-Ley 8/2023, de 2 de junio, de medidas urgentes para la preservación del patrimonio cognitivo estratégico y la continuidad funcional de los servicios esenciales.
+BOLETÍN OFICIAL DEL ESTADO Año CXLV
+Madrid, sábado 3 de junio de 2023| Núm. 135
+DISPOSICIONES GENERALES JEFATURA DEL ESTADO
+10243 real Decreto-Ley 8/2023, de 2 de junio, de medidas urgentes para la preservación del patrimonio cognitivo estratégico y la continuidad funcional de los servicios esenciales.
 EXPOSICIÓN DE MOTIVOS
 I. La evolución demográfica de la nación, unida al incremento sostenido de patologías neurodegenerativas, ha generado una vulnerabilidad inédita. La pérdida acelerada de capacidades en personas que acumulan conocimientos críticos supone un riesgo objetivo para la estabilidad de infraestructuras vitales y procesos de interés general.
 II. La Ley 8/2021 establece el respeto a la voluntad de las personas que precisan apoyos. No obstante, la concurrencia de un interés público especialmente cualificado exige la articulación de instrumentos excepcionales. La mera conservación pasiva del individuo puede resultar incompatible con la preservación de activos de conocimiento cuya desaparición ocasionaría perjuicios irreparables para la colectividad.
 III. Resulta necesario habilitar un marco singular que permita la adopción de medidas avanzadas de restauración e integración funcional. Dichas actuaciones se orientarán a garantizar la continuidad del conocimiento mediante sistemas autónomos de asistencia cognitiva y arquitecturas sintéticas.
-En virtud de lo dispuesto en el artículo 86 de la Constitución, DISPONGO:
+En virtud de lo dispuesto en el artículo 86 de la Constitución,
+DISPONGO:
 Artículo 1. Objeto y ámbito de aplicación. El presente Real Decreto-Ley regula el régimen especial de Disponibilidad Cognitiva Estratégica (DCE), aplicable a personas mayores de edad que: a) Presenten deterioro neurodegenerativo avanzado certificado por evaluación clínica multidisciplinar. b) Carezcan de apoyos familiares efectivos para la toma de decisiones complejas. c) Sean titulares de conocimientos declarados de interés estratégico.
 Artículo 2. Declaración de Interés Cognitivo Estratégico. La declaración corresponderá a una Comisión Interministerial mediante expediente reservado. La entidad pública responsable podrá ejercer facultades representativas reforzadas para la incorporación del sujeto a programas de integración funcional, entendiendo que dichas actuaciones responden al interés prevalente de protección del patrimonio cognitivo nacional.
 Artículo 3. Protocolos de Continuidad Cognitiva. Los sujetos bajo régimen de DCE podrán ser incorporados a programas de transferencia de conocimiento especializado a sistemas de soporte neurodigital e integración en entornos sintéticos.
@@ -63,7 +60,7 @@ Antonio entró en el despacho de Inés sin llamar. Ella tenía la pantalla abier
 —El BOE ya está publicado —dijo Antonio.
 —Lo sé. Lo leí a las seis. —Inés no levantó la vista—. El artículo 5 cubre la trazabilidad documental. El artículo 2 cubre la declaración de interés estratégico. Entre los dos, tengo cobertura legal para reclasificar lo que ya estaba gastado.
 —¿Reclasificar?
-—Los sesenta y cuatro millones de la Planta 42 llevan semanas bajo la partida genérica de investigación biomédica, sin ningún decreto que los respaldara. Hasta esta mañana, ese dinero tenía discreción, no cobertura legal. A partir de hoy lo muevo a la partida reservada que crea el decreto, con fecha de hoy. —Giró la pantalla hacia él—. Documentación reservada, artículo 5. El rastro queda limpio desde este momento hacia delante. Lo de antes del decreto se queda donde estaba: sin explicación, porque nunca debió necesitarla.
+—Los sesenta y cuatro millones de la Planta 42 llevan semanas bajo la partida genérica de investigación biomédica, sin ningún decreto que los respaldara. Hasta esta mañana, ese dinero tenía discreción, no cobertura legal. A partir de hoy lo muevo a la partida reservada que crea el decreto, con fecha de hoy. —Giró la pantalla hacia él—. Documentación reservada, artículo 5. El rastro queda limpio desde este momento hacia delante. Lo anterior al decreto se queda dónde estaba, sin explicación, porque nunca debió necesitarla.
 Antonio no dijo nada. Esperó.
 —Lo que falta por comprometer es la infraestructura del entorno virtual y el módulo compartido —siguió Inés—. Eso lo autorizo hoy, desde el primer euro, con cargo a la nueva partida. Y voy a abrir un fondo de contingencia aparte. Sin asignar todavía.
 —¿Para qué?

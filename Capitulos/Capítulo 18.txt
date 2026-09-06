@@ -65,7 +65,7 @@ El representante de la confederación miró al asesor. El asesor lo miró a él.
 El modelo del Segura llevaba ya un tiempo en construcción y era el más complejo que la unidad había desarrollado en los últimos años. Ciento cuarenta y siete variables de entrada, cinco criterios de prioridad que tenían que resolverse de forma secuencial, y un sistema de actualización automática que incorporaba los datos de precipitación de Aemet cada cuarenta y ocho horas. Era el modelo que determinaría los criterios de asignación hídrica en la cuenca durante los próximos cinco años de planificación hidrológica.
 Ana llevaba ya un tiempo revisando el bloque de variables cuarenta a sesenta, que era el que gestionaba la competencia entre riego y abastecimiento urbano en los municipios del área metropolitana de Murcia. Era el bloque más sensible del modelo porque afectaba a seiscientas mil personas directamente y a tres comunidades de regantes con concesiones antiguas que tenían prioridad legal sobre las necesidades urbanas en caso de escasez grave. Calibrar ese bloque era, a la vez, un problema técnico, legal y político que la Agencia llevaba dos legislaturas sin resolver.
 Esa mañana Ana había llegado a la variable cincuenta y tres, que era el coeficiente de elasticidad de la demanda urbana ante restricciones temporales, y se había detenido.
-El valor que tenía en la pantalla era cero punto cuarenta y uno. Ella lo había puesto. Estaba en el historial de cambios, con su nombre y una fecha reciente.
+El valor que tenía en la pantalla era cero puntos cuarenta y uno. Ella lo había puesto. Estaba en el historial de cambios, con su nombre y una fecha reciente.
 No recordaba haberlo puesto.
 No era que el número fuera incorrecto. Lo miró, revisó la justificación técnica en la columna lateral, comparó con los datos de referencia de estudios de elasticidad de demanda urbana de la literatura especializada. Cero punto cuarenta y uno era el valor correcto para un área metropolitana de esas características en un escenario de restricción moderada. Era exactamente lo que ella habría calculado si se lo hubieran preguntado en ese momento.
 Lo que no encontraba era el camino que había seguido para llegar a ese número.
@@ -75,7 +75,7 @@ Ana miró la variable cincuenta y tres una vez más. Luego cerró esa pantalla y
 —Dame los datos de diciembre de los últimos diez años para la cuenca alta —dijo—. Necesito ver si la desviación de este año está dentro de la variabilidad histórica o es un dato atípico.
 —¿Los quieres para hoy?
 —Para esta tarde.
-Rodrigo salió. Ana volvió a abrir la pantalla de la variable cincuenta y tres. El valor seguía siendo cero punto cuarenta y uno. El historial seguía diciendo lo mismo: su nombre, la fecha.
+Rodrigo salió. Ana volvió a abrir la pantalla de la variable cincuenta y tres. El valor seguía siendo cero puntos cuarenta y uno. El historial seguía diciendo lo mismo: su nombre, la fecha.
 Lo cerró y pasó a la variable cincuenta y cuatro.
 ***
 El proyecto con la Autoridad Bancaria Europea tenía tres fases y un plazo de seis meses. Juan había diseñado la estructura completa en una reunión de dos horas con el representante de Frankfurt en la que el representante había hecho las preguntas y Juan había respondido con las fases, los recursos necesarios, los riesgos de cada tramo y los criterios de éxito. Al final de la reunión el representante había preguntado cuándo podían empezar. Juan había dicho: el lunes.
